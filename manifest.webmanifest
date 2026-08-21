@@ -1,0 +1,22 @@
+{
+  "name": "Meeting Floor — 英語会議 発言トレーニング",
+  "short_name": "Meeting Floor",
+  "description": "外資系の英語会議で数秒で言葉を出すための発言トレーニング。カード学習・瞬発テスト・置換ドリル。",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9ECE7",
+  "theme_color": "#151C22",
+  "categories": ["education", "productivity"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "今日の復習", "short_name": "復習", "url": "./index.html?view=review" }
+  ]
+}
