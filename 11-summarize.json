@@ -1,0 +1,624 @@
+{
+"Let me summarize where we are.": {
+ "t": "現時点の状況を整理します。",
+ "tn": "議論が発散したときに主導権を取れる型です。まとめる人が、その場の結論を書くことになります。",
+ "s": [
+  ["Let me summarize", "Let + me + 原形 summarize。"],
+  ["where we are", "疑問詞 where が導く名詞節が目的語。「我々がいまどこにいるか」＝現在の状況。"]
+ ],
+ "sn": "間接疑問の語順です（where we are であって where are we ではありません）。文中に埋め込まれるときは平叙文の語順になります。",
+ "v": [
+  ["summarize", "要約する。英国式の綴りは summarise で、どちらも正しい綴りです。"],
+  ["where we are", "物理的な場所ではなく、議論や進捗の到達点を指します。Where are we on this?（この件はどこまで進んでいますか）も同じ用法です。"],
+  ["let me", "宣言として機能し、発言権を取ります。"]
+ ],
+ "n": [
+  ["Let me summarize where we are.", "現状を整理する。主導権を取れます。"],
+  ["Let me recap.", "振り返る。既に話した内容の確認です。"],
+  ["Where are we on this?", "どこまで進んだかを問う。相手に整理を求めます。"],
+  ["Let me take stock.", "棚卸しする。やや硬く、全体を見渡す含みです。"]
+ ],
+ "e": [
+  ["Let me summarize where we are: we agree on the problem, we have two candidate fixes, and we have not decided who owns it.", "現状を整理します。問題認識は一致、対策候補が2つ、担当は未決です。"],
+  ["Let me summarize where we are before we run out of time.", "時間切れになる前に、現状を整理します。"]
+ ],
+ "p": [
+  ["Let me summarize where we are: [現状].", ["Let me summarize where we are: three of the five workstreams are on track.", "Let me summarize where we are: the data is in, the analysis is not."]],
+  ["Let me [summarize / recap] [対象].", ["Let me recap the three decisions we just made.", "Let me summarize the open points before we close."]]
+ ],
+ "k": [
+  "間接疑問は平叙文の語順（where we are）。",
+  "where we are は進捗や到達点を指す。",
+  "まとめる人が結論を書くことになる。発言権を取る実用的な型。"
+ ]
+},
+"So we have three open points.": {
+ "t": "未決の論点は3つあります。",
+ "tn": "open points は外資の定番語です。数を先に言ってから列挙します。",
+ "s": [
+  ["So we have", "so が「つまり」として、整理に入る合図になります。"],
+  ["three open points", "目的語。open が「未決の」を意味する形容詞として points を修飾しています。"]
+ ],
+ "v": [
+  ["open", "ここでは「開いたまま＝未決の」。an open question（未決の問い）、an open item（未処理の項目）。閉じる（close）と対です。"],
+  ["point", "論点。open point / action point / discussion point のように複合で使われます。"],
+  ["so", "整理や結論に移る合図。"]
+ ],
+ "n": [
+  ["open point", "未決の論点。議論が残っている状態。"],
+  ["action item", "やるべきこと。担当と期限が付きます。"],
+  ["parking lot", "いったん脇に置いた論点。後で戻る前提です。"],
+  ["decision", "決定事項。すでに決まったもの。"]
+ ],
+ "nn": "open point と action item は別物です。前者は「まだ議論が必要」、後者は「やることが決まっていて実行が必要」。会議の締めでは分けて扱います。",
+ "e": [
+  ["So we have three open points: the budget owner, the start date, and whether legal needs to review.", "未決の論点は3つです。予算の担当、開始日、法務レビューの要否です。"],
+  ["So we have two open points and one action item.", "未決の論点が2つ、実行事項が1つです。"]
+ ],
+ "p": [
+  ["So we have [n] open points.", ["So we have two open points.", "So we have four open points and no owner for any of them."]],
+  ["[n] open points: [列挙].", ["Two open points: the definition and the deadline.", "Three open points, and I'd suggest we close the first one today."]]
+ ],
+ "k": [
+  "open は「未決の」。close と対で使う。",
+  "open point（議論が必要）と action item（実行が必要）は別。",
+  "数を先に言ってから列挙する。"
+ ]
+},
+"Where we agree is the diagnosis; where we differ is the fix.": {
+ "t": "診断については一致していて、対策で見解が分かれています。",
+ "tn": "対立を構造化して見せる型です。感情的な議論を、論点の差に還元できます。",
+ "s": [
+  ["Where we agree is the diagnosis;", "関係副詞 where が導く名詞節が主語。「我々が一致しているところ」。"],
+  ["where we differ is the fix", "同じ形の繰り返し。セミコロンで対の関係を示しています。"]
+ ],
+ "sn": "同じ構文を2回繰り返すことで、対比が構造として耳に残ります。セミコロンは、接続詞なしで対等な2文を結ぶ記号です。",
+ "v": [
+  ["agree / differ", "一致する・異なる。どちらも自動詞で、対象を示すときは agree on A、differ on A と on を取ります。"],
+  ["diagnosis", "診断。問題が何かの特定。"],
+  ["fix", "対策・修正。remedy とほぼ同義で、fix の方が口語的です。"]
+ ],
+ "n": [
+  ["Where we agree is ...; where we differ is ...", "一致点と相違点を構造で示す。最も明確。"],
+  ["We agree on X but not on Y.", "同じ内容をより短く言う形です。"],
+  ["The gap between us is ...", "隔たりを名指しする。やや対立的です。"],
+  ["We're closer than it sounds.", "見かけより近い。歩み寄りを示します。"]
+ ],
+ "e": [
+  ["Where we agree is the diagnosis; where we differ is the fix. We both see a capability gap; we disagree on whether to train or hire.", "診断は一致し、対策で分かれています。双方とも能力不足と見ていますが、育成か採用かで異なります。"],
+  ["Where we agree is the target; where we differ is the timeline.", "目標については一致し、日程で見解が分かれています。"]
+ ],
+ "p": [
+  ["Where we agree is [X]; where we differ is [Y].", ["Where we agree is the problem; where we differ is the priority.", "Where we agree is the direction; where we differ is the pace."]],
+  ["We agree on [X]. The open question is [Y].", ["We agree on scope. The open question is who pays.", "We agree the pilot worked. The open question is whether it scales."]]
+ ],
+ "k": [
+  "同じ構文を2回繰り返すと、対比が構造として伝わる。",
+  "agree on / differ on。どちらも前置詞は on。",
+  "対立を論点の差に還元すると、感情が抜ける。"
+ ]
+},
+"To recap, we decided to pilot in one region.": {
+ "t": "振り返ると、1地域でパイロットを行うと決めました。",
+ "tn": "会議の最後の定番です。決定事項を口に出すと、後の認識ずれが大きく減ります。",
+ "s": [
+  ["To recap,", "目的を表す不定詞句の前置き。「要約すると」。"],
+  ["we decided to pilot in one region", "decide to + 原形。pilot が動詞として使われています。"]
+ ],
+ "v": [
+  ["recap", "recapitulate の短縮形。要点を繰り返すこと。名詞でも動詞でも使えます（a quick recap / let me recap）。"],
+  ["decide to do", "〜することに決める。decide on A（Aに決める）は選択肢から選ぶ場合です。"],
+  ["pilot", "動詞で「試験導入する」。"]
+ ],
+ "n": [
+  ["To recap, ...", "要約の前置き。会議の締めに最も合います。"],
+  ["To summarize, ...", "ほぼ同義。ややかたい言い方です。"],
+  ["So, where we landed is ...", "着地点を述べる。結論に焦点があります。"],
+  ["For the record, ...", "記録のために。議事録を意識した言い方です。"]
+ ],
+ "e": [
+  ["To recap, we decided to pilot in one region, starting in May, with a review after eight weeks.", "振り返ると、5月開始で1地域のパイロットを行い、8週間後に見直すと決めました。"],
+  ["To recap, we decided not to change the structure this year and to revisit after the merger.", "振り返ると、今年は構造を変えず、合併後に再検討すると決めました。"]
+ ],
+ "p": [
+  ["To recap, we decided [決定事項].", ["To recap, we decided to postpone the launch to July.", "To recap, we decided that HR owns the communication."]],
+  ["To recap: [決定1], [決定2], and [未決事項].", ["To recap: we proceed with option B, Kenji owns it, and the budget question stays open.", "To recap: pilot in Osaka, review in eight weeks, decision in September."]]
+ ],
+ "k": [
+  "recap は recapitulate の短縮。名詞でも動詞でも使える。",
+  "decide to do（行為）/ decide on A（選択肢から選ぶ）。",
+  "決定事項を口に出すと、後の認識ずれが減る。"
+ ]
+},
+"The headline is: the problem is retention, not acquisition.": {
+ "t": "要点は、問題が獲得ではなくリテンションだということです。",
+ "tn": "資料のアクションタイトルと同じ発想です。一文で言えるまで削ります。",
+ "s": [
+  ["The headline is:", "S + be + コロン。コロンの後に中身が来る提示形です。"],
+  ["the problem is retention, not acquisition", "S + be + C。カンマ + not の対比で、誤解されやすい方を後ろに置いています。"]
+ ],
+ "v": [
+  ["headline", "新聞の見出し。そこから「一行で言える要旨」へ。コンサルの資料では、スライドの見出しに結論を書く作法（アクションタイトル）と同じ考え方です。"],
+  ["retention", "定着・継続。既存の顧客や社員を保つこと。"],
+  ["acquisition", "獲得。新しい顧客や社員を得ること。retention と対で使います。"]
+ ],
+ "n": [
+  ["The headline is ...", "一行の要旨。最初に出します。"],
+  ["The bottom line is ...", "差し引き後に残る一点。判断に直結します。"],
+  ["The takeaway is ...", "持ち帰るべき点。締めに向きます。"],
+  ["If you remember one thing ...", "記憶に残す狙いを明示します。"]
+ ],
+ "nn": "headline は「最初に出す要旨」、bottom line は「最終的に効く一点」、takeaway は「持ち帰るべき点」。順序や場面が少しずつ違いますが、重なる部分も大きい語群です。",
+ "e": [
+  ["The headline is: the problem is retention, not acquisition. We hire enough people; we lose them in year one.", "要点は、問題が獲得ではなく定着だということです。採用はできていますが、1年目で失っています。"],
+  ["The headline is: this is a capability gap, not a headcount gap.", "要点は、これが人数ではなく能力の不足だということです。"]
+ ],
+ "p": [
+  ["The headline is: [要旨].", ["The headline is: we are solving the wrong problem.", "The headline is: the savings are real, but they land in year two."]],
+  ["The headline is: [A], not [B].", ["The headline is: a process issue, not a people issue.", "The headline is: timing, not strategy."]]
+ ],
+ "k": [
+  "headline は「一行で言える要旨」。資料のアクションタイトルと同じ発想。",
+  "retention と acquisition は対の語。",
+  "A, not B の形で、誤解されやすい方を打ち消せる。"
+ ]
+},
+"Let me put the discussion in a simple structure.": {
+ "t": "議論をシンプルな構造に整理します。",
+ "tn": "MECEな枠を口頭で提示する型です。ホワイトボードがなくても構造を共有できます。",
+ "s": [
+  ["Let me put the discussion", "Let + me + 原形 put。put A in B で「AをBの中に置く」。"],
+  ["in a simple structure", "in が「どの枠の中に」を示します。"]
+ ],
+ "v": [
+  ["put ~ in ~", "置く。put it in context（文脈に置く）、put it in writing（書面にする）と同じ型です。"],
+  ["structure", "構造・枠組み。a simple structure、a two-by-two（2×2のマトリクス）。"],
+  ["simple", "単純な。ここでは「分かりやすい」の意味で、内容が浅いという含みはありません。"]
+ ],
+ "n": [
+  ["Let me put this in a simple structure.", "枠を提示する。口頭で構造を共有できます。"],
+  ["Let me frame this.", "枠づける。論点の定義まで含みます。"],
+  ["There are two axes here.", "2つの軸がある。より具体的です。"],
+  ["Let me break this into three buckets.", "3つに分ける。bucket は区分の口語表現です。"]
+ ],
+ "e": [
+  ["Let me put the discussion in a simple structure: what we know, what we assume, and what we need to find out.", "議論をシンプルな構造に整理します。分かっていること、仮定していること、これから確かめることの3つです。"],
+  ["Let me put this in a simple structure — two decisions today, one next month.", "シンプルに整理します。本日の決定が2件、来月が1件です。"]
+ ],
+ "p": [
+  ["Let me put [対象] in a simple structure.", ["Let me put the options in a simple structure.", "Let me put the risks in a simple structure."]],
+  ["Let me break this into [n] [buckets / parts]: [列挙].", ["Let me break this into three buckets: cost, capability, and timing.", "Let me split this into two parts: what we control and what we don't."]]
+ ],
+ "k": [
+  "put A in B は「AをBの枠の中に置く」。",
+  "bucket は「区分」の口語表現。three buckets で3つに分ける。",
+  "口頭で構造を示すと、資料がなくても議論が整う。"
+ ]
+},
+"Are we aligned on that?": {
+ "t": "その点は認識が揃っていますか。",
+ "tn": "合意を明示的に取りに行く型です。頷きだけで進めると、後で崩れます。",
+ "s": [
+  ["Are we aligned", "be動詞の疑問文。aligned は「揃っている」状態を表します。"],
+  ["on that?", "on が論点を示します。"]
+ ],
+ "v": [
+  ["be aligned on ~", "on が「何について」を示します。align のコアイメージは「一直線に並べる」。"],
+  ["we", "主語を we にすることで、全員への確認になります。"],
+  ["that", "直前の論点を指します。"]
+ ],
+ "n": [
+  ["Are we aligned on that?", "認識の一致を確認する。中立です。"],
+  ["Are we all comfortable with that?", "全員が納得しているか。主観に焦点があります。"],
+  ["Any objections?", "異論はあるか。やや形式的です。"],
+  ["Can I take that as agreed?", "合意として扱ってよいか。最も明確です。"]
+ ],
+ "nn": "Any objections? は沈黙を同意とみなす聞き方なので、反対しにくい場では機能しないことがあります。Can I take that as agreed? の方が、合意を明示的に残せます。",
+ "e": [
+  ["Are we aligned on that? If so, I'll write it up as a decision.", "その点は認識が揃っていますか。揃っていれば、決定事項として記録します。"],
+  ["Are we aligned on scope, or is that still open?", "範囲について認識は揃っていますか、それともまだ未決でしょうか。"]
+ ],
+ "p": [
+  ["Are we aligned on [論点]?", ["Are we aligned on the definition?", "Are we aligned on who owns it?"]],
+  ["Are we aligned on [論点]? [次の行動].", ["Are we aligned on that? Then I'll capture it as a decision.", "Can I take that as agreed? I'll send the note this afternoon."]]
+ ],
+ "k": [
+  "be aligned on ~。前置詞は on。",
+  "頷きだけで進めず、言葉で合意を取る。",
+  "Can I take that as agreed? は合意を明示的に残せる。"
+ ]
+},
+"Two decisions and one open question came out of this.": {
+ "t": "この議論から決定2つと未決1つが出ました。",
+ "tn": "会議の成果を数で示す型です。議事録を書く前提での締め方として強い言い方になります。",
+ "s": [
+  ["Two decisions and one open question", "複数の主語。and で結ばれているので動詞は複数形に対応しますが、came は過去形で形が変わりません。"],
+  ["came out of this", "come out of A で「Aから出てくる」。"]
+ ],
+ "v": [
+  ["come out of ~", "out of が「中から外へ」。議論の中から成果が出てくる、というイメージです。"],
+  ["decision", "決定事項。"],
+  ["open question", "未決の問い。"]
+ ],
+ "n": [
+  ["decisions / open questions", "決定と未決。会議の成果を分ける基本の2区分。"],
+  ["actions / owners", "実行事項と担当者。次に何が起きるかを示します。"],
+  ["agreements / disagreements", "合意と不一致。立場の整理です。"],
+  ["outputs / next steps", "成果物と次の段取り。より実務的です。"]
+ ],
+ "e": [
+  ["Two decisions and one open question came out of this: we proceed with option B, Kenji owns the rollout, and the budget source is still open.", "この議論から決定2つと未決1つが出ました。案Bで進める、横田が展開を担う、予算の出どころは未決です。"],
+  ["Three decisions and no open questions came out of this — unusual for us.", "この議論から決定3件、未決なしで出ました。珍しいことです。"]
+ ],
+ "p": [
+  ["[N] decisions and [n] open question(s) came out of this.", ["Two decisions and three open questions came out of this.", "One decision and two actions came out of this."]],
+  ["[数で締める]: [列挙].", ["Three decisions, two owners, one open question.", "Two actions, both due Friday, both owned by the delivery team."]]
+ ],
+ "k": [
+  "come out of ~ は「議論の中から成果が出る」。",
+  "決定・未決・実行事項を分けて数える。",
+  "数で締めると、議事録の骨格がその場でできる。"
+ ]
+},
+"Let me play back what I heard.": {
+ "t": "伺った内容を整理して返します。",
+ "tn": "議論の途中で認識を固定する型です。まとめる人が論点を握れます。",
+ "s": [
+  ["Let me play back", "Let + me + 原形。play back は録音の再生が原義です。"],
+  ["what I heard", "疑問詞 what が導く名詞節。「私が聞いたこと」。"]
+ ],
+ "v": [
+  ["play back", "再生する、から「聞いた内容を返す」。"],
+  ["what I heard", "関係代名詞の what。自分が聞き取った範囲に限定されるため、間違っていても訂正を受けやすい形です。"],
+  ["hear", "聞く。listen（意識して聞く）と違い、hear は耳に入ること全般を指します。"]
+ ],
+ "n": [
+  ["Let me play back what I heard.", "聞いた内容を返す。訂正を受けやすい形です。"],
+  ["Let me summarize.", "要約する。自分の整理として示します。"],
+  ["So what I'm hearing is ...", "聞き取った内容は。進行形で、いまこの場での理解を示します。"],
+  ["Correct me if I'm wrong, but ...", "違っていたら直してほしい。訂正を促します。"]
+ ],
+ "nn": "what I heard とすることで、「私はこう聞き取った」という限定が入ります。誤解があった場合に訂正されやすく、相手も否定しやすくなります。",
+ "e": [
+  ["Let me play back what I heard: scope is fixed, the deadline can move by two weeks, and the fee stays the same.", "伺った内容を整理します。範囲は固定、期日は2週間まで調整可、費用は変更なし、ですね。"],
+  ["Let me play back what I heard before we move on, so we don't carry a misunderstanding forward.", "誤解を先に持ち越さないよう、次に進む前に伺った内容を整理します。"]
+ ],
+ "p": [
+  ["Let me play back what I heard: [要約].", ["Let me play back what I heard: three constraints and one preference.", "Let me play back what I heard: you want speed, and you'll accept a rough answer."]],
+  ["So what I'm hearing is [理解]. [確認].", ["So what I'm hearing is that cost is secondary. Is that right?", "What I'm hearing is two different concerns. Let me separate them."]]
+ ],
+ "k": [
+  "what I heard とすると、誤解があっても訂正を受けやすい。",
+  "途中で認識を固定すると、論点を握れる。",
+  "hear（耳に入る）と listen（意識して聞く）は別。"
+ ]
+},
+"We've covered three things so far.": {
+ "t": "ここまでで3点を扱いました。",
+ "tn": "進行状況を可視化する型です。残り時間の配分も同時に示せます。",
+ "s": [
+  ["We've covered three things", "現在完了形。過去から現在までに済ませたことを表します。"],
+  ["so far", "これまでのところ。完了形と相性のよい副詞句です。"]
+ ],
+ "v": [
+  ["cover", "覆う、から「扱う・網羅する」。cover a topic / cover the agenda。資料について cover a slide とも言います。"],
+  ["so far", "これまでのところ。完了形とともに使い、「まだ続きがある」という含みが出ます。"],
+  ["three things", "数を明示。進捗が分かります。"]
+ ],
+ "n": [
+  ["We've covered three things so far.", "進捗を数で示す。中立です。"],
+  ["We're about halfway through.", "半分ほど進んだ。割合で示します。"],
+  ["Two items left on the agenda.", "残りの項目数。残量に焦点があります。"],
+  ["We have twenty minutes and two topics.", "時間と項目を並べる。配分の判断を促します。"]
+ ],
+ "e": [
+  ["We've covered three things so far: the diagnosis, the options, and the cost. Two left — the timeline and the owner.", "ここまでで3点、診断・選択肢・費用を扱いました。残りは日程と担当の2点です。"],
+  ["We've covered three things so far, and we have fifteen minutes for the remaining two.", "ここまでで3点を扱いました。残り2点に15分あります。"]
+ ],
+ "p": [
+  ["We've covered [n] things so far.", ["We've covered two of the four items so far.", "We've covered the hard part so far."]],
+  ["We've covered [済んだ分]. [残り] left, and [残り時間].", ["We've covered the analysis. The recommendation is left, and we have ten minutes.", "Two items left on the agenda and twenty minutes to go."]]
+ ],
+ "k": [
+  "so far は完了形とともに使う。「まだ続きがある」含み。",
+  "cover は「扱う・網羅する」。",
+  "進捗と残り時間を並べると、配分の判断を促せる。"
+ ]
+},
+"The disagreement comes down to one assumption.": {
+ "t": "意見の相違は1つの前提に集約されます。",
+ "tn": "対立を1点に還元する型です。決着のつけ方が見えてきます。",
+ "s": [
+  ["The disagreement comes down to ~", "come down to A で「結局Aに行き着く」。"],
+  ["one assumption", "to の目的語。one が「たった1つ」と絞っています。"]
+ ],
+ "v": [
+  ["come down to ~", "下りてきて最後にそこに至る、というイメージ。「結局〜の問題だ」。It comes down to cost.（結局は費用の問題だ）。boil down to もほぼ同義です。"],
+  ["disagreement", "意見の相違。dis-（否定）+ agreement。"],
+  ["assumption", "前提。検証していないが置いているもの。"]
+ ],
+ "n": [
+  ["come down to ~", "結局〜に行き着く。還元の表現。"],
+  ["boil down to ~", "煮詰めると〜になる。ほぼ同義で、やや口語的です。"],
+  ["hinge on ~", "〜にかかっている。1点への依存を強調します。"],
+  ["turn on ~", "〜次第で決まる。法律・論理の文脈で使われます。"]
+ ],
+ "nn": "come down to と boil down to はほぼ交換できます。hinge on は「蝶番のように1点で決まる」という比喩で、依存の強さをより強調します。",
+ "e": [
+  ["The disagreement comes down to one assumption: whether the pilot team is representative.", "意見の相違は1つの前提に集約されます。パイロットのチームが代表性を持つかどうかです。"],
+  ["The whole debate boils down to whether we believe the adoption curve.", "議論全体は、導入カーブを信じるかどうかに集約されます。"]
+ ],
+ "p": [
+  ["The disagreement comes down to [一点].", ["The disagreement comes down to the discount rate.", "The disagreement comes down to who bears the risk."]],
+  ["It comes down to [一点]. If [A], then [X]. If [B], then [Y].", ["It comes down to timing. If we start in April, option A. If July, option B.", "It boils down to one number. If churn is under 10%, the case holds."]]
+ ],
+ "k": [
+  "come down to / boil down to は「結局〜に行き着く」。",
+  "対立を1点に還元すると、決着のつけ方が見える。",
+  "還元した後は、その一点をどう検証するかを示す。"
+ ]
+},
+"Let me separate the decisions from the discussion points.": {
+ "t": "決定事項と論点を分けて整理します。",
+ "tn": "会議の成果を明確にする型です。議事録の骨格をその場で作れます。",
+ "s": [
+  ["Let me separate A from B", "separate A from B で「AをBから分ける」。前置詞は from です。"],
+  ["the decisions / the discussion points", "どちらも定冠詞つきで、この会議で出たものを特定しています。"]
+ ],
+ "v": [
+  ["separate A from B", "from が「〜から引き離す」ことを示します。"],
+  ["decision", "決定事項。もう議論しないもの。"],
+  ["discussion point", "議論すべき点。まだ結論が出ていないもの。"]
+ ],
+ "n": [
+  ["decisions", "決まったこと。議論を再開しません。"],
+  ["discussion points", "これから議論する点。"],
+  ["actions", "実行すること。担当と期限が付きます。"],
+  ["information items", "共有のみの項目。判断を求めません。"]
+ ],
+ "nn": "会議の項目をこの4つに分けると、何にどれだけ時間を使うべきかが明確になります。information item に議論の時間を使ってしまうのが、会議が長引く典型的な原因です。",
+ "e": [
+  ["Let me separate the decisions from the discussion points, so the note is clear tomorrow.", "決定事項と論点を分けて整理します。明日の議事録が明確になるように。"],
+  ["Let me separate what we decided from what we merely discussed — those are different things.", "決めたことと、ただ議論しただけのことを分けます。両者は別物です。"]
+ ],
+ "p": [
+  ["Let me separate [A] from [B].", ["Let me separate the facts from the interpretation.", "Let me separate what we control from what we don't."]],
+  ["Decisions: [列挙]. Discussion points: [列挙].", ["Decisions: option B, May start. Discussion points: budget source, review cadence.", "Decided: we pilot. Open: where, and who leads it."]]
+ ],
+ "k": [
+  "separate A from B。前置詞は from。",
+  "decisions / discussion points / actions / information items に分けると会議が整う。",
+  "決めたことと議論しただけのことを混ぜない。"
+ ]
+},
+"Have I missed anything important?": {
+ "t": "重要な点で漏れはありますか。",
+ "tn": "要約の締めです。抜けを相手に補ってもらえます。",
+ "s": [
+  ["Have I missed", "現在完了形の疑問文。「これまでに見落としたか」。"],
+  ["anything important?", "目的語。anything を形容詞 important が後ろから修飾しています。"]
+ ],
+ "sn": "anything、something、nothing は形容詞が後ろから修飾します（something new、anything else、nothing important）。語順を間違えやすいところです。",
+ "v": [
+  ["miss", "見落とす・取り逃す。"],
+  ["anything", "疑問文・否定文で使う不定代名詞。肯定文では something を使います。"],
+  ["important", "重要な。anything important で「重要なもので何か」。"]
+ ],
+ "n": [
+  ["Have I missed anything?", "漏れを問う。最も一般的。"],
+  ["Anything I've left out?", "ほぼ同義。より口語的です。"],
+  ["Does that cover it?", "それで網羅できているか。短い確認です。"],
+  ["What am I not seeing?", "見えていないものは何か。より深い問いです。"]
+ ],
+ "e": [
+  ["Have I missed anything important before I write this up?", "議事録にまとめる前に、重要な点で漏れはありますか。"],
+  ["Have I missed anything important? If not, I'll send the summary this afternoon.", "重要な点で漏れはありますか。なければ午後に要約をお送りします。"]
+ ],
+ "p": [
+  ["Have I missed anything important before [次の行動]?", ["Have I missed anything important before we close?", "Have I missed anything before I send this to the client?"]],
+  ["[漏れの確認]? [次の行動].", ["Does that cover it? I'll circulate the note by six.", "Anything I've left out? Otherwise we're done."]]
+ ],
+ "k": [
+  "anything / something / nothing は形容詞が後ろから修飾する。",
+  "要約の後に漏れを問うと、抜けを補ってもらえる。",
+  "確認の後に次の行動を言うと、会議が締まる。"
+ ]
+},
+"In one sentence: the problem is capacity.": {
+ "t": "一文で言えば、問題は供給能力です。",
+ "tn": "資料のアクションタイトルと同じ発想です。削り切る訓練になります。",
+ "s": [
+  ["In one sentence:", "前置詞句の前置き。コロンで中身につなぎます。"],
+  ["the problem is capacity", "S + be + C。最も短い形で結論を言い切っています。"]
+ ],
+ "v": [
+  ["in one sentence", "一文で。in a word（一言で）、in short（手短に）と同じ系統の表現です。"],
+  ["capacity", "容量・処理能力。人なら「さばける量」、設備なら「生産能力」。capability（能力の質）とは別で、capacity は量の話です。"],
+  ["problem", "問題。issue（論点）よりも、解決すべき困りごとという含みが強い語です。"]
+ ],
+ "n": [
+  ["capacity", "量としての処理能力。人数や時間の制約。"],
+  ["capability", "質としての能力。できるかどうか。"],
+  ["bandwidth", "対応できる余力。口語的で、人について使われます。"],
+  ["throughput", "単位時間あたりの処理量。より技術的です。"]
+ ],
+ "nn": "capacity（量）と capability（質）の混同は、人事や組織の議論でよく起きます。人を増やせば解決するのが capacity、増やしても解決しないのが capability です。",
+ "e": [
+  ["In one sentence: the problem is capacity, not capability. The team knows how; they do not have the hours.", "一文で言えば、問題は能力ではなく処理量です。やり方は分かっており、時間がないのです。"],
+  ["In one sentence: we are paying for a service we no longer use.", "一文で言えば、もう使っていないサービスに支払いを続けています。"]
+ ],
+ "p": [
+  ["In one sentence: [要旨].", ["In one sentence: the model works, the data does not.", "In one sentence: we need a decision, not more analysis."]],
+  ["[In one sentence / In a word]: [要旨].", ["In a word: timing.", "In one sentence: this is a governance problem wearing a technology costume."]]
+ ],
+ "k": [
+  "capacity（量）と capability（質）を混同しない。",
+  "一文で言い切る訓練が、資料の見出しにも効く。",
+  "in one sentence / in a word / in short は同じ系統の前置き。"
+ ]
+},
+"We agreed on scope; we didn't agree on timing.": {
+ "t": "スコープは合意し、時期は合意していません。",
+ "tn": "合意と未合意を並べる型です。次回の議題が自動的に決まります。",
+ "s": [
+  ["We agreed on scope;", "agree on A で「Aについて合意する」。過去形です。"],
+  ["we didn't agree on timing", "同じ構文の否定形。セミコロンで対の関係を示しています。"]
+ ],
+ "sn": "同じ構文を肯定と否定で並べる形です。語順と前置詞をそろえることで、違いが論点だけに絞られます。",
+ "v": [
+  ["agree on ~", "論点について合意する。agree with A（人・意見に同意する）、agree to A（提案を承諾する）と区別します。"],
+  ["scope", "範囲。何を含み、何を含まないか。"],
+  ["timing", "時期。いつ行うか。"]
+ ],
+ "n": [
+  ["We agreed on X; we didn't agree on Y.", "合意と未合意を並べる。次の議題が決まります。"],
+  ["We agreed in principle.", "原則合意。細部は未決です。"],
+  ["We landed on X.", "Xに落ち着いた。合意の口語表現です。"],
+  ["That's still open.", "未決。短く示します。"]
+ ],
+ "e": [
+  ["We agreed on scope; we didn't agree on timing. Timing goes on next week's agenda.", "範囲は合意し、時期は未合意です。時期は来週の議題とします。"],
+  ["We agreed on the diagnosis; we didn't agree on who fixes it.", "問題認識は合意しましたが、誰が対応するかは未合意です。"]
+ ],
+ "p": [
+  ["We agreed on [X]; we didn't agree on [Y].", ["We agreed on the target; we didn't agree on the measure.", "We agreed on the pilot; we didn't agree on the region."]],
+  ["We agreed on [X]. [Y] goes to [次の場].", ["We agreed on scope. Timing goes to the steering group.", "We landed on option B. The budget question goes to finance."]]
+ ],
+ "k": [
+  "agree on（論点）/ agree with（人・意見）/ agree to（提案）を区別する。",
+  "肯定と否定を同じ構文で並べると、違いが明確になる。",
+  "未合意を次の議題に送ると、会議が前に進む。"
+ ]
+},
+"Stepping back, the picture is simpler than it looks.": {
+ "t": "一歩引くと、状況は見た目より単純です。",
+ "tn": "細部で消耗した議論を引き上げる型です。上級者の定番になります。",
+ "s": [
+  ["Stepping back,", "分詞構文。意味上の主語は文の主語（we を含む一般の話し手）で、「一歩引いてみると」。"],
+  ["the picture is simpler than it looks", "比較級 + than。it は the picture を受けます。"]
+ ],
+ "sn": "than it looks は「見た目よりも」。than it seems、than it sounds も同じ形で、比較の相手を一語で示す便利な表現です。",
+ "v": [
+  ["step back", "一歩下がる。視野を広げて全体を見ること。take a step back も同じ意味です。"],
+  ["the picture", "全体像。the big picture（大局）、get the picture（状況を理解する）。"],
+  ["than it looks", "見た目よりも。looks は自動詞 look（〜に見える）の三人称単数形です。"]
+ ],
+ "n": [
+  ["Stepping back, ...", "一歩引いて。全体を見る宣言。"],
+  ["At a higher level, ...", "より高い次元で。抽象度を上げます。"],
+  ["Zooming out, ...", "引いて見ると。視覚的な比喩です。"],
+  ["The bigger picture is ...", "大局は。全体像を名指しします。"]
+ ],
+ "e": [
+  ["Stepping back, the picture is simpler than it looks: there is one constraint, and everything else follows from it.", "一歩引くと、状況は見た目より単純です。制約は1つで、他はすべてそこから導かれます。"],
+  ["Stepping back, we have been debating the second-order question for twenty minutes.", "一歩引いて見ると、我々は20分間、二次的な論点を議論していました。"]
+ ],
+ "p": [
+  ["Stepping back, [単純化した見方].", ["Stepping back, there are only two real choices.", "Stepping back, this is a sequencing problem."]],
+  ["[引いて見る前置き], [全体像].", ["Zooming out, the cost is not the issue; the capability is.", "At a higher level, we are optimizing a process we should be replacing."]]
+ ],
+ "k": [
+  "than it looks / than it seems は比較の相手を一語で示す定型。",
+  "step back は「視野を広げて全体を見る」。",
+  "細部で消耗した議論を引き上げるときに使う。"
+ ]
+},
+"Let me capture that before we move on.": {
+ "t": "次に進む前に記録しておきます。",
+ "tn": "議事録係を自任する型です。経験の浅いうちに影響力を持つ最短の方法になります。",
+ "s": [
+  ["Let me capture that", "Let + me + 原形 capture。that が記録する対象です。"],
+  ["before we move on", "接続詞 before + 主語 + 動詞。"]
+ ],
+ "v": [
+  ["capture", "捕まえる、から「記録する・書き留める」。ビジネスで非常によく使われます。capture an action / capture a decision / capture the discussion。"],
+  ["move on", "先へ進む。"],
+  ["that", "直前に出た決定や論点を指します。"]
+ ],
+ "n": [
+  ["capture that", "記録する。ビジネスの標準語です。"],
+  ["note that down", "書き留める。より口語的です。"],
+  ["log that as an action", "実行事項として記録する。種類まで指定します。"],
+  ["I'll take that away", "持ち帰って対応する。担当を引き受けます。"]
+ ],
+ "nn": "capture と note down はほぼ同義です。take away は「自分が持ち帰って対応する」という意味なので、記録するだけとは違います。",
+ "e": [
+  ["Let me capture that before we move on — Kenji owns the data request, due Friday.", "次に進む前に記録します。データ依頼は横田が担当、期日は金曜です。"],
+  ["Let me capture that as an open question so it doesn't get lost.", "抜け落ちないよう、未決事項として記録しておきます。"]
+ ],
+ "p": [
+  ["Let me capture [何] before we move on.", ["Let me capture that decision before we move on.", "Let me capture the two actions before we move on."]],
+  ["Let me capture that as [種類]: [内容].", ["Let me capture that as an action: HR to confirm the headcount by Wednesday.", "Let me capture that as a risk: single-vendor dependency."]]
+ ],
+ "k": [
+  "capture は「記録する」。ビジネスの標準語。",
+  "記録する種類（decision / action / risk / open question）まで指定すると整う。",
+  "議事録を引き受けると、論点を握れる。"
+ ]
+},
+"Three decisions, two owners, one open question.": {
+ "t": "決定3件、担当2名、未決1件です。",
+ "tn": "数だけで会議を締める型です。簡潔で記憶に残ります。",
+ "s": [
+  ["Three decisions, two owners, one open question.", "名詞句を3つ並べただけの体言止め。動詞がありませんが、締めの宣言として機能します。"]
+ ],
+ "sn": "動詞のない体言止めの形です。短いほど印象に残るため、会議の最後の一言として効きます。文にするなら We have three decisions, two owners, and one open question. です。",
+ "v": [
+  ["decision", "決定事項。"],
+  ["owner", "担当者。責任を持つ人。assignee（割り当てられた人）より責任の重い語感です。"],
+  ["open question", "未決の問い。"]
+ ],
+ "n": [
+  ["decisions / owners / open questions", "会議の成果を数える3区分。"],
+  ["what / so what / now what", "事実・示唆・行動の3段。構成の整理に使います。"],
+  ["agreed / assigned / outstanding", "合意済み・割り当て済み・未処理。進行管理の3区分です。"],
+  ["done / doing / to do", "完了・進行中・未着手。作業の3区分です。"]
+ ],
+ "e": [
+  ["Three decisions, two owners, one open question. I'll send the note within the hour.", "決定3件、担当2名、未決1件です。1時間以内に議事メモをお送りします。"],
+  ["Two decisions, no owners. That's the problem.", "決定2件、担当なし。そこが問題です。"]
+ ],
+ "p": [
+  ["[N] decisions, [n] owners, [n] open question(s).", ["Four decisions, three owners, two open questions.", "One decision, one owner, no open questions."]],
+  ["[数の締め]. [次の行動].", ["Three decisions, two owners. The note goes out tonight.", "Two actions, both due Friday. I'll chase on Thursday."]]
+ ],
+ "k": [
+  "体言止めは短く印象に残る。会議の締めに向く。",
+  "owner は「責任を持つ人」。assignee より重い。",
+  "決定・担当・未決の3区分で、会議の成果が一目で分かる。"
+ ]
+},
+"Does that match everyone's understanding?": {
+ "t": "この整理は皆さんの理解と一致していますか。",
+ "tn": "要約の妥当性を全員に確認する型です。後からの反故を防げます。",
+ "s": [
+  ["Does that match", "疑問文。match は他動詞で「〜と一致する」。前置詞は不要です。"],
+  ["everyone's understanding?", "目的語。everyone's の所有格。everyone は単数扱いです。"]
+ ],
+ "v": [
+  ["match", "一致する。match A で目的語を直接取ります（match with A も使えますが、この文脈では不要です）。"],
+  ["everyone", "単数扱い。Everyone is here.（全員います）。所有格は everyone's です。"],
+  ["understanding", "理解。不可算で使うのが基本です。"]
+ ],
+ "n": [
+  ["Does that match everyone's understanding?", "全員に確認する。最も網羅的。"],
+  ["Is that everyone's read?", "全員の読みと一致するか。口語的です。"],
+  ["Any corrections?", "訂正はあるか。短く、訂正を促します。"],
+  ["Silence means agreement, so speak now.", "沈黙は同意とみなす。強めの促し方です。"]
+ ],
+ "nn": "Any corrections? は訂正に焦点があるため、反対しにくい場でも声が出やすくなります。沈黙を同意とみなす言い方は、文化によって受け取られ方が変わるため注意が必要です。",
+ "e": [
+  ["Does that match everyone's understanding? If anyone sees it differently, now is the moment.", "この整理は皆さんの理解と一致していますか。違う見方があれば、いまのうちにお願いします。"],
+  ["Does that match your understanding of what the client asked for?", "これはクライアントの依頼内容についてのご理解と一致していますか。"]
+ ],
+ "p": [
+  ["Does that match everyone's understanding of [対象]?", ["Does that match everyone's understanding of the scope?", "Does that match your understanding of the decision?"]],
+  ["[要約]. [全員への確認].", ["That's my summary. Any corrections before I write it up?", "That's where I think we landed. Does that match everyone's read?"]]
+ ],
+ "k": [
+  "match は他動詞。前置詞は不要。",
+  "everyone は単数扱い。動詞も単数形に。",
+  "全員に確認を取ると、後からの反故を防げる。"
+ ]
+}
+}

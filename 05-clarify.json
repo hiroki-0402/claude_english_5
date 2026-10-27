@@ -1,0 +1,631 @@
+{
+"Sorry, could you say that again a bit more slowly?": {
+ "t": "すみません、もう少しゆっくりもう一度お願いできますか。",
+ "tn": "理由を一言添えると、聞き返しが「英語力の不足」ではなく「正確さへのこだわり」として受け取られます。",
+ "s": [
+  ["Sorry,", "短い謝罪の前置き。I'm sorry の省略で、口頭ではこの形が自然です。"],
+  ["could you say that again", "Could you + 原形で、ていねいな依頼。Can you より一段やわらかくなります。"],
+  ["a bit more slowly", "a bit が比較級をやわらげる副詞句。more slowly は slowly の比較級です。"]
+ ],
+ "sn": "a bit を入れるかどうかで印象が変わります。more slowly だけだと「もっとゆっくり」と要求が強く響き、a bit more slowly だと「少しだけ」という遠慮が加わります。",
+ "v": [
+  ["could", "can の過去形ですが、依頼では時制ではなく丁寧さを表します。現在から一歩離れることで、押しつけがましさが消えます。"],
+  ["a bit", "「少し」。a little とほぼ同義で、a bit の方が口語的です。比較級の前に置いて程度をやわらげます。"],
+  ["slowly", "副詞。比較級は more slowly が標準です（slowlier とは言いません）。"]
+ ],
+ "n": [
+  ["Could you say that again?", "もう一度言ってもらう。最も使いやすい。"],
+  ["Could you repeat that?", "ほぼ同義。やや事務的な響きです。"],
+  ["Sorry, I missed that.", "聞き逃したと伝える。相手が自然に繰り返してくれます。"],
+  ["Would you mind repeating that?", "最もていねい。社外のかしこまった場に向きます。"]
+ ],
+ "nn": "いずれも自然で、丁寧さの度合いが少しずつ違うだけです。Would you mind ...? への答えは No（構いません）になる点だけ注意が必要です。",
+ "e": [
+  ["Sorry, could you say that again a bit more slowly? I want to get the numbers right.", "すみません、もう少しゆっくりもう一度お願いできますか。数字を正確に取りたいので。"],
+  ["Sorry, could you go through that last point again? I want to make sure I capture it for the minutes.", "すみません、最後の点をもう一度お願いできますか。議事録に正確に残したいので。"]
+ ],
+ "p": [
+  ["Sorry, could you [say that again / repeat that] a bit more slowly?", ["Sorry, could you repeat that a bit more slowly?", "Sorry, could you go over that again a bit more slowly?"]],
+  ["Sorry, could you [依頼]? [理由].", ["Sorry, could you repeat the figure? I want to note it down.", "Sorry, could you clarify that? I want to make sure I brief the team correctly."]]
+ ],
+ "k": [
+  "依頼の could は丁寧さを作る（時制ではない）。",
+  "a bit を入れると要求がやわらぐ。",
+  "理由を一言添えると、聞き返しが前向きに受け取られる。"
+ ]
+},
+"Just to make sure I understand, are you saying the budget is fixed?": {
+ "t": "認識を確認させてください。予算は固定という理解でよいですか。",
+ "tn": "最も安全で使い回しの利く確認の型です。相手の発言をそのまま繰り返すのではなく、自分の言葉に変換して返すのが要点です。",
+ "s": [
+  ["Just to make sure I understand,", "目的を表す不定詞句。just が「ちょっとだけ」と軽さを加えます。"],
+  ["are you saying (that) the budget is fixed?", "現在進行形の疑問文。「いまおっしゃっているのは〜ということですか」。that は省略されています。"]
+ ],
+ "sn": "Are you saying ...? は進行形なので、「この場でのあなたの発言」に限定されます。Do you say ...? とすると習慣の話になり、確認としては成立しません。",
+ "v": [
+  ["make sure", "「確実にする」。make sure (that) + 文、または make sure of + 名詞。確認を表す最も一般的な表現です。"],
+  ["just", "ここでは「ちょっと」。依頼や確認をやわらげる働きがあり、省くと詰問調になります。"],
+  ["fixed", "固定された。動かせないこと。対は flexible（調整可能）。"]
+ ],
+ "n": [
+  ["Are you saying ...?", "相手の発言の意味を確認する。中立です。"],
+  ["Do you mean ...?", "意図を確認する。やや直接的です。"],
+  ["So your point is ...?", "論点を要約して返す。議論の整理に向きます。"],
+  ["Am I right in thinking ...?", "自分の理解が正しいかを問う。最もていねいです。"]
+ ],
+ "nn": "Are you saying ...? は語調次第で詰問にも聞こえるため、Just to make sure I understand のような前置きと組み合わせると安全です。",
+ "e": [
+  ["Just to make sure I understand, are you saying the headcount is fixed but the mix is flexible?", "認識を確認させてください。人数は固定だが構成は調整可能、という理解でよいですか。"],
+  ["Just to make sure I understand, are you saying we should present both options to the board?", "認識を確認させてください。両案とも取締役会に提出すべき、という理解でよいですか。"]
+ ],
+ "p": [
+  ["Just to make sure I understand, are you saying that [解釈]?", ["Just to make sure I understand, are you saying the deadline cannot move?", "Just to make sure I understand, are you saying this replaces the current process?"]],
+  ["Just to make sure I understand, [解釈] — is that right?", ["Just to make sure I understand, phase two is out of scope — is that right?", "Just to make sure I understand, HR owns the rollout — is that right?"]]
+ ],
+ "k": [
+  "Are you saying ...? は進行形。「この場での発言」に限定される。",
+  "just を入れると詰問調にならない。",
+  "相手の言葉をそのまま返さず、自分の言葉に変換して確認する。"
+ ]
+},
+"Can I play that back to you?": {
+ "t": "私の理解を復唱してもよいですか。",
+ "tn": "英語会議で頻出します。長い依頼や複雑な指示を受けた直後に使うと、認識のずれをその場で潰せます。",
+ "s": [
+  ["Can I ~?", "許可を求める疑問文。May I よりくだけており、社内では標準です。"],
+  ["play that back to you", "play back A to B で「AをBに再生して聞かせる」。録音を再生する比喩です。"]
+ ],
+ "v": [
+  ["play back", "録音・録画を再生すること。そこから「聞いた内容をそのまま返す」へ広がりました。会議では「復唱して確認する」という定型表現です。"],
+  ["to you", "to が向かう先を示します。play that back for you とすると「あなたのために再生する」となり、意味が少しずれます。"],
+  ["that", "直前に相手が述べた内容全体を受けます。"]
+ ],
+ "n": [
+  ["Can I play that back to you?", "復唱の許可を求める。口語的で、英語会議の定番。"],
+  ["Let me read that back.", "読み返す。数字や箇条書きの確認に向きます。"],
+  ["Let me summarize what I heard.", "聞いた内容を要約する。よりていねいです。"],
+  ["So, to recap, ...", "要約に入る合図。許可は求めません。"]
+ ],
+ "e": [
+  ["Can I play that back to you? You want the shortlist by Thursday, and the full analysis can wait until the following week.", "私の理解を復唱してもよいですか。木曜までに候補の絞り込み、詳細分析は翌週でよい、ということですね。"],
+  ["Can I play that back to you? Scope stays the same, timeline moves by two weeks, and the fee is unchanged.", "復唱させてください。範囲は据え置き、日程は2週間後ろ倒し、費用は変更なし、ですね。"]
+ ],
+ "p": [
+  ["Can I play that back to you? You want [X], and [Y] can wait.", ["Can I play that back to you? You want the draft first, and the data appendix can wait.", "Can I play that back to you? You want two options, not three."]],
+  ["[Can I play that back to you? / Let me read that back.] [要約].", ["Let me read that back: three regions, twelve interviews, by the end of the month.", "Can I play that back to you? Finance approves, HR executes, we facilitate."]]
+ ],
+ "k": [
+  "play back は録音の再生が原義。「復唱して確認する」の定型。",
+  "復唱の中身は、相手の言葉ではなく自分の言葉でまとめる。",
+  "長い依頼を受けた直後に使うのが最も効く。"
+ ]
+},
+"When you say 'scale', do you mean headcount or revenue?": {
+ "t": "「スケール」とおっしゃるのは、人員のことですか、それとも売上のことですか。",
+ "tn": "曖昧な語を二択に落として確認する型です。抽象語が飛び交う会議で最も実用的な聞き方です。",
+ "s": [
+  ["When you say 'scale',", "時を表す接続詞 when ですが、ここでは「〜とおっしゃるとき」という条件に近い働きをします。"],
+  ["do you mean headcount or revenue?", "選択疑問文。or で2つの選択肢を並べ、文末は下げ調子で読みます（Yes/No疑問文ではないため）。"]
+ ],
+ "sn": "選択疑問文のイントネーションが要点です。A or B? の形は、A を上げ調子、B を下げ調子で読みます。全体を上げると Yes/No の質問に聞こえてしまいます。",
+ "v": [
+  ["when you say ~", "相手の使った語を引用して確認する定型。引用符や声の調子でその語を際立たせます。"],
+  ["mean", "「意味する」。Do you mean A or B? は意図を確認する標準形です。"],
+  ["headcount", "人員数。head（人）を count（数える）。人事・経営の会議で最頻出の語のひとつです。"]
+ ],
+ "n": [
+  ["When you say X, do you mean A or B?", "二択に落として確認する。最も実用的。"],
+  ["What do you mean by X?", "開かれた問い。相手に定義を任せます。"],
+  ["How are you defining X?", "定義を問う。ややかたく、分析的です。"],
+  ["Can you be more specific about X?", "具体化を求める。やや漠然とした依頼になります。"]
+ ],
+ "nn": "二択にすると相手は答えやすくなりますが、提示した2つ以外の意味だった場合に取りこぼします。見当がつかないときは What do you mean by X? の方が安全です。",
+ "e": [
+  ["When you say 'restructuring', do you mean changing reporting lines or reducing headcount?", "「リストラクチャリング」とおっしゃるのは、レポートラインの変更ですか、それとも人員削減ですか。"],
+  ["When you say 'soon', do you mean this quarter or this fiscal year?", "「近いうちに」とおっしゃるのは、今四半期ですか、それとも今年度中ですか。"]
+ ],
+ "p": [
+  ["When you say '[語]', do you mean [A] or [B]?", ["When you say 'pilot', do you mean one team or one region?", "When you say 'cost', do you mean one-off or run rate?"]],
+  ["When you say '[語]', [確認の形].", ["When you say 'approved', does that include the board?", "When you say 'done', do you mean built or live?"]]
+ ],
+ "k": [
+  "選択疑問文は A を上げ、B を下げて読む。全体を上げると Yes/No に聞こえる。",
+  "二択は答えやすいが、取りこぼす場合もある。見当がなければ開かれた問いにする。",
+  "相手の語を引用して確認すると、定義のずれをその場で潰せる。"
+ ]
+},
+"I missed the last part — could you repeat the number?": {
+ "t": "最後の部分が聞き取れませんでした。数字をもう一度お願いします。",
+ "tn": "何が聞き取れなかったかを特定すると、相手は全部を繰り返さずに済みます。会議の時間を守る聞き返し方です。",
+ "s": [
+  ["I missed the last part", "過去形。miss は「取り逃す」で、聞き逃した場合にも使えます。"],
+  ["— could you repeat the number?", "ダッシュで自然に言い直しへつなぎます。could で丁寧な依頼です。"]
+ ],
+ "v": [
+  ["miss", "コアイメージは「当たらずに外れる」。的を外す、乗り物に乗り損ねる、話を聞き逃す、いずれも同じ発想です。"],
+  ["the last part", "最後の部分。the last bit も同じ意味で、よりくだけた言い方です。"],
+  ["repeat", "繰り返す。repeat it で目的語が必要です（Could you repeat? だけでは落ち着きません）。"]
+ ],
+ "n": [
+  ["I missed the last part.", "聞き逃した部分を特定する。相手の負担が小さい。"],
+  ["I didn't catch that.", "聞き取れなかった。全体を指します。"],
+  ["You're breaking up.", "通信が途切れている。オンライン会議の定型です。"],
+  ["Could you come back to that number?", "後でその数字に戻ってほしい。話を止めません。"]
+ ],
+ "e": [
+  ["I missed the last part — could you repeat the attrition figure for Japan?", "最後の部分が聞き取れませんでした。日本の離職率の数字をもう一度お願いします。"],
+  ["I missed the second item — could you repeat what HR is taking on?", "2点目が聞き取れませんでした。人事側が引き受ける内容をもう一度お願いします。"]
+ ],
+ "p": [
+  ["I missed [どこ] — could you repeat [何]?", ["I missed the first half — could you repeat the three options?", "I missed the date — could you repeat the deadline?"]],
+  ["I missed [どこ]. [依頼 or 代替].", ["I missed the number. I'll pick it up from the deck afterwards.", "I missed your last point. Could you come back to it at the end?"]]
+ ],
+ "k": [
+  "miss のコアイメージは「当たらずに外れる」。聞き逃しにも使う。",
+  "聞き逃した箇所を特定すると、相手は全部を繰り返さずに済む。",
+  "repeat は目的語が必要（repeat it / repeat the number）。"
+ ]
+},
+"So the ask is a recommendation by next Tuesday, correct?": {
+ "t": "つまりご依頼は、来週火曜までに推奨案を出すこと、という理解でよいですか。",
+ "tn": "the ask は外資の会議で頻出する名詞です。何を求められているかを言葉で固定できます。",
+ "s": [
+  ["So the ask is ~", "S + be + C。so が「つまり」として、要約に入る合図になります。"],
+  ["a recommendation by next Tuesday", "補語。by が期限を示します。"],
+  [", correct?", "付加的な確認。文末に置いて相手の同意を求めます。"]
+ ],
+ "v": [
+  ["the ask", "動詞 ask が名詞化したビジネス用語で、「依頼の内容・求められていること」。the request よりくだけており、外資では日常的に使われます。"],
+  ["by", "期限の前置詞。by next Tuesday は「来週火曜までに」。until next Tuesday だと「来週火曜までずっと」で意味が変わります。"],
+  ["correct?", "文末の確認。Is that correct? の省略です。Right? よりややかたい響きになります。"]
+ ],
+ "n": [
+  [", correct?", "確認。ややかたく、正確さを求める場面に。"],
+  [", right?", "確認。口語的で、社内向きです。"],
+  [", is that right?", "ていねいな確認。社外でも使えます。"],
+  ["Have I got that right?", "自分の理解が正しいかを問う。最も謙虚な形です。"]
+ ],
+ "e": [
+  ["So the ask is a recommendation on the operating model by next Tuesday, correct?", "つまりご依頼は、来週火曜までに運営モデルに関する推奨案を出すこと、という理解でよいですか。"],
+  ["So the ask is two pages, not a full deck, correct?", "つまりご依頼は、フルの資料ではなく2ページ、という理解でよいですか。"]
+ ],
+ "p": [
+  ["So the ask is [成果物] by [期限], correct?", ["So the ask is a shortlist by Friday, correct?", "So the ask is a cost estimate before the board meeting, correct?"]],
+  ["So the ask is [内容]. [何が範囲外か].", ["So the ask is the diagnosis, not the implementation plan.", "So the ask is a view on timing, not a full business case."]]
+ ],
+ "k": [
+  "the ask = 求められていることを指すビジネス名詞。",
+  "期限は by、継続は until。",
+  "依頼を受けたら、成果物と期限を言葉で固定する。"
+ ]
+},
+"Could you give me an example of what that would look like?": {
+ "t": "それが具体的にどうなるか、例を挙げていただけますか。",
+ "tn": "抽象的な指示を受けたときの、反撃にならない返し方です。具体化の責任を相手に戻せます。",
+ "s": [
+  ["Could you give me an example", "Could you + 原形で丁寧な依頼。give A B の二重目的語構文です。"],
+  ["of what that would look like", "example を修飾する of句。what節の中は would + 原形で、仮の話であることを示します。"]
+ ],
+ "sn": "what that would look like は「それがどう見えることになるか」。仮定の would が入ることで、まだ存在しないものを描写してもらう依頼になります。",
+ "v": [
+  ["look like ~", "「〜のように見える」。What does it look like? は見た目だけでなく「具体的にどういうものか」を問う言い方として広く使われます。"],
+  ["an example of ~", "of が「何についての例か」を示します。example for とは言いません。"],
+  ["would", "仮定の助動詞。実現した場合の姿を尋ねるので would を使います。"]
+ ],
+ "n": [
+  ["Could you give me an example?", "例を求める。最も中立。"],
+  ["What would that look like in practice?", "実務上どうなるかを問う。具体性を強く求めます。"],
+  ["Can you make that concrete for me?", "具体化を求める。ややくだけています。"],
+  ["What would success look like?", "成功の状態を問う。目標の具体化に使えます。"]
+ ],
+ "e": [
+  ["Could you give me an example of what that would look like for a team of twenty?", "20名規模のチームの場合に具体的にどうなるか、例を挙げていただけますか。"],
+  ["Could you give me an example of what good looks like here?", "この領域で望ましい状態とはどういうものか、例を挙げていただけますか。"]
+ ],
+ "p": [
+  ["Could you give me an example of [対象]?", ["Could you give me an example of the kind of analysis you have in mind?", "Could you give me an example of where this has worked before?"]],
+  ["What would [対象] look like [条件]?", ["What would this look like in practice?", "What would success look like in six months?"]]
+ ],
+ "k": [
+  "look like は見た目だけでなく「具体的にどういうものか」を問う。",
+  "an example of ~。前置詞は of。",
+  "抽象的な指示には、具体化の責任を相手に戻す問いで返す。"
+ ]
+},
+"I want to make sure I'm not misreading this.": {
+ "t": "こちらの読み違いがないか確認させてください。",
+ "tn": "相手の資料の矛盾を突くときの前置きです。攻撃ではなく確認として響くので、指摘が受け入れられやすくなります。",
+ "s": [
+  ["I want to make sure", "want to + 原形。意思を表します。"],
+  ["I'm not misreading this", "make sure の目的語となる節。that が省略されています。否定の進行形で「いま読み違えていないか」。"]
+ ],
+ "sn": "否定形が効いています。「私が間違っているかもしれない」という立場を先に取ることで、相手の誤りを指摘する場面でも敵対的になりません。",
+ "v": [
+  ["misread", "mis-（誤って）+ read。読み違える。過去形・過去分詞も misread（発音だけ変わります）。"],
+  ["make sure", "確実にする。後ろに that節を取ります。"],
+  ["this", "資料や数字など、いま目の前にあるものを指します。"]
+ ],
+ "n": [
+  ["I want to make sure I'm not misreading this.", "自分の誤りの可能性を先に置く。最も安全。"],
+  ["I may be missing something, but ...", "見落としがあるかもしれないが。同じ働きをします。"],
+  ["Help me understand ...", "理解を助けてほしい。ややくだけた言い方です。"],
+  ["There seems to be a discrepancy.", "食い違いがあるようだ。より直接的な指摘です。"]
+ ],
+ "nn": "どれも実務で使われます。前の3つは自分側に理由を置く言い方、There seems to be a discrepancy. は事実を名指しする言い方で、場面に応じて使い分けます。",
+ "e": [
+  ["I want to make sure I'm not misreading this — slide 4 says 12%, and slide 9 says 15%.", "読み違いがないか確認させてください。4ページは12%、9ページは15%となっています。"],
+  ["I want to make sure I'm not misreading this: does the total include contractors?", "読み違いがないか確認させてください。この合計には業務委託が含まれていますか。"]
+ ],
+ "p": [
+  ["I want to make sure I'm not misreading [対象].", ["I want to make sure I'm not misreading the footnote.", "I want to make sure I'm not misreading the comparison."]],
+  ["I may be missing something, but [指摘].", ["I may be missing something, but these two numbers do not tie.", "I may be missing something, but the periods look different."]]
+ ],
+ "k": [
+  "自分の誤りの可能性を先に置くと、指摘が攻撃にならない。",
+  "misread の過去形・過去分詞は綴りが同じ（発音のみ変化）。",
+  "否定の進行形で「いま読み違えていないか」を確認する。"
+ ]
+},
+"Sorry, I didn't catch that. Could you repeat it?": {
+ "t": "すみません、聞き取れませんでした。もう一度お願いできますか。",
+ "tn": "最も素直な聞き返しです。謝りすぎず、1回で言い切るのがこつです。",
+ "s": [
+  ["Sorry, I didn't catch that.", "過去形の否定。catch は「捕まえる」で、音声を捉えられなかったことを表します。"],
+  ["Could you repeat it?", "ていねいな依頼。it は that（聞き取れなかった内容）を受けます。"]
+ ],
+ "v": [
+  ["catch", "コアイメージは「飛んでくるものを捕まえる」。音声を捕まえ損ねた、という発想で聞き取りに使います。I didn't catch your name. も同じ用法です。"],
+  ["didn't", "過去形の否定。聞き取れなかったのは直前の出来事なので過去形にします。"],
+  ["repeat it", "it という目的語が必要です。"]
+ ],
+ "n": [
+  ["I didn't catch that.", "聞き取れなかった。最も自然で軽い。"],
+  ["I didn't quite catch that.", "quite が入ると、さらにやわらかくなります。"],
+  ["Sorry, could you run that by me again?", "もう一度説明してほしい。口語的です。"],
+  ["I'm sorry, I don't follow.", "話の筋が追えない。音ではなく内容が分からない場合です。"]
+ ],
+ "nn": "I didn't catch that は音が聞き取れなかった場合、I don't follow は内容が理解できなかった場合です。原因が違うので、使い分けると相手も説明を調整しやすくなります。",
+ "e": [
+  ["Sorry, I didn't catch that. Could you repeat the second option?", "すみません、聞き取れませんでした。2つ目の案をもう一度お願いできますか。"],
+  ["Sorry, I didn't quite catch that. Was it fifteen or fifty?", "すみません、少し聞き取れませんでした。15でしょうか、50でしょうか。"]
+ ],
+ "p": [
+  ["Sorry, I didn't catch [何]. Could you repeat it?", ["Sorry, I didn't catch the last figure. Could you repeat it?", "Sorry, I didn't catch the name. Could you repeat it?"]],
+  ["Sorry, I didn't catch that. [具体的な確認].", ["Sorry, I didn't catch that. Was it March or May?", "Sorry, I didn't catch that. Did you say the client has already approved?"]]
+ ],
+ "k": [
+  "catch は「音声を捕まえる」。聞き取りの定番動詞。",
+  "音が聞こえなかった（didn't catch）と内容が分からない（don't follow）を区別する。",
+  "謝りすぎない。Sorry は1回で十分。"
+ ]
+},
+"Can you say more about that?": {
+ "t": "もう少し詳しく伺えますか。",
+ "tn": "短い一言で相手に話してもらう型です。理解が追いつかないときの時間稼ぎにもなります。",
+ "s": [
+  ["Can you say more", "Can you + 原形。say more で「もっと話す」。more が say の目的語として働いています。"],
+  ["about that", "about が話題を示します。"]
+ ],
+ "v": [
+  ["say more", "「もっと言う」。tell me more とほぼ同義で、tell me more の方がやや相手に要求する響きがあります。"],
+  ["about", "話題の周辺に及ぶ前置詞。say more on that も使えますが、about の方が広く使われます。"],
+  ["that", "直前に相手が触れた点を指します。具体的に指したいときは that part や that second point とします。"]
+ ],
+ "n": [
+  ["Can you say more about that?", "もっと話してほしい。中立で軽い。"],
+  ["Tell me more.", "もっと聞かせて。短く、関心を示します。"],
+  ["Could you expand on that?", "展開してほしい。ややかたい言い方です。"],
+  ["What's behind that?", "背景を問う。理由に踏み込みます。"]
+ ],
+ "e": [
+  ["Can you say more about that? Particularly the part about the manager training.", "もう少し詳しく伺えますか。とくに管理職研修の部分についてです。"],
+  ["Can you say more about why the pilot stalled?", "パイロットが止まった理由について、もう少し詳しく伺えますか。"]
+ ],
+ "p": [
+  ["Can you say more about [話題]?", ["Can you say more about the second option?", "Can you say more about what changed since last month?"]],
+  ["Can you say more about [話題]? [焦点].", ["Can you say more about the rollout? Specifically the sequencing.", "Can you say more about the pushback? Who raised it?"]]
+ ],
+ "k": [
+  "say more about ~ は短く相手に話してもらえる万能の一言。",
+  "焦点を添えると、相手は答えやすくなる。",
+  "理解が追いつかないときの時間稼ぎにも使える。"
+ ]
+},
+"Is that a hard requirement or a preference?": {
+ "t": "それは必須要件ですか、それとも希望でしょうか。",
+ "tn": "要件の強さを確認する型です。スコープ調整の余地がここで決まります。",
+ "s": [
+  ["Is that ~ or ~?", "選択疑問文。be動詞の疑問文に or で2つの選択肢を並べています。"],
+  ["a hard requirement", "hard が「動かせない」を意味する形容詞として requirement を修飾しています。"],
+  ["a preference", "「好み・希望」。must ではない、という位置づけです。"]
+ ],
+ "v": [
+  ["hard requirement", "hard は「硬い」から「譲れない」へ。a hard deadline（動かせない期限）、a hard stop（終了時刻の厳守）も同じ用法です。対は soft。"],
+  ["preference", "prefer の名詞形。「こちらの方が望ましい」という程度の希望で、満たせなくても破綻しません。"],
+  ["requirement", "要件。must-have（必須）と nice-to-have（あれば望ましい）に分ける整理もよく使われます。"]
+ ],
+ "n": [
+  ["a hard requirement", "満たさなければ成立しない。譲れない条件。"],
+  ["a preference", "望ましいが必須ではない。"],
+  ["a must-have", "必須。hard requirement と同義で、より口語的です。"],
+  ["a nice-to-have", "あれば望ましい。preference とほぼ同じ位置づけです。"]
+ ],
+ "e": [
+  ["Is the March date a hard requirement or a preference? That changes how we staff it.", "3月という期日は必須要件でしょうか、それとも希望でしょうか。体制の組み方が変わります。"],
+  ["Is on-site presence a hard requirement, or would a hybrid model work?", "常駐は必須要件でしょうか、それともハイブリッドでも成立しますか。"]
+ ],
+ "p": [
+  ["Is [条件] a hard requirement or a preference?", ["Is the single-vendor rule a hard requirement or a preference?", "Is the headcount cap a hard requirement or a preference?"]],
+  ["Which of these are [must-haves] and which are [nice-to-haves]?", ["Which of these are must-haves and which are nice-to-haves?", "Which of these are hard constraints and which are assumptions?"]]
+ ],
+ "k": [
+  "hard は「譲れない」。hard deadline / hard stop も同じ用法。",
+  "must-have と nice-to-have に分けると、スコープ調整の議論ができる。",
+  "要件の強さを早く確認するほど、手戻りが減る。"
+ ]
+},
+"Who owns that decision?": {
+ "t": "その判断はどなたの担当でしょうか。",
+ "tn": "意思決定者を特定する問いです。誰に説明すべきかが見えてきます。",
+ "s": [
+  ["Who owns", "疑問詞 who が主語。主語なので do/does は使わず、動詞は三人称単数の owns になります。"],
+  ["that decision", "目的語。that が特定の判断を指します。"]
+ ],
+ "sn": "who が主語の疑問文は語順が平叙文のままです（Who owns ...? であって Who does own ...? ではありません。後者は強調のための特殊な形です）。",
+ "v": [
+  ["own", "「所有する」から「責任を持つ」へ。ビジネスでは own a decision（判断の責任を持つ）、own a workstream（作業領域を担当する）のように、担当と責任をあわせて指します。"],
+  ["decision", "意思決定。decision rights（決定権）、decision maker（意思決定者）。"],
+  ["who", "主語としても目的語としても使えます。目的語のときは whom が正式ですが、口語では who が一般的です。"]
+ ],
+ "n": [
+  ["Who owns that decision?", "責任者を問う。最も直接的で実務的。"],
+  ["Who signs off on that?", "承認者を問う。最終的な決裁に焦点があります。"],
+  ["Who needs to be in the room?", "誰が参加すべきかを問う。関係者の洗い出しです。"],
+  ["Whose call is it?", "誰の判断かを問う。くだけた言い方です。"]
+ ],
+ "e": [
+  ["Who owns that decision — the steering committee or the business unit head?", "その判断の責任者はどなたでしょうか。ステアリングコミッティでしょうか、事業部長でしょうか。"],
+  ["Who owns the budget line for this? I want to make sure we brief them early.", "この予算項目はどなたの担当でしょうか。早めにご説明しておきたいので。"]
+ ],
+ "p": [
+  ["Who owns [対象]?", ["Who owns the rollout?", "Who owns the data definitions?"]],
+  ["Who [owns / signs off on] [対象], and who needs to be consulted?", ["Who signs off on the final number, and who needs to be consulted?", "Who owns this after go-live, and who supports it?"]]
+ ],
+ "k": [
+  "who が主語の疑問文は do/does を使わない（Who owns ...?）。",
+  "own は「責任を持つ」。ビジネスで担当を問う標準語。",
+  "決定者と承認者（sign off）は別のことがある。"
+ ]
+},
+"Let me check I have the right numbers.": {
+ "t": "数字が合っているか確認させてください。",
+ "tn": "数字を声に出して確定させる型です。英語の聞き取りミス、とくに十の位と百の位の取り違えを防げます。",
+ "s": [
+  ["Let me check ~", "Let + me + 原形 check。"],
+  ["(that) I have the right numbers", "check の目的語となる節。接続詞 that が省略されています。"]
+ ],
+ "v": [
+  ["check", "確かめる。軽く、相手に負担をかけません。"],
+  ["have the right ~", "「正しい〜を持っている」。自分の手元の情報が正しいかを問う自然な言い方です。"],
+  ["numbers", "複数形で「数値一式」。the numbers は会議ではほぼ「数字の話」を指します。"]
+ ],
+ "n": [
+  ["Let me check I have the right numbers.", "自分の側の確認。相手に負担をかけません。"],
+  ["Let me read those back.", "読み返す。数字の確認に最も向きます。"],
+  ["Can I confirm the figures?", "確認してよいか。ややかたい言い方です。"],
+  ["Just to confirm: ...", "確認です、と言ってから数字を並べる形です。"]
+ ],
+ "e": [
+  ["Let me check I have the right numbers: 240 employees, 18% attrition, 90 days to fill.", "数字を確認させてください。従業員240名、離職率18%、採用までの日数90日です。"],
+  ["Let me check I have the right numbers before I put them in the deck.", "資料に入れる前に、数字が合っているか確認させてください。"]
+ ],
+ "p": [
+  ["Let me check I have [the right numbers].", ["Let me check I have the right dates.", "Let me check I have the right owner for each action."]],
+  ["Let me check I have the right numbers: [数値を列挙].", ["Let me check I have the right numbers: three regions, two years, 1,200 records.", "Let me check I have the right numbers: 15% this year, 12% last year."]]
+ ],
+ "k": [
+  "check の後の that は省略できる。",
+  "数字は復唱して確定させる。聞き取りミスを防げる。",
+  "the numbers は会議では「数字の話」全般を指す。"
+ ]
+},
+"Are we talking about the same time period?": {
+ "t": "同じ期間の話をしているでしょうか。",
+ "tn": "議論が噛み合わないときの原因の多くは定義のずれです。まずここを疑うと、無駄な応酬を避けられます。",
+ "s": [
+  ["Are we talking about ~?", "現在進行形の疑問文。「いま話しているのは〜か」。"],
+  ["the same time period", "the same には必ず定冠詞が付きます。"]
+ ],
+ "sn": "we を主語にしている点が重要です。「あなたが間違っている」ではなく「私たちがずれているかもしれない」という立て方になるため、角が立ちません。",
+ "v": [
+  ["talk about ~", "about が話題を示します。discuss は他動詞なので discuss about とは言いません（discuss the period が正しい形です）。"],
+  ["the same", "same は常に the を伴います。"],
+  ["time period", "期間。period だけでも通じますが、time period とすると「どの期間を切り取っているか」という範囲の話だと明確になります。"]
+ ],
+ "n": [
+  ["Are we talking about the same ...?", "定義のずれを疑う。we を主語にするので角が立ちません。"],
+  ["I think we're using the word differently.", "語の使い方が違うと指摘する。より直接的です。"],
+  ["Can we align on definitions first?", "定義を先にそろえよう。手続きの提案です。"],
+  ["Are we comparing like for like?", "同じ条件で比べているか。数値比較に特化した問いです。"]
+ ],
+ "e": [
+  ["Are we talking about the same time period? My number is calendar year, yours looks like fiscal.", "同じ期間の話をしているでしょうか。私の数字は暦年で、そちらは年度に見えます。"],
+  ["Are we talking about the same scope? I've been excluding the contractors.", "同じ範囲の話をしているでしょうか。私は業務委託を除いていました。"]
+ ],
+ "p": [
+  ["Are we talking about the same [time period / scope / population]?", ["Are we talking about the same population?", "Are we talking about the same definition of headcount?"]],
+  ["Are we comparing like for like? [確認すべき点].", ["Are we comparing like for like? One includes bonuses, the other does not.", "Are we comparing like for like? The periods differ by a quarter."]]
+ ],
+ "k": [
+  "the same には必ず the が付く。",
+  "we を主語にすると、定義のずれを指摘しても角が立たない。",
+  "discuss は他動詞。discuss about とは言わない。"
+ ]
+},
+"What's the thinking behind that?": {
+ "t": "その背景にある考えを伺えますか。",
+ "tn": "why を直接聞くより柔らかい問いです。相手を詰問せずに理由を引き出せます。",
+ "s": [
+  ["What's the thinking", "What is の短縮。the thinking が主語です。"],
+  ["behind that", "thinking を後ろから修飾する前置詞句。behind が「その背後にある」を示します。"]
+ ],
+ "v": [
+  ["thinking", "think の動名詞が名詞化したもの。「考え方・思考の筋道」を指し、不可算名詞として使います。the current thinking（現時点の考え方）も頻出です。"],
+  ["behind", "コアイメージは「背後に」。表に出ている結論の裏側にある理由を指します。the logic behind it、the reason behind the change も同じ型です。"],
+  ["What's ~ behind ~?", "理由を物の位置関係として問う形。Why did you ...? より当事者性が薄れ、やわらかく響きます。"]
+ ],
+ "n": [
+  ["What's the thinking behind that?", "考え方を問う。やわらかく、詰問になりません。"],
+  ["Why did you decide that?", "決定の理由を直接問う。相手が守りに回ることがあります。"],
+  ["What's driving that?", "何がそうさせているかを問う。要因に焦点があります。"],
+  ["Help me understand the rationale.", "論拠を教えてほしい。ていねいでかたい言い方です。"]
+ ],
+ "nn": "Why did you ...? も普通に使われる問いで、関係性や語調によっては何の問題もありません。What's the thinking behind that? は、相手の判断を批判していないことが構文上はっきりする点が利点です。",
+ "e": [
+  ["What's the thinking behind starting with the sales organization rather than operations?", "オペレーションではなく営業組織から着手する、その背景にある考えを伺えますか。"],
+  ["What's the thinking behind the two-year horizon?", "2年という期間設定の背景にある考えを伺えますか。"]
+ ],
+ "p": [
+  ["What's the thinking behind [対象]?", ["What's the thinking behind the new structure?", "What's the thinking behind keeping both vendors?"]],
+  ["What's [the thinking / the rationale] behind [対象]?", ["What's the rationale behind the exclusion?", "What's the thinking behind that sequencing?"]]
+ ],
+ "k": [
+  "thinking は不可算名詞で「考え方・思考の筋道」。",
+  "behind で「結論の裏側にある理由」を指せる。",
+  "why を直接聞くより、相手が守りに回りにくい。"
+ ]
+},
+"So if I've understood, the priority is speed over cost.": {
+ "t": "理解が正しければ、優先はコストより速度ということですね。",
+ "tn": "優先順位を言葉にして確認する型です。その後の判断はすべてここに依存するため、早い段階で固定しておく価値があります。",
+ "s": [
+  ["So if I've understood,", "現在完了形の条件節。「いまの時点で理解できているとすれば」。if I understood と過去形にすると、過去の一時点の話になります。"],
+  ["the priority is speed over cost", "S + be + C。over が「〜より優先して」を示します。"]
+ ],
+ "v": [
+  ["priority", "優先順位。the priority（最優先のもの）、priorities（優先順位の一覧）と、冠詞と数で意味が変わります。"],
+  ["over", "ここでは比較の over。「〜に勝って・〜より優先して」。choose A over B（BよりAを選ぶ）、prefer A over B も同じ用法です。"],
+  ["if I've understood", "完了形で「ここまでの話を理解できているとすれば」。会議の途中での確認に合います。"]
+ ],
+ "n": [
+  ["A over B", "AをBより優先する。最も簡潔。"],
+  ["A before B", "Aを先に、Bを後に。時間順の話になります。"],
+  ["A rather than B", "BではなくA。選択の対比です。"],
+  ["A at the expense of B", "Bを犠牲にしてA。代償があることを明示します。"]
+ ],
+ "nn": "over と rather than はどちらも自然ですが、over は優先順位、rather than は二者択一という違いがあります。at the expense of は犠牲を明示するため、トレードオフを確認したいときに有効です。",
+ "e": [
+  ["So if I've understood, the priority is speed over completeness — a rough answer this week beats a precise one next month.", "理解が正しければ、優先は網羅性より速度ということですね。来月の精密な答えより今週の粗い答え、ということです。"],
+  ["So if I've understood, the priority is retention over cost control this year.", "理解が正しければ、今年の優先はコスト管理より定着ということですね。"]
+ ],
+ "p": [
+  ["So if I've understood, the priority is [A] over [B].", ["So if I've understood, the priority is quality over volume.", "So if I've understood, the priority is the Japan entity over the group."]],
+  ["So if I've understood, [優先順位]. Is that the trade-off you want?", ["So if I've understood, speed over cost. Is that the trade-off you want?", "So if I've understood, we protect delivery and accept the overrun. Is that right?"]]
+ ],
+ "k": [
+  "優先の over（A over B）。時間順の before とは違う。",
+  "完了形の if I've understood は「ここまでの話を理解できていれば」。",
+  "優先順位は早く言葉にして固定する。後の判断がすべてそこに依存する。"
+ ]
+},
+"Could you spell that out for me?": {
+ "t": "もう少し噛み砕いて説明していただけますか。",
+ "tn": "抽象的な語を具体化させる型です。自分で推測して進むのではなく、相手の言葉で定義してもらうのが要点です。",
+ "s": [
+  ["Could you spell that out", "Could you + 原形。spell out は「はっきり説明する」の句動詞で、目的語が代名詞のときは spell it out のように間に挟みます。"],
+  ["for me", "for が「私のために」を示します。"]
+ ],
+ "sn": "句動詞の語順が要点です。目的語が代名詞（that, it）のときは動詞と副詞の間（spell that out）、名詞のときはどちらでも可（spell out the plan / spell the plan out）になります。",
+ "v": [
+  ["spell out", "spell は「1文字ずつ綴る」。1文字ずつ言うほど丁寧に、という比喩から「噛み砕いて説明する」。曖昧さを残さないという含みがあります。"],
+  ["for me", "受益者を示す for。to me だと伝達の相手になり、ニュアンスが変わります。"],
+  ["that", "相手の直前の発言や表現を指します。"]
+ ],
+ "n": [
+  ["Could you spell that out for me?", "噛み砕いて説明してほしい。曖昧さを残さない含み。"],
+  ["Could you unpack that?", "中身を開いて見せてほしい。やや口語的です。"],
+  ["Could you break that down?", "分解して説明してほしい。構成要素に焦点があります。"],
+  ["What does that mean in practice?", "実務上どうなるかを問う。最も具体的です。"]
+ ],
+ "e": [
+  ["Could you spell that out for me? When you say 'realign the organization', what actually changes?", "もう少し噛み砕いて説明していただけますか。「組織を再編する」とは、実際には何が変わるのでしょうか。"],
+  ["Could you spell out what 'support' means here — budget, people, or air cover?", "ここでの「支援」が何を指すのか明確にしていただけますか。予算でしょうか、人でしょうか、それとも後ろ盾でしょうか。"]
+ ],
+ "p": [
+  ["Could you spell out [対象] for me?", ["Could you spell out the next three steps for me?", "Could you spell out who does what for me?"]],
+  ["Could you [spell out / unpack / break down] [対象]?", ["Could you unpack the second point?", "Could you break down where the cost sits?"]]
+ ],
+ "k": [
+  "句動詞 + 代名詞は間に挟む（spell that out）。",
+  "spell out は「1文字ずつ綴るほど丁寧に」が原義。曖昧さを残さない。",
+  "抽象語は自分で推測せず、相手の言葉で定義してもらう。"
+ ]
+},
+"I want to make sure we're aligned before I start.": {
+ "t": "着手前に認識を揃えておきたいです。",
+ "tn": "手戻りを防ぐ一言です。経験の浅いうちほど、この確認の価値が大きくなります。",
+ "s": [
+  ["I want to make sure", "want to + 原形。"],
+  ["we're aligned", "make sure の目的語となる節。受動態の形ですが、be aligned は「認識が揃っている」という状態を表す形容詞的な用法です。"],
+  ["before I start", "before が接続詞として働き、後ろに主語 + 動詞が続きます。"]
+ ],
+ "v": [
+  ["align", "a-（〜へ）+ line（線）。もとは「一直線に並べる」。そこから「方向や認識をそろえる」へ。be aligned on A（Aについて認識が一致している）、align with A（Aに合わせる）。"],
+  ["make sure", "確実にする。"],
+  ["before", "接続詞用法。後ろが名詞のかたまりなら前置詞として動名詞を取ります（before starting）。"]
+ ],
+ "n": [
+  ["be aligned", "認識が揃っている。ビジネスで最も一般的。"],
+  ["be on the same page", "同じ理解でいる。口語的で、ややくだけています。"],
+  ["agree on ~", "合意する。認識の一致ではなく、意思決定の一致です。"],
+  ["have a shared understanding", "共通の理解を持つ。かたく、文書向きです。"]
+ ],
+ "nn": "be aligned と be on the same page はほぼ同義で、場の格式で選びます。agree on は「同じ判断をした」という意味なので、理解の一致とは別です。",
+ "e": [
+  ["I want to make sure we're aligned on scope before I start drafting.", "下書きに入る前に、範囲について認識を揃えておきたいです。"],
+  ["I want to make sure we're aligned before I take this to the client.", "クライアントに持っていく前に、認識を揃えておきたいです。"]
+ ],
+ "p": [
+  ["I want to make sure we're aligned before [行動].", ["I want to make sure we're aligned before we go to the steering committee.", "I want to make sure we're aligned before I commit the team."]],
+  ["I want to make sure we're aligned on [論点]: [確認事項].", ["I want to make sure we're aligned on the deliverable: two pages, not a deck.", "I want to make sure we're aligned on timing: draft Thursday, final Monday."]]
+ ],
+ "k": [
+  "align は「一直線に並べる」が原義。認識をそろえる意味で使う。",
+  "be aligned on ~（〜について認識が一致）。",
+  "着手前の確認が、最も手戻りを減らす。"
+ ]
+},
+"Just so I don't go in the wrong direction — is it A or B?": {
+ "t": "方向を誤らないための確認ですが、AとBのどちらでしょうか。",
+ "tn": "確認の目的を先に言う型です。目的が分かれば、細かい質問でも歓迎されます。",
+ "s": [
+  ["Just so I don't go in the wrong direction", "so (that) が目的を表す接続詞。「〜しないように」。just が軽さを加えています。"],
+  ["— is it A or B?", "ダッシュで本題の選択疑問文へつなぎます。"]
+ ],
+ "sn": "so that + 否定で目的を表す形です（so that I don't ... / so as not to ...）。会議では that を省いて so I don't ... とするのが自然です。",
+ "v": [
+  ["go in the wrong direction", "方向を誤る。in が「その方向の中へ」を示します。go to the wrong direction とは言いません。"],
+  ["just so ~", "「〜するためだけに」。確認の目的を軽く添える定型です。"],
+  ["direction", "方向。give direction（指示を出す）という別の用法もあるので、文脈で判断します。"]
+ ],
+ "n": [
+  ["Just so I don't go in the wrong direction, ...", "方向違いを避ける。最も実務的な前置き。"],
+  ["Just so I don't waste your time, ...", "相手の時間を無駄にしないため。配慮を示します。"],
+  ["Before I go too far, ...", "手を進めすぎる前に。早い段階での確認です。"],
+  ["One quick check before I start: ...", "着手前の短い確認。簡潔です。"]
+ ],
+ "e": [
+  ["Just so I don't go in the wrong direction — is the deliverable a recommendation or an options paper?", "方向を誤らないための確認ですが、成果物は推奨案でしょうか、それとも選択肢の整理でしょうか。"],
+  ["Just so I don't go too far down one path — do you want the global view or the Japan view?", "片方の道を進みすぎないための確認ですが、グローバル全体の視点でしょうか、日本に絞った視点でしょうか。"]
+ ],
+ "p": [
+  ["Just so I don't go in the wrong direction — is it [A] or [B]?", ["Just so I don't go in the wrong direction — is this for the board or for the working team?", "Just so I don't go in the wrong direction — are we solving for cost or for speed?"]],
+  ["Just so I don't [懸念], [確認].", ["Just so I don't duplicate work, has anyone looked at this already?", "Just so I don't overbuild this, how detailed does it need to be?"]]
+ ],
+ "k": [
+  "so (that) + 否定で目的を表す。会議では that を省くのが自然。",
+  "方向は in the wrong direction（to ではない）。",
+  "確認の目的を先に言うと、細かい質問でも歓迎される。"
+ ]
+}
+}

@@ -1,0 +1,630 @@
+{
+"I'm with you on that.": {
+ "t": "その点は同意です。",
+ "tn": "直訳は「その点ではあなたと一緒にいます」。短くて強い同意で、賛成のときも黙らず一言置くことが会議での存在感につながります。",
+ "s": [
+  ["I'm with you", "be with A で「Aと同じ側にいる」。物理的な同伴から、立場の一致へ広がった用法です。"],
+  ["on that", "on が「どの点について」を示します。範囲を限定するので、全面賛成とは区別されます。"]
+ ],
+ "v": [
+  ["be with ~", "コアイメージは「同じ場所にいる」。I'm with you. は「同意します」のほか、「話についていけています」の意味にもなります。逆に I'm not with you. は「話が見えません」です。"],
+  ["on ~", "論点を示す前置詞。agree on、differ on、push back on と、議論の語は on を取るものが多くあります。"],
+  ["that", "直前の発言を受けます。"]
+ ],
+ "n": [
+  ["I'm with you on that.", "短く強い同意。口語的で、社内向き。"],
+  ["I agree.", "最も中立。どの場でも使えます。"],
+  ["Agreed.", "一語での同意。素早く、やや事務的です。"],
+  ["I second that.", "動議への賛成が原義。会議体で使うとやや形式的です。"]
+ ],
+ "nn": "どれも自然な同意表現です。I'm with you は距離が近い言い方なので、初対面の社外の相手には I agree の方が無難です。",
+ "e": [
+  ["I'm with you on sequencing — fix the data before we touch the process.", "順序については同意です。プロセスに手を入れる前にデータを直すべきです。"],
+  ["I'm with you on the diagnosis. I'd like to talk about the remedy.", "問題認識については同意です。対策について議論させてください。"]
+ ],
+ "p": [
+  ["I'm with you on [論点].", ["I'm with you on the timing.", "I'm with you on the first two points."]],
+  ["I'm with you on [A], less so on [B].", ["I'm with you on the direction, less so on the pace.", "I'm with you on the problem, less so on the solution."]]
+ ],
+ "k": [
+  "be with A は「同じ側にいる」。I'm not with you は「話が見えない」。",
+  "論点を示す前置詞は on（agree on / differ on / push back on）。",
+  "賛成のときも一言置くと、会議での存在感が出る。"
+ ]
+},
+"I agree with the direction, but I'd change the sequencing.": {
+ "t": "方向性には賛成ですが、順序は変えたいです。",
+ "tn": "全否定を避けながら実質的な修正を入れる型です。外資の会議で最も出番が多い言い方のひとつです。",
+ "s": [
+  ["I agree with the direction,", "agree with A で「Aに同意する」。人にも意見にも使えます。"],
+  ["but I'd change the sequencing", "but で逆接。I would の短縮で、断定をやわらげています。"]
+ ],
+ "sn": "賛成の範囲を先に明示してから修正に入る構造です。順序を逆にすると、修正だけが耳に残って反対に聞こえます。",
+ "v": [
+  ["agree with / agree on / agree to", "agree with A（Aに同意する。人・意見）、agree on A（Aについて合意する。論点）、agree to A（Aを承諾する。提案・条件）。3つとも使い分けが必要です。"],
+  ["direction", "方向性。the direction of travel（進もうとしている方向）という言い方も会議で使われます。"],
+  ["sequencing", "順序立て。何を先にやるかという設計。sequence の動名詞が名詞化したものです。"]
+ ],
+ "n": [
+  ["agree with the direction", "方向性に同意。中身の細部は別という含み。"],
+  ["agree in principle", "原則として同意。条件が付く前提です。"],
+  ["agree with the diagnosis", "問題認識に同意。対策は別という切り分け。"],
+  ["fully agree", "全面的に同意。留保がないことを示します。"]
+ ],
+ "e": [
+  ["I agree with the direction, but I'd change the sequencing — manager training first, then the system change.", "方向性には賛成ですが、順序は変えたいです。まず管理職研修、その後にシステム変更です。"],
+  ["I agree with the direction, but I'd change who owns it after go-live.", "方向性には賛成ですが、本稼働後の担当は変えたいです。"]
+ ],
+ "p": [
+  ["I agree with [the direction], but I'd change [要素].", ["I agree with the goal, but I'd change the metric.", "I agree with the approach, but I'd change the scope."]],
+  ["I agree with [A]. My one change would be [B].", ["I agree with the plan. My one change would be the start date.", "I agree with the structure. My one change would be the reporting line."]]
+ ],
+ "k": [
+  "agree with（人・意見）/ agree on（論点）/ agree to（提案）を使い分ける。",
+  "賛成の範囲を先に言ってから修正に入る。順序を逆にすると反対に聞こえる。",
+  "sequencing は「何を先にやるか」の設計。"
+ ]
+},
+"That's a fair point, and I'd add one thing.": {
+ "t": "もっともなご指摘です。1点だけ付け加えます。",
+ "tn": "but ではなく and でつなぐと、反論ではなく積み上げに聞こえます。接続詞ひとつで印象が大きく変わります。",
+ "s": [
+  ["That's a fair point,", "That is の短縮。a fair point で「筋の通った指摘」。"],
+  ["and I'd add one thing", "and で並列。but にすると逆接になり、付け加えが反論に聞こえます。"]
+ ],
+ "sn": "この文の価値は接続詞にあります。同じ内容でも but でつなぐと「指摘は分かるが」という含みが出て、相手は身構えます。and なら「それに加えて」となり、協調的に響きます。",
+ "v": [
+  ["fair", "ここでは「公正な」ではなく「筋が通っている・もっともな」。a fair point / a fair question / That's fair. と、議論の中で頻出します。"],
+  ["add", "加える。add to A（Aに加える）、add that + 文（〜と付け加える）の形もあります。"],
+  ["one thing", "1つだけ、と数を限定することで、話が長くならないと示せます。"]
+ ],
+ "n": [
+  ["That's a fair point, and ...", "指摘を認めて積み上げる。協調的。"],
+  ["That's a fair point, but ...", "指摘を認めてから反論する。逆接が入ります。"],
+  ["That's a good question.", "質問を評価する。時間稼ぎにも使えます。"],
+  ["I hadn't thought of that.", "気づかなかったと認める。率直な反応です。"]
+ ],
+ "nn": "but を使うこと自体が悪いわけではありません。実際に反論するなら but が正確です。付け加えるだけなら and の方が意図に合います。",
+ "e": [
+  ["That's a fair point, and I'd add one thing: the same pattern shows up in the Osaka data.", "もっともなご指摘です。1点だけ付け加えると、同じ傾向が大阪のデータにも出ています。"],
+  ["That's a fair point, and I'd add that the cost of waiting is not zero.", "もっともなご指摘です。加えて、待つことの費用もゼロではありません。"]
+ ],
+ "p": [
+  ["That's a fair point, and I'd add [付け加え].", ["That's a fair point, and I'd add one caveat.", "That's a fair point, and I'd add that it also affects the Japan entity."]],
+  ["That's a fair point. [and / but] [続き].", ["That's a fair point. And it strengthens the case for phasing.", "That's a fair point. But it applies to both options equally."]]
+ ],
+ "k": [
+  "and でつなぐと積み上げ、but でつなぐと反論。接続詞で印象が変わる。",
+  "fair は「もっともな・筋が通った」。a fair point は議論の定番。",
+  "one thing と数を限定すると、話が長くならない。"
+ ]
+},
+"I see it differently, and here's why.": {
+ "t": "私は違う見方をしています。理由を申し上げます。",
+ "tn": "I disagree より柔らかいですが、逃げてはいません。必ず here's why で根拠に続けます。",
+ "s": [
+  ["I see it differently", "see A + 副詞で「Aをどう捉えるか」。differently が「別のように」を加えます。"],
+  ["and here's why", "提示表現。why の後ろの節は省略され、直後に理由を述べる前提です。"]
+ ],
+ "v": [
+  ["see", "ここでは「見る」ではなく「捉える・解釈する」。I see it as a timing issue.（時期の問題だと捉えている）も同じ用法です。"],
+  ["differently", "different の副詞形。I see it different とは言いません（動詞を修飾するので副詞が必要です）。"],
+  ["here's why", "Here is why の短縮。直後に理由を続ける合図です。"]
+ ],
+ "n": [
+  ["I see it differently.", "見方が違う。対立を人ではなく解釈に置きます。"],
+  ["I disagree.", "同意しない。最も直接的です。"],
+  ["I'd push back on that.", "異を唱える。外資では日常語です。"],
+  ["I'm not sure I agree.", "同意しかねる。最もやわらかい言い方です。"]
+ ],
+ "nn": "I disagree も普通に使われる表現で、失礼ではありません。I see it differently は「あなたが間違っている」ではなく「見え方が違う」という立て方になる点が違いです。",
+ "e": [
+  ["I see it differently, and here's why: the drop started before the reorganization, not after.", "私は違う見方をしています。理由は、低下が組織再編の後ではなく前から始まっているからです。"],
+  ["I see it differently. I'd read the same data as a capacity issue.", "私は違う見方をしています。同じデータを、私は体制の問題と読みます。"]
+ ],
+ "p": [
+  ["I see it differently, and here's why: [根拠].", ["I see it differently, and here's why: the sample excludes contractors.", "I see it differently, and here's why: the two periods are not comparable."]],
+  ["I see it [differently / as 〜]. [根拠].", ["I see it as a sequencing problem rather than a resourcing one.", "I see it differently — the cost sits in rework, not in headcount."]]
+ ],
+ "k": [
+  "see は「捉える・解釈する」の意味でも使う。",
+  "動詞を修飾するので differently（副詞）。different ではない。",
+  "here's why と言ったら必ず根拠を続ける。"
+ ]
+},
+"I'd support that if we can secure the data feed.": {
+ "t": "データ連携が確保できるなら、その案を支持します。",
+ "tn": "条件付き賛成です。単なる賛成より議論が前に進みます。条件が明示されるぶん、次に何をすべきかが決まるからです。",
+ "s": [
+  ["I'd support that", "I would の短縮。条件節とセットで「その場合には支持する」。"],
+  ["if we can secure the data feed", "条件節。現在形 can で、実際に起こりうる条件を示します。"]
+ ],
+ "sn": "帰結節が would、条件節が現在形という組み合わせです。条件が現実的に満たせる範囲にあることを示しています。",
+ "v": [
+  ["support", "ここでは「支持する」。証拠が主張を支える（データが主語）用法と、人が案を支持する用法があります。"],
+  ["secure", "形容詞では「安全な」、動詞では「確保する」。苦労して手に入れるという含みがあり、obtain より努力の跡が見えます。"],
+  ["data feed", "システム間で継続的にデータが流れる仕組み。一度きりの抽出（data extract）とは区別されます。"]
+ ],
+ "n": [
+  ["I'd support that if ...", "条件付き賛成。次の行動が決まります。"],
+  ["I'd support that, provided ...", "ほぼ同義で、ややかたい言い方です。"],
+  ["I could support that once ...", "ある時点以降なら支持できる。時間の条件です。"],
+  ["I'd support that in principle.", "原則として支持。条件は明示しません。"]
+ ],
+ "nn": "in principle は条件を明示しないため、後から「そんなつもりではなかった」という食い違いが起きやすい言い方です。実務では条件を言葉にする方が安全です。",
+ "e": [
+  ["I'd support that if we can secure a dedicated project manager for the first six months.", "最初の6か月、専任のプロジェクトマネジャーを確保できるなら支持します。"],
+  ["I'd support the phased approach if we can keep the March go-live for phase one.", "第1段階の3月稼働を維持できるなら、段階的な進め方を支持します。"]
+ ],
+ "p": [
+  ["I'd support that if [条件].", ["I'd support that if the budget is ring-fenced.", "I'd support that if HR owns the communication."]],
+  ["I'd support [案] if [条件]. Without that, [懸念].", ["I'd support it if we get the data feed. Without that, we are guessing.", "I'd support it if the scope is fixed. Without that, the estimate is meaningless."]]
+ ],
+ "k": [
+  "条件節は現在形、帰結節は would。実際に満たせる条件を置く。",
+  "secure は「苦労して確保する」。obtain より努力の含みがある。",
+  "条件を言葉にすると、次にやることが決まる。"
+ ]
+},
+"I'm not fully convinced yet, but I'm open to it.": {
+ "t": "まだ完全には納得していませんが、検討の余地はあると思います。",
+ "tn": "賛否を保留したいときの正直な言い方です。曖昧に頷くより信頼されます。",
+ "s": [
+  ["I'm not fully convinced yet,", "受動態 + not fully の部分否定。「完全には〜でない」で、まったく納得していないわけではないことを示します。"],
+  ["but I'm open to it", "be open to A で「Aを受け入れる用意がある」。to の後ろは名詞か動名詞です。"]
+ ],
+ "sn": "部分否定が要点です。not fully は「全部ではない」、not at all は「まったくない」。fully を入れるかどうかで、相手の受け取り方が大きく変わります。",
+ "v": [
+  ["convince", "con-（完全に）+ vincere（打ち勝つ）が語源。「議論で納得させる」。be convinced by A（Aに納得させられる）、be convinced that + 文。"],
+  ["be open to ~", "open のコアイメージは「開いている」。扉が開いていて入ってこられる状態なので、「受け入れる用意がある」。to は前置詞なので、動詞が来るときは動名詞になります（open to changing）。"],
+  ["yet", "否定文で「まだ」。not ... yet で「まだ〜していない」。今後変わりうることを示します。"]
+ ],
+ "n": [
+  ["I'm not fully convinced yet.", "部分的な留保。今後変わりうる含み。"],
+  ["I'm not convinced.", "納得していない。より強い否定です。"],
+  ["I have reservations.", "留保がある。かたく、ややよそよそしい響きです。"],
+  ["I'd want to see more before I commit.", "もっと見たい。何が必要かを示せます。"]
+ ],
+ "e": [
+  ["I'm not fully convinced yet, but I'm open to it if the pilot data comes back clean.", "まだ完全には納得していませんが、パイロットのデータに問題がなければ検討します。"],
+  ["I'm not fully convinced yet. What would change my mind is evidence from a comparable rollout.", "まだ完全には納得していません。考えを変えるとすれば、類似の導入事例の証拠です。"]
+ ],
+ "p": [
+  ["I'm not fully convinced yet, but I'm open to [対象].", ["I'm not fully convinced yet, but I'm open to running a pilot.", "I'm not fully convinced yet, but I'm open to the phased version."]],
+  ["I'm not fully convinced yet. What would convince me is [条件].", ["What would convince me is a second data source.", "What would convince me is seeing it work in one region first."]]
+ ],
+ "k": [
+  "not fully は部分否定。not at all（全否定）と区別する。",
+  "be open to の to は前置詞。動詞が続くときは動名詞。",
+  "保留するなら、何があれば納得するかまで言うと建設的になる。"
+ ]
+},
+"Let me build on what Sarah said.": {
+ "t": "サラの発言に付け加えさせてください。",
+ "tn": "他人の発言に紐づけて話すと、割り込みが自然になり、協調的にも見えます。発言の糸口を作る実用的な型です。",
+ "s": [
+  ["Let me build on ~", "Let + me + 原形 build。build on A で「Aの上に積み上げる」。"],
+  ["what Sarah said", "疑問詞 what が導く名詞節。「サラが言ったこと」。"]
+ ],
+ "v": [
+  ["build on ~", "建物を土台の上に建てる比喩。on が接触を示し、「既存のものを土台にして発展させる」。build upon も同じ意味で、ややかたい言い方です。"],
+  ["what ~ said", "関係代名詞の what。the thing that ~ said と同じ意味を1語で表せます。"],
+  ["let me", "許可を求める形ですが、実際には発言権を取る宣言として機能します。"]
+ ],
+ "n": [
+  ["Let me build on what X said.", "発言を土台に積み上げる。最も協調的。"],
+  ["To add to what X said, ...", "付け加える。ほぼ同義です。"],
+  ["Picking up on X's point, ...", "その点を拾って。会議の流れを引き継ぎます。"],
+  ["X made a point I'd like to extend.", "発言を広げたい。ややかたい言い方です。"]
+ ],
+ "e": [
+  ["Let me build on what Sarah said about onboarding — the same gap shows up in the promotion data.", "受け入れ体制についてのサラの発言に付け加えます。同じ欠落が昇進データにも出ています。"],
+  ["Let me build on that. If the constraint is reviewer time, we can change the review cycle rather than the headcount.", "その点に付け加えます。制約が査定者の時間なら、人員ではなく査定サイクルを変えられます。"]
+ ],
+ "p": [
+  ["Let me build on what [名前] said.", ["Let me build on what Kenji said earlier.", "Let me build on the point about data quality."]],
+  ["Let me build on [発言]: [付け加え].", ["Let me build on that: the same applies to the Osaka team.", "Let me build on your second point: the timing makes it worse."]]
+ ],
+ "k": [
+  "build on は「土台の上に積み上げる」。前置詞は on。",
+  "関係代名詞の what は「〜すること」を1語で表す。",
+  "他人の発言に紐づけると、割り込みが自然になる。"
+ ]
+},
+"I'd push back on that, respectfully.": {
+ "t": "失礼ながら、そこは異論があります。",
+ "tn": "push back は外資の会議で日常的に使われる語です。respectfully を添えると強さが調整され、対立ではなく検証として受け取られます。",
+ "s": [
+  ["I'd push back on that", "I would の短縮。push back on A で「Aに異を唱える」。"],
+  [", respectfully", "文末に置いた副詞。前にカンマを置くことで、添えものとして軽く響きます。"]
+ ],
+ "v": [
+  ["push back", "物理的に「押し返す」。議論では「言われたことをそのまま受け取らず押し返す」。英語圏の職場では健全な行為とされ、敵対の合図ではありません。名詞形は pushback（I got some pushback.）。"],
+  ["on ~", "論点を示す前置詞。push back on the assumption、push back on the timeline。"],
+  ["respectfully", "「敬意をもって」。with respect も同じ働きをしますが、With respect, ... は英国英語では皮肉に響くことがあるため、respectfully の方が安全です。"]
+ ],
+ "n": [
+  ["push back on ~", "異を唱える。検証を求める健全な行為。"],
+  ["challenge ~", "検証を求める。push back とほぼ同義で、ややかたい語です。"],
+  ["take issue with ~", "異議を唱える。かたく、対立の色が強めです。"],
+  ["question ~", "疑問を呈する。最もやわらかい言い方です。"]
+ ],
+ "nn": "push back と challenge はどちらも英語圏の職場で肯定的に使われます。take issue with は対立の色が濃いので、使う場面を選びます。",
+ "e": [
+  ["I'd push back on that, respectfully — the benchmark includes companies twice our size.", "失礼ながらそこは異論があります。そのベンチマークには当社の2倍規模の企業が含まれています。"],
+  ["I'd push back on the assumption that the two regions behave the same way.", "2つの地域が同じように動くという前提には異論があります。"]
+ ],
+ "p": [
+  ["I'd push back on [対象], respectfully.", ["I'd push back on the timeline, respectfully.", "I'd push back on that conclusion, respectfully."]],
+  ["I'd push back on [対象]: [根拠].", ["I'd push back on the sample: 40 responses out of 900 is thin.", "I'd push back on the cost figure: it excludes the transition period."]]
+ ],
+ "k": [
+  "push back は「検証を求める」健全な行為。敵対ではない。",
+  "論点は on で示す（push back on the assumption）。",
+  "respectfully を添えると強さが調整される。"
+ ]
+},
+"That makes sense to me.": {
+ "t": "それは理解できます。",
+ "tn": "軽い同意です。会議中に何も言わない時間を減らすための基本形として使えます。",
+ "s": [
+  ["That makes sense", "make sense で「筋が通る・理解できる」。主語は物事で、人は主語になりません。"],
+  ["to me", "to が「誰にとって」を示します。省いても通じますが、入れると「私の理解としては」と範囲が限定されます。"]
+ ],
+ "sn": "主語に注意が必要です。I make sense とは言いません（それは「私は筋が通っている」という別の意味になります）。筋が通るのは、人ではなく発言や計画です。",
+ "v": [
+  ["make sense", "sense は「意味・筋」。それを make する、つまり「意味をなす」。That doesn't make sense.（筋が通らない）が否定形です。"],
+  ["to me", "受け手を示す to。make sense to someone の形で、誰にとって理解できるかを限定します。"],
+  ["sense", "不可算名詞。a sense とすると「感覚・感じ」という別の意味になります。"]
+ ],
+ "n": [
+  ["That makes sense.", "筋が通る。軽い同意。"],
+  ["I follow.", "話についていけている。理解の表明で、同意ではありません。"],
+  ["Fair enough.", "納得した。やや譲歩の含みがあります。"],
+  ["Understood.", "了解。指示を受けたときに使われます。"]
+ ],
+ "nn": "That makes sense は「理解できる」であって、必ずしも「賛成」ではありません。賛成を明示したいときは I agree を続けます。",
+ "e": [
+  ["That makes sense to me. I'd want to see how it works at scale, though.", "それは理解できます。ただ、規模を広げたときにどう機能するかは見たいです。"],
+  ["That makes sense for the Japan entity. I'm less sure it holds for the group.", "日本法人については筋が通ります。グループ全体で成り立つかは確信がありません。"]
+ ],
+ "p": [
+  ["That makes sense to me, [and / but 〜].", ["That makes sense to me, and it fits what we heard in the interviews.", "That makes sense to me, but the timing worries me."]],
+  ["That makes sense [条件].", ["That makes sense if the volumes hold.", "That makes sense for phase one, less so for phase two."]]
+ ],
+ "k": [
+  "make sense の主語は物事。I make sense とは言わない。",
+  "make sense = 理解できる。賛成とは別なので、必要なら I agree を足す。",
+  "sense は不可算。a sense は別の意味になる。"
+ ]
+},
+"I'd go further than that.": {
+ "t": "私はもう一歩踏み込みます。",
+ "tn": "同意しながら主張を強める型です。賛成の中でも存在感を出せます。",
+ "s": [
+  ["I'd go further", "I would の短縮。go far の比較級 further を使い、「より先へ進む」。"],
+  ["than that", "比較の対象。直前の相手の発言を指します。"]
+ ],
+ "sn": "further と farther の使い分けが要点です。farther は物理的な距離、further は程度や議論の進み具合に使います。ここは議論の話なので further です。",
+ "v": [
+  ["go further", "「さらに先へ進む」。議論では「相手より強い主張をする」。I'd go one step further. も同じ意味です。"],
+  ["further", "far の比較級のひとつ。程度・範囲について使います。further discussion（さらなる議論）、further to your email（メールの件で）。"],
+  ["than", "比較の接続詞。than that で比較対象を示します。"]
+ ],
+ "n": [
+  ["I'd go further than that.", "同意しつつ強める。存在感が出ます。"],
+  ["I'd go one step further.", "ほぼ同義で、より具体的な印象です。"],
+  ["I'd put it more strongly.", "より強い表現にする。言い方の問題に焦点があります。"],
+  ["Not only that, but ...", "それだけでなく。追加の論点を足します。"]
+ ],
+ "e": [
+  ["I'd go further than that: I don't think we should run the pilot at all until the data is fixed.", "私はもう一歩踏み込みます。データが直るまでは、パイロット自体を実施すべきではないと考えます。"],
+  ["I'd go further than that — this is not just a reporting issue, it is a definition issue.", "もう一歩踏み込みます。これは報告の問題ではなく、定義の問題です。"]
+ ],
+ "p": [
+  ["I'd go further than that: [より強い主張].", ["I'd go further than that: the whole band structure needs rebuilding.", "I'd go further than that: we should not renew the contract."]],
+  ["I'd go one step further and [行動 / 主張].", ["I'd go one step further and make it a board-level decision.", "I'd go one step further and stop the second workstream."]]
+ ],
+ "k": [
+  "further は程度・議論、farther は物理的距離。",
+  "同意の上で強めるので、対立にならずに主張できる。",
+  "強める以上、根拠も一段強いものを用意する。"
+ ]
+},
+"I agree with the diagnosis but not the remedy.": {
+ "t": "問題認識には同意しますが、対策には同意できません。",
+ "tn": "同意と不同意を分けて示す型です。議論の焦点が一気に絞れます。",
+ "s": [
+  ["I agree with the diagnosis", "agree with A の形。"],
+  ["but not the remedy", "but not の後ろは省略形で、I do not agree with the remedy の繰り返しを避けています。"]
+ ],
+ "sn": "省略が効いている文です。but not + 名詞 の形は、前半の動詞と前置詞をそのまま引き継ぎます。短く言い切れるので、焦点が明確になります。",
+ "v": [
+  ["diagnosis", "もとは医学用語で「診断」。問題が何かを特定すること。複数形は diagnoses。"],
+  ["remedy", "同じく医学由来で「治療法」。問題への対処策。ビジネスでは fix や solution と交換して使えます。"],
+  ["but not", "前半を受けて否定する省略形。I like the idea but not the timing. のように広く使えます。"]
+ ],
+ "n": [
+  ["diagnosis / remedy", "問題の特定と対処。医学由来の対で、分析の議論に合います。"],
+  ["problem / solution", "最も一般的な対。中立です。"],
+  ["symptom / root cause", "表に出た現象と根本原因。診断そのものを分解する対です。"],
+  ["what / so what / now what", "事実・示唆・行動の3段。構成の整理に使われます。"]
+ ],
+ "e": [
+  ["I agree with the diagnosis but not the remedy — the issue is manager capability, and more training alone will not fix it.", "問題認識には同意しますが、対策には同意できません。論点は管理職の能力であり、研修を増やすだけでは解決しません。"],
+  ["I agree with the diagnosis but not the sequencing.", "問題認識には同意しますが、順序には同意できません。"]
+ ],
+ "p": [
+  ["I agree with [the diagnosis] but not [the remedy].", ["I agree with the problem statement but not the scope.", "I agree with the target but not the timeline."]],
+  ["I agree with [A] but not [B]. [理由].", ["I agree with the goal but not the metric: headcount does not capture productivity.", "I agree with the direction but not the pace: six months is not enough."]]
+ ],
+ "k": [
+  "but not + 名詞 で、前半の動詞と前置詞を引き継いで省略できる。",
+  "diagnosis / remedy は医学由来の対。分析の議論に合う。",
+  "同意と不同意を分けると、議論の焦点が絞れる。"
+ ]
+},
+"That's exactly the point I wanted to raise.": {
+ "t": "まさに私が挙げたかった点です。",
+ "tn": "相手の発言に乗って発言権を得る型です。割り込みが自然になります。",
+ "s": [
+  ["That's exactly the point", "That is の短縮。exactly が the point を強めています。"],
+  ["I wanted to raise", "the point を修飾する関係詞節。目的格の関係代名詞が省略されています。"]
+ ],
+ "v": [
+  ["raise a point", "raise は「持ち上げる」。議題や論点を場に持ち上げる、つまり「提起する」。raise a question / raise a concern / raise a flag も同じ型です。"],
+  ["exactly", "「ちょうど・まさに」。the point の前に置いて一致の強さを示します。"],
+  ["wanted to", "過去形。「挙げたいと思っていた」。これから挙げる場合は want to になります。"]
+ ],
+ "n": [
+  ["That's exactly the point I wanted to raise.", "同じ論点だったと示す。発言権を得やすい。"],
+  ["That's exactly my concern.", "懸念が一致している。より短い言い方です。"],
+  ["You've taken the words out of my mouth.", "言おうとしたことを言われた。口語的な慣用句です。"],
+  ["I was going to say the same thing.", "同じことを言おうとしていた。最も素直な形です。"]
+ ],
+ "e": [
+  ["That's exactly the point I wanted to raise — we have no owner for this after the project ends.", "まさに私が挙げたかった点です。プロジェクト終了後の担当者が決まっていません。"],
+  ["That's exactly the concern I wanted to raise about the data definitions.", "データの定義について、まさに私が挙げたかった懸念です。"]
+ ],
+ "p": [
+  ["That's exactly the point I wanted to raise about [話題].", ["That's exactly the point I wanted to raise about ownership.", "That's exactly the question I wanted to raise about scope."]],
+  ["That's exactly [the point / my concern]. [続けて自分の内容].", ["That's exactly my concern. Let me show you where it bites.", "That's exactly the point. And it gets worse at scale."]]
+ ],
+ "k": [
+  "raise a point / a question / a concern。論点を場に持ち上げる動詞。",
+  "関係代名詞の省略（the point I wanted to raise）。",
+  "相手の発言に乗ると、割り込みが自然になる。"
+ ]
+},
+"I'm on board with the direction.": {
+ "t": "方向性には賛同します。",
+ "tn": "全面賛成ではないときの入口です。後ろに修正案を付けて使います。",
+ "s": [
+  ["I'm on board", "be on board で「乗っている・賛同している」。船や飛行機に乗る比喩です。"],
+  ["with the direction", "with が「何について」を示します。on board with A の形で定着しています。"]
+ ],
+ "v": [
+  ["on board", "もとは船上にいること。そこから「同じ船に乗っている＝賛同している」へ。get everyone on board（全員の賛同を得る）、onboarding（組織に乗せる過程）も同じ語源です。"],
+  ["with", "ここでは「〜について」。on board with the plan / on board with the direction。"],
+  ["direction", "方向性。細部ではなく大枠を指すため、留保を残しやすい語です。"]
+ ],
+ "n": [
+  ["I'm on board with ~", "賛同している。口語的で前向きな響き。"],
+  ["I'm supportive of ~", "支持している。ややかたい言い方です。"],
+  ["I'm aligned on ~", "認識が一致している。賛否より理解の一致に焦点があります。"],
+  ["I'm bought in on ~", "納得して関与している。くだけた社内用語です。"]
+ ],
+ "e": [
+  ["I'm on board with the direction. My question is whether we can resource it this quarter.", "方向性には賛同します。私の論点は、今四半期に体制を組めるかどうかです。"],
+  ["I'm on board with the direction, and I'd like to tighten the success measures.", "方向性には賛同します。そのうえで成功指標を具体化したいです。"]
+ ],
+ "p": [
+  ["I'm on board with [対象].", ["I'm on board with the overall plan.", "I'm on board with phase one."]],
+  ["I'm on board with [A]. [留保 / 次の論点].", ["I'm on board with the goal. The open question is sequencing.", "I'm on board with the approach. I'd want one change to the governance."]]
+ ],
+ "k": [
+  "on board は「同じ船に乗っている」が原義。前置詞は with。",
+  "direction は大枠を指すので、細部の留保を残しやすい。",
+  "入口として使い、後ろに修正案を付ける。"
+ ]
+},
+"I'd only add one caveat.": {
+ "t": "1点だけ留保を付けさせてください。",
+ "tn": "賛成の中に条件を埋め込む型です。反対に見えずにリスクを残せます。",
+ "s": [
+  ["I'd only add", "I would の短縮。only が add を限定し、「付け加えるのはこれだけ」と示します。"],
+  ["one caveat", "目的語。one が数を限定しています。"]
+ ],
+ "sn": "only の位置が要点です。I'd only add one caveat は「付け加えるのは1点だけ」、I'd add only one caveat もほぼ同義ですが、前者の方が口語的で自然に響きます。",
+ "v": [
+  ["caveat", "ラテン語で「気をつけよ」。注意すべき留保条件を指します。with one caveat（1点の留保付きで）、the caveat is that ...（留保は〜という点です）。"],
+  ["only", "限定の副詞。位置によって何を限定するかが変わるため、口頭では強く読む語に合わせて置きます。"],
+  ["add", "付け加える。add a caveat / add a condition / add a note。"]
+ ],
+ "n": [
+  ["caveat", "注意すべき留保。条件というより「但し書き」。"],
+  ["condition", "満たすべき条件。満たされなければ成立しません。"],
+  ["reservation", "留保・ためらい。賛否に迷いがある含みです。"],
+  ["qualifier", "条件を限定する言葉。発言の範囲を狭めます。"]
+ ],
+ "nn": "caveat は「但し書き」で、賛成そのものは取り消しません。condition は「満たされなければ賛成しない」なので、拘束力が違います。",
+ "e": [
+  ["I'd only add one caveat: this assumes we keep the current approval thresholds.", "1点だけ留保を付けます。これは現行の承認基準を維持することを前提としています。"],
+  ["I'd only add one caveat — the savings depend on redeployment, not exits.", "1点だけ留保を付けます。削減効果は退職ではなく配置転換を前提としています。"]
+ ],
+ "p": [
+  ["I'd only add one caveat: [留保].", ["I'd only add one caveat: the figure excludes one-off costs.", "I'd only add one caveat: this holds only for the Japan entity."]],
+  ["I support it, with one [caveat / condition]: [内容].", ["I support it, with one condition: a named owner before we start.", "I support it, with one caveat: the number is pre-audit."]]
+ ],
+ "k": [
+  "caveat は「但し書き」。condition（満たすべき条件）とは拘束力が違う。",
+  "only の位置で何を限定するかが変わる。",
+  "賛成の中に留保を埋め込むと、反対に見えずリスクを残せる。"
+ ]
+},
+"I don't think we actually disagree.": {
+ "t": "実のところ、対立していないと思います。",
+ "tn": "無用な対立を解消する型です。定義のずれが原因のときに効きます。",
+ "s": [
+  ["I don't think", "否定の位置に注意。英語では I think we don't disagree ではなく I don't think we disagree とするのが自然です（否定の繰り上げ）。"],
+  ["we actually disagree", "actually が「実のところ」。見かけと実際が違うことを示します。"]
+ ],
+ "sn": "否定の繰り上げという現象です。日本語では「〜ではないと思う」と後ろに否定が来ますが、英語では I don't think ... と前に出すのが標準です。",
+ "v": [
+  ["actually", "「実は・実際のところ」。見かけと違うことを示す副詞です。日本語の「実際に」とは少しずれ、「思われているのとは違って」という含みが中心になります。"],
+  ["disagree", "dis-（否定）+ agree。自動詞なので、対象を示すときは disagree with A、disagree on A の形にします。"],
+  ["don't think", "否定の繰り上げ。I don't think so. が代表例です。"]
+ ],
+ "n": [
+  ["I don't think we actually disagree.", "対立を解消する。定義のずれが原因のときに。"],
+  ["I think we're saying the same thing.", "同じことを言っている。より直接的です。"],
+  ["We may be using the word differently.", "語の使い方が違う。原因を名指しします。"],
+  ["Let's check whether we're solving the same problem.", "解いている問題が同じか確かめよう。より上位の確認です。"]
+ ],
+ "e": [
+  ["I don't think we actually disagree — you're talking about this fiscal year, I'm talking about the run rate.", "実のところ対立していないと思います。そちらは今年度の話、私は年換算の話をしています。"],
+  ["I don't think we actually disagree. We both want the pilot; the question is how big it should be.", "実のところ対立していないと思います。双方ともパイロットには賛成で、論点は規模です。"]
+ ],
+ "p": [
+  ["I don't think we actually disagree — [整理].", ["I don't think we actually disagree — we're using 'cost' to mean two different things.", "I don't think we actually disagree — the difference is the time horizon."]],
+  ["I think we're saying the same thing in different words: [共通点].", ["I think we're saying the same thing in different words: speed matters more than precision here.", "I think we agree on the what and differ on the when."]]
+ ],
+ "k": [
+  "否定の繰り上げ（I don't think ... が自然）。",
+  "actually は「思われているのとは違って」。",
+  "対立の原因は定義のずれであることが多い。まずそこを疑う。"
+ ]
+},
+"That's a better way to put it than mine.": {
+ "t": "私の言い方よりそちらの表現の方が的確です。",
+ "tn": "英語の表現力で不利な場面でも、協調姿勢は示せます。相手を立てながら議論に残れる型です。",
+ "s": [
+  ["That's a better way to put it", "a way to do の形で「〜するやり方」。to put it が way を修飾しています。"],
+  ["than mine", "比較の than。mine は my way の所有代名詞です。"]
+ ],
+ "v": [
+  ["put", "「言葉を置く＝表現する」の用法。to put it simply（簡単に言えば）、to put it another way（言い換えると）と同じ発想です。"],
+  ["way to do", "〜するやり方。a way of doing もほぼ同義で、to不定詞の方が目的志向の響きがあります。"],
+  ["mine", "所有代名詞。my way の繰り返しを避けます。"]
+ ],
+ "n": [
+  ["That's a better way to put it.", "表現を認める。相手を立てます。"],
+  ["That's well put.", "うまい言い方だ。短く、ほめる形です。"],
+  ["I'll borrow that.", "その表現を使わせてもらう。親しみのある言い方です。"],
+  ["Let me use your words: ...", "あなたの言葉を使うと。引用して議論を続けます。"]
+ ],
+ "e": [
+  ["That's a better way to put it than mine — 'capability gap' is more precise than 'skills problem'.", "私の言い方よりそちらの表現の方が的確です。「能力の不足」の方が「スキルの問題」より正確です。"],
+  ["That's a better way to put it. Let me use your words in the summary.", "そちらの表現の方が的確です。要約ではその言い方を使わせてください。"]
+ ],
+ "p": [
+  ["That's a better way to put it than [mine].", ["That's a better way to put it than the one in the deck.", "That's a better way to put it than how I framed it."]],
+  ["That's [well put / a better way to put it]. [続き].", ["That's well put. I'd add one example to it.", "That's a better way to put it. Let's use that in the client note."]]
+ ],
+ "k": [
+  "put には「言葉を置く＝表現する」の用法がある。",
+  "mine は my way の所有代名詞。繰り返しを避ける。",
+  "表現力で不利でも、協調姿勢は示せる。"
+ ]
+},
+"I support it, with one condition.": {
+ "t": "1つ条件付きで賛成します。",
+ "tn": "条件を数えて出す型です。曖昧な賛成より、実行の段階で強く効きます。",
+ "s": [
+  ["I support it,", "S + V + O。"],
+  ["with one condition", "付帯の with句。文末にカンマで足して条件を後出しします。"]
+ ],
+ "v": [
+  ["condition", "満たされるべき条件。on condition that + 文（〜という条件で）という形もあります。"],
+  ["with", "付帯の with。「〜を伴って」。with one exception、with two caveats も同じ形です。"],
+  ["support", "支持する。back（後押しする）、endorse（公式に推薦する）と強さが異なります。"]
+ ],
+ "n": [
+  ["I support it, with one condition.", "条件付き賛成。実行段階で効きます。"],
+  ["I support it in principle.", "原則として賛成。条件は明示しません。"],
+  ["I'll back it.", "後押しする。口語的で、行動を伴う含みです。"],
+  ["I can live with it.", "受け入れられる。積極的な賛成ではありません。"]
+ ],
+ "nn": "I can live with it は「反対はしない」程度の消極的な受容です。賛成として伝えたいときは I support it の方が誤解がありません。",
+ "e": [
+  ["I support it, with one condition: a named owner for each workstream before we kick off.", "1つ条件付きで賛成します。開始前に各作業領域の担当者を明確にすることです。"],
+  ["I support it, with one condition — we review after the first eight weeks.", "1つ条件付きで賛成します。最初の8週間が終わった時点で見直すことです。"]
+ ],
+ "p": [
+  ["I support it, with one condition: [条件].", ["I support it, with one condition: the budget is ring-fenced.", "I support it, with one condition: we do not expand scope mid-way."]],
+  ["I support it, with [n] conditions: [列挙].", ["I support it, with two conditions: a named owner and a hard review date.", "I support it, with one exception: the regulated entities stay out of scope."]]
+ ],
+ "k": [
+  "付帯の with で条件を後出しできる。数を先に言う。",
+  "condition（満たすべき条件）と caveat（但し書き）を区別する。",
+  "I can live with it は消極的な受容。賛成とは違う。"
+ ]
+},
+"Where I'd differ is on the timing.": {
+ "t": "私が異なるのは時期についてです。",
+ "tn": "不一致の範囲を限定する型です。全否定に聞こえないため、相手も受け入れやすくなります。",
+ "s": [
+  ["Where I'd differ", "関係副詞 where が導く名詞節が主語。「私が異なるところ」。"],
+  ["is on the timing", "補語の位置に前置詞句が来る形。differ on A（Aについて見解が異なる）の on がそのまま残っています。"]
+ ],
+ "sn": "differ on の on が補語の位置に出てくる、少し変わった構造です。Where I'd differ is on X. は定型句として塊で覚えて構いません。",
+ "v": [
+  ["differ", "違う。自動詞で、differ from A（Aと異なる）、differ on A（Aについて意見が分かれる）と前置詞で意味が変わります。"],
+  ["on", "論点を示す前置詞。"],
+  ["timing", "時期の判断。時間そのものではなく、いつ行うかという設計です。"]
+ ],
+ "n": [
+  ["Where I'd differ is on ~", "不一致の範囲を限定する。全否定に聞こえません。"],
+  ["My only difference is ~", "違いは1点だけ。より短い言い方です。"],
+  ["I'm with you except on ~", "〜を除いて同意。賛成の範囲が広いことを示します。"],
+  ["I disagree on ~", "〜について同意しない。最も直接的です。"]
+ ],
+ "e": [
+  ["Where I'd differ is on the timing — I'd start after the fiscal year closes, not before.", "私が異なるのは時期についてです。年度が締まる前ではなく、締まった後に始めるべきだと考えます。"],
+  ["Where I'd differ is on who owns it, not on what we do.", "私が異なるのは、何をするかではなく誰が担うかについてです。"]
+ ],
+ "p": [
+  ["Where I'd differ is on [要素].", ["Where I'd differ is on the scope.", "Where I'd differ is on the success measure."]],
+  ["Where I'd differ is on [A], not [B].", ["Where I'd differ is on the pace, not the direction.", "Where I'd differ is on the metric, not the target."]]
+ ],
+ "k": [
+  "differ from（〜と異なる）と differ on（〜について意見が分かれる）。",
+  "Where I'd differ is on X. は定型句。塊で覚える。",
+  "不一致の範囲を限定すると、全否定に聞こえない。"
+ ]
+},
+"Count me in, as long as the scope stays fixed.": {
+ "t": "スコープが固定である限り、私は賛成です。",
+ "tn": "くだけた場面向けの言い方です。条件を後ろに置くと、軽さと実務性が両立します。",
+ "s": [
+  ["Count me in,", "命令形。count A in で「Aを仲間に入れて数える」。"],
+  ["as long as the scope stays fixed", "as long as が条件を表す接続詞。後ろは現在形で、未来のことでも will は使いません。"]
+ ],
+ "sn": "条件を表す副詞節の中では、未来のことでも現在形を使います（as long as it stays、if it works、when we start）。will を入れるのは誤りです。",
+ "v": [
+  ["count ~ in", "数に入れる。Count me in.（私も参加します）、Count me out.（私は抜けます）と対になります。目的語が代名詞のときは間に挟みます。"],
+  ["as long as", "「〜である限り」。条件を表す接続詞で、so long as も同じ意味です。"],
+  ["stay fixed", "固定されたままでいる。stay + 形容詞で状態の継続を表します。"]
+ ],
+ "n": [
+  ["Count me in.", "参加する。くだけた社内向きの表現。"],
+  ["I'm in.", "さらに短い言い方。親しい関係向きです。"],
+  ["You can count on me.", "頼ってよい。支援の約束です。"],
+  ["I'd be happy to support it.", "ていねいな賛成。社外でも使えます。"]
+ ],
+ "nn": "Count me in. と I'm in. は社内の近い関係向きです。クライアントや上位者には I'd be happy to support it. の方が安全です。",
+ "e": [
+  ["Count me in, as long as the scope stays fixed — I can't take on a moving target this quarter.", "スコープが固定である限り参加します。今四半期に動く目標を抱えるのは難しいので。"],
+  ["Count me in, as long as we agree the review date up front.", "見直し時期を先に決めるなら参加します。"]
+ ],
+ "p": [
+  ["Count me in, as long as [条件].", ["Count me in, as long as the team stays the same.", "Count me in, as long as we finish before the audit."]],
+  ["[Count me in / I'm in], as long as [条件]. Otherwise, [代替].", ["Count me in, as long as it is phase one only. Otherwise, I'd need more hands.", "I'm in, as long as the deadline holds. Otherwise, let's revisit."]]
+ ],
+ "k": [
+  "count me in / count me out は対の表現。",
+  "条件の副詞節（as long as / if / when）の中は、未来でも現在形。",
+  "くだけた表現なので、社外では I'd be happy to support it. に置き換える。"
+ ]
+}
+}

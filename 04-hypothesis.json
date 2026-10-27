@@ -1,0 +1,607 @@
+{
+"My working hypothesis is that price is the main driver.": {
+ "t": "現時点の仮説は、主因は価格だということです。",
+ "tn": "working を付けると「検証の途中で、変わりうる」と伝わります。断定を避けながら議論を前に進められます。",
+ "s": [
+  ["My working hypothesis", "主語。working が hypothesis を修飾し、「作業用の・暫定の」という意味を加えます。"],
+  ["is that ...", "S is that SV の構文。仮説の中身を that節で述べます。"],
+  ["price is the main driver", "that節の中身。the main driver の the は「複数ある要因のうち最も大きい1つ」と特定しているためです。"]
+ ],
+ "v": [
+  ["working", "「いま動かしている・作業中の」。working draft（たたき台）、working assumption（暫定の前提）、working title（仮題）と同じ用法です。修正される前提だと示せます。"],
+  ["hypothesis", "複数形は hypotheses（ハイポセシーズ）と不規則変化します。analysis / analyses、basis / bases と同じ型です。"],
+  ["driver", "「動かすもの」。結果を押し動かしている要因を指します。cost driver（費用の要因）、value driver（価値の源泉）。"]
+ ],
+ "n": [
+  ["working hypothesis", "検証中で、変わりうる仮説。最も安全に出せます。"],
+  ["hypothesis", "仮説。検証の対象という位置づけは同じですが、暫定である含みは弱まります。"],
+  ["view", "見立て。検証の手続きを前提としません。"],
+  ["finding", "検証を経て分かったこと。仮説とは確度が明確に違います。"]
+ ],
+ "e": [
+  ["My working hypothesis is that the attrition spike is driven by the new grading scheme, not by pay levels.", "現時点の仮説は、離職の急増が報酬水準ではなく新しい等級制度によるものだ、ということです。"],
+  ["My working hypothesis is that the bottleneck sits in approvals, and I plan to test it this week.", "現時点の仮説はボトルネックが承認プロセスにあるというもので、今週検証する予定です。"]
+ ],
+ "p": [
+  ["My working hypothesis is that [仮説].", ["My working hypothesis is that the two regions are not comparable.", "My working hypothesis is that managers, not pay, drive the gap."]],
+  ["My working [hypothesis / assumption] is [内容]; I plan to test it by [方法].", ["My working assumption is 10% attrition; I plan to test it against the last three years.", "My working hypothesis is that onboarding is the cause; I plan to test it with the cohort data."]]
+ ],
+ "k": [
+  "working = 暫定の・作業用の。working draft / working assumption と同じ用法。",
+  "hypothesis の複数形は hypotheses（不規則変化）。",
+  "driver は「結果を押し動かしている要因」。"
+ ]
+},
+"I'm assuming volume stays flat. Is that fair?": {
+ "t": "数量は横ばいと想定しています。この前提で問題ないでしょうか。",
+ "tn": "前提をその場で開示し、相手に握ってもらう型です。後から「前提が違った」という手戻りを防げます。",
+ "s": [
+  ["I'm assuming (that) volume stays flat.", "現在進行形。「いまこの議論で、そう置いている」という一時的な想定を表します。I assume と単純現在にすると、常にそう考えているという含みになります。"],
+  ["Is that fair?", "短い確認の疑問文。that は直前の前提を指します。"]
+ ],
+ "sn": "進行形が効いている文です。進行形は「いま・一時的に」を表すため、「この議論の間だけの置き方」というニュアンスが出ます。",
+ "v": [
+  ["assume", "ad-（〜へ）+ sumere（取る）。自分の側に取り込んで前提として置くことです。suppose よりも「作業上そう置く」という実務的な響きがあります。"],
+  ["flat", "もとは「平らな」。グラフの線が水平なイメージで「横ばい」。stay flat / remain flat の形で使います。"],
+  ["Is that fair?", "「それで妥当でしょうか」。英語会議で前提や要約の同意を取るときの定型です。fair は「公正な」ではなく「筋が通っている」の意味で使われています。"]
+ ],
+ "n": [
+  ["Is that fair?", "妥当かどうかを問う。最も使いやすい確認。"],
+  ["Does that hold?", "それは成り立つか。前提の妥当性に踏み込みます。"],
+  ["Are you comfortable with that?", "その前提で問題ないか。相手の納得を問います。"],
+  ["Any objection to that?", "異論はあるか。やや形式的な響きです。"]
+ ],
+ "nn": "Is that fair? は英語会議で非常に広く使われる確認表現です。Does that hold? は前提の論理的な妥当性、Are you comfortable with that? は相手の納得感に焦点があります。",
+ "e": [
+  ["I'm assuming headcount stays flat through the first half. Is that fair?", "上期を通じて人員は横ばいと想定しています。この前提で問題ないでしょうか。"],
+  ["I'm assuming we keep the current approval thresholds. Is that fair?", "現行の承認基準はそのままと想定しています。この前提で問題ないでしょうか。"]
+ ],
+ "p": [
+  ["I'm assuming [前提]. Is that fair?", ["I'm assuming the pilot runs for twelve weeks. Is that fair?", "I'm assuming no change to the fee structure. Is that fair?"]],
+  ["I'm assuming [前提]. [Is that fair? / Does that hold?]", ["I'm assuming the data is complete through March. Does that hold?", "I'm assuming you own the rollout. Is that fair?"]]
+ ],
+ "k": [
+  "進行形の I'm assuming は「この議論の間だけの置き方」。",
+  "Is that fair? は前提や要約の同意を取る定型。fair は「筋が通っている」。",
+  "前提を先に開示しておくと、後の手戻りを防げる。"
+ ]
+},
+"Let's test that with a quick example.": {
+ "t": "簡単な例で検証してみましょう。",
+ "tn": "議論が抽象論で止まったときに動かす一言です。自分の仮説にも相手の仮説にも使えます。",
+ "s": [
+  ["Let's test that", "Let us の短縮。let + us + 原形 test で、話し手を含む提案になります。"],
+  ["with a quick example", "with が手段を示します。「例を使って」。"]
+ ],
+ "v": [
+  ["test", "検証する。試しにかけて成り立つかを見ること。test a hypothesis（仮説を検証する）、test an assumption（前提を試す）。"],
+  ["with", "手段の with。「それを用いて」。by + 動名詞（by running the numbers）は方法、with + 名詞は道具や材料という使い分けが目安になります。"],
+  ["quick", "「短時間で済む」。相手の時間を取らないと示すことで、提案が通りやすくなります。"]
+ ],
+ "n": [
+  ["Let's test that ...", "検証しようと提案する。中立で、相手の案にも使えます。"],
+  ["Let's sanity-check that.", "筋が通るか軽く確かめる。より簡易です。"],
+  ["Let's stress-test that.", "厳しい条件をかけて確かめる。頑健性を見ます。"],
+  ["Let's take an example.", "例を取る。検証とまでは言いません。"]
+ ],
+ "nn": "test / sanity-check / stress-test はいずれも自然で、確かめ方の厳しさが違います。相手の案に対して使うなら、まず sanity-check が角が立ちません。",
+ "e": [
+  ["Let's test that with a quick example: take the Osaka team and apply the same assumption.", "簡単な例で検証しましょう。大阪のチームに同じ前提を当ててみます。"],
+  ["Let's test that with last year's actuals before we build the model.", "モデルを組む前に、昨年の実績で検証してみましょう。"]
+ ],
+ "p": [
+  ["Let's test that with [方法].", ["Let's test that with the Q1 data.", "Let's test that with one business unit first."]],
+  ["Let's [test / sanity-check / stress-test] that [条件].", ["Let's stress-test that at half the volume.", "Let's sanity-check that against the budget."]]
+ ],
+ "k": [
+  "Let's は Let us の短縮。後ろは動詞の原形。",
+  "手段の with（with an example）と方法の by + 動名詞を使い分ける。",
+  "quick と添えると、提案が通りやすくなる。"
+ ]
+},
+"If that's true, we'd expect to see the same pattern in Japan.": {
+ "t": "それが正しければ、日本でも同じ傾向が見えるはずです。",
+ "tn": "仮説を反証可能な形に言い換える型です。コンサルの議論で最も評価される言い方のひとつで、「正しいならこれが観測できるはず」と予測を立てます。",
+ "s": [
+  ["If that's true,", "条件節。現在形で、実際にありうる条件を示します。"],
+  ["we'd expect to see ~", "we would の短縮。would が「その場合には」という仮の話であることを示します。expect to + 原形で「〜すると見込む」。"],
+  ["the same pattern in Japan", "see の目的語。the same は必ず定冠詞を伴います。"]
+ ],
+ "sn": "この型の価値は、仮説から観測可能な予測を導く点にあります。「もし正しければ、何が見えるはずか」を言えると、議論が意見の応酬から検証に変わります。",
+ "v": [
+  ["expect to see ~", "expect は「あらかじめ見ておく」。to see と続けて「観測されると見込む」。expect seeing とは言いません。"],
+  ["pattern", "繰り返し現れる型。a consistent pattern（一貫した傾向）、break the pattern（傾向が崩れる）。"],
+  ["the same ~", "same は定冠詞が必須です。a same pattern とは言いません。"]
+ ],
+ "n": [
+  ["If that's true, we'd expect to see ...", "観測可能な予測を立てる。検証に直結します。"],
+  ["If that's true, it would follow that ...", "論理的な帰結を述べる。観測ではなく推論です。"],
+  ["That would also mean ...", "別の含意を足す。検証の提案までは含みません。"],
+  ["The test would be ...", "検証方法そのものを示す。より直接的です。"]
+ ],
+ "e": [
+  ["If that's true, we'd expect to see the same drop in the Japan entity, and we don't.", "それが正しければ日本法人でも同じ低下が見えるはずですが、実際には見えません。"],
+  ["If pay is the driver, we'd expect to see higher attrition in the lowest-paid band. It is actually highest in the middle.", "報酬が要因なら、最も低い等級で離職が高いはずです。実際には中間層が最も高くなっています。"]
+ ],
+ "p": [
+  ["If that's true, we'd expect to see [観測されるはずのもの].", ["If that's true, we'd expect to see it in the exit interviews.", "If that's true, we'd expect to see the gap close after the pilot."]],
+  ["If [仮説], we'd expect to see [観測]. [実際の結果].", ["If it were seasonal, we'd expect to see it in both years. We only see it in one.", "If onboarding were the cause, we'd expect to see it in the first six months. We do."]]
+ ],
+ "k": [
+  "仮説を「正しければ何が見えるはずか」に言い換えると、検証可能になる。",
+  "expect to + 原形（expect seeing とは言わない）。",
+  "the same には必ず the が付く。"
+ ]
+},
+"That rests on one assumption I'd want to check.": {
+ "t": "それは1つの前提の上に成り立っていて、そこは確認したいです。",
+ "tn": "相手の主張そのものを否定せず、前提だけを問い直す型です。角を立てずに議論を精緻にできます。",
+ "s": [
+  ["That rests on one assumption", "S + V + 前置詞句。rest on A で「Aの上に乗っている・Aに依拠する」。"],
+  ["I'd want to check", "assumption を修飾する関係詞節。目的格の関係代名詞が省略されています。I would want で、控えめな希望を表します。"]
+ ],
+ "v": [
+  ["rest on ~", "rest のコアイメージは「重みを預けて休む」。建物が土台の上に乗っている感覚で、「〜に依拠する」。on が接触を示すので、rest in や rest upon the の形にはなりません（rest upon は硬い書き言葉では使われます）。"],
+  ["assumption", "assume の名詞形。検証していないが前提として置いているもの。"],
+  ["check", "確かめる。verify（事実と照合する）より軽く、relaxed な響きなので、相手の主張に向けても角が立ちません。"]
+ ],
+ "n": [
+  ["rest on ~", "土台として依拠する。前提との関係を示します。"],
+  ["depend on ~", "〜次第である。条件によって結果が変わることを示します。"],
+  ["hinge on ~", "〜にかかっている。蝶番の比喩で、1点に集中している含みが強い語です。"],
+  ["be built on ~", "〜の上に築かれている。rest on とほぼ同義です。"]
+ ],
+ "nn": "rest on と depend on はどちらも自然ですが、焦点が違います。rest on は「土台が何か」、depend on は「何によって結果が変わるか」です。hinge on は依存が1点に集中しているときに使います。",
+ "e": [
+  ["That rests on one assumption I'd want to check: that the two systems define headcount the same way.", "それは1つの前提、つまり2つのシステムが人員を同じ定義で数えているという前提の上に成り立っています。そこは確認したいです。"],
+  ["The savings case rests on one assumption: that we can redeploy, not exit, the affected staff.", "削減の根拠は1つの前提、つまり対象者を退職ではなく配置転換できるという前提の上に成り立っています。"]
+ ],
+ "p": [
+  ["That rests on [前提] I'd want to check.", ["That rests on an assumption about the renewal rate I'd want to check.", "That rests on one number I'd want to check."]],
+  ["[主張] rests on [前提]. If [前提が崩れたら], [帰結].", ["The forecast rests on flat churn. If churn rises, the payback doubles.", "The plan rests on hiring by June. If that slips, we lose the quarter."]]
+ ],
+ "k": [
+  "rest on は「土台の上に乗る」。前置詞は on。",
+  "主張ではなく前提を問うと、角が立たない。",
+  "check は verify より軽く、相手の案にも向けやすい。"
+ ]
+},
+"Let's hold that assumption for now and come back to it.": {
+ "t": "その前提はいったん置いて、後で戻りましょう。",
+ "tn": "脱線を止めながら、相手の論点を捨てない言い方です。進行役でなくても使えます。",
+ "s": [
+  ["Let's hold that assumption for now", "Let us + 原形 hold。for now が「さしあたり」を示します。"],
+  ["and come back to it", "and の後も Let's に続く原形がそのまま並びます。come back to A で「Aに戻る」。"]
+ ],
+ "sn": "1つの Let's に2つの原形（hold と come back）を並べる形です。「いま止める」と「後で戻る」を一文で約束できるので、相手が引き下がりやすくなります。",
+ "v": [
+  ["hold", "ここでは「保留する」。hold a question（質問を後回しにする）、put on hold（保留にする）と同じ発想です。"],
+  ["for now", "「さしあたり・当面は」。永久ではないと明示する句で、保留の提案に欠かせません。"],
+  ["come back to ~", "to が戻る先を示します。come back on it とは言いません。"]
+ ],
+ "n": [
+  ["Let's hold that for now.", "いったん保留。後で戻る前提です。"],
+  ["Let's park that.", "脇に置こう。ほぼ同義で、より口語的です。"],
+  ["Let's take that offline.", "この会議の外で話そう。別の場に移す提案です。"],
+  ["Let's drop that.", "打ち切ろう。戻る前提がありません。"]
+ ],
+ "nn": "hold / park / take offline はいずれも「いま扱わない」提案ですが、戻る場所が違います。drop は戻らないため、相手の論点を捨てることになります。",
+ "e": [
+  ["Let's hold that assumption for now and come back to it after we see the regional data.", "その前提はいったん置いて、地域別データを見た後で戻りましょう。"],
+  ["Let's park the pricing question and come back to it at the end.", "価格の論点はいったん脇に置いて、最後に戻りましょう。"]
+ ],
+ "p": [
+  ["Let's hold [論点] for now and come back to it.", ["Let's hold the scope question for now and come back to it.", "Let's hold that number for now and come back to it after the break."]],
+  ["Let's [hold / park] [論点] and come back to it [いつ].", ["Let's park that and come back to it next week.", "Let's hold that and come back to it once we have the audit."]]
+ ],
+ "k": [
+  "Let's の後に原形を2つ並べられる（hold ... and come back ...）。",
+  "for now を付けると「永久ではない」と伝わり、相手が引き下がりやすい。",
+  "come back to ~。前置詞は to。"
+ ]
+},
+"We looked at three scenarios: base, upside, and downside.": {
+ "t": "ベース・アップサイド・ダウンサイドの3シナリオを検討しました。",
+ "tn": "先に構造を宣言してから中身に入る型です。長い説明でも相手が迷子になりません。",
+ "s": [
+  ["We looked at three scenarios:", "過去形。look at は「検討する」。コロンで中身の列挙に入ります。"],
+  ["base, upside, and downside", "3つの並列。最後の and の前のカンマ（シリアルカンマ）は、米国式では付けるのが一般的です。"]
+ ],
+ "v": [
+  ["scenario", "想定される筋書き。複数形は scenarios。base case / upside case / downside case と case を付けた形も同じ意味で使われます。"],
+  ["upside / downside", "上振れと下振れ。投資や事業計画の文脈で対にして使う定番の語です。"],
+  ["look at ~", "ここでは「検討する」。examine や review より軽い口語表現で、会議で最も使われます。"]
+ ],
+ "n": [
+  ["base case", "標準シナリオ。最も起こりそうな前提。"],
+  ["upside case", "上振れシナリオ。好条件が揃った場合。"],
+  ["downside case", "下振れシナリオ。悪条件が重なった場合。"],
+  ["worst case", "最悪の場合。downside よりさらに厳しい想定を指します。"]
+ ],
+ "nn": "downside case と worst case は厳密には別です。downside は現実的に起こりうる下振れ、worst case はほぼ起こらない極端な想定を指すのが一般的です。",
+ "e": [
+  ["We looked at three scenarios: base, upside, and downside. Even in the downside, the payback stays under three years.", "ベース・アップサイド・ダウンサイドの3シナリオを検討しました。下振れでも投資回収は3年未満です。"],
+  ["We looked at two scenarios: with and without the retention bonus.", "定着ボーナスの有無という2つのシナリオを検討しました。"]
+ ],
+ "p": [
+  ["We looked at [n] scenarios: [列挙].", ["We looked at four scenarios: no change, partial, full, and phased.", "We looked at two scenarios: build and buy."]],
+  ["We looked at [n] [scenarios / options / cases]; [結論].", ["We looked at three options; only one fits the budget.", "We looked at two cases; the ranking is the same in both."]]
+ ],
+ "k": [
+  "先に数を宣言してからコロンで列挙すると、聞き手が構造を追える。",
+  "base / upside / downside は計画のシナリオを表す定番の3点セット。",
+  "downside（現実的な下振れ）と worst case（極端な想定）は別物。"
+ ]
+},
+"Directionally, I'd say it's a demand problem, but I want to verify.": {
+ "t": "方向感としては需要側の問題だと思いますが、検証したいです。",
+ "tn": "確信度を正直に示す型です。断定できないときに黙るより、はるかに評価されます。",
+ "s": [
+  ["Directionally,", "文修飾の副詞。「向きのレベルでは」。精度は保証しないが方向は言える、という限定です。"],
+  ["I'd say it's a demand problem,", "I would say で断定をやわらげています。"],
+  ["but I want to verify", "but で留保を加えます。want to + 原形で、これからの意思を表します。"]
+ ],
+ "sn": "「言えること」と「まだ言えないこと」を1文で分けている構造です。前半で見解、後半で確信度を示すこの順序が、誠実さと有用性を両立させます。",
+ "v": [
+  ["directionally", "direction（方向）の副詞形。データ評価の定型語で、「水準は粗いが向きは信頼できる」の意味です。"],
+  ["verify", "ver-（真）が語源。事実かどうかを照合して確かめることです。validate（妥当性を確かめる）より、突き合わせの作業に近い語感があります。"],
+  ["demand problem", "需要側の問題。対は supply problem（供給側の問題）。問題がどちら側にあるかを分ける定番の切り口です。"]
+ ],
+ "n": [
+  ["verify", "事実かどうか照合する。突き合わせの作業。"],
+  ["validate", "妥当性を確かめる。手法や定義まで含めて検証します。"],
+  ["check", "確かめる。最も軽く、日常的です。"],
+  ["confirm", "確認して裏を取る。相手に問い合わせる場面にも使えます。"]
+ ],
+ "nn": "verify と validate は実務では交換して使われることもあります。厳密には verify が「事実と合っているか」、validate が「やり方として妥当か」を見る作業です。",
+ "e": [
+  ["Directionally, I'd say it's a retention problem, but I want to verify with the cohort data.", "方向感としては定着の問題だと思いますが、コホートデータで検証したいです。"],
+  ["Directionally, the gap is in the middle bands, but I want to verify before we present it.", "方向感としては差は中間等級にありますが、提出前に検証したいです。"]
+ ],
+ "p": [
+  ["Directionally, I'd say [見解], but I want to verify.", ["Directionally, I'd say the trend is flattening, but I want to verify.", "Directionally, I'd say we are overstaffed in support, but I want to verify."]],
+  ["[確信度], I'd say [見解]. I'll know more once [条件].", ["Tentatively, I'd say yes. I'll know more once the audit closes.", "Directionally, I'd say it works. I'll know more once we see week four."]]
+ ],
+ "k": [
+  "directionally = 水準は粗いが向きは信頼できる。確信度を示す定型語。",
+  "verify（事実照合）と validate（妥当性）を使い分ける。",
+  "見解と確信度を1文で分けて言うと、誠実さと有用性が両立する。"
+ ]
+},
+"Let's assume for a moment that demand is flat.": {
+ "t": "いったん需要が横ばいだと仮定しましょう。",
+ "tn": "仮定を相手と共有してから検証に入る型です。「私の前提」ではなく「我々の前提」にできるので、相手を巻き込みやすくなります。",
+ "s": [
+  ["Let's assume ~", "Let us + 原形 assume。話し手を含む提案です。"],
+  ["for a moment", "「しばらくの間・いったん」。仮定が一時的であることを明示します。"],
+  ["that demand is flat", "assume の目的語となる that節。"]
+ ],
+ "v": [
+  ["for a moment", "直訳は「ひととき」。仮定の有効期間を限定する句で、これがあると相手は安心して仮定に乗れます。for the sake of argument（議論のために）も同じ働きをします。"],
+  ["assume", "作業上の前提として置くこと。suppose よりも実務的な響きです。"],
+  ["flat", "横ばい。stay flat / remain flat / go flat の形で使います。"]
+ ],
+ "n": [
+  ["Let's assume for a moment that ...", "一時的な仮定を共有する。最も使いやすい。"],
+  ["For the sake of argument, let's say ...", "議論のために仮にこうしよう。仮定であることをさらに強調します。"],
+  ["Suppose ...", "仮に〜とすると。文頭に単独で置ける簡潔な形です。"],
+  ["Hypothetically, ...", "仮定の話として。現実の話ではないと明示します。"]
+ ],
+ "nn": "assume と suppose はどちらも自然で、交換できる場面が多い語です。assume の方が「作業上そう置く」、suppose の方が「仮にそうだとしたら」という思考実験寄りの語感があります。",
+ "e": [
+  ["Let's assume for a moment that headcount is fixed. What would we do differently?", "いったん人員は固定だと仮定しましょう。そのうえで何を変えるべきでしょうか。"],
+  ["Let's assume for a moment that the vendor delivers on time. The case still does not close.", "いったんベンダーが期日どおり納品すると仮定しましょう。それでも採算は合いません。"]
+ ],
+ "p": [
+  ["Let's assume for a moment that [仮定].", ["Let's assume for a moment that budget is not the constraint.", "Let's assume for a moment that we cannot hire externally."]],
+  ["Let's assume [仮定]. [その上で何を問うか].", ["Let's assume the data is right. What would that tell us?", "Let's assume we do nothing. Where are we in twelve months?"]]
+ ],
+ "k": [
+  "for a moment で仮定の有効期間を区切ると、相手が乗りやすい。",
+  "assume（作業上の前提）と suppose（思考実験）は語感が少し違う。",
+  "仮定を置いたら、その上で何を問うかまで続ける。"
+ ]
+},
+"What would have to be true for that to work?": {
+ "t": "それが成立するには、何が真である必要がありますか。",
+ "tn": "コンサルの定番の問いです。相手の案を否定せずに前提を洗い出せる、最も安全な問い方です。",
+ "s": [
+  ["What would have to be true", "疑問詞 what が主語。would have to be で「〜である必要があるだろう」。have to（必要がある）に would が付いて、仮定の話になっています。"],
+  ["for that to work", "for + 意味上の主語 + to不定詞。「that が機能するためには」。to不定詞の動作主を for で示す形です。"]
+ ],
+ "sn": "for A to do の形が核です。不定詞の動作主が文の主語と違うとき、for で示します（It is important for the team to agree. と同じ構造）。",
+ "v": [
+  ["have to be true", "「真である必要がある」。条件を洗い出す定型表現で、仮説思考の中心にある問いです。"],
+  ["work", "ここでは「うまくいく・機能する」。a plan that works（機能する計画）。"],
+  ["for ~ to do", "不定詞の動作主を示す for。to不定詞の前に置きます。"]
+ ],
+ "n": [
+  ["What would have to be true for that to work?", "成立条件を洗い出す。否定せずに検証へ導けます。"],
+  ["What are we assuming here?", "前提を問う。より直接的です。"],
+  ["What could go wrong?", "失敗の筋を問う。リスク側から入ります。"],
+  ["Why wouldn't that work?", "なぜ機能しないかを問う。相手を守りに回らせやすい聞き方です。"]
+ ],
+ "nn": "この4つはいずれも有効な問いですが、相手の受け取り方が違います。What would have to be true は相手の案を前提に立って考えるため、最も協調的に響きます。",
+ "e": [
+  ["What would have to be true for the three-year payback to hold?", "3年での投資回収が成り立つには、何が真である必要がありますか。"],
+  ["What would have to be true for us to close both roles by June?", "6月までに2つのポジションを埋めるには、何が真である必要がありますか。"]
+ ],
+ "p": [
+  ["What would have to be true for [案] to work?", ["What would have to be true for the phased rollout to work?", "What would have to be true for this to pay for itself?"]],
+  ["For [案] to work, [条件] would have to be true.", ["For that to work, we would have to hire two leads by April.", "For the savings to land, the redeployment rate would have to be above 70%."]]
+ ],
+ "k": [
+  "for A to do で、不定詞の動作主を示す。",
+  "相手の案を前提に立って問うので、否定にならず角が立たない。",
+  "答える側も「For that to work, ... would have to be true.」で返せる。"
+ ]
+},
+"I'd separate what we know from what we're assuming.": {
+ "t": "分かっていることと仮定していることを分けたいです。",
+ "tn": "議論が混線したときに整理する型です。前提の押しつけを防げます。",
+ "s": [
+  ["I'd separate A from B", "separate A from B で「AをBから分ける」。前置詞は from です。"],
+  ["what we know", "疑問詞 what が導く名詞節。「我々が知っていること」。"],
+  ["what we're assuming", "同じ形の名詞節。進行形で「いま置いている仮定」。"]
+ ],
+ "sn": "2つの what節を対にして並べる構造です。同じ形で並べることで、対比が耳で聞き取れるようになります。",
+ "v": [
+  ["separate A from B", "se-（離れて）+ parare（準備する）が語源。from が「〜から引き離す」を示します。separate A and B も使えますが、一方を他方から切り出すときは from が自然です。"],
+  ["what we know", "確認済みの事実。what we think（考えていること）、what we're assuming（仮定）と3段階で並べることもあります。"],
+  ["assume の進行形", "I'm assuming / we're assuming は「いまこの議論で置いている」という一時性を表します。"]
+ ],
+ "n": [
+  ["separate A from B", "切り分ける。一方を他方から取り出すときに。"],
+  ["distinguish A from B", "区別する。違いを見分けることに焦点があります。"],
+  ["tease apart A and B", "絡んだものをほぐして分ける。口語的で、複雑な論点に使います。"],
+  ["draw a line between A and B", "A と B の間に線を引く。境界を定める言い方です。"]
+ ],
+ "e": [
+  ["I'd separate what we know from what we're assuming: we know attrition rose, we're assuming the cause is pay.", "分かっていることと仮定していることを分けましょう。離職が増えたのは事実、原因が報酬というのは仮定です。"],
+  ["Before we debate the fix, I'd separate the symptom from the cause.", "対策を議論する前に、症状と原因を分けたいです。"]
+ ],
+ "p": [
+  ["I'd separate [A] from [B].", ["I'd separate the data issue from the policy issue.", "I'd separate what the client wants from what the client needs."]],
+  ["We know [事実]. We're assuming [仮定]. [検証すべき点].", ["We know the gap exists. We're assuming it is structural. That is what to test.", "We know the pilot worked. We're assuming it scales. That is the open question."]]
+ ],
+ "k": [
+  "separate A from B。前置詞は from。",
+  "同じ形の what節を対にして並べると、対比が耳で伝わる。",
+  "「知っていること」と「仮定していること」を分けると、前提の押しつけを防げる。"
+ ]
+},
+"The assumption I'm least comfortable with is the growth rate.": {
+ "t": "最も自信がない前提は成長率です。",
+ "tn": "弱点を自分から出す型です。誠実さが伝わるうえ、検証すべき点が絞られて議論も効率化します。",
+ "s": [
+  ["The assumption I'm least comfortable with", "主語。The assumption (that) I'm least comfortable with の関係代名詞が省略され、前置詞 with が節末に残っています。"],
+  ["is the growth rate", "補語。the が付くのは、モデル上の特定の数値を指すためです。"]
+ ],
+ "sn": "least は little の最上級で、「最も〜でない」を表します。the least comfortable のように the を付ける形も使われますが、関係詞節の中では I'm least comfortable with のように the を省くのが自然です。",
+ "v": [
+  ["be comfortable with ~", "with が「〜と一緒にいて落ち着く」ことを示します。前置詞は with で固定です（comfortable about や comfortable to とは言いません）。英語会議では「納得している・受け入れられる」という意味で頻出します。"],
+  ["least", "little の最上級。「最も少なく」。反対は most。"],
+  ["growth rate", "成長率。モデルの中で最も振れやすく、結論を左右しやすい変数の代表です。"]
+ ],
+ "n": [
+  ["I'm not comfortable with ...", "納得していない。理由を言わずに違和感を示せます。"],
+  ["I'm not convinced by ...", "説得されていない。根拠の弱さに焦点があります。"],
+  ["I have a concern about ...", "懸念がある。より形式的です。"],
+  ["I'd challenge ...", "異を唱える。最も直接的で、検証を求めます。"]
+ ],
+ "nn": "どれも実務で使われます。be comfortable with は「納得感」という主観を扱うため、根拠を示さなくても出せるという利点があります。",
+ "e": [
+  ["The assumption I'm least comfortable with is the redeployment rate; everything else is grounded in actuals.", "最も自信がない前提は配置転換率です。それ以外は実績値に基づいています。"],
+  ["The assumption I'm least comfortable with is that the two regions behave the same way.", "最も自信がない前提は、2つの地域が同じように動くという点です。"]
+ ],
+ "p": [
+  ["The assumption I'm least comfortable with is [前提].", ["The assumption I'm least comfortable with is the adoption curve.", "The assumption I'm least comfortable with is the timing of the approval."]],
+  ["I'm comfortable with [A] but less comfortable with [B].", ["I'm comfortable with the cost side but less comfortable with the revenue side.", "I'm comfortable with the method but less comfortable with the sample."]]
+ ],
+ "k": [
+  "be comfortable with の前置詞は with で固定。「納得している」の意味で頻出。",
+  "least は little の最上級。",
+  "弱点を自分から出すと、検証点が絞られて議論が速くなる。"
+ ]
+},
+"Let's test the downside before we commit.": {
+ "t": "決定の前にダウンサイドを検証しましょう。",
+ "tn": "慎重論を建設的に出す型です。「心配だ」で終えず、何をどう検証するかまで言うと通りやすくなります。",
+ "s": [
+  ["Let's test the downside", "Let us + 原形 test。the downside が目的語です。"],
+  ["before we commit", "before が接続詞として働き、後ろに主語 + 動詞が続きます。後ろが名詞のかたまりなら動名詞（before committing）になります。"]
+ ],
+ "v": [
+  ["commit", "com-（共に）+ mittere（送る）が語源。コアイメージは「後戻りできない形で自分を差し出す」。だから「確約する・資源を投じる」。commit to a plan（計画にコミットする）のように to を伴う形も頻出です。"],
+  ["downside", "下振れ。損失が出る側のシナリオ。対は upside。"],
+  ["before", "前置詞としても接続詞としても使えます。後ろの形で判断します。"]
+ ],
+ "n": [
+  ["before we commit", "投じる前に。後戻りできなくなる前、という含み。"],
+  ["before we decide", "決める前に。意思決定そのものに焦点。"],
+  ["before we go to the board", "取締役会に上げる前に。具体的な期限になります。"],
+  ["before we spend anything", "費用を使う前に。最も実務的な線引きです。"]
+ ],
+ "e": [
+  ["Let's test the downside before we commit: what happens if only half the team redeploys?", "決定の前にダウンサイドを検証しましょう。配置転換が半数しか進まない場合はどうなるでしょうか。"],
+  ["Let's test the worst case before we commit the budget.", "予算を投じる前に、最悪の場合を検証しましょう。"]
+ ],
+ "p": [
+  ["Let's test [シナリオ] before we commit.", ["Let's test the no-growth case before we commit.", "Let's test the two-year delay before we commit."]],
+  ["Let's test [シナリオ] before [行動]; specifically, [検証方法].", ["Let's test the downside before we sign; specifically, model it at 60% adoption.", "Let's test the assumption before we present; specifically, check it against last year."]]
+ ],
+ "k": [
+  "commit のコアイメージは「後戻りできない形で差し出す」。",
+  "before の後ろが文なら接続詞、名詞のかたまりなら動名詞。",
+  "慎重論は検証方法までセットで出すと通りやすい。"
+ ]
+},
+"My hypothesis could be wrong in one specific way.": {
+ "t": "私の仮説は、ある1点において誤っている可能性があります。",
+ "tn": "反証条件を自分から示す型です。これを言えると議論の質が一段上がり、相手も検証に協力しやすくなります。",
+ "s": [
+  ["My hypothesis could be wrong", "could は可能性を表す助動詞。「あり得る」という控えめな確度です。"],
+  ["in one specific way", "in が「どの面で」を示します。one specific が「1点に限って」と範囲を絞ります。"]
+ ],
+ "sn": "could が要点です。may / might / could はいずれも可能性を表しますが、could は「状況次第では起こりうる」という条件付きの響きが強く、反証条件の提示に合います。",
+ "v": [
+  ["could", "可能性の助動詞。may（半々に近い）より低め、might とほぼ同程度の確度として使われます。厳密な序列はなく、文脈で決まります。"],
+  ["specific", "特定の・限定された。vague（漠然とした）の対義語で、「どこが」を絞るときに使います。"],
+  ["in ~ way", "in は「どの側面で」。in one way（ある一点で）、in several ways（いくつかの点で）。"]
+ ],
+ "n": [
+  ["could be wrong", "誤っている可能性がある。控えめで、条件付きの響き。"],
+  ["may be wrong", "誤っているかもしれない。could とほぼ同じ強さです。"],
+  ["is likely wrong", "おそらく誤り。確度が高い言い方です。"],
+  ["would be wrong if ...", "〜なら誤りになる。条件を明示します。"]
+ ],
+ "nn": "could / may / might の確度に厳密な序列はなく、実際の受け取られ方は文脈と語調で決まります。確度を正確に伝えたいときは、条件を言葉で添えるのが確実です。",
+ "e": [
+  ["My hypothesis could be wrong in one specific way: if the two surveys used different definitions, the gap disappears.", "私の仮説は1点で誤っている可能性があります。2つの調査が異なる定義を使っていた場合、差は消えます。"],
+  ["This could be wrong in one specific way — if the pilot team was self-selected, the result does not generalize.", "この結論は1点で誤りうるものです。パイロット参加者が自ら手を挙げた人たちなら、一般化できません。"]
+ ],
+ "p": [
+  ["My hypothesis could be wrong in one specific way: [反証条件].", ["My hypothesis could be wrong in one specific way: if the data excludes contractors.", "This could be wrong in one specific way: if the comparison period is not like-for-like."]],
+  ["[主張] holds unless [反証条件].", ["The conclusion holds unless the definitions differ.", "This holds unless the sample is self-selected."]]
+ ],
+ "k": [
+  "could は「状況次第では起こりうる」。反証条件の提示に合う。",
+  "one specific way と範囲を絞ると、検証すべき点が明確になる。",
+  "反証条件を自分で示すと、議論が検証に向かう。"
+ ]
+},
+"We're treating this as a hypothesis, not a finding.": {
+ "t": "これは確定した発見ではなく、仮説として扱っています。",
+ "tn": "確度を明示する型です。先に言っておけば、後で覆っても信頼を落としません。",
+ "s": [
+  ["We're treating this as a hypothesis", "現在進行形。treat A as B（AをBとして扱う）で、いまの扱い方を述べています。"],
+  [", not a finding", "カンマ + not の対比。相手が誤解しやすい方を後ろに置きます。"]
+ ],
+ "sn": "進行形が「いまの扱い」を表しています。We treat this as ... と単純現在にすると、常にそう扱うという方針の話になります。",
+ "v": [
+  ["treat A as B", "どう取り扱うかを述べる構文。事実そのものではなく「扱い方」を宣言できます。"],
+  ["hypothesis", "検証前の仮説。"],
+  ["finding", "検証を経て分かったこと。この2語の区別が、分析の信頼を支えます。"]
+ ],
+ "n": [
+  ["hypothesis", "検証前。これから確かめる。"],
+  ["finding", "検証後。根拠を示して提示できる。"],
+  ["observation", "観察された事実。解釈は含みません。"],
+  ["conclusion", "複数の発見から導いた結論。最も確度が高い扱いです。"]
+ ],
+ "e": [
+  ["We're treating this as a hypothesis, not a finding, until we see the Q2 data.", "第2四半期のデータを見るまでは、確定した発見ではなく仮説として扱っています。"],
+  ["We're treating the cost figure as an estimate, not an actual.", "この費用の数字は実績ではなく見積もりとして扱っています。"]
+ ],
+ "p": [
+  ["We're treating this as [A], not [B].", ["We're treating this as a draft, not a recommendation.", "We're treating this as directional, not conclusive."]],
+  ["We're treating [対象] as [扱い] until [条件].", ["We're treating the number as provisional until the close.", "We're treating this as a pilot until we see three months of data."]]
+ ],
+ "k": [
+  "hypothesis（検証前）と finding（検証後）を言葉で区別する。",
+  "treat A as B は「扱い方」の宣言。事実の主張ではない。",
+  "確度を先に明示すれば、後で覆っても信頼を失わない。"
+ ]
+},
+"Which of these assumptions matters most?": {
+ "t": "この前提のうち、最も影響が大きいのはどれでしょうか。",
+ "tn": "検証の優先順位づけを促す問いです。時間が限られた議論で効きます。",
+ "s": [
+  ["Which of these assumptions", "疑問詞 which が主語。of these assumptions が範囲を限定しています。"],
+  ["matters most", "動詞 + 副詞。主語が which（単数扱い）なので matters と三人称単数になります。most は much の最上級で、ここでは副詞です。"]
+ ],
+ "sn": "Which が主語になる疑問文は、do/does を使わず語順が平叙文のままです（Which matters most? であって Which does matter most? ではありません）。",
+ "v": [
+  ["matter", "自動詞で「重要である」。It doesn't matter.（問題ではない）が代表的な用法です。目的語を取りません。"],
+  ["which of ~", "限定された選択肢の中から選ぶときの which。選択肢が示されていないときは what を使います。"],
+  ["most", "much の最上級。副詞として動詞を修飾するときは the を付けません。"]
+ ],
+ "n": [
+  ["Which matters most?", "影響の大きさを問う。優先順位づけに直結します。"],
+  ["Which is most uncertain?", "不確実さを問う。確度の低さに焦点があります。"],
+  ["Which would change the answer?", "結論を変えうるものを問う。最も実務的な絞り込みです。"],
+  ["What are we most likely to get wrong?", "誤りやすい点を問う。リスク側から入ります。"]
+ ],
+ "nn": "検証の優先順位は「影響の大きさ × 不確実さ」で決まるのが通例です。Which matters most? と Which is most uncertain? を続けて問うと、両軸が揃います。",
+ "e": [
+  ["Which of these assumptions matters most? If it is the redeployment rate, let's test that first.", "この前提のうち最も影響が大きいのはどれでしょうか。配置転換率なら、まずそこを検証しましょう。"],
+  ["Which of these assumptions would change the recommendation if it were wrong?", "この前提のうち、誤っていた場合に提言を変えるものはどれでしょうか。"]
+ ],
+ "p": [
+  ["Which of these [assumptions] matters most?", ["Which of these drivers matters most?", "Which of these risks matters most?"]],
+  ["Which of these would [change the answer / break the case]?", ["Which of these would change the answer?", "Which of these would break the business case?"]]
+ ],
+ "k": [
+  "which が主語の疑問文は do/does を使わない。",
+  "matter は自動詞。目的語を取らない。",
+  "検証の優先順位は「影響の大きさ」と「不確実さ」の2軸で絞る。"
+ ]
+},
+"If the opposite were true, we'd see it in the churn data.": {
+ "t": "逆が正しければ、解約データに現れているはずです。",
+ "tn": "対抗仮説を検証する型です。自分の仮説ではなく反対の説を検証対象にするので、分析力の評価に直結します。",
+ "s": [
+  ["If the opposite were true,", "仮定法過去。be動詞は主語にかかわらず were を使うのが標準です（was も口語では使われます）。現実とは違う、という距離を作ります。"],
+  ["we'd see it in the churn data", "帰結節。we would の短縮。仮定法過去は「if + 過去形 / would + 原形」の組み合わせです。"]
+ ],
+ "sn": "前の項目の If that's true, ... は現実にありうる条件（直説法）でしたが、こちらは「実際には違うと考えている」ため仮定法です。were を使うことで、その距離が伝わります。",
+ "v": [
+  ["the opposite", "反対のこと。the が必要です。the opposite of A（Aの逆）の形も頻出します。"],
+  ["churn", "もとは「かき混ぜる」。顧客が出入りして入れ替わることから「解約・離脱」。人事では turnover（離職）が対応する語です。"],
+  ["see it in ~", "in が「その中に現れている」ことを示します。データの中に兆候が見える、という言い方です。"]
+ ],
+ "n": [
+  ["If the opposite were true, ...", "対抗仮説を立てて検証する。分析的な問い方。"],
+  ["If that's true, ...", "自分の仮説が正しい場合。直説法で、実際にありうる条件。"],
+  ["If I'm wrong, ...", "自分が誤っている場合。反証条件の提示です。"],
+  ["What would disprove this?", "何があれば否定されるか。最も直接的な反証の問いです。"]
+ ],
+ "e": [
+  ["If the opposite were true, we'd see it in the exit interview data. We don't.", "逆が正しければ退職者面談のデータに現れているはずですが、現れていません。"],
+  ["If pay were the driver, we'd see the highest attrition in the lowest band. We see it in the middle.", "報酬が要因なら最も低い等級で離職が高いはずですが、実際には中間層です。"]
+ ],
+ "p": [
+  ["If the opposite were true, we'd see it in [証拠].", ["If the opposite were true, we'd see it in the regional split.", "If the opposite were true, we'd see it in the first-year data."]],
+  ["If [対抗仮説] were true, we'd see [観測]. [実際の結果].", ["If it were a market issue, we'd see it across all competitors. Only we show it.", "If it were seasonal, we'd see it every year. We see it only in 2025."]]
+ ],
+ "k": [
+  "仮定法過去は if + were / would + 原形。現実と違うという距離を作る。",
+  "直説法（If that's true）と仮定法（If that were true）を使い分ける。",
+  "対抗仮説を検証対象にすると、分析の説得力が上がる。"
+ ]
+},
+"Let's park the assumption and see where the logic leads.": {
+ "t": "前提はいったん置いて、論理の行き先を見てみましょう。",
+ "tn": "前提論争で議論が止まったときの打開策です。前提の是非を棚上げし、結論まで進めてから戻ります。",
+ "s": [
+  ["Let's park the assumption", "Let us + 原形 park。park が「いったん脇に置く」の意味の他動詞として使われています。"],
+  ["and see where the logic leads", "and の後も原形 see が続きます。where 以下は see の目的語となる間接疑問で、語順は平叙文のままです。"]
+ ],
+ "sn": "間接疑問の語順が要点です。Where does the logic lead? が独立した疑問文、see where the logic leads が埋め込まれた形になります。",
+ "v": [
+  ["park", "駐車場に車を置く、から「いったん置いておく」。会議では park an issue / park a question の形で定着しています。後で戻る前提があります。"],
+  ["lead", "自動詞で「至る・つながる」。where it leads（その行き着く先）、lead to a conclusion（結論に至る）。"],
+  ["logic", "論法・筋道。follow the logic（筋を追う）、the logic breaks down（筋が通らなくなる）。"]
+ ],
+ "n": [
+  ["Let's park that.", "いったん脇に置く。後で戻る前提です。"],
+  ["Let's set that aside.", "ほぼ同義で、ややていねいな言い方です。"],
+  ["Let's bracket that.", "括弧に入れておく。学術寄りの表現です。"],
+  ["Let's move on.", "先へ進もう。戻る前提を含みません。"]
+ ],
+ "nn": "park / set aside / bracket はいずれも「後で戻る」含みを持ちます。move on は戻らないので、相手の論点を切り捨てる形になります。",
+ "e": [
+  ["Let's park the growth assumption and see where the logic leads — if the case fails even at 10%, the assumption does not matter.", "成長率の前提はいったん置いて、論理の行き先を見てみましょう。10%でも採算が合わないなら、その前提は論点になりません。"],
+  ["Let's park the definition question and see whether it changes the ranking.", "定義の議論はいったん置いて、順位が変わるかどうかを見てみましょう。"]
+ ],
+ "p": [
+  ["Let's park [前提] and see where [論理] leads.", ["Let's park the pricing question and see where the model leads.", "Let's park that number and see where the argument leads."]],
+  ["Let's [park / set aside] [論点] and [次の行動].", ["Let's set aside the scope debate and look at the timeline.", "Let's park the cost question and test the benefit side first."]]
+ ],
+ "k": [
+  "park は「後で戻る前提でいったん置く」。move on とは違う。",
+  "間接疑問（see where the logic leads）は平叙文の語順。",
+  "前提論争で止まったら、結論まで進めてから戻る。"
+ ]
+}
+}

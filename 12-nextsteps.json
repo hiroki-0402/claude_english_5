@@ -1,0 +1,623 @@
+{
+"What are the next steps from here?": {
+ "t": "ここからの次のステップは何でしょうか。",
+ "tn": "会議を終わらせずに前へ進める定番です。黙って終わると、宿題は消えます。",
+ "s": [
+  ["What are the next steps", "疑問詞 what が補語の位置にある疑問文。the next steps が主語なので are になります。"],
+  ["from here?", "from が起点を示します。「この時点から先」。"]
+ ],
+ "v": [
+  ["next steps", "次の段取り。ほぼ必ず複数形で使います。the next step（単数）は「次の1歩」を指し、少し意味が狭くなります。"],
+  ["from here", "ここから。時点の起点を示します。going forward（今後は）も似た働きをします。"],
+  ["step", "段階。a first step、an interim step。"]
+ ],
+ "n": [
+  ["What are the next steps?", "次の段取りを問う。最も一般的。"],
+  ["What happens next?", "次に何が起きるか。より口語的です。"],
+  ["Who's doing what by when?", "担当・内容・期限を一度に問う。最も実務的です。"],
+  ["Where do we go from here?", "ここからどうするか。やや大きな問いです。"]
+ ],
+ "nn": "Who's doing what by when? は3点を一度に押さえられるため、会議の締めでは最も効率的です。",
+ "e": [
+  ["What are the next steps from here, and who owns what?", "ここからの次のステップは何で、それぞれの担当はどなたでしょうか。"],
+  ["What are the next steps from here? I'd suggest we start with the data request.", "ここからの次のステップは何でしょうか。私はデータ依頼から始めることを提案します。"]
+ ],
+ "p": [
+  ["What are the next steps from here, and [who owns what]?", ["What are the next steps from here, and what do you need from us?", "What are the next steps, and by when?"]],
+  ["[次の段取りを問う形].", ["Who's doing what by when?", "What happens next, and who drives it?"]]
+ ],
+ "k": [
+  "next steps はほぼ必ず複数形。",
+  "Who's doing what by when? が最も効率的な締めの問い。",
+  "黙って会議を終えると、宿題は消える。"
+ ]
+},
+"So who owns that, and by when?": {
+ "t": "その担当は誰で、期限はいつでしょうか。",
+ "tn": "担当と期限を一度に押さえる型です。外資では宿題を必ず人名で持たせます。",
+ "s": [
+  ["So who owns that,", "疑問詞 who が主語。do/does は使いません。"],
+  ["and by when?", "省略形。and by when (is it due)? の括弧部分が落ちています。"]
+ ],
+ "sn": "and by when? は2語だけの疑問ですが、会議では完全に自然です。前半の問いの構造をそのまま引き継いでいるため、省略が成立します。",
+ "v": [
+  ["own", "責任を持つ。own an action / own a decision / own a workstream。"],
+  ["by when", "いつまでに。期限を問う定型で、when だけより締め切りの意味が明確になります。"],
+  ["so", "整理に移る合図。"]
+ ],
+ "n": [
+  ["Who owns that, and by when?", "担当と期限を一度に。最も実務的。"],
+  ["Who's picking that up?", "誰が引き取るか。くだけた言い方です。"],
+  ["Can we put a name and a date on that?", "名前と日付を付けよう。提案の形です。"],
+  ["Is that assigned?", "割り当て済みか。確認の形です。"]
+ ],
+ "e": [
+  ["So who owns that, and by when? I'd like a name and a date before we close.", "その担当は誰で、期限はいつでしょうか。終わる前に名前と日付を決めたいです。"],
+  ["So who owns the data request, and by when do we need it back?", "データ依頼の担当は誰で、いつまでに戻す必要があるでしょうか。"]
+ ],
+ "p": [
+  ["So who owns [何], and by when?", ["So who owns the client communication, and by when?", "So who owns phase two, and by when do we need a plan?"]],
+  ["Can we put a [name] and a [date] on that?", ["Can we put a name and a date on that?", "Can we put an owner against each of these?"]]
+ ],
+ "k": [
+  "who が主語の疑問文は do/does を使わない。",
+  "by when で期限を明確に問える。",
+  "宿題は必ず「人名 + 日付」で持たせる。"
+ ]
+},
+"I'll take that and come back by Thursday.": {
+ "t": "その件は私が引き取り、木曜までに戻します。",
+ "tn": "自分から宿題を取ると存在感が出ます。期限を自分で置くのが要点です。",
+ "s": [
+  ["I'll take that", "I will の短縮。その場での意思決定を表します。"],
+  ["and come back by Thursday", "and の後も will に続く原形が並びます（I will take ... and (will) come back ...）。"]
+ ],
+ "v": [
+  ["take", "ここでは「引き受ける」。take an action / take it on / take it away（持ち帰って対応する）。"],
+  ["come back", "戻る。come back to you（あなたに回答する）、come back by Thursday（木曜までに回答する）。"],
+  ["by Thursday", "木曜までに。期限は by です。"]
+ ],
+ "n": [
+  ["I'll take that.", "引き受ける。最も簡潔。"],
+  ["I'll pick that up.", "拾って進める。ほぼ同義です。"],
+  ["Leave that with me.", "任せてほしい。頼もしい響きです。"],
+  ["I'll own that.", "責任を持つ。最も重い引き受け方です。"]
+ ],
+ "nn": "I'll take that は作業の引き受け、I'll own that は結果への責任まで含みます。会議では own の方が重く受け取られます。",
+ "e": [
+  ["I'll take that and come back by Thursday with a one-page view.", "その件は私が引き取り、木曜までに1枚にまとめてお戻しします。"],
+  ["I'll take the data request and come back by end of week. If it slips, I'll flag it on Wednesday.", "データ依頼は私が引き取り、週末までに戻します。遅れそうなら水曜に共有します。"]
+ ],
+ "p": [
+  ["I'll take [何] and come back by [期限].", ["I'll take the benchmark and come back by Monday.", "I'll take the client call and come back the same day."]],
+  ["I'll take that. [成果物] by [期限].", ["I'll take that. A short note by Friday.", "Leave that with me. I'll have a draft by Wednesday."]]
+ ],
+ "k": [
+  "期限を自分から置くと、信頼につながる。",
+  "I'll take（作業）/ I'll own（結果への責任）は重さが違う。",
+  "and の後は will に続く原形が並ぶ（will は繰り返さない）。"
+ ]
+},
+"Can we agree on a deadline for that?": {
+ "t": "その件の期限を決めておけますか。",
+ "tn": "曖昧なまま散会しそうなときに使います。会議の質を上げる一言です。",
+ "s": [
+  ["Can we agree on a deadline", "許可というより提案の疑問文。agree on A で「Aについて合意する」。"],
+  ["for that?", "for が対象を示します。a deadline for A（Aの期限）。"]
+ ],
+ "v": [
+  ["agree on ~", "論点について合意する。前置詞は on です。"],
+  ["deadline", "締め切り。もとは監獄の境界線で、越えると撃たれる線。そこから「越えてはいけない期限」へ。"],
+  ["for", "対象を示す前置詞。a deadline for the draft。"]
+ ],
+ "n": [
+  ["agree on a deadline", "期限を合意する。最も明確。"],
+  ["set a date", "日付を決める。より軽い言い方です。"],
+  ["put a date on it", "期日を付ける。口語的です。"],
+  ["commit to a date", "日付を確約する。最も重い言い方です。"]
+ ],
+ "e": [
+  ["Can we agree on a deadline for that? Otherwise it will sit until the next steering group.", "その件の期限を決めておけますか。でなければ次のステアリングまで放置されます。"],
+  ["Can we agree on a deadline for the data, so the analysis has somewhere to start?", "分析に着手できるよう、データの期限を決めておけますか。"]
+ ],
+ "p": [
+  ["Can we agree on a deadline for [対象]?", ["Can we agree on a deadline for the draft?", "Can we agree on a date for the decision?"]],
+  ["Can we [agree on / put] a [deadline / date] [on / for] that?", ["Shall we put a date on that?", "Can we commit to a date before we close?"]]
+ ],
+ "k": [
+  "agree on ~。前置詞は on。",
+  "deadline は「越えてはいけない線」が原義。",
+  "期限のない宿題は消える。必ず日付を決める。"
+ ]
+},
+"Let me confirm the actions before we close.": {
+ "t": "終わる前にアクションを確認させてください。",
+ "tn": "議事進行役でなくても使えます。この一言で会議の成果が固定されます。",
+ "s": [
+  ["Let me confirm the actions", "Let + me + 原形 confirm。"],
+  ["before we close", "接続詞 before + 主語 + 動詞。close は「会議を閉じる」。"]
+ ],
+ "v": [
+  ["confirm", "確認して確定させる。check（確かめる）より、合意を固定する含みが強い語です。"],
+  ["action", "ここでは「実行事項」。action item の短縮として会議で広く使われます。"],
+  ["close", "閉じる。close the meeting / close an item。"]
+ ],
+ "n": [
+  ["Let me confirm the actions.", "実行事項を確定させる。最も実務的。"],
+  ["Let me read back the actions.", "読み上げる。文言まで確認します。"],
+  ["Before we close, three actions.", "数で示す。最も短い形です。"],
+  ["I'll capture the actions in the note.", "議事メモに記録する。後で届ける形です。"]
+ ],
+ "e": [
+  ["Let me confirm the actions before we close: Kenji sends the data by Wednesday, I draft the summary by Friday.", "終わる前にアクションを確認します。横田がデータを水曜までに送付、私が要約を金曜までに作成します。"],
+  ["Let me confirm the actions before we close — three items, two owners, all due next week.", "終わる前にアクションを確認します。3件、担当2名、いずれも来週期限です。"]
+ ],
+ "p": [
+  ["Let me confirm [the actions] before we close.", ["Let me confirm the decisions before we close.", "Let me confirm who is doing what before we close."]],
+  ["Before we close: [アクション1], [アクション2].", ["Before we close: HR confirms headcount, finance confirms the budget line.", "Before we close: two actions, both due Thursday."]]
+ ],
+ "k": [
+  "confirm は「確認して確定させる」。check より重い。",
+  "action は action item の短縮。会議の標準語。",
+  "進行役でなくても、この一言で成果を固定できる。"
+ ]
+},
+"I'll send a short summary with owners and dates.": {
+ "t": "担当と期日を入れた短いサマリーを送ります。",
+ "tn": "英語が不利な会議でも、議事録を握れば影響力を取れます。経験の浅いうちの定石です。",
+ "s": [
+  ["I'll send a short summary", "I will の短縮。send A（Aを送る）。"],
+  ["with owners and dates", "付帯の with。「担当と期日を付けて」。"]
+ ],
+ "v": [
+  ["summary", "要約。a short summary / a one-page summary。"],
+  ["owner", "担当者。"],
+  ["with", "付帯の with。何が含まれるかを示します。"]
+ ],
+ "n": [
+  ["I'll send a short summary.", "要約を送る。最も一般的。"],
+  ["I'll circulate a note.", "メモを回覧する。関係者に広く配る含みです。"],
+  ["I'll write this up.", "書き起こす。文書化の宣言です。"],
+  ["I'll put it in the tracker.", "管理表に入れる。仕組みに載せます。"]
+ ],
+ "e": [
+  ["I'll send a short summary with owners and dates by the end of today.", "担当と期日を入れた短いサマリーを本日中にお送りします。"],
+  ["I'll send a short summary with owners and dates — please correct anything I've got wrong.", "担当と期日を入れた短いサマリーをお送りします。誤りがあればご指摘ください。"]
+ ],
+ "p": [
+  ["I'll send [成果物] with [中身].", ["I'll send a one-pager with the three options.", "I'll send the note with the decisions and the open points."]],
+  ["I'll [send / circulate] [成果物] by [期限].", ["I'll circulate the note by six.", "I'll write this up and send it tomorrow morning."]]
+ ],
+ "k": [
+  "議事録を握ると、論点と結論を握れる。",
+  "付帯の with で、含まれる内容を示す。",
+  "訂正を促す一言を添えると、文書の正確性が上がる。"
+ ]
+},
+"What do you need from us to move forward?": {
+ "t": "前に進めるために、こちらから何が必要でしょうか。",
+ "tn": "クライアント側のボトルネックを引き出す質問です。受け身から抜けられます。",
+ "s": [
+  ["What do you need from us", "疑問詞 what が目的語。need A from B で「BからAを必要とする」。"],
+  ["to move forward?", "目的を表す不定詞。「前に進むために」。"]
+ ],
+ "v": [
+  ["need A from B", "from が出どころを示します。"],
+  ["move forward", "前に進む。move ahead、progress も同義です。"],
+  ["you / us", "相手と自分たちを明確に分けることで、責任の所在がはっきりします。"]
+ ],
+ "n": [
+  ["What do you need from us?", "相手の必要を問う。協力的です。"],
+  ["What's blocking you?", "何が止めているかを問う。障害に焦点があります。"],
+  ["How can we help?", "どう助けられるか。最もやわらかい言い方です。"],
+  ["What would unblock this?", "何があれば動くか。解決策に焦点があります。"]
+ ],
+ "e": [
+  ["What do you need from us to move forward — the data, the business case, or both?", "前に進めるためにこちらから何が必要でしょうか。データでしょうか、事業計画でしょうか、両方でしょうか。"],
+  ["What do you need from us to get the approval through this cycle?", "今回のサイクルで承認を通すために、こちらから何が必要でしょうか。"]
+ ],
+ "p": [
+  ["What do you need from us to [目的]?", ["What do you need from us to start?", "What do you need from us to sign off?"]],
+  ["[相手の必要を問う形]?", ["What's blocking you on your side?", "What would unblock this?"]]
+ ],
+ "k": [
+  "need A from B。出どころは from。",
+  "相手の必要を先に聞くと、受け身から抜けられる。",
+  "What would unblock this? は解決策に焦点を置いた問い。"
+ ]
+},
+"Let's park that and pick it up next week.": {
+ "t": "その件はいったん保留にして、来週扱いましょう。",
+ "tn": "park は外資の会議で頻出します。切り捨てではなく先送りだと伝わります。",
+ "s": [
+  ["Let's park that", "Let us + 原形 park。"],
+  ["and pick it up next week", "and の後も原形が並びます。pick up は句動詞で、代名詞 it は間に挟みます。"]
+ ],
+ "sn": "pick it up の語順が要点です。句動詞の目的語が代名詞のときは、必ず動詞と副詞の間に入ります（pick up it とは言いません）。",
+ "v": [
+  ["park", "駐車する、から「いったん置く」。後で戻る前提があります。"],
+  ["pick up", "拾い上げる、から「再開する」。pick up where we left off（中断したところから再開する）。"],
+  ["next week", "来週。無冠詞で使います。"]
+ ],
+ "n": [
+  ["park that", "いったん置く。後で戻る前提。"],
+  ["take it offline", "この会議の外で話す。場を移します。"],
+  ["defer it", "先送りする。ややかたい言い方です。"],
+  ["drop it", "打ち切る。戻る前提がありません。"]
+ ],
+ "e": [
+  ["Let's park that and pick it up next week when the audit result is in.", "その件はいったん保留にして、監査結果が出る来週に扱いましょう。"],
+  ["Let's park the pricing question and pick it up at the next steering group.", "価格の論点はいったん保留にして、次のステアリングで扱いましょう。"]
+ ],
+ "p": [
+  ["Let's park [論点] and pick it up [いつ].", ["Let's park that and pick it up after the close.", "Let's park the scope debate and pick it up on Monday."]],
+  ["Let's [park / defer] [論点] until [条件].", ["Let's park that until we have the data.", "Let's defer the decision until the board has met."]]
+ ],
+ "k": [
+  "句動詞の目的語が代名詞なら、動詞と副詞の間に入れる（pick it up）。",
+  "park は「後で戻る前提で置く」。drop とは違う。",
+  "いつ戻るかを言わないと、park は drop と同じになる。"
+ ]
+},
+"What's the one thing that has to happen first?": {
+ "t": "最初に起こる必要があることは何でしょうか。",
+ "tn": "行動の起点を特定する型です。総論だけで終わる会議を防げます。",
+ "s": [
+  ["What's the one thing", "What is の短縮。the one thing が補語です。"],
+  ["that has to happen first?", "the one thing を修飾する関係詞節。主格の that なので省略できません。"]
+ ],
+ "sn": "主格の関係代名詞は省略できません。目的格（the thing we discussed）なら省略できますが、ここは that が主語なので必要です。",
+ "v": [
+  ["have to happen", "起こる必要がある。happen は自動詞で、主語は出来事です。"],
+  ["the one thing", "ただ1つのこと。one が「唯一の」を表します。"],
+  ["first", "最初に。順序を示します。"]
+ ],
+ "n": [
+  ["What has to happen first?", "起点を問う。行動に直結します。"],
+  ["What's the critical path?", "最も時間のかかる経路を問う。工程管理の語です。"],
+  ["What's the first domino?", "最初のドミノ。比喩的な言い方です。"],
+  ["Where do we start?", "どこから始めるか。最もやわらかい問いです。"]
+ ],
+ "e": [
+  ["What's the one thing that has to happen first — the data agreement or the budget approval?", "最初に起こる必要があるのは何でしょうか。データ利用の合意でしょうか、予算承認でしょうか。"],
+  ["What's the one thing that has to happen first? Everything else can run in parallel.", "最初に必要なことは何でしょうか。それ以外は並行して進められます。"]
+ ],
+ "p": [
+  ["What's the one thing that has to happen first — [A] or [B]?", ["What's the one thing that has to happen first — hiring or training?", "What has to happen first before we can start?"]],
+  ["[起点を問う形]?", ["Where do we start?", "What's on the critical path?"]]
+ ],
+ "k": [
+  "主格の関係代名詞 that は省略できない。",
+  "起点を特定すると、総論で終わらない。",
+  "critical path は工程管理の語。最も時間のかかる経路。"
+ ]
+},
+"Shall we put a date on that?": {
+ "t": "その件に期日を入れておきましょうか。",
+ "tn": "期日のない宿題は消えます。やわらかく提案する形なので使いやすい型です。",
+ "s": [
+  ["Shall we ~?", "提案を表す疑問文。Shall we + 原形で「〜しましょうか」。"],
+  ["put a date on that?", "put A on B で「BにAを付ける」。"]
+ ],
+ "v": [
+  ["shall", "提案や申し出に使う助動詞。Shall we ...? は英国英語で特に一般的で、米国英語では Should we ...? や Let's ... が使われることも多くあります。どちらも通じます。"],
+  ["put a date on ~", "期日を付ける。put a name on it（担当を決める）、put a number on it（金額を出す）も同じ型です。"],
+  ["on", "表面に乗せる接触の前置詞。"]
+ ],
+ "n": [
+  ["Shall we put a date on that?", "やわらかい提案。使いやすい。"],
+  ["Should we put a date on that?", "ほぼ同義。米国英語で一般的です。"],
+  ["Let's put a date on that.", "提案ではなく宣言。やや強めです。"],
+  ["When do you need it by?", "いつまでに必要かを問う。相手に決めさせます。"]
+ ],
+ "e": [
+  ["Shall we put a date on that? Otherwise it drifts to the next cycle.", "その件に期日を入れておきましょうか。でなければ次のサイクルに流れます。"],
+  ["Shall we put a date on the draft — say, the fifteenth?", "草案に期日を入れておきましょうか。たとえば15日などは。"]
+ ],
+ "p": [
+  ["Shall we put a date on [対象]?", ["Shall we put a date on the review?", "Shall we put a name on each of these?"]],
+  ["Shall we put [a date / a name / a number] on that?", ["Shall we put a number on that before we decide?", "Should we put an owner against that?"]]
+ ],
+ "k": [
+  "Shall we ...? は提案。英国英語で一般的、米国では Should we ...? も使う。",
+  "put a date / a name / a number on it は同じ型で応用できる。",
+  "期日のない宿題は消える。"
+ ]
+},
+"I'll draft it and circulate it for comments.": {
+ "t": "私が草案を作り、コメントを募ります。",
+ "tn": "自分から作業を取りにいく型です。文書を握れば、議論も握れます。",
+ "s": [
+  ["I'll draft it", "I will の短縮。draft が動詞で「草案を作る」。"],
+  ["and circulate it for comments", "and の後も will に続く原形。for が目的を示します。"]
+ ],
+ "v": [
+  ["draft", "名詞で「草案」、動詞で「草案を作る」。a first draft（初稿）、a working draft（作業中の案）。"],
+  ["circulate", "回覧する。複数の関係者に回すこと。send（送る）より、広く回す含みがあります。"],
+  ["for comments", "コメントを求めて。for が目的を示します。for review（レビューのため）、for approval（承認のため）も同じ型です。"]
+ ],
+ "n": [
+  ["for comments", "意見を求める。修正の余地が大きい段階。"],
+  ["for review", "確認を求める。おおむね固まった段階。"],
+  ["for approval", "承認を求める。確定を求める段階。"],
+  ["for information", "情報共有のみ。返答は求めません。"]
+ ],
+ "nn": "この4つは文書を回す目的を示す定型句です。何を求めているかを明示しないと、受け取った側が何をすべきか分からず、返信が止まります。",
+ "e": [
+  ["I'll draft it and circulate it for comments by Wednesday, so we can finalize on Friday.", "水曜までに草案を作って回覧し、金曜に確定できるようにします。"],
+  ["I'll draft the client note and circulate it for review before it goes out.", "クライアント向けのメモを作成し、送付前にレビューのため回覧します。"]
+ ],
+ "p": [
+  ["I'll draft [何] and circulate it for [目的].", ["I'll draft the agenda and circulate it for comments.", "I'll draft the summary and circulate it for approval."]],
+  ["I'll [draft / prepare] [成果物] and send it [目的] by [期限].", ["I'll prepare the one-pager and send it for review by Thursday.", "I'll draft the note and send it for information this evening."]]
+ ],
+ "k": [
+  "for comments / review / approval / information を明示すると、相手の動きが決まる。",
+  "circulate は複数に回覧する。send より広い。",
+  "文書を握ると、議論も握れる。"
+ ]
+},
+"Who else needs to be in the room for that?": {
+ "t": "その件には他に誰の参加が必要でしょうか。",
+ "tn": "抜けている関係者を洗い出す型です。手戻りの主因を潰せます。",
+ "s": [
+  ["Who else needs to be in the room", "疑問詞 who が主語。else が「他に」を加えます。"],
+  ["for that?", "for が対象を示します。"]
+ ],
+ "v": [
+  ["in the room", "部屋にいる、から「その議論に参加している」。オンライン会議でも比喩的に使われます。get everyone in the room（全員を参加させる）。"],
+  ["else", "他に。疑問詞の直後に置きます（who else、what else、where else）。"],
+  ["need to be", "〜である必要がある。"]
+ ],
+ "n": [
+  ["Who else needs to be in the room?", "参加すべき人を問う。会議の設計に向きます。"],
+  ["Who needs to sign off?", "承認者を問う。決裁ルートに焦点があります。"],
+  ["Who do we need to consult?", "相談すべき相手を問う。合意形成の話です。"],
+  ["Who will be affected by this?", "影響を受ける人を問う。最も広い問いです。"]
+ ],
+ "e": [
+  ["Who else needs to be in the room for that? If legal has a view, better to hear it now.", "その件には他に誰の参加が必要でしょうか。法務に見解があるなら、いま聞いた方がよいです。"],
+  ["Who else needs to be in the room before we finalize the design?", "設計を確定する前に、他に誰の参加が必要でしょうか。"]
+ ],
+ "p": [
+  ["Who else needs to be in the room for [対象]?", ["Who else needs to be in the room for the design review?", "Who else needs to be involved before we commit?"]],
+  ["Who needs to [関与の種類] on this?", ["Who needs to sign off on this?", "Who needs to be consulted, and who just needs to be informed?"]]
+ ],
+ "k": [
+  "else は疑問詞の直後に置く（who else、what else）。",
+  "in the room は比喩。オンライン会議でも使う。",
+  "承認者・相談相手・影響を受ける人は別。分けて洗い出す。"
+ ]
+},
+"Let's set a checkpoint in two weeks.": {
+ "t": "2週間後に確認の場を設けましょう。",
+ "tn": "進捗管理を仕込む型です。長い施策ほど、中間点が効きます。",
+ "s": [
+  ["Let's set a checkpoint", "Let us + 原形 set。"],
+  ["in two weeks", "in が「今から〜後に」を示します。"]
+ ],
+ "sn": "in two weeks は「2週間後に」、within two weeks は「2週間以内に」。前置詞ひとつで意味が変わるので注意します。",
+ "v": [
+  ["checkpoint", "確認の場。a check-in（短い進捗確認）、a milestone（節目）とも言います。"],
+  ["in", "今から〜後に。未来の時点を示します。"],
+  ["set", "設定する。set a date / set a meeting / set expectations。"]
+ ],
+ "n": [
+  ["checkpoint", "進捗を確認する場。中間点。"],
+  ["check-in", "短い進捗確認。より軽い言い方です。"],
+  ["milestone", "節目。成果が出る時点を指します。"],
+  ["gate", "通過の可否を判断する関門。進むかどうかを決めます。"]
+ ],
+ "nn": "checkpoint は確認のみ、gate は「ここで止めるかどうかを判断する」という意思決定を伴います。パイロットの後には gate を置く方が実務的です。",
+ "e": [
+  ["Let's set a checkpoint in two weeks — fifteen minutes, just to see whether the data is coming through.", "2週間後に確認の場を設けましょう。15分で、データが流れているかを見るだけです。"],
+  ["Let's set a gate at eight weeks: if adoption is under 40%, we stop.", "8週目に判断の関門を置きましょう。導入率が40%未満なら中止します。"]
+ ],
+ "p": [
+  ["Let's set a checkpoint in [期間].", ["Let's set a checkpoint in one month.", "Let's set a check-in at the end of next week."]],
+  ["Let's set a [checkpoint / gate] at [時点]: [判断基準].", ["Let's set a gate at week six: if the pilot is not live, we re-plan.", "Let's set a checkpoint at the half-way point to review the assumptions."]]
+ ],
+ "k": [
+  "in two weeks（2週間後）/ within two weeks（2週間以内）。",
+  "checkpoint（確認）と gate（続行可否の判断）は別。",
+  "長い施策ほど、中間点を入れておく。"
+ ]
+},
+"That one's mine — I'll have it by Friday.": {
+ "t": "その件は私が担当し、金曜までに仕上げます。",
+ "tn": "短く宣言する型です。会議の最後で自分の存在を残せます。",
+ "s": [
+  ["That one's mine", "That one is の短縮。mine は所有代名詞で「私のもの＝私の担当」。"],
+  ["— I'll have it by Friday", "ダッシュでつなぎ、期限を宣言します。have it で「手元に揃えている」。"]
+ ],
+ "v": [
+  ["mine", "所有代名詞。ここでは「私の担当」。That's mine. で担当の引き受けを表せます。"],
+  ["have it by ~", "〜までに用意できている。I'll have it ready by Friday の ready が省略された形とも考えられます。"],
+  ["that one", "複数ある項目のうちの1つを指します。"]
+ ],
+ "n": [
+  ["That one's mine.", "担当の宣言。短く口語的です。"],
+  ["I'll take that one.", "引き受ける。ほぼ同義です。"],
+  ["Put me down for that.", "私を担当にしてほしい。記録を意識した言い方です。"],
+  ["I've got that.", "それは私が。最も短い形です。"]
+ ],
+ "e": [
+  ["That one's mine — I'll have it by Friday. If I hit a blocker, I'll say so on Wednesday.", "その件は私が担当し、金曜までに仕上げます。支障が出れば水曜に共有します。"],
+  ["That one's mine. Put me down as the owner in the note.", "その件は私が担当します。議事メモでは私を担当者としてください。"]
+ ],
+ "p": [
+  ["That one's mine — I'll have it by [期限].", ["That one's mine — I'll have it by Tuesday.", "That one's mine — I'll have a draft by the end of the week."]],
+  ["[担当の宣言]. [期限と連絡方法].", ["I'll take that one. Draft by Thursday, final by Monday.", "Put me down for that. I'll flag early if it slips."]]
+ ],
+ "k": [
+  "mine は所有代名詞。That's mine. で担当を引き受けられる。",
+  "期限と、遅れた場合の連絡をセットで言うと信頼される。",
+  "短い宣言は、会議の最後で記憶に残る。"
+ ]
+},
+"What happens if we miss that date?": {
+ "t": "その期日に間に合わなかった場合はどうなりますか。",
+ "tn": "期日の重みを確認する型です。優先順位づけの材料になります。",
+ "s": [
+  ["What happens", "疑問詞 what が主語。happen は自動詞です。"],
+  ["if we miss that date?", "条件節。現在形で、実際に起こりうる条件を示します。"]
+ ],
+ "sn": "条件の副詞節の中は、未来のことでも現在形です（if we miss であって if we will miss ではありません）。",
+ "v": [
+  ["miss a date", "期日に間に合わない。miss a deadline も同じ意味です。"],
+  ["happen", "起こる。自動詞で、受動態にはなりません。"],
+  ["if", "条件の接続詞。"]
+ ],
+ "n": [
+  ["What happens if we miss that date?", "期日の重みを問う。優先順位の材料になります。"],
+  ["Is that date hard or soft?", "期日が動かせるかを問う。より直接的です。"],
+  ["What's driving that date?", "期日の理由を問う。背景を探ります。"],
+  ["What's the consequence of slipping?", "遅延の帰結を問う。かたい言い方です。"]
+ ],
+ "e": [
+  ["What happens if we miss that date? If it only moves the review, that changes how I prioritize.", "その期日に間に合わなかった場合はどうなりますか。レビューがずれるだけなら、優先順位の付け方が変わります。"],
+  ["What happens if we miss the board date? Do we wait a full quarter?", "取締役会の日程に間に合わなかった場合はどうなりますか。1四半期待つことになりますか。"]
+ ],
+ "p": [
+  ["What happens if we miss [期日]?", ["What happens if we miss the filing deadline?", "What happens if the data arrives a week late?"]],
+  ["[期日の重みを問う形]?", ["Is that date hard or soft?", "What's driving that date?"]]
+ ],
+ "k": [
+  "条件の副詞節は未来でも現在形（if we miss）。",
+  "happen は自動詞。受動態にならない。",
+  "期日の重みが分かると、優先順位が決まる。"
+ ]
+},
+"I'll need two things from you to move.": {
+ "t": "進めるには、そちらから2点必要です。",
+ "tn": "依頼を数えて出す型です。曖昧な依頼は放置されやすいものです。",
+ "s": [
+  ["I'll need two things from you", "I will の短縮。need A from B の形です。"],
+  ["to move", "目的を表す不定詞。move は自動詞で「動く・進む」。"]
+ ],
+ "v": [
+  ["need A from B", "from が出どころを示します。"],
+  ["move", "ここでは自動詞で「進む」。move forward の短縮としても使われます。"],
+  ["two things", "数を明示。依頼の範囲が確定します。"]
+ ],
+ "n": [
+  ["I'll need two things from you.", "依頼を数えて出す。放置されにくい。"],
+  ["There are two things I need.", "同じ内容をより中立に言う形です。"],
+  ["Could you help with two things?", "依頼の形。よりていねいです。"],
+  ["I'm blocked on two things.", "2点で止まっている。緊急度が伝わります。"]
+ ],
+ "e": [
+  ["I'll need two things from you to move: the headcount file and a name for the data owner.", "進めるには2点必要です。人員データと、データ担当者のお名前です。"],
+  ["I'll need two things from you to move — approval to contact the regions, and the Q3 numbers.", "進めるには2点必要です。各地域への連絡の許可と、第3四半期の数字です。"]
+ ],
+ "p": [
+  ["I'll need [n] things from you to [目的].", ["I'll need three things from you to finish this.", "I'll need one thing from you to start."]],
+  ["I'll need [n] things from you: [列挙]. By [期限].", ["I'll need two things: the file and the approval. By Wednesday.", "I'm blocked on two things: access and a decision on scope."]]
+ ],
+ "k": [
+  "依頼は数えて出す。曖昧な依頼は放置される。",
+  "need A from B。出どころは from。",
+  "依頼には期限も添える。"
+ ]
+},
+"Let's agree what 'done' looks like.": {
+ "t": "「完了」の状態を先に合意しましょう。",
+ "tn": "成果物の認識ずれを防ぐ型です。プロジェクトの序盤で最も効きます。",
+ "s": [
+  ["Let's agree", "Let us + 原形 agree。"],
+  ["what 'done' looks like", "疑問詞 what が導く名詞節が agree の目的語。間接疑問なので平叙文の語順です。"]
+ ],
+ "sn": "agree の後ろに that節ではなく what節が来ている点に注意します。agree on what ... とも言えますが、口語では on を落とす形も広く使われます。",
+ "v": [
+  ["what ~ looks like", "〜がどういうものか。What does good look like?（望ましい状態とは何か）は会議の定番の問いです。"],
+  ["done", "完了。引用符で囲むことで、この語自体を論点として扱っていると示せます。"],
+  ["agree", "合意する。"]
+ ],
+ "n": [
+  ["What does 'done' look like?", "完了の状態を問う。成果物の定義です。"],
+  ["What does 'good' look like?", "望ましい状態を問う。品質の定義です。"],
+  ["What's the definition of done?", "完了の定義。より形式的です。"],
+  ["What are the acceptance criteria?", "受け入れ基準。契約や開発の文脈で使われます。"]
+ ],
+ "e": [
+  ["Let's agree what 'done' looks like — a recommendation with three options, or a single recommendation?", "「完了」の状態を先に合意しましょう。3案併記の提言でしょうか、単一の提言でしょうか。"],
+  ["Before we start, let's agree what 'good' looks like for this deliverable.", "着手前に、この成果物について望ましい状態を合意しましょう。"]
+ ],
+ "p": [
+  ["Let's agree what '[語]' looks like.", ["Let's agree what 'ready' looks like.", "Let's agree what success looks like in six months."]],
+  ["What does '[語]' look like? [選択肢].", ["What does 'done' look like — a draft or a final?", "What does 'good' look like here — speed or completeness?"]]
+ ],
+ "k": [
+  "間接疑問は平叙文の語順（what done looks like）。",
+  "What does good look like? は会議の定番の問い。",
+  "完了の定義を先に合意すると、認識ずれが防げる。"
+ ]
+},
+"I'll follow up with a one-page summary.": {
+ "t": "1枚のサマリーで追ってご連絡します。",
+ "tn": "成果物の形式まで約束する型です。期待値が揃います。",
+ "s": [
+  ["I'll follow up", "I will の短縮。follow up は自動詞の句動詞です。"],
+  ["with a one-page summary", "with が手段・内容を示します。"]
+ ],
+ "v": [
+  ["follow up with ~", "with が「何をもって」を示します。follow up with A は「Aを送って連絡する」の意味にも、「A（人）に連絡する」の意味にもなるため、文脈で判断します。"],
+  ["one-page", "1ページの。数詞 + 単位をハイフンでつないだ形容詞で、単位は単数形です（one-page、two-day、three-month）。"],
+  ["summary", "要約。"]
+ ],
+ "n": [
+  ["a one-page summary", "1枚の要約。分量を約束します。"],
+  ["a short note", "短いメモ。分量は曖昧です。"],
+  ["a deck", "資料。より重い成果物です。"],
+  ["a bullet list", "箇条書き。最も軽い形です。"]
+ ],
+ "e": [
+  ["I'll follow up with a one-page summary by tomorrow morning — decisions, owners, and dates.", "明日の午前中に1枚のサマリーでご連絡します。決定事項、担当、期日を入れます。"],
+  ["I'll follow up with a short note rather than a deck; the content does not need slides.", "資料ではなく短いメモでご連絡します。内容的にスライドは不要です。"]
+ ],
+ "p": [
+  ["I'll follow up with [成果物].", ["I'll follow up with the revised numbers.", "I'll follow up with a two-page note."]],
+  ["I'll follow up with [成果物] by [期限]: [中身].", ["I'll follow up with a one-pager by Friday: options, costs, and a recommendation.", "I'll follow up with the data cut by Tuesday."]]
+ ],
+ "k": [
+  "数詞 + 単位をハイフンでつなぐと形容詞になり、単位は単数形（one-page）。",
+  "成果物の形式まで約束すると、期待値が揃う。",
+  "follow up with は「何を送るか」と「誰に連絡するか」の両方に使える。"
+ ]
+},
+"Is there anything blocking you on your side?": {
+ "t": "そちら側で止まっていることはありますか。",
+ "tn": "相手側の障害を先に把握する型です。遅延の発覚が早まります。",
+ "s": [
+  ["Is there anything", "There is 構文の疑問文。anything が主語です。"],
+  ["blocking you", "anything を後ろから修飾する現在分詞。「あなたを止めているもの」。"],
+  ["on your side?", "on your side で「そちら側で」。"]
+ ],
+ "sn": "現在分詞が名詞を後ろから修飾する形です（anything blocking you = anything that is blocking you）。関係代名詞 + be動詞が省略された形と考えると分かりやすくなります。",
+ "v": [
+  ["block", "妨げる。a blocker（障害・妨げになるもの）という名詞形も会議で頻出します。I'm blocked on X.（Xで止まっている）。"],
+  ["on your side", "そちら側で。on our side（こちら側で）と対で使います。"],
+  ["anything", "疑問文で使う不定代名詞。"]
+ ],
+ "n": [
+  ["Is anything blocking you?", "障害の有無を問う。中立です。"],
+  ["What's blocking you?", "何が止めているかを問う。障害の存在を前提とします。"],
+  ["Do you have what you need?", "必要なものは揃っているかを問う。前向きな聞き方です。"],
+  ["Any risks to the date?", "期日へのリスクを問う。期限に焦点があります。"]
+ ],
+ "nn": "Is anything blocking you? は障害の有無から尋ねますが、What's blocking you? は障害があることを前提にします。相手が言い出しにくい場では、前者の方が答えやすくなります。",
+ "e": [
+  ["Is there anything blocking you on your side? Better to know now than two days before the deadline.", "そちら側で止まっていることはありますか。期日の2日前より、いま分かる方が良いので。"],
+  ["Is there anything blocking you? If you need access to the system, I can arrange it today.", "止まっていることはありますか。システムへのアクセスが必要なら、本日手配できます。"]
+ ],
+ "p": [
+  ["Is there anything blocking you on [your side]?", ["Is there anything blocking you on the data request?", "Is there anything blocking the team on this?"]],
+  ["[障害を問う形]? [支援の申し出].", ["Do you have what you need? If not, tell me what to unblock.", "Any risks to the date? I'd rather hear them early."]]
+ ],
+ "k": [
+  "現在分詞が名詞を後ろから修飾する（anything blocking you）。",
+  "blocker は「障害になるもの」。I'm blocked on X. も頻出。",
+  "障害の有無から尋ねると、相手が言い出しやすい。"
+ ]
+}
+}

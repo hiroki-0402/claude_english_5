@@ -1,0 +1,661 @@
+{
+"Let me start with the bottom line.": {
+ "t": "まず結論から申し上げます。",
+ "tn": "直訳は「最も重要な一点から始めさせてください」。日本語の「結論から言うと」にあたる前置きで、これから1〜2文で判断を述べるという合図として受け取られます。",
+ "s": [
+  ["Let me", "Let + 人 + 動詞の原形で「私に〜させてください」。命令形ですが、英語会議では「〜しますね」程度の軽い宣言として機能します。me の後ろは to が付かない原形（start）であることに注意。"],
+  ["start with ~", "start は自動詞で「始める」。with が「〜を携えて」の意味を加え、「何を出発点に置くか」を示します。"],
+  ["the bottom line", "the が付いて「ほかにもあるが、その中の決定的な一点」を指します。無冠詞や a では成立しません。"]
+ ],
+ "sn": "全体で5語。文末を下げて言い切ると、そのまま結論に入れます。Let me の後に長い説明を続けると前置きが伸びてしまうので、この文はここで切ります。",
+ "v": [
+  ["bottom line", "コアイメージは損益計算書の最下行、つまり最終利益。そこから転じて「あれこれ差し引いた後に残る、判断に直結する一点」を指します。数字の話に限らず使えます。"],
+  ["let", "コアイメージは「通す・妨げない」。許可を与えるというより障害を取り除く感覚なので、Let me ~ は威圧的に響きません。"],
+  ["start with", "with は同伴の前置詞。start from だと「ある地点を起点に進む」という物理的・時系列的な出発点になり、start with は「まず何を取り上げるか」という話題の選択になります。ここは話題の選択なので with が自然です。"]
+ ],
+ "n": [
+  ["bottom line", "差し引き後に残る決定的な一点。判断や行動に直結します。"],
+  ["conclusion", "検討や分析の帰結。プロセスを経た結果という含みがあり、ややかたい響きです。"],
+  ["takeaway", "聞き手が持ち帰るべき点。プレゼンの締めや議事メモで多用されます。"],
+  ["headline", "新聞の見出しのように、最初に出す短い要旨。bottom line より軽く、続きがある前提です。"]
+ ],
+ "nn": "Let me start with the conclusion. も Let me start with the headline. もどれも自然です。bottom line は「で、どうするのか」に踏み込む一点を指すため、提言を述べる場面で最もよく合います。",
+ "e": [
+  ["Let me start with the bottom line: we should not raise base pay across the board this year.", "結論から申し上げます。今年の一律ベースアップは行うべきではありません。"],
+  ["Let me start with the bottom line, then I'll walk through the three drivers.", "まず結論を述べ、その後で3つの要因を順に説明します。"]
+ ],
+ "p": [
+  ["Let me start with [the bottom line / the conclusion / the headline].", ["Let me start with the headline, then go into the detail.", "Let me start with the conclusion and work backwards."]],
+  ["Let me start with [the bottom line]: [結論].", ["Let me start with the bottom line: the pilot did not pay for itself.", "Let me start with the bottom line: we need two more recruiters, not a new tool."]]
+ ],
+ "k": [
+  "Let me + 動詞の原形。to は入れない。",
+  "bottom line は「差し引き後に残る決定的な一点」。数字の話でなくても使える。",
+  "この1文で切り、すぐ結論を言う。前置きを足すと型の意味が消える。"
+ ]
+},
+"My view is that we should focus on the enterprise segment.": {
+ "t": "私の見解は、エンタープライズ領域に集中すべきだということです。",
+ "tn": "「私の見解では〜」と訳しても自然です。view は単なる感想ではなく、検討を経た見立てという含みがあります。",
+ "s": [
+  ["My view", "主語。view が可算名詞として a view / my view の形で「意見・見立て」を表します。"],
+  ["is that ...", "be動詞 + that節。主語の中身を that節で説明する構文（S is that SV）。この that は接続詞で、口語では省略されることもありますが、会議では残した方が構造が明確に伝わります。"],
+  ["we should focus on ~", "that節の中身。should は「〜すべき」。must ほど強制的ではなく、提言として受け取られます。"]
+ ],
+ "sn": "My view is that ... の形は、結論を1文に収めるための器です。that節の中は必ず主語と動詞のある完全な文にします（My view is to focus ... とすると意味は通りますが、提言の主体がぼやけます）。",
+ "v": [
+  ["view", "コアイメージは「どこから何が見えているか」という視点。だから my view は「私の立ち位置から見た判断」になります。landscape を眺める感覚が残っているため、感想より分析寄りに響きます。"],
+  ["focus on ~", "on は接触の前置詞で「面にぴたりと乗る」イメージ。焦点を一点に合わせて当てるので、focus to や focus at ではなく on を取ります。"],
+  ["should", "助動詞。義務の強さは must > should > could。should は「そうするのが妥当だ」という提言の高さで、クライアントにも使えます。"]
+ ],
+ "n": [
+  ["My view is that ...", "検討した上での見立て。会議の標準形で、角が立ちません。"],
+  ["I think ...", "最も中立。ただし連発すると、根拠のない感想の列挙に聞こえることがあります。"],
+  ["I believe ...", "信念に寄り、主張が強めに響きます。価値判断を伴う場面に向きます。"],
+  ["My position is that ...", "交渉上の立場。譲る／譲らないの話になる場面で使われます。"]
+ ],
+ "nn": "I think も会議で普通に使われる表現です。My view is that に替えると、感想ではなく判断として置いている、という姿勢が伝わりやすくなります。",
+ "e": [
+  ["My view is that we should fix the compensation bands before we hire more sales reps.", "私の見解は、営業の増員より先に報酬レンジを整えるべきだということです。"],
+  ["My view is that attrition is a manager problem, not a pay problem.", "私の見解では、離職は報酬ではなく管理職の問題です。"]
+ ],
+ "p": [
+  ["My view is that [結論].", ["My view is that the bottleneck is onboarding, not recruiting.", "My view is that we should run the pilot in one region first."]],
+  ["My [view / read / position] is that [結論].", ["My read is that demand is flat, not falling.", "My position is that we should not sign before the audit."]]
+ ],
+ "k": [
+  "My view is that + 主語 + 動詞。that節の中は完全な文にする。",
+  "view は「視点から見た判断」。I think より分析寄りに響く。",
+  "focus on の on は「面にぴたりと乗る」接触のイメージ。"
+ ]
+},
+"Based on the data, I'd argue that pricing is the bigger issue.": {
+ "t": "データを踏まえると、価格の方が大きな問題だと考えます。",
+ "tn": "argue は「議論する・言い争う」ではなく「論拠を挙げて主張する」。I'd argue は「〜だと申し上げたい」程度の落ち着いた主張です。",
+ "s": [
+  ["Based on the data,", "過去分詞から始まる分詞構文。文全体を修飾し、判断の土台を先に示します。カンマで区切るのが基本です。"],
+  ["I'd argue", "I would argue の短縮。would が断定を一段やわらげ、「あえて言えば」のニュアンスを加えます。"],
+  ["that pricing is the bigger issue", "argue の目的語となる that節。the bigger は2つを比べた上での「より大きい方」で、比較対象が文脈から明らかなため the が付きます。"]
+ ],
+ "sn": "根拠 → 主張の順に並ぶ、会議で最も使い回しの効く型です。Based on ... の部分を the interviews / the benchmark / what we heard yesterday に差し替えれば、そのまま別の場面で使えます。",
+ "v": [
+  ["based on ~", "base は「土台」。on が「その上に乗っている」ことを示すので、主張が何の上に立っているかを明示できます。based in は拠点の所在（a firm based in Tokyo）で、意味が変わります。"],
+  ["argue", "ラテン語の「明らかにする」に由来し、コアイメージは「論拠を並べて示す」。日本語の「議論する」より一方向で、主張を立てる動詞です。"],
+  ["the bigger issue", "比較級に the が付くのは、比べる対象が2つに絞られていて「そのうちの大きい方」と特定されるとき。the bigger of the two の of 以下が省略された形と考えると分かりやすくなります。"]
+ ],
+ "n": [
+  ["I'd argue that ...", "論拠がある前提で主張を立てる。反論を受ける用意がある落ち着いた言い方。"],
+  ["I'd say that ...", "もっと軽い。手元の印象や概算を述べるときにも使えます。"],
+  ["I'd claim that ...", "証明責任を自分が負う含み。学術寄りで、会議ではあまり使われません。"],
+  ["The data suggests that ...", "主語をデータに移して、自分を前に出さない言い方。"]
+ ],
+ "nn": "I'd say と I'd argue はどちらも自然です。argue は「根拠を示す用意がある」ことが伝わるので、数字を手元に持っている場面に向きます。",
+ "e": [
+  ["Based on the exit interviews, I'd argue that career path is the bigger issue, not compensation.", "退職者面談を踏まえると、報酬より昇進の道筋の方が大きな問題だと考えます。"],
+  ["Based on the benchmark, I'd argue that we are overpaying at the junior level and underpaying at the senior level.", "ベンチマークを踏まえると、若手は払い過ぎで、シニアは払い足りていないと考えます。"]
+ ],
+ "p": [
+  ["Based on [根拠], I'd argue that [結論].", ["Based on the churn data, I'd argue that onboarding is where we lose people.", "Based on what we heard from the field, I'd argue that the target is too aggressive."]],
+  ["Based on [根拠], [結論] is the bigger [issue / risk / driver].", ["Based on the model, headcount is the bigger driver.", "Based on the survey, workload is the bigger risk."]]
+ ],
+ "k": [
+  "Based on ... , は分詞構文。カンマで切って根拠を先に置く。",
+  "I'd argue = 論拠を示して主張する。I think より一段しっかりした響き。",
+  "the bigger は「2つのうち大きい方」。比較対象があるから the が付く。"
+ ]
+},
+"The short answer is yes, with two conditions.": {
+ "t": "端的に言えばイエスです。ただし条件が2つあります。",
+ "tn": "直訳は「短い答えはイエスです、2つの条件付きで」。曖昧に濁さず、肯定しながら制約を明示する型です。",
+ "s": [
+  ["The short answer is yes", "S + be + C。answer に the short が付き、「長く説明すればいろいろあるが、短く答えるなら」という対比が生まれます。"],
+  [", with two conditions", "付帯状況を表す with句。文末にカンマを置いて足すと、「ただし〜付きで」という条件の後出しになります。"]
+ ],
+ "sn": "The short answer is ... は、The long answer（詳しい説明）が後ろにあることを暗に示します。だからこの型を使ったら、続けて条件や理由を述べる流れが自然です。",
+ "v": [
+  ["the short answer", "短く答えるならこうなる、という「要約版の答え」。the long answer is ... と対にして使うのが典型です。"],
+  ["condition", "コアイメージは「それが満たされている状態」。複数形で「〜という条件」を数えられるので、先に数を言うと相手が構造を追えます。"],
+  ["with ~", "付帯の with。「〜を伴って」。条件を添えるときは with two conditions、留保を添えるときは with one caveat のように数を前に置きます。"]
+ ],
+ "n": [
+  ["The short answer is yes, with two conditions.", "肯定した上で制約を明示する。最も実務的。"],
+  ["Yes, but ...", "肯定してから打ち消す形。but の後ろが長いと、結局ノーに聞こえることがあります。"],
+  ["In principle, yes.", "原則としてはイエス。例外があることを匂わせますが、何が例外かは示していません。"],
+  ["It depends.", "条件次第。何に依存するのかを続けないと、答えを避けたように受け取られます。"]
+ ],
+ "nn": "Yes, but ... も It depends. も場面次第で自然な返答です。条件の数を先に言う形は、相手がメモを取りやすいという実務上の利点があります。",
+ "e": [
+  ["The short answer is yes, with two conditions: budget sign-off and a data feed from HR.", "端的にはイエスです。条件は2つ、予算承認と人事側のデータ連携です。"],
+  ["The short answer is no, with one exception: the regulated entities.", "端的にはノーです。例外は1つ、規制対象の法人だけです。"]
+ ],
+ "p": [
+  ["The short answer is [yes / no], with [two] [conditions / caveats / exceptions].", ["The short answer is yes, with one caveat.", "The short answer is no, with three exceptions."]],
+  ["The short answer is [回答]. The long answer is that [詳細].", ["The short answer is yes. The long answer is that it depends on how we staff it.", "The short answer is no. The long answer is that the data is not comparable."]]
+ ],
+ "k": [
+  "数を先に言う（two conditions）。相手が構造を追いやすくなる。",
+  "文末の with句で条件を後出しできる。カンマで区切る。",
+  "short answer を使ったら、続けて long answer を話す流れが自然。"
+ ]
+},
+"Where I land is that we should pilot it first.": {
+ "t": "私の結論としては、まずパイロットで試すべきだということです。",
+ "tn": "land は飛行機が着地するイメージ。検討を重ねた末に「ここに降りた」という含みがあり、単なる意見表明より重みが出ます。",
+ "s": [
+  ["Where I land", "関係副詞 where が導く名詞節が主語になっています。「私が着地するところ」＝「私の落ち着いた結論」。"],
+  ["is that ...", "主語の中身を that節で述べる S is that SV の構文。"],
+  ["we should pilot it first", "pilot が動詞として使われています。first が「他に手を広げる前に」を補います。"]
+ ],
+ "sn": "Where I land is that ... は、名詞節が主語に来る少しひねった構文ですが、会議では定型句として塊で覚えて構いません。議論が割れた後、自分の着地点を示す場面に向きます。",
+ "v": [
+  ["land", "コアイメージは「宙に浮いていたものが地面に着く」。検討中は宙ぶらりんで、結論が出て初めて land します。I landed on option B.（案Bに落ち着いた）のように on を伴う形も頻出です。"],
+  ["pilot", "名詞では試験的な小規模導入、動詞では「試験導入する」。run a pilot と動詞 pilot はほぼ同じ意味で使えます。"],
+  ["first", "ここでは副詞で「まず最初に」。文末に置くと「他の選択肢より前に」という優先順位の含みが出ます。"]
+ ],
+ "n": [
+  ["Where I land is that ...", "検討を経た着地点。議論の後に自分の結論を置く場面向き。"],
+  ["My view is that ...", "見立て。検討の過程は含意しません。"],
+  ["I've landed on ...", "同じ land を使った短い形。目的語は名詞（option B など）になります。"],
+  ["My conclusion is that ...", "ややかたく、報告書寄りの響きです。"]
+ ],
+ "nn": "どれも自然な表現です。Where I land は「迷ったが、ここに決めた」という経緯がにじむため、両案を検討した後ほど効果が出ます。",
+ "e": [
+  ["Where I land is that we should pilot the new grading system in one business unit before rolling it out.", "私の結論としては、新しい等級制度は全社展開の前に1事業部でパイロットすべきだということです。"],
+  ["Having looked at both, where I land is that we buy rather than build.", "両方を検討した結論として、自社開発ではなく購入を選びます。"]
+ ],
+ "p": [
+  ["Where I land is that [結論].", ["Where I land is that we should delay the launch by a quarter.", "Where I land is that the risk is manageable."]],
+  ["I've landed on [選択肢], mainly because [理由].", ["I've landed on option B, mainly because it is reversible.", "I've landed on the phased approach, mainly because of the data gaps."]]
+ ],
+ "k": [
+  "land は「宙に浮いた検討が地面に着く」イメージ。結論の重みが出る。",
+  "Where I land is that ... は名詞節が主語。塊で覚えてよい。",
+  "選択肢を目的語に取るときは land on を使う。"
+ ]
+},
+"If I had to pick one, I'd go with option B.": {
+ "t": "1つ選ぶとすれば、案Bを取ります。",
+ "tn": "直訳は「もし1つ選ばなければならないとしたら」。本当は選びたくないが、問われたので答える、という前置きが入っています。",
+ "s": [
+  ["If I had to pick one,", "仮定法過去の if節。現在の事実と少し距離を置くため、過去形 had を使います。「実際には選ばなくてもよいが、仮に」という含みが生まれます。"],
+  ["I'd go with option B", "帰結節。I would の短縮形。仮定法では if節が過去形、帰結節が would + 原形という組み合わせになります。"]
+ ],
+ "sn": "この型の要点は、仮定法で一段距離を置きながら、結論自体はきっぱり言い切れることです。即答を求められて逃げ場がない場面で使えます。",
+ "v": [
+  ["pick", "choose よりくだけた「選び取る」。手を伸ばして取るイメージがあり、直感的な選択に合います。"],
+  ["go with ~", "コアイメージは「それと一緒に進む」。選んだ案に乗って先へ行く感覚なので、決定を表す口語表現として定着しています。go for ~ は「それを狙って取りにいく」で、より積極的な響きです。"],
+  ["had to", "must の過去形。仮定法の if節に入ると、現実との距離を作る役目を果たします。"]
+ ],
+ "n": [
+  ["If I had to pick one, ...", "選択を強いられた形。「本来は絞りたくない」が伝わります。"],
+  ["If it were up to me, ...", "決定権が自分にあるとしたら。権限の話にずれます。"],
+  ["My recommendation is ...", "最初から推奨として出す形。前置きの距離感はありません。"],
+  ["I'd lean toward ...", "まだ傾きの段階。言い切らずに方向だけ示します。"]
+ ],
+ "nn": "どれも実際に使われる言い方です。If I had to pick one は「即答を求められたので答える」という文脈が前提になるため、求められていない場面で使うとやや不自然に響きます。",
+ "e": [
+  ["If I had to pick one, I'd go with the retention bonus — it is faster to implement than a full band revision.", "1つ選ぶなら定着ボーナスです。レンジの全面改定より早く実行できます。"],
+  ["If I had to pick one lever, I'd go with manager training.", "施策を1つに絞るなら、管理職研修を選びます。"]
+ ],
+ "p": [
+  ["If I had to pick one, I'd go with [選択肢].", ["If I had to pick one, I'd go with the phased rollout.", "If I had to pick one, I'd go with vendor A."]],
+  ["If I had to [pick one / choose today / name one risk], I'd [go with / say] [回答].", ["If I had to choose today, I'd go with option B.", "If I had to name one risk, I'd say attrition in the delivery team."]]
+ ],
+ "k": [
+  "仮定法：if節は had to、帰結節は I'd（would）+ 原形。",
+  "go with = 「その案に乗って進む」。決定を表す口語の定番。",
+  "必ず理由を一言添える。選んだだけで終えると根拠不明に聞こえる。"
+ ]
+},
+"To be clear, I'm not saying we stop. I'm saying we slow down.": {
+ "t": "念のため申し上げると、止めろという話ではなく、速度を落とすべきという話です。",
+ "tn": "自分の発言が実際より強く受け取られたと感じたときに、誤解を1文で止めるための型です。I'm not saying X. I'm saying Y. の対比が要点です。",
+ "s": [
+  ["To be clear,", "独立不定詞。文全体への前置きとして働き、「はっきりさせておくと」の意味になります。"],
+  ["I'm not saying (that) we stop.", "現在進行形で「いま私が言っているのは〜ではない」。that は省略されています。stop が原形なのは、提案を表す節で動詞の原形を使う形（仮定法現在）の名残です。we should stop としても自然です。"],
+  ["I'm saying (that) we slow down.", "同じ構文で肯定。X ではなく Y だ、と並べることで、誤解された部分だけを正確に打ち消せます。"]
+ ],
+ "sn": "2文に分けている点が重要です。1文に詰めると対比がぼやけます。not saying と saying を同じ形で繰り返すことで、違いが聞き取りやすくなります。",
+ "v": [
+  ["to be clear", "clear のコアイメージは「濁りがなく見通せる」。曖昧さを取り除く宣言として前置きに使います。"],
+  ["slow down", "down は「下へ」ではなく、ここでは勢いを落とす方向。slow down は速度を落とす、speed up は上げる、と対になります。"],
+  ["I'm not saying ~", "進行形を使うことで「いまこの場での自分の発言」に限定できます。I don't say ... とすると習慣の話になり、この場面では合いません。"]
+ ],
+ "n": [
+  ["To be clear, ...", "誤解を正す前置き。中立で、相手を責めません。"],
+  ["Just to clarify, ...", "ほぼ同義でややていねい。質問にも使えます。"],
+  ["Let me be clear, ...", "強め。重要な一点を押し出すときに使われます。"],
+  ["What I mean is ...", "言い換えの導入。誤解の訂正というより説明の追加です。"]
+ ],
+ "nn": "どれも自然です。To be clear と Just to clarify はほぼ交換可能で、Let me be clear は語調が強いため、使う場面を選びます。",
+ "e": [
+  ["To be clear, I'm not saying the strategy is wrong. I'm saying the timing is.", "誤解のないように言うと、戦略が誤りだという話ではなく、時期の問題だという話です。"],
+  ["To be clear, I'm not saying we cut headcount. I'm saying we freeze backfills for two quarters.", "念のため申し上げると、人員削減の話ではなく、2四半期の欠員補充停止の話です。"]
+ ],
+ "p": [
+  ["To be clear, I'm not saying [X]. I'm saying [Y].", ["To be clear, I'm not saying we drop the client. I'm saying we reprice the work.", "To be clear, I'm not saying the data is wrong. I'm saying it is incomplete."]],
+  ["[To be clear / Just to clarify], [訂正したい内容].", ["Just to clarify, the number is monthly, not annual.", "To be clear, this is a draft, not a recommendation."]]
+ ],
+ "k": [
+  "2文に分けて not saying / saying を並べると、誤解だけを正確に消せる。",
+  "進行形 I'm not saying は「いまこの場の発言」に限定する働きがある。",
+  "slow down の down は方向ではなく勢いの低下。speed up と対で覚える。"
+ ]
+},
+"Let me state my position, then walk through the logic.": {
+ "t": "先に立場を述べてから、その根拠を順に説明します。",
+ "tn": "これから構造的に話す、という宣言です。宣言しておくと、途中で割り込まれにくくなります。",
+ "s": [
+  ["Let me state my position,", "Let + me + 原形 state。state は「公式に述べる」。目的語は my position。"],
+  ["then walk through the logic", "then の後も Let me に続く原形がそのまま並びます（Let me state ... and then walk through ...）。2つ目の原形に to は付きません。"]
+ ],
+ "sn": "1つの Let me に2つの動作（state と walk through）を並べる形です。原形を並べるだけで済むので、長い前置きを作らずに流れを予告できます。",
+ "v": [
+  ["state", "say よりかたく「公式に表明する」。state my position で「立場を明示する」。議事録に残る場面に合います。"],
+  ["walk through ~", "コアイメージは「相手を連れて一緒に歩いて通り抜ける」。だから「順を追って説明する」になります。説明を受ける側は walk me through it（順に説明してください）と言えます。"],
+  ["logic", "ここでは「論法・筋道」。the logic behind it（その背後にある筋道）の形でもよく使われます。"]
+ ],
+ "n": [
+  ["walk through ~", "順を追って一緒にたどる。相手の理解を確認しながら進む含み。"],
+  ["go through ~", "ひととおり目を通す・片づける。説明の丁寧さは含意しません。"],
+  ["take you through ~", "walk through とほぼ同義。主語が自分で、相手を明示します。"],
+  ["explain ~", "中立。構造的に順を追うという含みはありません。"]
+ ],
+ "nn": "walk through と take you through はほぼ同じように使えます。go through は「網羅する」寄りで、資料を1枚ずつ確認する場面にも使われます。",
+ "e": [
+  ["Let me state my position, then walk through the three drivers behind it.", "先に立場を述べ、その後で背景にある3つの要因を順に説明します。"],
+  ["Let me state our recommendation, then walk through how we tested it.", "先に提言を述べ、その後でどう検証したかを順に説明します。"]
+ ],
+ "p": [
+  ["Let me state [my position], then walk through [the logic].", ["Let me state the recommendation, then walk through the numbers.", "Let me state where we landed, then walk through the options we rejected."]],
+  ["Let me [動詞の原形], then [動詞の原形].", ["Let me summarize, then open it up for questions.", "Let me show the result, then explain the method."]]
+ ],
+ "k": [
+  "Let me の後に原形を2つ並べられる（state ... then walk through ...）。to は不要。",
+  "walk through は「相手を連れて順にたどる」。説明を頼むときは walk me through it。",
+  "話す順番を先に宣言すると、割り込まれにくくなる。"
+ ]
+},
+"In my view, the bigger risk is doing nothing.": {
+ "t": "私の見方では、より大きなリスクは何もしないことです。",
+ "tn": "現状維持にもコストがある、と可視化する型です。慎重論に押されたときに流れを戻せます。",
+ "s": [
+  ["In my view,", "前置詞句の前置き。in が「その枠の中で」を示し、「私の見え方の範囲では」になります。"],
+  ["the bigger risk", "主語。2つを比べた上での「大きい方」なので the が付きます。比較対象（動くリスク）は文脈で示されています。"],
+  ["is doing nothing", "補語に動名詞。be + 動名詞ですが進行形ではなく、「〜すること」という名詞のかたまりです。is to do nothing としても通じますが、動名詞の方が口頭では自然です。"]
+ ],
+ "sn": "「リスクは動くことではなく、動かないことだ」という逆転を1文で作る構文です。the bigger が比較を含むため、何と比べているかが聞き手に伝わります。",
+ "v": [
+  ["in my view", "in が枠を作る前置詞。from my view とは言わず、in my view / in my opinion の形で定着しています。"],
+  ["risk", "コアイメージは「まだ起きていないが起こりうる損失」。the risk of doing nothing（何もしないことのリスク）のように of を伴って中身を示せます。"],
+  ["doing nothing", "動名詞。inaction という名詞もありますが、会議では doing nothing の方が具体的で刺さります。"]
+ ],
+ "n": [
+  ["In my view, ...", "最も標準的な前置き。角が立ちません。"],
+  ["In my opinion, ...", "ほぼ同義。やや主観寄りに響くことがあります。"],
+  ["To my mind, ...", "ややかたく、英国寄りの響きです。"],
+  ["If you ask me, ...", "くだけた言い方。社内の気のおけない場に向きます。"]
+ ],
+ "nn": "In my view と In my opinion はどちらも自然で、交換して使えます。社外のかしこまった場では In my view が無難です。",
+ "e": [
+  ["In my view, the bigger risk is doing nothing for another two quarters.", "私の見方では、あと2四半期動かないことの方が大きなリスクです。"],
+  ["In my view, the bigger risk is losing the senior engineers, not missing the launch date.", "私の見方では、発売日の遅れよりシニアエンジニアの流出の方が大きなリスクです。"]
+ ],
+ "p": [
+  ["In my view, the bigger [risk / issue / cost] is [内容].", ["In my view, the bigger cost is the management time.", "In my view, the bigger issue is that nobody owns it."]],
+  ["In my view, the bigger risk is [A], not [B].", ["In my view, the bigger risk is attrition, not cost.", "In my view, the bigger risk is reputational, not financial."]]
+ ],
+ "k": [
+  "in my view / in my opinion。前置詞は in で固定。",
+  "the bigger に the が付くのは「2つのうち大きい方」と特定されるから。",
+  "補語の doing nothing は動名詞。進行形ではない。"
+ ]
+},
+"My answer is no, and here's the one reason why.": {
+ "t": "答えはノーです。理由を1つだけ申し上げます。",
+ "tn": "否定を先に置き、理由を1つに絞る型です。曖昧に濁すより信頼されますが、挙げる理由は最も効くものを選ぶ必要があります。",
+ "s": [
+  ["My answer is no,", "S + be + C。no が補語として働きます。"],
+  ["and here's the one reason why", "here is の短縮 here's。倒置的な提示表現で、「これがその理由です」と次を予告します。"],
+  ["the one reason why", "the one で「ただ1つの」。why は関係副詞で、後ろに続く説明（the reason why we can't do it）が省略された形です。"]
+ ],
+ "sn": "here's ... は、次に続く内容を聞き手に構えさせる提示表現です。この文の後に理由をすぐ述べないと宙に浮くので、必ず1文続けます。",
+ "v": [
+  ["here's ~", "Here is ~ の短縮。物理的に「ここにある」から、「これからお見せするのがこれです」という提示の用法へ広がりました。Here's the thing.（実はこうなんです）も同じ型です。"],
+  ["the one reason", "one を形容詞として使い「唯一の」を表します。the only reason とほぼ同義ですが、one の方が口頭でやわらかく響きます。"],
+  ["why", "関係副詞。the reason why ... の形が基本で、口語では the reason ... と why を落とすこともあります。"]
+ ],
+ "n": [
+  ["My answer is no, and here's why.", "最も直接的。理由を続ける前提で言い切ります。"],
+  ["I'm afraid not.", "ていねいな否定。理由を述べないこともあります。"],
+  ["Not as it stands.", "現状のままでは無理、という条件付きの否定。修正の余地を残します。"],
+  ["That's a no from me.", "くだけた言い方。社内向きです。"]
+ ],
+ "nn": "I'm afraid not. も実務でよく使われるていねいな否定です。My answer is no, and here's why. は理由まで引き受ける姿勢が伝わるため、意思決定の場に向きます。",
+ "e": [
+  ["My answer is no, and here's the one reason why: we cannot staff it without pulling people off the client work.", "答えはノーです。理由は1つ、クライアント業務から人を外さないと体制が組めないからです。"],
+  ["My answer is yes, and here's the one reason why: the payback period is under a year.", "答えはイエスです。理由は1つ、投資回収が1年を切るからです。"]
+ ],
+ "p": [
+  ["My answer is [yes / no], and here's the one reason why: [理由].", ["My answer is no, and here's the one reason why: the data is not comparable.", "My answer is yes, and here's the one reason why: the client has already budgeted for it."]],
+  ["Here's [why / the issue / the thing]: [内容].", ["Here's the issue: nobody owns the handover.", "Here's why: the two systems use different definitions of headcount."]]
+ ],
+ "k": [
+  "here's ~ は「これから示すのはこれです」という提示表現。直後に中身を言う。",
+  "the one reason = 唯一の理由。the only reason よりやわらかい。",
+  "否定を先に出し、理由を1つに絞ると信頼されやすい。"
+ ]
+},
+"Let me put a stake in the ground.": {
+ "t": "あえて明確な立場を置きます。",
+ "tn": "直訳は「地面に杭を1本打たせてください」。測量や陣地取りで杭を打つ比喩で、「ここを基準点にしよう」という叩き台の提示です。修正される前提で出せるのが利点です。",
+ "s": [
+  ["Let me", "Let + me + 原形 put。"],
+  ["put a stake in the ground", "put A in B の形。a stake は不定冠詞で「とりあえず1本」。the ground は「その場の地面」として特定されるので the が付きます。"]
+ ],
+ "sn": "短い1文で、直後に具体的な立場を続けます。コロンでつなぐ形（Let me put a stake in the ground: ...）が定型です。",
+ "v": [
+  ["stake", "もともとは地面に打ち込む杭。測量の基準点や所有権の主張に使われたことから、「基準となる主張」「取り分（a stake in the company）」の意味に広がりました。"],
+  ["put ~ in the ground", "in は「中に入り込む」。杭は地面に突き刺さるので in が自然です。on the ground だと地面の上に置くだけになり、刺して固定する感じが出ません。"],
+  ["ground", "ここでは議論の土台。common ground（共通の土台）、on the ground（現場で）と、比喩で広く使われます。"]
+ ],
+ "n": [
+  ["put a stake in the ground", "叩き台として基準を置く。修正される前提。ややくだけた社内向きの表現です。"],
+  ["take a position", "立場を取る。中立的で、社外でも使えます。"],
+  ["draw a line in the sand", "譲れない一線を引く。こちらは修正を拒む含みで、意味が逆方向です。"],
+  ["float an idea", "案を軽く投げる。立場までは踏み込みません。"]
+ ],
+ "nn": "put a stake in the ground と draw a line in the sand は見た目が似ていますが、前者は「暫定の基準」、後者は「譲らない境界」で向きが違います。混同しないよう注意が必要です。",
+ "e": [
+  ["Let me put a stake in the ground: we should target a 10 percent reduction in voluntary attrition this year.", "あえて明確に置きます。今年の自発的離職を10パーセント下げることを目標にすべきです。"],
+  ["Let me put a stake in the ground on timing: go-live at the start of the next fiscal year.", "時期について明確な案を置きます。次年度の期初に本稼働です。"]
+ ],
+ "p": [
+  ["Let me put a stake in the ground: [立場].", ["Let me put a stake in the ground: we do not rebuild, we buy.", "Let me put a stake in the ground: two regions in year one, not five."]],
+  ["Let me put a stake in the ground on [論点]: [立場].", ["Let me put a stake in the ground on scope: delivery only, not strategy.", "Let me put a stake in the ground on budget: no more than 50 million yen."]]
+ ],
+ "k": [
+  "杭を打つ比喩。暫定の基準点を置く表現で、修正される前提で出せる。",
+  "刺して固定するので前置詞は in the ground（on ではない）。",
+  "draw a line in the sand は「譲らない一線」で意味が逆。混同しない。"
+ ]
+},
+"I'd frame this as a timing question, not a strategy question.": {
+ "t": "これは戦略の問題ではなく、時期の問題として捉えるべきです。",
+ "tn": "論点そのものを定義し直す型です。何を議論しているのかを置き換えるので、使えば議論の主導権を取れますが、根拠がないと強引に響きます。",
+ "s": [
+  ["I'd frame this as ~", "frame A as B で「AをBとして枠づける」。I would の短縮で断定をやわらげています。"],
+  ["a timing question", "as の後ろの名詞句。不定冠詞 a は「そういう種類の問題の1つ」を示します。"],
+  [", not a strategy question", "カンマ + not で対比。A ではなく B だ、を後ろに足す形です。"]
+ ],
+ "sn": "frame A as B, not C という3点セットで覚えると使い回せます。not の後ろには、相手が議論していた枠を置きます。",
+ "v": [
+  ["frame", "名詞の「額縁・枠」が動詞化したもの。コアイメージは「どこまでを絵の中に入れるか決める」。だから frame A as B は「Aをどういう枠で見るか決める」になります。"],
+  ["as ~", "ここでの as は「〜として」。役割や資格を与える前置詞です。frame A to B とは言いません。"],
+  ["timing", "時期・タイミングの良し悪し。time（時間そのもの）とは別で、「いつやるか」の判断を指します。"]
+ ],
+ "n": [
+  ["I'd frame this as ...", "論点の枠組みを定義し直す。かたく、主導権を取る言い方です。"],
+  ["I'd call this ...", "名前を付け直す。frame よりくだけています。"],
+  ["The real question is ...", "問いを言い換える。frame より直接的で、やや強い響きです。"],
+  ["I'd separate two things here: ...", "論点を分ける。枠を置き換えるのではなく、分解する方向です。"]
+ ],
+ "nn": "The real question is ... も自然で、よく使われます。frame を使うと「見方の提案」という含みが出るため、相手の論点を否定する響きが少しやわらぎます。",
+ "e": [
+  ["I'd frame this as a capability question, not a headcount question — we can add people and still miss the target.", "これは人数の問題ではなく能力の問題として捉えるべきです。人を増やしても目標に届かない可能性があります。"],
+  ["I'd frame this as a retention problem, not a recruiting problem.", "これは採用の問題ではなく定着の問題として整理すべきです。"]
+ ],
+ "p": [
+  ["I'd frame this as [A], not [B].", ["I'd frame this as an execution issue, not a design issue.", "I'd frame this as a pricing decision, not a product decision."]],
+  ["The real question is [not A but B].", ["The real question is not whether to do it, but when.", "The real question is who owns it after go-live."]]
+ ],
+ "k": [
+  "frame A as B。前置詞は as で固定（to は不可）。",
+  "frame のコアイメージは「額縁の枠を決める」＝どういう問題として見るか決める。",
+  "not の後ろに相手の枠を置くと、論点の置き換えが明確に伝わる。"
+ ]
+},
+"The way I see it, we have two real options.": {
+ "t": "私の見方では、現実的な選択肢は2つです。",
+ "tn": "選択肢の数を明示して議論を収束させる型です。two という数が要点で、これを言わないと論点が広がり続けます。",
+ "s": [
+  ["The way I see it,", "The way + 主語 + 動詞 で「〜のやり方では」。接続詞的に働き、文全体の前置きになります。The way (that) I see it の that が省略された形です。"],
+  ["we have two real options", "S + V + O。real が「名ばかりでなく実際に取れる」を加えています。"]
+ ],
+ "sn": "The way I see it は、In my view よりくだけた前置きです。文法上は副詞節として働くため、後ろには普通の文がそのまま続きます。",
+ "v": [
+  ["the way ~", "way のコアイメージは「道筋」。そこから「やり方・見え方」に広がります。the way I see it は「私という道筋を通した見え方」。"],
+  ["real", "ここでは「実現可能な」。theoretical options（理屈の上の選択肢）との対比で使われ、議論を実務に引き戻します。"],
+  ["option", "選べる案。alternative は「代替案」で、既存案に対する置き換えという含みがあります。"]
+ ],
+ "n": [
+  ["The way I see it, ...", "くだけた前置き。社内の議論に向きます。"],
+  ["In my view, ...", "標準。社外でも使えます。"],
+  ["As I see it, ...", "ほぼ同義で、やや短い言い方です。"],
+  ["From where I sit, ...", "自分の立場・持ち場からの見え方。部門の視点を強調します。"]
+ ],
+ "nn": "The way I see it と As I see it はほぼ交換できます。社外のかしこまった場では In my view の方が無難です。",
+ "e": [
+  ["The way I see it, we have two real options: raise the bands or narrow the scope of the role.", "私の見方では、現実的な選択肢は2つです。レンジを上げるか、職務範囲を狭めるかです。"],
+  ["The way I see it, we have two real options and only one of them fits the budget.", "現実的な選択肢は2つで、予算に収まるのは一方だけです。"]
+ ],
+ "p": [
+  ["The way I see it, [見立て].", ["The way I see it, the plan only works if we hire ahead of demand.", "The way I see it, this is a sequencing problem."]],
+  ["[The way I see it / As I see it], we have [two] real options: [A] or [B].", ["As I see it, we have two real options: fix it in-house or outsource it.", "The way I see it, we have three real options, and two of them need board approval."]]
+ ],
+ "k": [
+  "The way I see it は副詞節。後ろには普通の文がそのまま続く。",
+  "real options = 実際に取れる選択肢。理屈上の案と区別する語。",
+  "数を明示すると議論が収束しやすい。"
+ ]
+},
+"I'll be direct: the current plan won't hit the target.": {
+ "t": "率直に申し上げます。現行計画では目標に届きません。",
+ "tn": "悪い知らせの前置きです。先に宣言すると、相手が身構える時間を作れます。宣言した以上、続けて婉曲表現を使うと効果が消えます。",
+ "s": [
+  ["I'll be direct:", "I will の短縮。未来形というより「これからそうします」という意志の表明です。コロンで本題につなぎます。"],
+  ["the current plan won't hit the target", "S + V + O。will not の短縮 won't で、「このままでは届かない」という見通しを述べています。"]
+ ],
+ "sn": "コロンの前で姿勢を宣言し、後で中身を言う2段構えです。コロンの後ろは短く、1文で言い切ります。",
+ "v": [
+  ["direct", "コアイメージは「まわり道をしない」。人について使うと「率直な」。blunt（無遠慮な）より中立で、悪い意味になりません。"],
+  ["hit the target", "hit は「的に当たる」。目標を的に見立てた表現で、hit / miss the target が対になります。reach the target も使えますが、hit の方が口頭で軽快です。"],
+  ["current", "「現時点の」。present とほぼ同義ですが、計画や数値について使うときは current が一般的です。"]
+ ],
+ "n": [
+  ["I'll be direct: ...", "率直に言う宣言。中立で、相手を責めません。"],
+  ["Let me be blunt: ...", "より強い。無遠慮と取られる余地があります。"],
+  ["I'll be honest: ...", "正直に言う。それまで本音を隠していた含みが出ることがあります。"],
+  ["To put it bluntly, ...", "歯に衣着せずに言えば。かなり強い言い方です。"]
+ ],
+ "nn": "I'll be honest も日常的に使われます。I'll be direct は「言い方を飾らない」という宣言で、内容の是非には踏み込まないため、クライアントにも使いやすい形です。",
+ "e": [
+  ["I'll be direct: the current plan won't hit the target without ten more delivery staff.", "率直に申し上げます。デリバリー要員を10名増やさない限り、現行計画では目標に届きません。"],
+  ["I'll be direct: the survey results are worse than what we reported last quarter.", "率直に申し上げます。調査結果は前四半期に報告した内容より悪化しています。"]
+ ],
+ "p": [
+  ["I'll be direct: [伝えたい内容].", ["I'll be direct: we are behind on two of the four workstreams.", "I'll be direct: the vendor cannot deliver by March."]],
+  ["[I'll be direct / I'll be honest]: [内容].", ["I'll be honest: we underestimated the data cleanup.", "I'll be direct: this is not a staffing problem."]]
+ ],
+ "k": [
+  "コロンの前で姿勢を宣言、後ろで中身を1文で言い切る。",
+  "direct は中立。blunt は無遠慮に響くので場面を選ぶ。",
+  "hit / miss the target。目標を的に見立てた定番の組み合わせ。"
+ ]
+},
+"My read is that the market is slowing, not shifting.": {
+ "t": "私の読みでは、市場は構造変化ではなく減速しているだけです。",
+ "tn": "read は「解釈・読み」。断定を避けながら自分の見立てを出せるため、データが揃っていない段階の発言に向きます。",
+ "s": [
+  ["My read", "名詞としての read。可算で a read / my read の形を取り、「読み取った解釈」を表します。"],
+  ["is that ...", "S is that SV の構文。主語の中身を that節で述べます。"],
+  ["the market is slowing, not shifting", "現在進行形で進行中の変化を表し、カンマ + not で対比を加えています。slowing と shifting が同じ形で並ぶため、違いが聞き取りやすくなります。"]
+ ],
+ "sn": "進行形が効いている文です。is slowing は「いま減速しつつある」、is shifting は「いま移り変わりつつある」。どちらも進行中の現象として並べることで、同じ土俵の比較になります。",
+ "v": [
+  ["read", "動詞の「読む」から派生した名詞。コアイメージは「表に出ている兆候を読み取る」。My read is that ... は、確定した事実ではなく解釈だと明示できます。"],
+  ["slow", "速度が落ちる。自動詞で the market is slowing、他動詞で slow the pace のどちらも使えます。"],
+  ["shift", "位置や重心が別の場所へ移る。slow が「同じ方向で遅くなる」のに対し、shift は「向きや構造が変わる」。この文はその差を突いています。"]
+ ],
+ "n": [
+  ["My read is that ...", "解釈であることを明示。データが揃っていない段階に向きます。"],
+  ["My view is that ...", "見立て。読み取りの不確かさはあまり含意しません。"],
+  ["My sense is that ...", "感覚寄り。さらに確度が低い印象になります。"],
+  ["The data shows that ...", "データ自体を主語にする。確度が最も高い言い方です。"]
+ ],
+ "nn": "read / view / sense はいずれも自然で、確度の高さが read と view でほぼ同程度、sense がやや低いという並びです。厳密な序列ではないので、文脈で使い分けます。",
+ "e": [
+  ["My read is that attrition is plateauing, not reversing.", "私の読みでは、離職は反転ではなく横ばいに入ったところです。"],
+  ["My read is that the client is reprioritizing, not cutting the budget.", "私の読みでは、クライアントは予算削減ではなく優先順位の組み替えをしています。"]
+ ],
+ "p": [
+  ["My read is that [解釈].", ["My read is that the issue is sequencing, not capability.", "My read is that they will come back to us in the next cycle."]],
+  ["[A] is [現在分詞A], not [現在分詞B].", ["Demand is softening, not collapsing.", "The team is stretched, not failing."]]
+ ],
+ "k": [
+  "read は名詞で「解釈」。断定を避けつつ見立てを出せる。",
+  "slow（同じ方向で遅くなる）と shift（向きや構造が変わる）の差を押さえる。",
+  "A, not B の対比は、同じ形（進行形なら両方進行形）で並べると伝わる。"
+ ]
+},
+"Simply put, we're solving the wrong problem.": {
+ "t": "端的に言えば、我々は間違った問題を解いています。",
+ "tn": "細部に入り込んだ議論を引き戻す型です。言い方が強い分、直後に根拠を示す必要があります。",
+ "s": [
+  ["Simply put,", "過去分詞を使った独立分詞構文。To put it simply の短縮形で、「簡単に言えば」。put は「言葉を置く」の意味です。"],
+  ["we're solving the wrong problem", "現在進行形。いま進行中の作業が的を外していることを表します。"],
+  ["the wrong problem", "the + wrong で「（本来解くべきものとは別の）その間違った方」と特定されます。a wrong problem とは普通言いません。"]
+ ],
+ "sn": "Simply put は文頭に置き、カンマで区切るのが基本です。進行形と組み合わせることで、「いまこの瞬間も的を外し続けている」という切迫感が出ます。",
+ "v": [
+  ["put", "コアイメージは「置く」。言葉を置く、つまり「表現する」という用法が put it simply / to put it another way に残っています。"],
+  ["simply", "ここでは「単純に」ではなく「飾らずに言えば」。simply put はひとかたまりの定型句として覚えます。"],
+  ["the wrong problem", "wrong は「間違った」。solve the wrong problem は「問いの立て方そのものが違う」ことを指す定番の言い方です。"]
+ ],
+ "n": [
+  ["Simply put, ...", "飾らずに言えば。要約の宣言として中立です。"],
+  ["In short, ...", "手短に言えば。長い説明の後の締めに向きます。"],
+  ["Net net, ...", "差し引きすると。くだけたビジネス表現で、社内向きです。"],
+  ["The bottom line is ...", "最も重要な一点は。結論の提示に向きます。"]
+ ],
+ "nn": "In short も Simply put もどちらも自然です。In short は「長い話を縮める」、Simply put は「難しい話をやさしく置き換える」というニュアンスの差があります。",
+ "e": [
+  ["Simply put, we're solving the wrong problem — the bottleneck is in approvals, not in headcount.", "端的に言えば、解くべき問題が違います。ボトルネックは人員ではなく承認プロセスです。"],
+  ["Simply put, we are paying for capacity we do not use.", "端的に言えば、使っていない容量に対して支払いが発生しています。"]
+ ],
+ "p": [
+  ["Simply put, [核心].", ["Simply put, the model does not reflect how the business actually runs.", "Simply put, we have three owners and no decision."]],
+  ["[Simply put / In short / The bottom line is], [核心].", ["In short, we need to decide before the board meeting.", "The bottom line is that the savings do not cover the cost of change."]]
+ ],
+ "k": [
+  "Simply put は To put it simply の短縮。文頭 + カンマで使う。",
+  "put には「言葉を置く＝表現する」の用法がある（put it another way）。",
+  "強い言い方なので、直後に根拠を1つ添える。"
+ ]
+},
+"I've changed my mind on this, and here's why.": {
+ "t": "この件は考えを変えました。理由を説明します。",
+ "tn": "前言撤回を弱みにせず、根拠に基づく更新として示す型です。why の後に新しい根拠を具体的に続けるのが要点です。",
+ "s": [
+  ["I've changed my mind", "現在完了形（have + 過去分詞）。過去のある時点で変わり、その結果がいまも続いていることを表します。I changed my mind と過去形にすると、過去の出来事の報告に寄ります。"],
+  ["on this", "on が「その件について」を示します。change my mind about ~ も同じ意味で使えます。"],
+  ["and here's why", "提示表現。why の後ろの節が省略されており、直後に理由を述べる前提です。"]
+ ],
+ "sn": "完了形が効いている文です。「変わった」という過去の出来事ではなく、「いまの自分の立場はもう違う」という現在の状態を伝えています。",
+ "v": [
+  ["change one's mind", "mind は「考えの向き」。それを change するので「意見を変える」。change my mind と所有格を必ず入れます。"],
+  ["on / about", "change my mind on this と change my mind about this はどちらも使われます。on はやや議題寄り、about はやや話題寄りの感触ですが、実務上は交換可能です。"],
+  ["here's why", "Here is why の短縮。次に理由が来ることを予告します。"]
+ ],
+ "n": [
+  ["I've changed my mind on this.", "立場が変わったと明言する。根拠を続ける前提です。"],
+  ["I'd like to revise my earlier view.", "かたく、議事録向き。訂正の手続きという響きです。"],
+  ["Having seen the data, I now think ...", "きっかけを先に示す形。撤回の印象が弱まります。"],
+  ["I was wrong about ...", "誤りを認める。責任の所在に踏み込む強い言い方です。"]
+ ],
+ "nn": "どれも自然な言い方です。I've changed my mind は中立で、I was wrong は自分の誤りに踏み込むため、場面を選ぶ必要があります。",
+ "e": [
+  ["I've changed my mind on the timeline, and here's why: the pilot took six weeks, not two.", "日程については考えを変えました。理由は、パイロットが2週間ではなく6週間かかったことです。"],
+  ["I've changed my mind on build versus buy, and here's why: the integration cost is higher than the license.", "自社開発か購入かについて考えを変えました。理由は、連携の費用がライセンス費を上回るからです。"]
+ ],
+ "p": [
+  ["I've changed my mind on [論点], and here's why: [根拠].", ["I've changed my mind on the vendor, and here's why: their reference calls did not hold up.", "I've changed my mind on scope, and here's why: the data is not ready."]],
+  ["Having [seen / heard] [根拠], I now [think / lean toward] [新しい立場].", ["Having seen the Q2 numbers, I now lean toward delaying.", "Having heard the field feedback, I now think we should simplify the form."]]
+ ],
+ "k": [
+  "現在完了形で「いまの立場はもう違う」と伝える。過去形だと出来事の報告になる。",
+  "change my mind の my は省略できない。",
+  "here's why の後に、具体的な根拠を必ず続ける。"
+ ]
+},
+"That's my position, and I'm happy to be challenged on it.": {
+ "t": "これが私の立場です。異論があれば歓迎します。",
+ "tn": "主張を締めくくる型です。開かれた姿勢を示しますが、立場そのものは下げていません。譲歩ではなく招待だと理解するのが要点です。",
+ "s": [
+  ["That's my position,", "That is の短縮。直前に述べた内容を that で受けます。"],
+  ["and I'm happy to be challenged", "be happy to + 動詞の原形で「喜んで〜する」。ここは受動態の不定詞（to be challenged）なので、「異論を受ける側に立つ」ことを表します。"],
+  ["on it", "challenge A on B の on。「Bという点についてAに異を唱える」。it は my position を指します。"]
+ ],
+ "sn": "受動態の不定詞 to be challenged が核です。自分が challenge する側ではなく、される側に進んで立つという構造になっています。",
+ "v": [
+  ["position", "もともとは「置かれた場所」。そこから議論上の立ち位置へ。take a position / state a position と組み合わせて使います。"],
+  ["challenge", "日本語の「挑戦」より「異を唱える・検証を求める」が中心の意味です。英語会議で challenge されるのは健全なことで、敵対の合図ではありません。"],
+  ["be challenged on ~", "on が「どの点について」を指します。challenge me about ~ も使われますが、論点を明示するときは on が自然です。"]
+ ],
+ "n": [
+  ["I'm happy to be challenged on it.", "異論を歓迎する。立場は維持します。"],
+  ["I'm open to other views.", "他の見方も受け入れる。立場をやや後退させる含みがあります。"],
+  ["Push back if you disagree.", "くだけた言い方。社内の近い関係に向きます。"],
+  ["I may be wrong, but ...", "誤りの可能性を先に認める。主張が弱まります。"]
+ ],
+ "nn": "どれも実際に使われます。be challenged on it は立場を保ったまま検証を招く形で、I may be wrong は主張の強さを自分から下げる形です。意図に応じて選びます。",
+ "e": [
+  ["That's my position on the pay structure, and I'm happy to be challenged on it.", "報酬構造についてはこれが私の立場です。異論は歓迎します。"],
+  ["That's our recommendation, and we're happy to be challenged on the assumptions.", "これが我々の提言です。前提についてのご指摘は歓迎します。"]
+ ],
+ "p": [
+  ["That's my position on [論点], and I'm happy to be challenged on it.", ["That's my position on sequencing, and I'm happy to be challenged on it.", "That's my position on the vendor choice, and I'm happy to be challenged on it."]],
+  ["I'm happy to be challenged on [対象].", ["I'm happy to be challenged on the numbers.", "I'm happy to be challenged on the method, less so on the conclusion."]]
+ ],
+ "k": [
+  "to be challenged は受動態の不定詞。「異論を受ける側に立つ」。",
+  "challenge は敵対ではなく検証の要求。英語会議では歓迎すべき行為。",
+  "論点を示すときの前置詞は on（challenge me on the numbers）。"
+ ]
+},
+"On balance, I'd say the upside outweighs the risk.": {
+ "t": "総合的に見れば、リスクよりも利点が上回ると考えます。",
+ "tn": "賛否両方を検討した上での判断だと示せる型です。これを置くと結論の重みが増しますが、実際に両面を見ていないと中身が伴いません。",
+ "s": [
+  ["On balance,", "前置詞句の前置き。天秤（balance）に両方を載せた上で、という比喩です。カンマで区切ります。"],
+  ["I'd say", "I would say の短縮。断定を一段やわらげ、判断であることを示します。"],
+  ["the upside outweighs the risk", "S + V + O。outweigh が「重さで上回る」という他動詞なので、than は不要です。"]
+ ],
+ "sn": "On balance が天秤、outweigh が「重い方へ傾く」で、比喩が一貫している文です。than を付けて outweighs than とする誤りが多いので注意します。",
+ "v": [
+  ["on balance", "balance は天秤。両皿に載せて傾きを見た結果、という意味で「総合すると」。all things considered とほぼ同義です。"],
+  ["upside", "上振れ・利点。downside（下振れ・不利な面）と対で使います。benefit より投資判断寄りの語感です。"],
+  ["outweigh", "out- は「〜を超えて」、weigh は「重さがある」。合わせて「重さで上回る」。比較の意味が動詞に内蔵されているので、than は取りません。"]
+ ],
+ "n": [
+  ["On balance, ...", "両面を検討した上での総合判断。"],
+  ["All things considered, ...", "ほぼ同義。やや長く、かたい響きです。"],
+  ["Net of the risks, ...", "リスクを差し引いた上で。金融・投資寄りの表現です。"],
+  ["On the whole, ...", "全体として。細部の例外を脇に置く含みがあります。"]
+ ],
+ "nn": "On balance と All things considered はほぼ交換できます。On the whole は「全体の傾向としては」で、天秤に載せて比べたという含みは薄くなります。",
+ "e": [
+  ["On balance, I'd say the upside outweighs the risk, but not by much.", "総合的には利点が上回ります。ただし差は大きくありません。"],
+  ["On balance, I'd say the cost of waiting outweighs the cost of getting it slightly wrong.", "総合的には、少し間違えることの損失より、待つことの損失が大きいと考えます。"]
+ ],
+ "p": [
+  ["On balance, I'd say [判断].", ["On balance, I'd say we should proceed with the phased plan.", "On balance, I'd say the evidence is not strong enough yet."]],
+  ["[A] outweighs [B].", ["The retention benefit outweighs the incremental cost.", "The reputational risk outweighs the short-term revenue."]]
+ ],
+ "k": [
+  "outweigh は比較の意味を内蔵した他動詞。than を付けない。",
+  "upside と downside は対の語。投資判断の文脈でよく使う。",
+  "On balance は天秤の比喩。両面を実際に検討した場面で使う。"
+ ]
+}
+}

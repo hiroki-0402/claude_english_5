@@ -1,0 +1,624 @@
+{
+"Thanks — let me take that one.": {
+ "t": "ありがとうございます、その質問は私が答えます。",
+ "tn": "チームで出席しているときに、自分の担当だと示す型です。無言の間を防げます。",
+ "s": [
+  ["Thanks —", "Thank you の口語形。質問への謝意を示しつつ、間を作ります。"],
+  ["let me take that one", "Let + me + 原形 take。that one が「その質問」を指します。"]
+ ],
+ "v": [
+  ["take a question", "質問を引き受ける。take that one で「その1問は自分が」。"],
+  ["that one", "複数の質問や論点のうちの1つを指します。one が question の繰り返しを避けています。"],
+  ["thanks", "Thank you より軽い口語形。質疑応答の冒頭で広く使われます。"]
+ ],
+ "n": [
+  ["Let me take that one.", "自分が答えると示す。最も簡潔。"],
+  ["I'll take that.", "ほぼ同義。宣言の形です。"],
+  ["That one's for me.", "自分の担当だ。くだけた言い方です。"],
+  ["Shall I take that?", "自分が答えてよいか。同僚に確認する形です。"]
+ ],
+ "e": [
+  ["Thanks — let me take that one, since I ran the analysis.", "ありがとうございます。分析を担当しましたので、その質問は私がお答えします。"],
+  ["Thanks — let me take that one, and Sarah can add on the implementation side.", "ありがとうございます。その質問は私が答え、実行面はサラから補足します。"]
+ ],
+ "p": [
+  ["Thanks — let me take that one, since [理由].", ["Thanks — let me take that one, since I spoke to the client last week.", "Let me take that one, since it touches the data work."]],
+  ["Let me take [A], and [名前] can take [B].", ["Let me take the method, and Kenji can take the numbers.", "I'll take the first two, and hand over for the third."]]
+ ],
+ "k": [
+  "that one は「その1問」。question の繰り返しを避ける。",
+  "担当を宣言すると、チーム登壇で無言の間が出ない。",
+  "なぜ自分が答えるのかを添えると、説得力が出る。"
+ ]
+},
+"Good question — that's on slide 12, let me jump there.": {
+ "t": "良い質問です。12ページにありますので移動します。",
+ "tn": "準備済みだと示せる型です。付録を作っておくと、英語の即興負荷が大きく下がります。",
+ "s": [
+  ["Good question —", "That's a good question. の省略形。"],
+  ["that's on slide 12,", "on が「その上にある」ことを示します。資料の位置は on を使います。"],
+  ["let me jump there", "Let + me + 原形 jump。there が slide 12 を受けます。"]
+ ],
+ "v": [
+  ["on slide 12", "12ページに。資料のページは on を取ります（in slide とは言いません）。"],
+  ["jump to ~", "飛ぶ。資料の別ページへ移動すること。jump there では to が不要です（there が副詞のため）。"],
+  ["slide", "スライド。ページを指す場合は page も使われます。"]
+ ],
+ "n": [
+  ["That's on slide 12.", "資料にあると示す。準備済みが伝わります。"],
+  ["That's in the appendix.", "付録にある。より深い準備を示します。"],
+  ["Let me jump there.", "移動する。行動を宣言します。"],
+  ["I have a page on that.", "それ専用のページがある。最も頼もしい言い方です。"]
+ ],
+ "e": [
+  ["Good question — that's on slide 12, let me jump there. We modeled three adoption scenarios.", "良い質問です。12ページにありますので移動します。導入シナリオを3つ試算しています。"],
+  ["Good question — that's in the appendix. Shall I walk through it now or take it offline?", "良い質問です。付録で扱っています。いまご説明しましょうか、それとも後ほどにしましょうか。"]
+ ],
+ "p": [
+  ["Good question — that's on [slide n], let me jump there.", ["Good question — that's on slide 18, let me jump there.", "Good question — that's in the backup, let me find it."]],
+  ["That's [どこ] — [次の行動].", ["That's in the appendix — shall I walk through it?", "I have a page on that — give me a second to pull it up."]]
+ ],
+ "k": [
+  "資料のページは on（on slide 12）。",
+  "there は副詞なので to は不要（jump there）。",
+  "付録を用意しておくと、即興で英語を組み立てる負荷が下がる。"
+ ]
+},
+"Let me answer the question behind the question.": {
+ "t": "ご質問の背後にある論点にお答えします。",
+ "tn": "細部の質問が本質を突いているときに使います。上級者に見えますが、多用は禁物です。",
+ "s": [
+  ["Let me answer", "Let + me + 原形 answer。"],
+  ["the question behind the question", "behind が「その背後にある」を示します。同じ語を繰り返す修辞で、印象に残ります。"]
+ ],
+ "v": [
+  ["behind", "背後に。表に出ている問いの裏にある、本当の関心を指します。the reason behind it、the logic behind it も同じ型です。"],
+  ["the question behind the question", "質問の背後にある質問。本当に気にしている点のこと。"],
+  ["answer", "他動詞。"]
+ ],
+ "n": [
+  ["the question behind the question", "本当の関心。表の問いと区別します。"],
+  ["what you're really asking", "本当に聞いていること。より直接的です。"],
+  ["the underlying concern", "背後にある懸念。かたい言い方です。"],
+  ["the real issue here", "本当の論点。やや断定的です。"]
+ ],
+ "nn": "この言い方は、相手の問いを言い換える行為です。言い換えが外れていると、質問をはぐらかしたと受け取られます。必ず「〜ということですね」と確認を添えるのが安全です。",
+ "e": [
+  ["Let me answer the question behind the question — I think you're asking whether we can hold the March date if the data slips.", "ご質問の背後にある論点にお答えします。データが遅れた場合に3月の期日を守れるか、というご関心だと受け取りました。"],
+  ["Let me answer the question behind the question: can this work without additional headcount? Yes, but only in year two.", "ご質問の背後にある論点にお答えします。増員なしで機能するか、ですね。可能ですが2年目以降です。"]
+ ],
+ "p": [
+  ["Let me answer the question behind the question — I think you're asking [本当の問い].", ["Let me answer the question behind the question — I think you're asking who pays for it.", "I think the real question is whether this survives a budget cut. Let me answer that."]],
+  ["[表の問い] is the question; [本当の問い] is the concern. [回答].", ["The timing is the question; the capacity is the concern. On capacity, we have a gap.", "You asked about cost. I think the concern is risk. Let me take both."]]
+ ],
+ "k": [
+  "behind で「表の問いの裏にある関心」を指せる。",
+  "言い換えが外れると、はぐらかしたと取られる。確認を添える。",
+  "多用すると、質問に直接答えない印象になる。"
+ ]
+},
+"Are there other questions on this section before I move on?": {
+ "t": "次に進む前に、この項目で他にご質問はありますか。",
+ "tn": "自分でターンを管理する型です。質問を溜めずに区切ると、進行が楽になります。",
+ "s": [
+  ["Are there other questions", "There is/are 構文の疑問文。questions が複数なので are です。"],
+  ["on this section", "on が範囲を示します。"],
+  ["before I move on?", "接続詞 before + 主語 + 動詞。"]
+ ],
+ "v": [
+  ["questions on ~", "on が「どの範囲についての質問か」を示します。questions about ~ も使えますが、資料の範囲には on が自然です。"],
+  ["section", "項目・区分。"],
+  ["move on", "先へ進む。"]
+ ],
+ "n": [
+  ["Are there other questions on this section?", "範囲を区切って問う。進行が楽になります。"],
+  ["Any questions before I move on?", "より短い形。最も一般的です。"],
+  ["Shall I continue?", "続けてよいか。質問を募りません。"],
+  ["I'll take questions at the end.", "最後にまとめて受ける。宣言の形です。"]
+ ],
+ "e": [
+  ["Are there other questions on this section before I move on to the recommendation?", "提言に進む前に、この項目で他にご質問はありますか。"],
+  ["Any questions on the data before I move on? The rest of the deck builds on it.", "データについてご質問はありますか。以降の資料はこれを前提としています。"]
+ ],
+ "p": [
+  ["Are there other questions on [範囲] before I move on?", ["Are there other questions on the analysis before I move on?", "Any questions on this page before we go further?"]],
+  ["[質疑の区切り方]. [進行の宣言].", ["I'll take two questions here, then move on.", "Let's hold questions to the end so we cover everything."]]
+ ],
+ "k": [
+  "questions on ~ で範囲を限定できる。",
+  "質問を溜めずに区切ると、議論が追いやすくなる。",
+  "質疑の受け方（途中か最後か）を最初に宣言しておくと進行が楽。"
+ ]
+},
+"I'll park that for the end so we can stay on time.": {
+ "t": "時間内に収めるため、その点は最後に扱わせてください。",
+ "tn": "質問を退けるのではなく、順序を変える型です。理由を添えると角が立ちません。",
+ "s": [
+  ["I'll park that for the end", "I will の短縮。park が「いったん置く」。for the end が「最後のために」。"],
+  ["so we can stay on time", "so (that) + 主語 + can で目的を表します。that は省略されています。"]
+ ],
+ "v": [
+  ["park", "いったん置く。後で戻る前提です。"],
+  ["stay on time", "時間どおりに進む。stay は状態の継続を表します。run over（時間超過する）が反対です。"],
+  ["so (that) ~ can", "〜できるように。目的を表す構文です。"]
+ ],
+ "n": [
+  ["I'll park that for the end.", "最後に扱う。順序の変更です。"],
+  ["Can we come back to that?", "後で戻ってよいか。許可を求めます。"],
+  ["Let's take that offline.", "この場の外で扱う。別の場に移します。"],
+  ["I'll note that and return to it.", "記録して戻る。最も確実な扱いです。"]
+ ],
+ "nn": "park と offline はどちらも「いまは扱わない」ですが、戻る場所が違います。park は同じ会議の後半、offline は会議の外です。",
+ "e": [
+  ["I'll park that for the end so we can stay on time — it deserves more than two minutes.", "時間内に収めるため最後に扱わせてください。2分では足りない論点です。"],
+  ["I'll park that for the end so we can get through the recommendation first.", "まず提言を通したいので、その点は最後に扱わせてください。"]
+ ],
+ "p": [
+  ["I'll park [何] for the end so we can [理由].", ["I'll park the pricing question for the end so we can finish the analysis.", "I'll park that for next week so we can close this item today."]],
+  ["I'll [park / note] that, and [いつ戻るか].", ["I'll note that as an open item and come back after the break.", "Let's park that and pick it up at the end if time allows."]]
+ ],
+ "k": [
+  "so (that) + can は目的を表す。that は省略できる。",
+  "park（会議の後半）と offline（会議の外）は戻る場所が違う。",
+  "理由を添えると、質問を退けた印象にならない。"
+ ]
+},
+"Let me repeat the question for everyone on the call.": {
+ "t": "オンラインの方にも伝わるよう、質問を繰り返します。",
+ "tn": "繰り返す行為が、理解の確認と時間稼ぎを兼ねます。オンライン会議で特に有効です。",
+ "s": [
+  ["Let me repeat the question", "Let + me + 原形 repeat。"],
+  ["for everyone on the call", "for が受益者を示します。on the call で「通話に参加している」。"]
+ ],
+ "v": [
+  ["on the call", "通話中の。オンライン会議の参加者を指す定型表現です。in the room（会場にいる人）と対で使えます。"],
+  ["repeat", "繰り返す。"],
+  ["for everyone", "全員のために。受益者を示す for です。"]
+ ],
+ "n": [
+  ["for everyone on the call", "オンライン参加者のために。"],
+  ["for those in the room", "会場の参加者のために。"],
+  ["for the record", "記録のために。議事録を意識します。"],
+  ["for those who joined late", "遅れて参加した人のために。"]
+ ],
+ "e": [
+  ["Let me repeat the question for everyone on the call: the question was whether the savings are gross or net.", "オンラインの方にも伝わるよう質問を繰り返します。削減額が総額か純額か、というご質問でした。"],
+  ["Let me repeat the question for the record, since the room could not hear it.", "会場に聞こえなかったので、記録のため質問を繰り返します。"]
+ ],
+ "p": [
+  ["Let me repeat the question for [対象].", ["Let me repeat the question for those who joined late.", "Let me repeat that for the people in the room."]],
+  ["The question was [質問の要約]. [回答].", ["The question was whether this includes contractors. It does not.", "The question was about the base year. We used FY2024."]]
+ ],
+ "k": [
+  "on the call（オンライン）/ in the room（会場）は対の表現。",
+  "繰り返すと、理解の確認と時間稼ぎを同時に果たせる。",
+  "繰り返した後、質問の要約を自分の言葉で述べると精度が上がる。"
+ ]
+},
+"That's a fair challenge. Here's how we tested it.": {
+ "t": "もっともなご指摘です。どう検証したかご説明します。",
+ "tn": "反論を受け止めてから根拠に戻る型です。防御的にならずに済みます。",
+ "s": [
+  ["That's a fair challenge.", "That is の短縮。a fair challenge で「筋の通った異論」。"],
+  ["Here's how we tested it.", "Here is の短縮。how節が「どう検証したか」を示します。"]
+ ],
+ "sn": "2文の構成が要点です。1文目で相手の指摘を認め、2文目で自分の根拠に戻る。この順序なら、反論を退けているように見えません。",
+ "v": [
+  ["challenge", "異議・検証の要求。英語圏の職場では健全な行為とされます。"],
+  ["fair", "もっともな・筋が通った。"],
+  ["test", "検証する。how we tested it で、方法の開示になります。"]
+ ],
+ "n": [
+  ["That's a fair challenge.", "異論を認める。中立です。"],
+  ["That's a fair point.", "指摘を認める。ほぼ同義です。"],
+  ["We asked ourselves the same thing.", "同じ疑問を持った。共感を示します。"],
+  ["Let me show you how we checked that.", "検証方法を示す。より行動的です。"]
+ ],
+ "e": [
+  ["That's a fair challenge. Here's how we tested it: we reran the model excluding the two largest sites, and the ranking did not change.", "もっともなご指摘です。検証方法をご説明します。上位2拠点を除いて再計算しましたが、順位は変わりませんでした。"],
+  ["That's a fair challenge, and we asked ourselves the same thing. Here's what we found.", "もっともなご指摘で、我々も同じ疑問を持ちました。検証結果をご説明します。"]
+ ],
+ "p": [
+  ["That's a fair challenge. Here's how we tested it: [方法].", ["That's a fair challenge. Here's how we tested it: we compared against two independent sources.", "That's a fair point. Here's what we did to check it."]],
+  ["[異論を認める]. [根拠に戻る].", ["We asked ourselves the same thing. The answer is in the sensitivity analysis.", "That's fair. Let me show you the two cross-checks we ran."]]
+ ],
+ "k": [
+  "1文目で認め、2文目で根拠に戻る。順序を守る。",
+  "challenge は健全な検証要求。敵対ではない。",
+  "検証方法を開示すると、議論が信頼の問題から中身の問題に移る。"
+ ]
+},
+"If it's helpful, I can walk through the methodology.": {
+ "t": "必要であれば、分析手法をご説明します。",
+ "tn": "相手に選ばせる形で深掘りを提案する型です。押しつけになりません。",
+ "s": [
+  ["If it's helpful,", "条件節。it が漠然と状況を指します。"],
+  ["I can walk through the methodology", "can で可能性を示します。walk through A で「Aを順にたどる」。"]
+ ],
+ "v": [
+  ["helpful", "役に立つ。If it's helpful は「もしお役に立つなら」という申し出の前置きです。"],
+  ["walk through ~", "順を追って説明する。相手を連れて歩くイメージです。"],
+  ["methodology", "方法論。method（方法）より体系的な響きで、分析の枠組み全体を指します。"]
+ ],
+ "n": [
+  ["If it's helpful, I can ...", "相手に選ばせる。押しつけになりません。"],
+  ["Happy to go deeper if useful.", "必要なら掘り下げる。よりくだけています。"],
+  ["Shall I walk through it?", "説明しましょうか。より直接的です。"],
+  ["The detail is in the appendix.", "詳細は付録に。説明を申し出ません。"]
+ ],
+ "e": [
+  ["If it's helpful, I can walk through the methodology — it takes about three minutes.", "必要であれば分析手法をご説明します。3分ほどです。"],
+  ["If it's helpful, I can walk through how we built the cohorts. Otherwise, the summary is on slide 9.", "必要であればコホートの作り方をご説明します。不要でしたら、要約は9ページにあります。"]
+ ],
+ "p": [
+  ["If it's helpful, I can walk through [対象].", ["If it's helpful, I can walk through the assumptions.", "If it's helpful, I can show the sensitivity analysis."]],
+  ["If it's helpful, [申し出]. Otherwise, [代替].", ["If it's helpful, I can take you through it. Otherwise, it's in the pack.", "Happy to go deeper if useful, or we can move on."]]
+ ],
+ "k": [
+  "If it's helpful は申し出のやわらかい前置き。",
+  "所要時間を添えると、相手が選びやすい。",
+  "methodology は method より体系的な響き。"
+ ]
+},
+"I'll take the first two, and hand over for the third.": {
+ "t": "最初の2つは私が、3つ目は交代してお答えします。",
+ "tn": "チーム登壇での役割分担です。準備しておけば、英語の負荷が下がります。",
+ "s": [
+  ["I'll take the first two,", "I will の短縮。the first two で「最初の2つ」。"],
+  ["and hand over for the third", "and の後も will に続く原形。hand over で「引き渡す」。"]
+ ],
+ "v": [
+  ["hand over", "手渡す、から「担当を引き継ぐ」。hand over to A（Aに引き継ぐ）。名詞形は handover（引き継ぎ）です。"],
+  ["the first two", "最初の2つ。the first two questions の questions が省略されています。"],
+  ["for the third", "3つ目については。for が対象を示します。"]
+ ],
+ "n": [
+  ["I'll hand over for that.", "担当を交代する。"],
+  ["I'll pass that to Sarah.", "サラに渡す。相手を明示します。"],
+  ["Sarah is closer to that one.", "サラの方が詳しい。理由を示します。"],
+  ["Over to you, Sarah.", "どうぞ。引き継ぎの合図です。"]
+ ],
+ "e": [
+  ["I'll take the first two, and hand over for the third — Kenji led the implementation work.", "最初の2つは私が、3つ目は横田が担当します。導入作業を主導しましたので。"],
+  ["I'll take the data question, and hand over to Sarah for the client-side view.", "データに関する質問は私が、クライアント側の見方はサラがお答えします。"]
+ ],
+ "p": [
+  ["I'll take [A], and hand over for [B].", ["I'll take the method, and hand over for the implications.", "I'll take the first question, and hand over for the rest."]],
+  ["I'll take [A]. [名前] is closer to [B].", ["I'll take the analysis. Kenji is closer to the operational detail.", "Let me take the what. Sarah will take the how."]]
+ ],
+ "k": [
+  "hand over は「担当を引き継ぐ」。名詞形は handover。",
+  "the first two のように、名詞を省略できる。",
+  "誰が何を答えるかを事前に決めておくと、英語の負荷が下がる。"
+ ]
+},
+"That's covered in the appendix — shall I walk through it?": {
+ "t": "それは付録で扱っています。ご説明しましょうか。",
+ "tn": "準備の厚さを示しつつ、深掘りの可否を相手に選ばせる型です。",
+ "s": [
+  ["That's covered in the appendix", "受動態。cover が「扱う」の意味で、in が場所を示します。"],
+  ["— shall I walk through it?", "Shall I + 原形で申し出を表します。"]
+ ],
+ "v": [
+  ["be covered in ~", "〜で扱われている。in が資料の中を示します。"],
+  ["appendix", "付録。複数形は appendices または appendixes。どちらも使われます。"],
+  ["shall I ~?", "〜しましょうか。申し出を表す形です。"]
+ ],
+ "n": [
+  ["That's covered in the appendix.", "付録にある。準備の厚さが伝わります。"],
+  ["That's in the backup.", "バックアップ資料にある。口語的です。"],
+  ["We looked at that but left it out of the main deck.", "検討したが本編から外した。判断だと示します。"],
+  ["That's a good point — we haven't covered it.", "扱っていないと認める。正直な対応です。"]
+ ],
+ "e": [
+  ["That's covered in the appendix — shall I walk through it, or would you prefer to read it afterwards?", "それは付録で扱っています。いまご説明しましょうか、それとも後ほどお読みになりますか。"],
+  ["That's covered in the backup on page 24. Shall I bring it up?", "24ページのバックアップ資料で扱っています。表示しましょうか。"]
+ ],
+ "p": [
+  ["That's covered in [どこ] — shall I walk through it?", ["That's covered in the appendix — shall I bring it up?", "That's covered on page 30 — shall I go there?"]],
+  ["That's covered in [どこ]. [選択肢の提示].", ["That's in the backup. Happy to go there now or send it after.", "We covered that in the pre-read. I can summarize in thirty seconds."]]
+ ],
+ "k": [
+  "be covered in ~ で「資料の中で扱われている」。",
+  "appendix の複数形は appendices / appendixes。",
+  "説明するかどうかを相手に選ばせると、押しつけにならない。"
+ ]
+},
+"Let me answer for the base case first.": {
+ "t": "まずベースケースについてお答えします。",
+ "tn": "条件が複数ある質問を分解する型です。答え漏れを防げます。",
+ "s": [
+  ["Let me answer for the base case", "Let + me + 原形 answer。ここでは answer が自動詞で、for が対象を示しています。"],
+  ["first", "副詞。順序を示します。"]
+ ],
+ "sn": "answer for ~ は「〜について答える」の意味ですが、answer for A には「Aの責任を負う」という別の意味もあります。ここは前者で、文脈から区別できます。",
+ "v": [
+  ["base case", "標準シナリオ。upside case / downside case と対で使います。"],
+  ["for", "ここでは「〜については」。対象や前提を示します。"],
+  ["first", "まず。残りがあることを示します。"]
+ ],
+ "n": [
+  ["Let me answer for the base case first.", "条件を分けて答える。漏れを防ぎます。"],
+  ["The answer differs by scenario.", "シナリオによって違う。前置きの形です。"],
+  ["Let me take the simple case first.", "単純な場合から。段階的に進めます。"],
+  ["It depends on which scenario you mean.", "どのシナリオかによる。確認を求めます。"]
+ ],
+ "e": [
+  ["Let me answer for the base case first, then for the downside. In the base case, we break even in month fourteen.", "まずベースケース、その後ダウンサイドについてお答えします。ベースケースでは14か月目に損益が均衡します。"],
+  ["Let me answer for the Japan entity first, then for the group.", "まず日本法人、その後グループ全体についてお答えします。"]
+ ],
+ "p": [
+  ["Let me answer for [条件] first.", ["Let me answer for the current scope first.", "Let me answer for this year first, then the run rate."]],
+  ["The answer differs by [軸]. For [A], [回答A]. For [B], [回答B].", ["The answer differs by region. For Japan, yes. For the US, not yet.", "It depends on the horizon. Short term, no. Long term, yes."]]
+ ],
+ "k": [
+  "answer for ~ は「〜について答える」。責任を負う意味もあるので文脈で判断。",
+  "base case / upside / downside は計画の定番3シナリオ。",
+  "条件を分けて答えると、漏れが出ない。"
+ ]
+},
+"Can I check whether that answered what you asked?": {
+ "t": "ご質問の答えになっていたか確認してもよいですか。",
+ "tn": "回答を締める型です。的外れだった場合の修正機会を作れます。",
+ "s": [
+  ["Can I check", "許可を求める疑問文。"],
+  ["whether that answered what you asked?", "whether節が check の目的語。その中にさらに what節が入った二重構造です。"]
+ ],
+ "sn": "whether は「〜かどうか」。if でも同じ意味になりますが、if には条件の意味もあるため、曖昧さを避けたいときは whether の方が明確です。",
+ "v": [
+  ["whether", "〜かどうか。名詞節を導きます。"],
+  ["check", "確かめる。軽く、相手に負担をかけません。"],
+  ["what you asked", "関係代名詞の what。「あなたが尋ねたこと」。"]
+ ],
+ "n": [
+  ["Can I check whether that answered what you asked?", "答えになったか確認する。最もていねい。"],
+  ["Does that answer your question?", "より短い形。最も一般的です。"],
+  ["Did I get at what you were asking?", "聞きたかったことに触れられたか。口語的です。"],
+  ["Was that the question?", "それが質問だったか。やや直接的です。"]
+ ],
+ "e": [
+  ["Can I check whether that answered what you asked, or were you asking about the implementation side?", "ご質問の答えになっていたか確認させてください。それとも実行面についてのご質問でしたか。"],
+  ["Can I check whether that answered what you asked? I may have taken it in a different direction.", "ご質問の答えになっていたか確認させてください。違う方向に話した可能性があります。"]
+ ],
+ "p": [
+  ["Can I check whether that answered what you asked about [話題]?", ["Can I check whether that answered what you asked about the timeline?", "Can I check whether that covered your question?"]],
+  ["[締めの確認]? [修正の申し出].", ["Does that answer it, or shall I come at it differently?", "Was that the question, or were you asking something else?"]]
+ ],
+ "k": [
+  "whether は「〜かどうか」。if より曖昧さが少ない。",
+  "回答を締めると、的外れだった場合に修正できる。",
+  "修正の申し出を添えると、相手が言い出しやすい。"
+ ]
+},
+"We deliberately left that out of scope.": {
+ "t": "その点は意図的にスコープ外としました。",
+ "tn": "抜けではなく判断だと示す型です。理由を続けると納得されやすくなります。",
+ "s": [
+  ["We deliberately left that", "過去形。deliberately が「意図的に」。leave A out of B で「AをBの外に置く」。"],
+  ["out of scope", "out of が「〜の外に」。"]
+ ],
+ "sn": "deliberately の位置が重要です。この副詞がないと「見落とした」と受け取られます。意図的な判断であることを明示する語です。",
+ "v": [
+  ["deliberately", "意図的に。on purpose（わざと）より中立で、業務上の判断に合います。"],
+  ["out of scope", "範囲外。in scope（範囲内）と対です。scope creep（範囲の肥大化）も関連語です。"],
+  ["leave ~ out", "外す。leave it out、leave out the detail。"]
+ ],
+ "n": [
+  ["out of scope", "範囲外。意図的に外したこと。"],
+  ["a gap", "抜け。埋めるべきだったが埋まっていないこと。"],
+  ["out of time", "時間切れ。理由が時間であることを示します。"],
+  ["for phase two", "第2段階で扱う。先送りの形です。"]
+ ],
+ "nn": "out of scope（意図的に外した）と a gap（抜け）は意味が正反対です。混同すると、判断を抜けと見られたり、抜けを言い訳したりすることになります。",
+ "e": [
+  ["We deliberately left that out of scope — the client asked us to focus on the diagnosis, not the implementation plan.", "その点は意図的にスコープ外としました。クライアントから、実行計画ではなく診断に集中するよう依頼されています。"],
+  ["We deliberately left the tax treatment out of scope; it needs specialist input we do not have on this team.", "税務の取り扱いは意図的にスコープ外としました。このチームにはない専門的な見解が必要です。"]
+ ],
+ "p": [
+  ["We deliberately left [何] out of scope.", ["We deliberately left the legal review out of scope.", "We deliberately left the overseas entities out of scope."]],
+  ["We deliberately left [何] out of scope — [理由]. [扱うとすればいつ].", ["We left it out of scope — it depends on the merger closing. We'd pick it up in phase two.", "We left that out deliberately because the data is not comparable."]]
+ ],
+ "k": [
+  "deliberately がないと「見落とし」と取られる。必ず入れる。",
+  "out of scope（判断）と a gap（抜け）は正反対の意味。",
+  "外した理由と、扱うとすればいつかを添える。"
+ ]
+},
+"Two people have asked that, so let me address it properly.": {
+ "t": "同じ質問が2件出たので、きちんとお答えします。",
+ "tn": "質問の重要度を認めてから答える型です。場の関心に応えられます。",
+ "s": [
+  ["Two people have asked that,", "現在完了形。これまでに2人が尋ねた、という結果がいま効いていることを示します。"],
+  ["so let me address it properly", "so が結果を導きます。address が「取り組む・対応する」。"]
+ ],
+ "v": [
+  ["address", "もとは「宛てる」。問題や質問に正面から向き合うこと。address an issue / address a question / address a concern。answer より扱いが丁寧な含みがあります。"],
+  ["properly", "きちんと。いい加減にではなく、という対比を含みます。"],
+  ["have asked", "現在完了。これまでに尋ねられた事実が、いまの対応につながっています。"]
+ ],
+ "n": [
+  ["address a question", "質問に正面から取り組む。answer より丁寧。"],
+  ["answer a question", "質問に答える。最も中立です。"],
+  ["cover a question", "質問を扱う。範囲として触れる含みです。"],
+  ["deal with a question", "質問に対処する。やや事務的です。"]
+ ],
+ "e": [
+  ["Two people have asked that, so let me address it properly rather than give the short version.", "同じ質問が2件出たので、短い答えで済ませずきちんとお答えします。"],
+  ["Three people have asked about the data source, so let me spend a minute on it.", "データの出典について3件ご質問をいただいたので、1分ほど使ってご説明します。"]
+ ],
+ "p": [
+  ["[N] people have asked that, so let me address it properly.", ["Two people have asked that, so it's worth a proper answer.", "This has come up twice, so let me address it head-on."]],
+  ["[質問の重要度], so [対応].", ["This keeps coming up, so let me put it on a slide for next time.", "Several of you have asked, so I'll send a note after this."]]
+ ],
+ "k": [
+  "address は「正面から向き合う」。answer より丁寧な扱い。",
+  "現在完了で「これまでに〜された」事実を示す。",
+  "質問の重要度を認めてから答えると、場の関心に応えられる。"
+ ]
+},
+"I'd rather not speculate on that.": {
+ "t": "その点について憶測は避けたいです。",
+ "tn": "答えられない質問を断る型です。憶測を避ける姿勢は評価されます。",
+ "s": [
+  ["I'd rather not speculate", "would rather not + 原形で「むしろ〜したくない」。not の位置は would rather の直後です。"],
+  ["on that", "on が対象を示します。"]
+ ],
+ "sn": "否定の位置に注意します。I'd rather not do（〜したくない）であって、I don't rather do とは言いません。",
+ "v": [
+  ["speculate", "憶測する。根拠なく推測すること。speculate on A / speculate about A。名詞は speculation。"],
+  ["would rather not", "むしろ〜したくない。やわらかい拒否です。"],
+  ["on", "対象を示す前置詞。"]
+ ],
+ "n": [
+  ["I'd rather not speculate.", "憶測を避ける。姿勢として評価されます。"],
+  ["I don't have a basis for that.", "根拠がない。理由を明示します。"],
+  ["That's outside what we tested.", "検証範囲の外。範囲の話にします。"],
+  ["I can tell you what we do know.", "分かることは話せる。代替を示します。"]
+ ],
+ "nn": "断るだけでなく I can tell you what we do know. を続けると、建設的な回答になります。拒否で終えると、答えを避けた印象が残ります。",
+ "e": [
+  ["I'd rather not speculate on that. What I can tell you is what the pilot showed in the first eight weeks.", "その点について憶測は避けたいです。お伝えできるのは、パイロットの最初の8週間の結果です。"],
+  ["I'd rather not speculate on the client's intentions. I can share what they told us directly.", "クライアントの意図について憶測は避けたいです。直接伺った内容であればお伝えできます。"]
+ ],
+ "p": [
+  ["I'd rather not speculate on [話題].", ["I'd rather not speculate on the board's decision.", "I'd rather not speculate on next year's budget."]],
+  ["I'd rather not speculate. [分かっていること].", ["I'd rather not speculate. What we know is that the trend held for six quarters.", "I don't have a basis for that. I can tell you what the data shows."]]
+ ],
+ "k": [
+  "would rather not + 原形。not の位置に注意。",
+  "断るだけで終えず、分かることを続ける。",
+  "憶測を避ける姿勢は、信頼につながる。"
+ ]
+},
+"We have five minutes — let's take two more questions.": {
+ "t": "残り5分です。あと2問お受けします。",
+ "tn": "時間管理を自分で握る型です。質疑が延びる会議で有効です。",
+ "s": [
+  ["We have five minutes —", "残り時間を示す平叙文。"],
+  ["let's take two more questions", "Let us + 原形 take。two more で「あと2つ」。"]
+ ],
+ "v": [
+  ["take questions", "質問を受ける。I'll take questions at the end. のように使います。"],
+  ["two more", "あと2つ。more が「追加の」を示します。"],
+  ["have five minutes", "5分ある。残り時間を示す簡潔な言い方です。"]
+ ],
+ "n": [
+  ["Let's take two more questions.", "数を区切る。進行を管理できます。"],
+  ["We have time for one more.", "あと1問の余地がある。より自然な言い方です。"],
+  ["Last question.", "最後の質問。最も短い形です。"],
+  ["I'll follow up on anything we don't get to.", "扱えなかった分は後で対応する。配慮を示します。"]
+ ],
+ "e": [
+  ["We have five minutes — let's take two more questions, and I'll follow up on anything we don't get to.", "残り5分です。あと2問お受けし、扱えなかった分は追ってご連絡します。"],
+  ["We have time for one more. Then I'll summarize the actions.", "あと1問お受けできます。その後、アクションを整理します。"]
+ ],
+ "p": [
+  ["We have [時間] — let's take [n] more questions.", ["We have ten minutes — let's take three more questions.", "We have two minutes — one last question."]],
+  ["[残り時間]. [質疑の区切り]. [残りの扱い].", ["Five minutes left. Two more questions, then I'll close.", "We're near time. Last question, and I'll pick up the rest by email."]]
+ ],
+ "k": [
+  "take questions は「質問を受ける」の定型。",
+  "数を区切ると、質疑が延びない。",
+  "扱えなかった分の扱いを添えると、配慮が伝わる。"
+ ]
+},
+"That's the right question to be asking.": {
+ "t": "それはまさに問うべき質問です。",
+ "tn": "相手を立てつつ時間を作る型です。ただし連発すると空虚に響きます。",
+ "s": [
+  ["That's the right question", "That is の短縮。the right で「まさにその」。"],
+  ["to be asking", "question を修飾する不定詞。進行形の不定詞で「いま問うているべき」という継続のニュアンスが出ます。"]
+ ],
+ "sn": "to ask ではなく to be asking としている点に意味があります。進行形にすることで「いまこの段階で問い続けるべき」という含みが出て、単に「良い質問」より踏み込んだ評価になります。",
+ "v": [
+  ["the right question", "正しい問い。the right answer（正しい答え）より重要だという考え方が背景にあります。"],
+  ["to be asking", "進行形の不定詞。継続の含みがあります。"],
+  ["right", "正しい・適切な。good（良い）より、的を射ているという含みです。"]
+ ],
+ "n": [
+  ["That's the right question to be asking.", "問いの的確さを評価する。重みがあります。"],
+  ["That's a good question.", "一般的な評価。連発すると軽くなります。"],
+  ["That's the question we've been wrestling with.", "我々も悩んできた問い。共感を示します。"],
+  ["I wish I had a better answer.", "良い答えがなくて残念。正直な反応です。"]
+ ],
+ "nn": "That's a good question. は時間稼ぎの常套句として知られているため、連発すると形式的に響きます。the right question to be asking は具体的な評価なので、重みが残ります。",
+ "e": [
+  ["That's the right question to be asking — and honestly, we don't have a complete answer yet.", "それはまさに問うべき質問です。正直なところ、完全な答えはまだありません。"],
+  ["That's the right question to be asking at this stage. Six months ago it would have been premature.", "この段階ではまさに問うべき質問です。半年前なら時期尚早でした。"]
+ ],
+ "p": [
+  ["That's the right question to be asking about [話題].", ["That's the right question to be asking about sequencing.", "That's the question we should be asking, not whether it is cheaper."]],
+  ["[問いの評価]. [正直な回答].", ["That's the right question, and we don't have a full answer yet.", "That's the question we've been wrestling with. Here's where we've landed."]]
+ ],
+ "k": [
+  "to be asking（進行形の不定詞）で「いま問い続けるべき」の含み。",
+  "Good question. は連発すると時間稼ぎに聞こえる。",
+  "問いを評価したら、正直な回答を続ける。"
+ ]
+},
+"Let me answer that, and then correct something I said earlier.": {
+ "t": "お答えした後、先ほどの発言を1点訂正させてください。",
+ "tn": "誤りに自分で気づいたときの処理です。放置するより信頼が上がります。",
+ "s": [
+  ["Let me answer that,", "Let + me + 原形 answer。"],
+  ["and then correct something I said earlier", "and then の後も原形が並びます。something (that) I said earlier の関係代名詞が省略されています。"]
+ ],
+ "v": [
+  ["correct", "訂正する。correct myself（自分で言い直す）、stand corrected（指摘を受けて誤りを認める）。"],
+  ["earlier", "先ほど。before より具体的に「この会議の前半で」を指せます。"],
+  ["and then", "その後で。順序を示します。"]
+ ],
+ "n": [
+  ["correct something I said earlier", "自分から訂正する。信頼につながります。"],
+  ["I misspoke earlier.", "言い間違えた。短く認めます。"],
+  ["Let me correct myself.", "自分で訂正する。最も簡潔です。"],
+  ["I stand corrected.", "ご指摘のとおり。相手に指摘された場合に使います。"]
+ ],
+ "nn": "I stand corrected. は他者に指摘されたときの応答です。自分で気づいた場合は I misspoke や Let me correct myself が自然です。",
+ "e": [
+  ["Let me answer that, and then correct something I said earlier — the figure I quoted was the quarterly number, not the annual one.", "お答えした後、先ほどの発言を訂正させてください。先ほど申し上げた数字は年次ではなく四半期の数字でした。"],
+  ["Let me answer that, and then correct myself on the start date. It is the first of May, not the first of April.", "お答えした後、開始日について訂正させてください。4月1日ではなく5月1日です。"]
+ ],
+ "p": [
+  ["Let me answer that, and then correct [訂正内容].", ["Let me answer that, and then correct the number I gave earlier.", "Let me answer that, and then clarify something from the first section."]],
+  ["[訂正の宣言]: [正しい内容].", ["I misspoke earlier: the pilot ran for eight weeks, not six.", "Let me correct myself: HR owns the communication, not the project team."]]
+ ],
+ "k": [
+  "誤りは自分から訂正する方が、信頼が上がる。",
+  "I stand corrected は他者に指摘された場合の応答。",
+  "訂正するときは、正しい内容まで言い切る。"
+ ]
+},
+"I'll note that as an open item and come back to you.": {
+ "t": "未決事項として記録し、後ほどご連絡します。",
+ "tn": "答えられない質問を宙に浮かせない型です。必ず期限を添えます。",
+ "s": [
+  ["I'll note that as an open item", "I will の短縮。note A as B で「AをBとして記録する」。"],
+  ["and come back to you", "and の後も will に続く原形。come back to A で「Aに回答する」。"]
+ ],
+ "v": [
+  ["note A as B", "as が「〜として」。記録の分類を示します。"],
+  ["open item", "未決の項目。open question、action item と並ぶ会議用語です。"],
+  ["come back to you", "後で回答する。I'll get back to you. も同じ意味です。"]
+ ],
+ "n": [
+  ["I'll note that as an open item.", "未決として記録する。宙に浮かせません。"],
+  ["I'll take that away.", "持ち帰って対応する。担当を引き受けます。"],
+  ["Let me come back to you on that.", "後で回答する。最も一般的です。"],
+  ["I'll add it to the follow-up list.", "追跡リストに入れる。仕組みに載せます。"]
+ ],
+ "e": [
+  ["I'll note that as an open item and come back to you by Thursday with a view.", "未決事項として記録し、木曜までに見解をお持ちします。"],
+  ["I'll note that as an open item and come back to you — it needs input from the tax team.", "未決事項として記録し、後ほどご連絡します。税務チームの見解が必要です。"]
+ ],
+ "p": [
+  ["I'll note that as an open item and come back to you by [期限].", ["I'll note that as an open item and come back to you tomorrow.", "I'll add that to the follow-up list and respond this week."]],
+  ["I'll [記録方法] and [期限]. [必要なもの].", ["I'll take that away and respond by Friday. I need the Q3 file first.", "I'll note it and come back after I speak to legal."]]
+ ],
+ "k": [
+  "note A as B で、記録の分類まで示せる。",
+  "open item は「未決の項目」。会議用語の定番。",
+  "必ず期限を添える。期限のない約束は守られない。"
+ ]
+}
+}

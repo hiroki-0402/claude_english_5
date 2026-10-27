@@ -1,0 +1,591 @@
+{
+"That's a good question. Let me think for a second.": {
+ "t": "良いご質問です。少し考えさせてください。",
+ "tn": "英語会議では沈黙が「理解していない」と取られます。無音で考えず、声に出して間を作るための型です。",
+ "s": [
+  ["That's a good question.", "That is の短縮。評価を述べつつ、次の発話までの間を作ります。"],
+  ["Let me think for a second.", "Let + me + 原形 think。for a second が「ちょっとの間」。"]
+ ],
+ "sn": "2文に分けている点が効いています。1文目を言っている数秒の間に、答えの骨組みを考えられます。",
+ "v": [
+  ["for a second", "直訳は「1秒間」ですが、実際には「ちょっと」。for a moment とほぼ同義で、second の方が口語的です。"],
+  ["think", "ここでは自動詞。think about A（Aについて考える）と目的語を付けることもできます。"],
+  ["a good question", "良い質問。評価であると同時に、間を作る緩衝句です。"]
+ ],
+ "n": [
+  ["Let me think for a second.", "考える時間を取る。最も自然。"],
+  ["Let me think about that.", "その件を考える。やや長めの間を想定します。"],
+  ["Give me a second.", "少し待ってほしい。より直接的です。"],
+  ["Hmm, let me see.", "ええと。最も口語的で、考え込む様子が出ます。"]
+ ],
+ "nn": "どれも自然です。社外のかしこまった場では Let me think for a second. が無難で、Hmm, let me see. は社内向きです。",
+ "e": [
+  ["That's a good question. Let me think for a second — I want to separate the cost impact from the capability impact.", "良いご質問です。少し考えさせてください。費用への影響と能力への影響を分けて整理したいので。"],
+  ["That's a good question. Let me think for a second about how it plays out over three years.", "良いご質問です。3年単位でどうなるか、少し考えさせてください。"]
+ ],
+ "p": [
+  ["That's a good question. Let me think for a second — [答えの構造].", ["Let me think for a second — there are two parts to this.", "Let me think for a second — I'd start with the data, then the implication."]],
+  ["[評価]. [間を作る一言].", ["That's worth pausing on. Give me a second.", "That's the right question. Let me think it through out loud."]]
+ ],
+ "k": [
+  "沈黙は「理解していない」と取られる。声に出して間を作る。",
+  "for a second は「ちょっと」。文字どおり1秒ではない。",
+  "間を作る一言の後に、答えの構造を宣言すると自然につながる。"
+ ]
+},
+"Let me make sure I've got the question right first.": {
+ "t": "まず質問を正しく理解できているか確認させてください。",
+ "tn": "確認しながら考える時間を稼ぐ、二重の効果がある型です。最も実用的な時間の作り方になります。",
+ "s": [
+  ["Let me make sure", "Let + me + 原形 make。make sure で「確実にする」。"],
+  ["I've got the question right", "現在完了形。have got は have とほぼ同義で、口語で広く使われます。get A right で「Aを正しく捉える」。"],
+  ["first", "副詞。文末に置いて「まず最初に」という順序を示します。"]
+ ],
+ "v": [
+  ["get ~ right", "正しく捉える・正しくやる。get it right / get the number right / get the name right。反対は get it wrong。"],
+  ["have got", "英国英語で特に一般的な have の口語形。I've got = I have。"],
+  ["first", "まず最初に。文末に置くと、次に別のことをするという含みが出ます。"]
+ ],
+ "n": [
+  ["Let me make sure I've got the question right.", "質問の理解を確認する。時間も稼げます。"],
+  ["Let me play that back.", "復唱する。より能動的な確認です。"],
+  ["Is the question about A or B?", "二択で確認する。最も効率的です。"],
+  ["What exactly are you asking?", "何を聞いているのかを問う。やや直接的で、場合により失礼に響きます。"]
+ ],
+ "nn": "What exactly are you asking? は語調によっては詰問に聞こえます。Let me make sure I've got the question right. は自分側に確認の責任を置くため、安全です。",
+ "e": [
+  ["Let me make sure I've got the question right first — are you asking about this year's budget, or the run rate going forward?", "まず質問を正しく理解できているか確認させてください。今年度の予算についてでしょうか、それとも今後の年換算額についてでしょうか。"],
+  ["Let me make sure I've got the question right. You're asking why the two numbers differ, not which one is correct?", "質問を正しく理解できているか確認させてください。どちらが正しいかではなく、なぜ2つの数字が違うのか、ということですね。"]
+ ],
+ "p": [
+  ["Let me make sure I've got [対象] right first.", ["Let me make sure I've got the scope right first.", "Let me make sure I've got your point right first."]],
+  ["Let me make sure I've got the question right — is this about [A] or [B]?", ["Let me make sure I've got it right — is this about cost or about risk?", "Let me check I understood — do you mean the pilot or the full rollout?"]]
+ ],
+ "k": [
+  "get ~ right は「正しく捉える」。get it wrong が反対。",
+  "have got は have の口語形。I've got = I have。",
+  "確認の責任を自分側に置くと、時間稼ぎが誠実に見える。"
+ ]
+},
+"Give me a moment to pull that up.": {
+ "t": "少々お待ちください、その資料を出します。",
+ "tn": "画面共有や資料探しの間の定型句です。黙って探すより場が持ちます。",
+ "s": [
+  ["Give me a moment", "命令形。give A B の二重目的語構文です。命令形ですが、口語では依頼として自然に働きます。"],
+  ["to pull that up", "目的を表す不定詞。「それを画面に出すために」。"]
+ ],
+ "v": [
+  ["pull up", "引き上げる、から「画面に呼び出す」。pull up a file / pull up the deck / pull up the dashboard。目的語が代名詞のときは pull it up と間に挟みます。"],
+  ["a moment", "少しの間。a second とほぼ同義で、a moment の方がやや長めの印象です。"],
+  ["give me", "命令形ですが、口頭では依頼として受け取られます。やわらげたいときは Could you give me a moment? とします。"]
+ ],
+ "n": [
+  ["Give me a moment to pull that up.", "資料を出す間の定型。最も一般的。"],
+  ["Bear with me.", "少しお待ちを。待たせることへの配慮が出ます。"],
+  ["Let me share my screen.", "画面共有する。行動を宣言します。"],
+  ["One moment.", "少々お待ちを。最も短い形です。"]
+ ],
+ "e": [
+  ["Give me a moment to pull that up — it's in the appendix of last week's pack.", "少々お待ちください。先週の資料の付録にあります。"],
+  ["Give me a moment to pull up the regional split. I'll share my screen.", "地域別の内訳を出しますので少々お待ちください。画面を共有します。"]
+ ],
+ "p": [
+  ["Give me a moment to [行動].", ["Give me a moment to find the exact figure.", "Give me a moment to open the model."]],
+  ["[待ってもらう一言] — [何をしているか].", ["Bear with me — I'm looking for the right tab.", "One moment — the file is loading."]]
+ ],
+ "k": [
+  "pull up は「画面に呼び出す」。代名詞は間に挟む（pull it up）。",
+  "黙って探さず、何をしているかを言うと場が持つ。",
+  "やわらげたいときは Could you give me a moment? にする。"
+ ]
+},
+"Let me start with what I know, then come back to the rest.": {
+ "t": "分かっている部分から話し、残りは後で戻ります。",
+ "tn": "全部に答えられないとき、答えられる部分から始めて主導権を保つ型です。",
+ "s": [
+  ["Let me start with what I know,", "Let + me + 原形 start。with の目的語が what節（私が知っていること）です。"],
+  ["then come back to the rest", "then の後も Let me に続く原形が並びます。come back to A で「Aに戻る」。"]
+ ],
+ "v": [
+  ["what I know", "関係代名詞の what。「私が知っていること」を1つのかたまりとして扱えます。"],
+  ["the rest", "残り。the が付くのは、全体から既出分を除いた特定の残りだからです。"],
+  ["come back to ~", "to が戻る先を示します。"]
+ ],
+ "n": [
+  ["start with what I know", "分かる部分から始める。主導権を保てます。"],
+  ["take the easy part first", "簡単な方から。ややくだけた言い方です。"],
+  ["answer what I can now", "答えられる分だけ今答える。範囲を明示します。"],
+  ["flag what I can't answer", "答えられない点を先に挙げる。逆の順序です。"]
+ ],
+ "e": [
+  ["Let me start with what I know, then come back to the rest after I check with the data team.", "分かっている部分から話し、残りはデータチームに確認してから戻ります。"],
+  ["Let me start with what we measured, then come back to what we inferred.", "実測した部分から話し、推定した部分には後で戻ります。"]
+ ],
+ "p": [
+  ["Let me start with [分かっていること], then come back to [残り].", ["Let me start with the cost side, then come back to the benefit side.", "Let me start with this quarter, then come back to the full year."]],
+  ["Let me [答えられる範囲] now and [残りの扱い] [いつ].", ["Let me cover the first two now and send the third in writing today.", "Let me give you the direction now and the number after the close."]]
+ ],
+ "k": [
+  "関係代名詞の what は「〜すること」を1語で表す。",
+  "残りをどう扱うかまで言うと、先送りが逃げに見えない。",
+  "分かる部分から始めると、主導権を保てる。"
+ ]
+},
+"Can I come back to that after this section?": {
+ "t": "この項目の後で、その点に戻ってもよいですか。",
+ "tn": "答えを先送りしますが、逃げには聞こえません。ただし、必ず本当に戻ることが条件です。",
+ "s": [
+  ["Can I come back to that", "許可を求める疑問文。come back to A で「Aに戻る」。"],
+  ["after this section?", "after が時点を示します。"]
+ ],
+ "v": [
+  ["come back to ~", "to が戻る先。come back on it とは言いません。"],
+  ["section", "資料や説明のまとまり。this section で「いま話している部分」。"],
+  ["after", "〜の後で。前置詞としても接続詞としても使えます。"]
+ ],
+ "n": [
+  ["Can I come back to that?", "後で戻る。最も一般的。"],
+  ["Can I park that for now?", "いったん置く。進行の提案です。"],
+  ["Can I take that offline?", "この場の外で話す。別の場に移します。"],
+  ["I'll pick that up at the end.", "最後に扱う。許可を求めずに宣言します。"]
+ ],
+ "nn": "take it offline は「この会議の外で」という意味で、必ずしも後で扱わないという含みも出ます。確実に戻るつもりなら come back to that の方が正確です。",
+ "e": [
+  ["Can I come back to that after this section? It connects to the cost analysis on the next page.", "この項目の後で、その点に戻ってもよいですか。次ページの費用分析とつながります。"],
+  ["Can I come back to that at the end? I'd like to finish the chain of logic first.", "最後に戻ってもよいですか。先に論理の流れを通したいので。"]
+ ],
+ "p": [
+  ["Can I come back to that after [どこ]?", ["Can I come back to that after the next two slides?", "Can I come back to that at the end?"]],
+  ["Can I come back to that [いつ]? [理由].", ["Can I come back to that after this section? It builds on what comes next.", "Can I pick that up at the end? I want to keep the thread."]]
+ ],
+ "k": [
+  "come back to ~。前置詞は to。",
+  "戻ると言ったら必ず戻る。戻らないと信頼を失う。",
+  "take it offline は「会議の外で」。後で扱わない含みも出る。"
+ ]
+},
+"Let me rephrase that.": {
+ "t": "言い直させてください。",
+ "tn": "英語が途中で崩れたときの立て直しです。謝らずに言い直すのが自然です。",
+ "s": [
+  ["Let me rephrase that.", "Let + me + 原形 rephrase。that が直前の自分の発言を受けます。"]
+ ],
+ "sn": "3語の短い文です。短いからこそ、言い直しの間が目立ちません。長い前置き（Sorry, I think I didn't explain that well...）を付けると、かえって不自然に響きます。",
+ "v": [
+  ["rephrase", "re-（再び）+ phrase（言い回し）。同じ内容を別の言葉で言い直すこと。内容を変える restate とは少し違います。"],
+  ["that", "直前の自分の発言を受ける代名詞。"],
+  ["let me", "許可を求める形ですが、実際には宣言として機能します。"]
+ ],
+ "n": [
+  ["Let me rephrase that.", "言い直す。最も簡潔。"],
+  ["Let me put that another way.", "別の言い方をする。ほぼ同義です。"],
+  ["What I mean is ...", "言いたいのは。そのまま中身に入ります。"],
+  ["Sorry, let me start again.", "最初からやり直す。より大きな立て直しです。"]
+ ],
+ "nn": "どれも自然です。英語圏では言い直し自体が珍しくないため、謝罪を重ねる必要はありません。Let me put that another way. は母語話者も頻繁に使います。",
+ "e": [
+  ["Let me rephrase that — what I mean is that the cost moves, but the total doesn't.", "言い直します。費用の配分は動きますが、総額は変わらないということです。"],
+  ["Let me put that another way: we are not short of people, we are short of reviewers.", "別の言い方をします。人が足りないのではなく、査定できる人が足りないのです。"]
+ ],
+ "p": [
+  ["Let me rephrase that — what I mean is [内容].", ["Let me rephrase that — what I mean is the timing, not the decision.", "Let me rephrase that — I'm describing the symptom, not the cause."]],
+  ["Let me put that another way: [言い換え].", ["Let me put that another way: it works, but not at this scale.", "Let me put that another way: the issue is who decides, not what we decide."]]
+ ],
+ "k": [
+  "rephrase は「同じ内容を別の言葉で」。内容を変えるわけではない。",
+  "謝らずに短く言い直すのが自然。長い前置きは不要。",
+  "Let me put that another way. も母語話者が頻繁に使う。"
+ ]
+},
+"I want to give you a precise answer, so let me check one thing.": {
+ "t": "正確にお答えしたいので、1点だけ確認させてください。",
+ "tn": "時間稼ぎを「品質のため」と正当化できる型です。上位者が相手でも使えます。",
+ "s": [
+  ["I want to give you a precise answer,", "want to + 原形。give A B の二重目的語構文です。"],
+  ["so let me check one thing", "so が結果を導きます。Let me + 原形 check。"]
+ ],
+ "sn": "so が理由と行動をつないでいます。「正確にしたい」→「だから確認する」という因果が明示されるので、間を取ることが正当化されます。",
+ "v": [
+  ["precise", "精密な。accurate（真の値に近い）とは厳密には別で、precise は「ばらつきが小さい・細かく特定されている」。実務では交換して使われることもあります。"],
+  ["check one thing", "1点だけ確認する。one が範囲を限定し、長引かないと示せます。"],
+  ["so", "結果を導く接続詞。"]
+ ],
+ "n": [
+  ["precise", "細かく特定されている。桁や条件まで含みます。"],
+  ["accurate", "真の値に近い。正しさに焦点があります。"],
+  ["specific", "具体的。漠然としていないこと。"],
+  ["exact", "寸分違わない。最も強い言い方です。"]
+ ],
+ "nn": "precise と accurate は日常的には交換して使われますが、分析の文脈では区別されます。精度（ばらつき）と正確さ（真値からのずれ）は別の概念です。",
+ "e": [
+  ["I want to give you a precise answer, so let me check one thing — whether the figure includes the acquired entities.", "正確にお答えしたいので1点だけ確認させてください。この数字に買収した法人が含まれているかどうかです。"],
+  ["I want to give you a precise number, so let me confirm the base year before I answer.", "正確な数字をお出ししたいので、お答えする前に基準年を確認させてください。"]
+ ],
+ "p": [
+  ["I want to give you a precise answer, so let me check [確認事項].", ["I want to give you a precise answer, so let me check the definition first.", "I want to be accurate here, so let me confirm the period."]],
+  ["[品質の理由], so [行動]. [所要時間].", ["I'd rather be right than quick, so let me verify. Two minutes.", "I want to give you something you can use, so let me check with finance. I'll have it this afternoon."]]
+ ],
+ "k": [
+  "so で理由と行動をつなぐと、間を取ることが正当化される。",
+  "one thing と範囲を限定すると、長引かないと伝わる。",
+  "precise（精度）と accurate（正確さ）は分析では別の概念。"
+ ]
+},
+"There are a couple of ways to look at this.": {
+ "t": "これにはいくつかの見方があります。",
+ "tn": "話し出しながら構造を作る型です。数秒稼ぎつつ、論点整理も同時に進みます。",
+ "s": [
+  ["There are a couple of ways", "There is/are 構文。a couple of + 複数名詞なので are になります。"],
+  ["to look at this", "ways を修飾する不定詞。「これを見るやり方」。"]
+ ],
+ "v": [
+  ["a couple of", "直訳は「2つの」ですが、口語では「2〜3の」という曖昧な数として広く使われます。厳密に2つなら two と言います。"],
+  ["way to do", "〜するやり方。a way of doing もほぼ同義です。"],
+  ["look at ~", "検討する。"]
+ ],
+ "n": [
+  ["a couple of", "2〜3。曖昧で使いやすい。"],
+  ["a few", "3〜4程度。a couple of より少し多い印象です。"],
+  ["several", "いくつもの。さらに多めです。"],
+  ["two", "厳密に2つ。数を約束することになります。"]
+ ],
+ "nn": "a couple of は会話では「2つ」に限らず使われますが、相手が厳密に受け取ることもあります。数が決まっているなら two と言う方が誤解がありません。",
+ "e": [
+  ["There are a couple of ways to look at this. One is cost per hire; the other is time to productivity.", "これにはいくつかの見方があります。ひとつは採用単価、もうひとつは戦力化までの時間です。"],
+  ["There are a couple of ways to look at this, and they give different answers.", "これにはいくつかの見方があり、それぞれ違う答えになります。"]
+ ],
+ "p": [
+  ["There are a couple of ways to look at [対象].", ["There are a couple of ways to look at the attrition number.", "There are two ways to read this chart."]],
+  ["There are [数] ways to look at this. [A] and [B].", ["There are two ways to look at this: as a cost problem or as a capability problem.", "There are a couple of angles here — the client's and ours."]]
+ ],
+ "k": [
+  "a couple of は口語では「2〜3」。厳密に2つなら two と言う。",
+  "話し出しながら構造を作れるので、考える時間が取れる。",
+  "宣言したら、各見方の中身を順に示す。"
+ ]
+},
+"Let me think out loud for a second.": {
+ "t": "少し考えながら話させてください。",
+ "tn": "沈黙を避けつつ考える型です。英語で組み立てる時間を自然に確保できます。",
+ "s": [
+  ["Let me think out loud", "Let + me + 原形 think。think out loud で「声に出して考える」。"],
+  ["for a second", "「ちょっとの間」。"]
+ ],
+ "v": [
+  ["think out loud", "out loud は「声に出して」。頭の中ではなく口に出して考える、という意味です。think aloud も同じ意味で、やや書き言葉寄りになります。"],
+  ["out loud", "声に出して。read out loud（音読する）、say it out loud（口に出す）。"],
+  ["for a second", "ちょっとの間。"]
+ ],
+ "n": [
+  ["Let me think out loud.", "考えながら話す。宣言することで、まとまりのなさが許容されます。"],
+  ["Bear with me, this isn't fully formed.", "まだ整理できていない。より明確な断りです。"],
+  ["Let me reason through this.", "筋道をたどる。ややかたい言い方です。"],
+  ["I'm working this out as I go.", "進めながら考えている。口語的です。"]
+ ],
+ "e": [
+  ["Let me think out loud for a second. If the constraint is reviewer time, then adding analysts doesn't help.", "少し考えながら話させてください。制約が査定者の時間なら、分析担当を増やしても効きません。"],
+  ["Let me think out loud — the pattern could be seasonal, or it could be the new pricing. The second quarter would tell us which.", "考えながら話します。この傾向は季節性かもしれませんし、新価格の影響かもしれません。第2四半期を見れば判別できます。"]
+ ],
+ "p": [
+  ["Let me think out loud for a second about [話題].", ["Let me think out loud for a second about the sequencing.", "Let me think out loud about what would have to be true."]],
+  ["Let me think out loud — [仮説]. [検証].", ["Let me think out loud — if it's a mix effect, we'd see it in the weighted average.", "Let me reason through it — the cost is fixed, so volume is the only lever."]]
+ ],
+ "k": [
+  "think out loud と宣言すると、まとまりのない話し方が許容される。",
+  "out loud は「声に出して」。",
+  "宣言した後は、仮説と検証の形で話すと筋が通る。"
+ ]
+},
+"Before I answer, can I ask one thing?": {
+ "t": "お答えする前に、1点伺ってもよいですか。",
+ "tn": "質問返しで時間を作る型です。同時に、的外れな回答も防げます。",
+ "s": [
+  ["Before I answer,", "接続詞 before + 主語 + 動詞。"],
+  ["can I ask one thing?", "許可を求める疑問文。one thing が範囲を限定します。"]
+ ],
+ "v": [
+  ["ask", "尋ねる。ask A B（AにBを尋ねる）、ask A about B。ask to A とは言いません。"],
+  ["one thing", "1点だけ。範囲を限定し、話が逸れないと示せます。"],
+  ["before", "接続詞。"]
+ ],
+ "n": [
+  ["Before I answer, can I ask one thing?", "質問返し。時間も稼げます。"],
+  ["Can I ask a clarifying question first?", "確認の質問をしてよいか。目的を明示します。"],
+  ["Quick question before I answer: ...", "短い質問を挟む。より直接的です。"],
+  ["It depends — can I ask what you'd use it for?", "条件次第、と前置きしてから問う形です。"]
+ ],
+ "e": [
+  ["Before I answer, can I ask one thing? Is this for the board paper or for the working session?", "お答えする前に1点伺ってもよいですか。取締役会資料向けでしょうか、それとも作業会議向けでしょうか。"],
+  ["Before I answer, can I ask what decision this feeds into? That changes how precise I need to be.", "お答えする前に伺いますが、これはどの判断に使われますか。求められる精度が変わります。"]
+ ],
+ "p": [
+  ["Before I answer, can I ask [one thing]?", ["Before I answer, can I ask who else has seen this?", "Before I answer, can I ask what the deadline is?"]],
+  ["Before I answer, [質問]. [理由].", ["Before I answer, is this about this year or the run rate? The answer differs.", "Before I answer, can I check the audience? That changes the level of detail."]]
+ ],
+ "k": [
+  "質問返しは、時間稼ぎと的外れ防止を同時に果たす。",
+  "one thing と限定すると、話が逸れないと示せる。",
+  "なぜ聞くのかを添えると、質問返しが自然になる。"
+ ]
+},
+"Let me take those in order.": {
+ "t": "順番にお答えします。",
+ "tn": "複数の質問を受けたときの整理です。最初の1問を話している間に、残りを考えられます。",
+ "s": [
+  ["Let me take those", "Let + me + 原形 take。those が複数の質問を受けます。"],
+  ["in order", "in が様態を示します。「順番に」。"]
+ ],
+ "v": [
+  ["take", "ここでは「扱う・取り上げる」。take a question（質問を受ける）、take them one by one（ひとつずつ扱う）。"],
+  ["in order", "順番に。in turn（順番に）、one at a time（ひとつずつ）も同じ場面で使えます。"],
+  ["those", "複数の質問を指す代名詞。"]
+ ],
+ "n": [
+  ["Let me take those in order.", "順番に扱う。最も簡潔。"],
+  ["Let me take them one at a time.", "ひとつずつ扱う。ほぼ同義です。"],
+  ["Let me start with the second one.", "2つ目から始める。順番を変える宣言です。"],
+  ["There were three questions there.", "質問が3つあったと確認する。整理を先に示します。"]
+ ],
+ "e": [
+  ["Let me take those in order. On the first, the answer is no. On the second, it depends on the timing.", "順番にお答えします。1つ目はノーです。2つ目は時期次第です。"],
+  ["There were three questions there — let me take them in order.", "質問が3つありました。順番にお答えします。"]
+ ],
+ "p": [
+  ["Let me take those in order — [1つ目] first.", ["Let me take those in order — the cost question first.", "Let me take them one at a time, starting with the data."]],
+  ["There were [n] questions there. Let me take them in order.", ["There were two questions there. Let me take them in order.", "I heard three questions. Let me take the last one first, because it frames the others."]]
+ ],
+ "k": [
+  "take は「扱う・取り上げる」の意味でも使う。",
+  "in order / in turn / one at a time はいずれも「順番に」。",
+  "質問の数を先に確認すると、答え漏れが出ない。"
+ ]
+},
+"Give me one second to get that right.": {
+ "t": "正確に申し上げたいので、少しお時間をください。",
+ "tn": "沈黙を「正確さのための間」に変える型です。短く言い切るのがこつです。",
+ "s": [
+  ["Give me one second", "命令形。one が「ほんの少し」を強調します。"],
+  ["to get that right", "目的を表す不定詞。get A right で「Aを正しく捉える」。"]
+ ],
+ "v": [
+  ["one second", "a second より「ほんの一瞬」という強調が入ります。実際には数秒から十数秒です。"],
+  ["get ~ right", "正しくやる・正しく捉える。"],
+  ["give me", "命令形ですが、口頭では依頼として自然です。"]
+ ],
+ "n": [
+  ["Give me one second to get that right.", "正確さのための間。短く言い切れます。"],
+  ["Let me get this right.", "正しく言いたい。同じ目的です。"],
+  ["I want to get the wording right.", "言い回しを正しくしたい。文言に限定します。"],
+  ["Hold on, let me be precise.", "待ってほしい、正確に言う。やや直接的です。"]
+ ],
+ "e": [
+  ["Give me one second to get that right — I don't want to quote the wrong base year.", "正確に申し上げたいので少しお時間をください。基準年を取り違えたくないので。"],
+  ["Give me one second to get the name right. It's the Osaka entity, not the Kansai region.", "正確に申し上げたいので少しお時間をください。関西地域ではなく大阪法人です。"]
+ ],
+ "p": [
+  ["Give me one second to [get that right].", ["Give me one second to check the figure.", "Give me one second to find the exact wording."]],
+  ["Give me one second — [理由].", ["Give me one second — I want to quote this correctly.", "Give me one second — two numbers look similar and I don't want to mix them up."]]
+ ],
+ "k": [
+  "one second は「ほんの一瞬」という強調。",
+  "get ~ right で「正確さのため」と示せる。",
+  "短く言い切る。長い前置きを付けると間が目立つ。"
+ ]
+},
+"That's not something I've thought through yet.": {
+ "t": "そこはまだ十分に考えられていません。",
+ "tn": "取り繕わずに認める型です。誠実さが伝わり、追及も止まります。",
+ "s": [
+  ["That's not something", "That is の短縮。something が後ろの関係詞節に修飾されます。"],
+  ["I've thought through", "something を修飾する関係詞節。目的格の関係代名詞が省略されています。現在完了形で「これまでに考え抜いた」。"],
+  ["yet", "まだ。今後考える可能性を残します。"]
+ ],
+ "v": [
+  ["think through", "think + through（通して）。最初から最後まで通して考えること。think about（考える）より深く、結論まで至る含みがあります。"],
+  ["yet", "否定文で「まだ」。これがないと、恒久的に考えないという含みになります。"],
+  ["something", "漠然としたものを指す代名詞。不定の対象を受けます。"]
+ ],
+ "n": [
+  ["I haven't thought that through yet.", "考え抜いていない。率直で、誠実に響きます。"],
+  ["I don't have a view on that yet.", "見解がない。よりていねいです。"],
+  ["That's outside what we looked at.", "検討範囲の外。範囲の話にします。"],
+  ["I'd be speculating.", "推測になる。答えない理由を示します。"]
+ ],
+ "e": [
+  ["That's not something I've thought through yet. Let me come back to you with a view by Thursday.", "そこはまだ十分に考えられていません。木曜までに見解をお持ちします。"],
+  ["That's not something we've thought through yet — it's a fair challenge, and I'd want to model it properly.", "そこはまだ十分に考えられていません。もっともなご指摘で、きちんと試算したいと思います。"]
+ ],
+ "p": [
+  ["That's not something I've thought through yet. [次の行動].", ["That's not something I've thought through yet. I'll come back by Friday.", "That's not something we've modeled yet. We can add it to the next iteration."]],
+  ["I haven't [thought that through / looked at that] yet. [分かっていること].", ["I haven't looked at that yet. What I can say is the direction looks similar.", "I haven't thought that through yet. My instinct is that it is second-order, but I'd want to check."]]
+ ],
+ "k": [
+  "think through は「最初から最後まで通して考える」。",
+  "yet を入れると、今後考える余地が残る。",
+  "認めたら、いつ考えるかを添える。"
+ ]
+},
+"Let me back up for a moment.": {
+ "t": "少し前に戻らせてください。",
+ "tn": "話が絡まったときの立て直しです。文脈を再構築しながら考えられます。",
+ "s": [
+  ["Let me back up", "Let + me + 原形 back。back up は自動詞の句動詞で「後退する」。"],
+  ["for a moment", "しばらくの間。"]
+ ],
+ "v": [
+  ["back up", "車をバックさせる動作が原義。話では「少し前の論点に戻る」。back up a claim（主張を裏づける）という別の意味もあるので、文脈で判断します。"],
+  ["for a moment", "しばらく。一時的であることを示します。"],
+  ["let me", "宣言として機能します。"]
+ ],
+ "n": [
+  ["Let me back up for a moment.", "前に戻る。立て直しの宣言。"],
+  ["Let me take a step back.", "一歩引く。視点を上げる含みです。"],
+  ["Let me start again.", "やり直す。より大きな立て直しです。"],
+  ["Going back to your earlier point, ...", "前の論点に戻る。相手の発言を拾います。"]
+ ],
+ "nn": "back up は「時系列で前に戻る」、take a step back は「視点を引いて全体を見る」です。方向が違うので、意図に応じて選びます。",
+ "e": [
+  ["Let me back up for a moment. The question was whether we can hit March, and I've been answering a different one.", "少し前に戻らせてください。ご質問は3月に間に合うかどうかで、私は別の問いに答えていました。"],
+  ["Let me take a step back. The real constraint here is reviewer capacity, not budget.", "一歩引いて見ます。ここでの本当の制約は予算ではなく査定能力です。"]
+ ],
+ "p": [
+  ["Let me back up for a moment to [論点].", ["Let me back up for a moment to the assumption we started with.", "Let me back up to what the client actually asked for."]],
+  ["Let me [back up / take a step back]. [整理].", ["Let me take a step back. There are two decisions here, not one.", "Let me back up. I conflated two numbers a moment ago."]]
+ ],
+ "k": [
+  "back up は「時系列で前に戻る」。take a step back は「視点を引く」。",
+  "back up a claim（裏づける）という別の意味もある。文脈で判断する。",
+  "立て直しを宣言すると、聞き手が混乱しない。"
+ ]
+},
+"I want to answer that carefully.": {
+ "t": "その点は慎重にお答えしたいです。",
+ "tn": "重い質問に対する間の作り方です。理由を添えると、引き延ばしに見えません。",
+ "s": [
+  ["I want to answer that", "want to + 原形。answer は他動詞です。"],
+  ["carefully", "副詞。「慎重に」。"]
+ ],
+ "v": [
+  ["carefully", "care（注意）+ -fully。注意を払って、ということ。answer carefully は「言葉を選んで答える」という含みです。"],
+  ["answer", "他動詞。"],
+  ["want to", "意思を表します。I'd like to とすると、よりていねいになります。"]
+ ],
+ "n": [
+  ["I want to answer that carefully.", "慎重に答える。重い質問に向きます。"],
+  ["That deserves a careful answer.", "慎重な答えに値する。質問を評価します。"],
+  ["I'd want to be precise here.", "正確にしたい。精度に焦点があります。"],
+  ["Let me be careful how I put this.", "言い方に注意する。文言の問題だと示します。"]
+ ],
+ "e": [
+  ["I want to answer that carefully, because the answer affects how the client staffs the team.", "その点は慎重にお答えしたいです。答えによってクライアントの体制の組み方が変わるからです。"],
+  ["I want to answer that carefully — there are two numbers in circulation and only one is audited.", "その点は慎重にお答えしたいです。2つの数字が流通しており、監査済みなのは一方だけです。"]
+ ],
+ "p": [
+  ["I want to answer that carefully because [理由].", ["I want to answer that carefully because it will be quoted.", "I want to answer that carefully because the definitions differ by entity."]],
+  ["[慎重さの宣言]. [理由]. [答え].", ["Let me be careful how I put this. The data is thin. My read is that it is improving.", "That deserves a careful answer. The short version is yes, with one condition."]]
+ ],
+ "k": [
+  "carefully は「言葉を選んで」。慎重さの宣言になる。",
+  "理由を添えないと、引き延ばしに見える。",
+  "宣言したら、必ず答えまで到達する。"
+ ]
+},
+"Bear with me while I pull up the figures.": {
+ "t": "数字を出しますので少しお待ちください。",
+ "tn": "資料を操作している間の定番です。無言の時間を埋められます。",
+ "s": [
+  ["Bear with me", "命令形。bear with A で「Aに辛抱して付き合う」。"],
+  ["while I pull up the figures", "while が接続詞で「〜している間」。"]
+ ],
+ "v": [
+  ["bear with ~", "bear は「耐える・担う」。with が「〜と一緒に」。合わせて「しばらく我慢して付き合ってほしい」。Bear with me. 単独でもよく使われます。"],
+  ["while", "同時進行を表す接続詞。"],
+  ["figures", "数字。numbers とほぼ同義で、figures の方がやや正式です。"]
+ ],
+ "n": [
+  ["Bear with me.", "少しお待ちを。配慮が感じられます。"],
+  ["Give me a moment.", "少し時間をください。より事務的です。"],
+  ["Apologies, one moment.", "失礼、少々。やや丁寧です。"],
+  ["Sorry for the delay.", "お待たせしてすみません。待たせた後に使います。"]
+ ],
+ "e": [
+  ["Bear with me while I pull up the figures — I want to give you the audited numbers, not my notes.", "数字を出しますので少しお待ちください。手元のメモではなく監査済みの数字をお出ししたいので。"],
+  ["Bear with me while I share my screen. It should take ten seconds.", "画面を共有しますので少しお待ちください。10秒ほどで出ます。"]
+ ],
+ "p": [
+  ["Bear with me while I [行動].", ["Bear with me while I find the right tab.", "Bear with me while I open the model."]],
+  ["Bear with me — [何をしているか]. [所要時間].", ["Bear with me — the file is large. Ten seconds.", "Bear with me — I'm switching to the detailed view."]]
+ ],
+ "k": [
+  "bear with me は「しばらく我慢して付き合ってほしい」。",
+  "何をしているかと所要時間を添えると、待ちやすい。",
+  "while は同時進行を表す接続詞。"
+ ]
+},
+"Can I come at that from a slightly different angle?": {
+ "t": "少し違う角度からお答えしてもよいですか。",
+ "tn": "直球で答えられないときに切り口を変える型です。逃げに見えにくくなります。",
+ "s": [
+  ["Can I come at that", "許可を求める疑問文。come at A で「Aに向かっていく」。"],
+  ["from a slightly different angle?", "from が視点の起点。slightly が「少し」と程度をやわらげています。"]
+ ],
+ "sn": "slightly が効いています。a different angle だけだと「違う話をする」と聞こえますが、slightly を入れると「ほぼ同じ問いに、少し別の入り方で」という含みになります。",
+ "v": [
+  ["come at ~", "at が目標の一点を示します。「〜に向かっていく・取りかかる」。come at a problem from a different angle は定型表現です。"],
+  ["slightly", "わずかに。程度をやわらげる副詞で、提案を穏やかにします。"],
+  ["angle", "切り口・見方。"]
+ ],
+ "n": [
+  ["Can I come at that from a different angle?", "切り口を変える。許可を求める形です。"],
+  ["Let me approach that differently.", "違うやり方で取り組む。宣言の形です。"],
+  ["Can I answer a slightly different question?", "少し違う問いに答える。正直ですが、逃げに見えることもあります。"],
+  ["The way I'd frame it is ...", "私なら枠をこう置く。論点を置き換えます。"]
+ ],
+ "nn": "Can I answer a slightly different question? は誠実ですが、質問に答えていないと取られる可能性があります。come at it from a different angle の方が、同じ問いに答えようとしている姿勢が伝わります。",
+ "e": [
+  ["Can I come at that from a slightly different angle? Rather than whether we can afford it, let's ask what we lose by not doing it.", "少し違う角度からお答えしてもよいですか。費用を負担できるかではなく、やらない場合に何を失うかを問いましょう。"],
+  ["Can I come at that from a slightly different angle — starting with what the client already decided?", "少し違う角度からお答えしてもよいですか。クライアントが既に決めている点から始めます。"]
+ ],
+ "p": [
+  ["Can I come at that from a different angle — starting with [切り口]?", ["Can I come at that from a different angle — starting with the constraint?", "Can I come at that from a different angle — starting with what we know works?"]],
+  ["Can I come at that from a slightly different angle? [別の問い].", ["Can I come at that differently? The question I'd ask is who owns it.", "Can I reframe slightly? It may be a sequencing question rather than a resourcing one."]]
+ ],
+ "k": [
+  "come at a problem from an angle は定型表現。",
+  "slightly を入れると「同じ問いに少し別の入り方で」になる。",
+  "切り口を変えると宣言したら、必ず元の問いに戻る。"
+ ]
+},
+"Let me make sure I answer the right question.": {
+ "t": "答えるべき質問を取り違えていないか確認させてください。",
+ "tn": "確認と時間稼ぎを同時に行う、最も実用的な組み合わせです。",
+ "s": [
+  ["Let me make sure", "Let + me + 原形 make。"],
+  ["I answer the right question", "make sure の目的語となる節。that が省略されています。the right question で「答えるべき正しい質問」。"]
+ ],
+ "v": [
+  ["the right question", "正しい質問。the right answer（正しい答え）と対で、「正しい答えより正しい問いの方が重要だ」という考え方が背景にあります。"],
+  ["make sure", "確実にする。"],
+  ["answer", "他動詞。"]
+ ],
+ "n": [
+  ["Let me make sure I answer the right question.", "問いの取り違えを防ぐ。時間も稼げます。"],
+  ["Let me check what you're actually asking.", "何を聞いているかを確認する。やや直接的です。"],
+  ["Is the question A or B?", "二択で確認する。最も効率的です。"],
+  ["I want to answer what you asked, not what I expected.", "期待ではなく実際の質問に答える。丁寧な言い方です。"]
+ ],
+ "e": [
+  ["Let me make sure I answer the right question — is this about whether we can, or whether we should?", "答えるべき質問を取り違えていないか確認させてください。できるかどうかでしょうか、やるべきかどうかでしょうか。"],
+  ["Let me make sure I answer the right question. Are you asking about the pilot result or the scale-up plan?", "答えるべき質問を確認させてください。パイロットの結果についてでしょうか、それとも拡大計画についてでしょうか。"]
+ ],
+ "p": [
+  ["Let me make sure I answer the right question — is this about [A] or [B]?", ["Let me make sure I answer the right question — is this about cost or about capability?", "Let me check I'm answering the right question — this year, or going forward?"]],
+  ["Let me make sure I answer the right question. [確認]. [確認後の答え].", ["Let me make sure I answer the right question. You mean the Japan entity? Then yes.", "Let me check — are you asking why, or asking what we'd do about it?"]]
+ ],
+ "k": [
+  "「正しい答え」より「正しい問い」。取り違えは最も大きな損失になる。",
+  "二択で確認すると、相手が答えやすい。",
+  "確認と時間稼ぎを同時に果たせる、最も実用的な型。"
+ ]
+}
+}

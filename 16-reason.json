@@ -1,0 +1,604 @@
+{
+"There are two reasons behind that.": {
+ "t": "その背景には2つの理由があります。",
+ "tn": "理由を数えて出すと、途中で割り込まれても構造が相手の頭に残ります。",
+ "s": [
+  ["There are two reasons", "There is/are 構文。reasons が複数なので are です。"],
+  ["behind that", "behind が「その背後にある」を示します。"]
+ ],
+ "v": [
+  ["reason", "理由。the reason for A（Aの理由）、the reason why ...（〜という理由）、the reason behind A（Aの背後にある理由）と、前置詞で言い回しが変わります。"],
+  ["behind", "背後に。表に出ている事象の裏にある理由を指します。"],
+  ["two", "数を先に言う。構造を示す要点です。"]
+ ],
+ "n": [
+  ["There are two reasons behind that.", "理由を数えて出す。構造的に聞こえます。"],
+  ["There are two things driving that.", "要因として示す。より分析的です。"],
+  ["That's for two reasons.", "より短い形です。"],
+  ["Why? Two reasons.", "自問自答の形。口語的で勢いがあります。"]
+ ],
+ "e": [
+  ["There are two reasons behind that: the pricing change in April, and the loss of two large accounts.", "その背景には2つの理由があります。4月の価格改定と、大口2社の失注です。"],
+  ["There are three reasons behind the gap, and only one of them is within our control.", "この差には3つの理由があり、我々が制御できるのは1つだけです。"]
+ ],
+ "p": [
+  ["There are [n] reasons behind [that].", ["There are two reasons behind the delay.", "There are three reasons behind the gap."]],
+  ["There are [n] reasons: [列挙].", ["There are two reasons: timing and capacity.", "Why? Two reasons. Neither is about cost."]]
+ ],
+ "k": [
+  "the reason for / why / behind で前置詞が変わる。",
+  "数を先に言うと、割り込まれても構造が残る。",
+  "数を宣言したら、その数だけ話す。"
+ ]
+},
+"The main driver is the change in customer mix.": {
+ "t": "主な要因は顧客構成の変化です。",
+ "tn": "driver は外資で最も頻出する名詞のひとつです。原因を1つに絞ると、議論が締まります。",
+ "s": [
+  ["The main driver", "主語。the main が「最も大きい1つ」を特定しています。"],
+  ["is the change in customer mix", "補語。a change in A で「Aの中身の変化」。"]
+ ],
+ "sn": "change in と change to の違いが要点です。change in customer mix は「顧客構成そのものが変化した」、change to the policy は「方針への変更を加えた」。方向が違います。",
+ "v": [
+  ["driver", "動かすもの。結果を押し動かしている要因です。cost driver、value driver、the key driver。"],
+  ["change in ~", "in が「その中身が変わる」ことを示します。a change in the market（市場の変化）。"],
+  ["mix", "構成。customer mix（顧客構成）、product mix（製品構成）、a mix effect（構成変化による見かけの変動）。"]
+ ],
+ "n": [
+  ["driver", "結果を押し動かす要因。最も一般的。"],
+  ["cause", "原因。因果関係を主張します。"],
+  ["factor", "要素。複数ある要因の1つです。"],
+  ["contributor", "寄与要因。原因の一部であることを示します。"]
+ ],
+ "nn": "driver は「大きく動かしているもの」、factor は「関係している要素の1つ」。driver と言うと、それが主因だという主張が入ります。",
+ "e": [
+  ["The main driver is the change in customer mix — we won more small accounts and fewer large ones.", "主な要因は顧客構成の変化です。小口の獲得が増え、大口が減りました。"],
+  ["The main driver of the cost increase is headcount, not salary levels.", "費用増加の主な要因は、給与水準ではなく人員数です。"]
+ ],
+ "p": [
+  ["The main driver is [要因].", ["The main driver is the shift to remote work.", "The main driver is the new approval step."]],
+  ["The main driver is [A], not [B].", ["The main driver is volume, not price.", "The main driver is turnover, not recruitment."]]
+ ],
+ "k": [
+  "change in（中身の変化）と change to（〜への変更）を区別する。",
+  "driver は「主因」の主張を含む。factor は要素の1つ。",
+  "mix effect は構成変化による見かけの変動。分析で頻出。"
+ ]
+},
+"The reason I'm raising this now is timing.": {
+ "t": "今この話をしているのは、時期の問題があるからです。",
+ "tn": "唐突な話題に理由をつける型です。割り込みと組み合わせると自然になります。",
+ "s": [
+  ["The reason I'm raising this now", "主語。The reason (that) I'm raising this now の関係代名詞が省略されています。"],
+  ["is timing", "補語。名詞1語で簡潔に言い切っています。"]
+ ],
+ "sn": "The reason ... is ... の構文は、理由を文の主語に置く形です。The reason is because ... とする言い方は冗長とされることが多いので、The reason is that ... か、ここのように名詞で受けるのが安全です。",
+ "v": [
+  ["raise", "論点を場に持ち上げる。"],
+  ["now", "いま。なぜこの時点でという説明につながります。"],
+  ["timing", "時期の問題。"]
+ ],
+ "n": [
+  ["The reason I'm raising this now is ...", "いま話す理由を示す。唐突さが消えます。"],
+  ["I'm raising this now because ...", "同じ内容をより口語的に言う形です。"],
+  ["This is time-sensitive because ...", "時間的制約を明示します。"],
+  ["Sorry to bring this up now, but ...", "謝罪から入る形です。"]
+ ],
+ "e": [
+  ["The reason I'm raising this now is timing — the budget closes on Friday, and after that we cannot move the line.", "今この話をしているのは時期の問題です。予算が金曜に締まり、その後は項目を動かせません。"],
+  ["The reason I'm raising this now is that the vendor contract auto-renews next month.", "今この話をしているのは、ベンダー契約が来月自動更新されるからです。"]
+ ],
+ "p": [
+  ["The reason I'm raising this now is [理由].", ["The reason I'm raising this now is the deadline.", "The reason I'm raising this now is that it affects the hiring plan."]],
+  ["I'm raising this now because [理由]. [何が起きるか].", ["I'm raising this now because the window closes Friday.", "This is time-sensitive: after the announcement, we cannot change the structure."]]
+ ],
+ "k": [
+  "The reason ... is because ... は冗長。is that ... か名詞で受ける。",
+  "いま話す理由を添えると、唐突さが消える。",
+  "時間的制約がある場合は、何がいつ締まるかまで言う。"
+ ]
+},
+"It comes down to one thing: capacity.": {
+ "t": "突き詰めると1点、供給能力の問題です。",
+ "tn": "議論が複雑化したときに単純化する型です。強い分だけ、根拠が必要になります。",
+ "s": [
+  ["It comes down to one thing:", "come down to A で「結局Aに行き着く」。"],
+  ["capacity", "コロンの後に名詞1語。最も短い言い切りです。"]
+ ],
+ "v": [
+  ["come down to ~", "結局〜に行き着く。boil down to も同義です。"],
+  ["one thing", "1点。複雑な議論を1つに還元することを示します。"],
+  ["capacity", "処理能力・容量。人や設備がさばける量です。"]
+ ],
+ "n": [
+  ["It comes down to one thing.", "1点に還元する。最も強い単純化。"],
+  ["There are really only two variables here.", "実質2つの変数しかない。やや穏やかです。"],
+  ["Everything else follows from this.", "他はすべてここから導かれる。構造を示します。"],
+  ["I'm oversimplifying, but ...", "単純化しすぎだが。断りを入れる形です。"]
+ ],
+ "nn": "I'm oversimplifying, but ... と断ってから単純化すると、議論を切り捨てた印象が和らぎます。強い言い切りには、この一言が効きます。",
+ "e": [
+  ["It comes down to one thing: capacity. We have the skills and the budget; we do not have the hours.", "突き詰めると1点、処理能力の問題です。技能も予算もありますが、時間がありません。"],
+  ["It comes down to one thing: whether the data is comparable. Everything else follows from that.", "突き詰めると1点、データが比較可能かどうかです。他はすべてそこから導かれます。"]
+ ],
+ "p": [
+  ["It comes down to one thing: [要因].", ["It comes down to one thing: ownership.", "It comes down to one question: who decides."]],
+  ["It comes down to [要因]. [補足].", ["It comes down to capacity. Everything else follows from that.", "I'm oversimplifying, but it comes down to trust."]]
+ ],
+ "k": [
+  "come down to / boil down to は「結局〜に行き着く」。",
+  "1点への還元は強い主張。根拠を用意する。",
+  "I'm oversimplifying, but ... と断ると角が立たない。"
+ ]
+},
+"Historically, this market has moved in three-year cycles.": {
+ "t": "歴史的に、この市場は3年周期で動いてきました。",
+ "tn": "背景情報で議論の土台を作る型です。長くなりすぎないよう1文で収めます。",
+ "s": [
+  ["Historically,", "文修飾の副詞。「これまでの経緯を見れば」。"],
+  ["this market has moved", "現在完了形。過去から現在まで続く傾向を表します。"],
+  ["in three-year cycles", "in が様態を示します。three-year がハイフンでつながれた形容詞です。"]
+ ],
+ "sn": "現在完了形が「過去から現在まで続いている」ことを示します。過去形 moved にすると、いまは違うという含みが出てしまいます。",
+ "v": [
+  ["historically", "歴史的に・これまでの経緯では。traditionally（従来は）とほぼ同義ですが、historically の方がデータに基づく響きがあります。"],
+  ["cycle", "周期。a three-year cycle、a business cycle、cyclical（周期的な）。"],
+  ["in ~ cycles", "in が様態を示します。move in cycles（周期的に動く）。"]
+ ],
+ "n": [
+  ["Historically, ...", "これまでの経緯では。データに基づく響き。"],
+  ["Traditionally, ...", "従来は。慣行の話になります。"],
+  ["Over the last decade, ...", "過去10年で。期間を明示します。"],
+  ["In the past, ...", "かつては。いまは違うという含みが出ます。"]
+ ],
+ "nn": "In the past, ... は「いまは違う」という含みを持つことがあります。傾向が現在も続いているなら Historically の方が正確です。",
+ "e": [
+  ["Historically, this market has moved in three-year cycles, and we are at the end of the second year.", "歴史的に、この市場は3年周期で動いてきました。いまは2年目の終わりにあたります。"],
+  ["Historically, attrition in this function has run about five points above the company average.", "歴史的に、この職種の離職率は全社平均より約5ポイント高く推移してきました。"]
+ ],
+ "p": [
+  ["Historically, [主語] has [傾向].", ["Historically, this client has decided in the last week of the quarter.", "Historically, adoption has taken two quarters, not one."]],
+  ["Historically, [傾向]. [今回の違い].", ["Historically, we have won on price. This time the decision is on capability.", "Over the last decade, the pattern has held. The last two years are the exception."]]
+ ],
+ "k": [
+  "現在完了形で「過去から現在まで続く傾向」を表す。",
+  "In the past は「いまは違う」含みが出ることがある。",
+  "背景は1文で収める。長いと本題が遠のく。"
+ ]
+},
+"The logic is simple: fewer steps, fewer drop-offs.": {
+ "t": "論理は単純です。手順が減れば離脱も減ります。",
+ "tn": "因果を短い並列で言うと記憶に残ります。プレゼンの締めにも使えます。",
+ "s": [
+  ["The logic is simple:", "S + be + C。コロンで中身につなぎます。"],
+  ["fewer steps, fewer drop-offs", "比較級を2つ並べた省略形。The fewer steps there are, the fewer drop-offs there are. を極限まで縮めた形です。"]
+ ],
+ "sn": "the + 比較級, the + 比較級（〜すればするほど…）の構文を、the も動詞も省いて名詞句だけにした形です。標語のように短く、記憶に残ります。",
+ "v": [
+  ["fewer", "可算名詞に使う比較級。不可算には less を使います。"],
+  ["drop-off", "離脱。途中で抜けていく割合です。"],
+  ["step", "手順。a process step、an approval step。"]
+ ],
+ "n": [
+  ["fewer steps, fewer drop-offs", "極限まで縮めた因果。標語的です。"],
+  ["The fewer the steps, the fewer the drop-offs.", "正式な形。やや長くなります。"],
+  ["Fewer steps mean fewer drop-offs.", "文にした形。最も説明的です。"],
+  ["Every extra step costs us applicants.", "具体的な言い換え。影響が伝わります。"]
+ ],
+ "e": [
+  ["The logic is simple: fewer steps, fewer drop-offs. We cut the application from nine screens to four.", "論理は単純です。手順が減れば離脱も減ります。応募画面を9から4に減らしました。"],
+  ["The logic is simple: fewer approvers, faster decisions.", "論理は単純です。承認者が減れば判断も速くなります。"]
+ ],
+ "p": [
+  ["The logic is simple: [原因], [結果].", ["The logic is simple: clearer criteria, faster reviews.", "The logic is simple: fewer handoffs, fewer errors."]],
+  ["The fewer [A], the fewer [B].", ["The fewer the approvers, the faster the cycle.", "The more we measure, the less they experiment."]]
+ ],
+ "k": [
+  "the + 比較級, the + 比較級 を縮めると標語になる。",
+  "fewer は可算、less は不可算。",
+  "短い因果は記憶に残る。プレゼンの締めに使える。"
+ ]
+},
+"That's largely a legacy of how the team was set up.": {
+ "t": "それは主に、チームの立ち上がり方に由来するものです。",
+ "tn": "現状を批判せずに原因を説明する型です。人ではなく仕組みに帰属させられます。",
+ "s": [
+  ["That's largely a legacy of ~", "That is の短縮。largely が「主に」。a legacy of A で「Aの名残」。"],
+  ["how the team was set up", "疑問詞 how が導く名詞節。受動態で「どう立ち上げられたか」。"]
+ ],
+ "sn": "受動態が効いています。how the team was set up とすることで、誰が立ち上げたかに触れずに済みます。人ではなく経緯に原因を置く形です。",
+ "v": [
+  ["legacy", "遺産・名残。過去から引き継がれ、いまも残っているもの。legacy system（旧来のシステム）も同じ用法です。批判ではなく事実の記述として使えます。"],
+  ["largely", "主に。mostly とほぼ同義で、largely の方がややかたい語です。"],
+  ["set up", "立ち上げる。set up a team / set up a process。"]
+ ],
+ "n": [
+  ["a legacy of ~", "過去から引き継がれた名残。中立です。"],
+  ["a consequence of ~", "〜の帰結。因果を明示します。"],
+  ["an artifact of ~", "〜の副産物。意図しない結果という含みです。"],
+  ["a design choice", "設計上の選択。意図的だったことを示します。"]
+ ],
+ "nn": "a legacy は「過去からの名残」で中立、a design choice は「意図して選んだ」。どちらかによって、変えるべきかどうかの判断が変わります。",
+ "e": [
+  ["That's largely a legacy of how the team was set up — it reported into finance for the first three years.", "それは主にチームの立ち上がり方に由来します。最初の3年は財務部門の配下にありました。"],
+  ["The duplicated reporting is a legacy of the merger, not a deliberate design.", "報告の重複は合併の名残であって、意図的な設計ではありません。"]
+ ],
+ "p": [
+  ["That's largely a legacy of [経緯].", ["That's largely a legacy of the old operating model.", "That's a legacy of how the system was first configured."]],
+  ["That's a [legacy / artifact] of [経緯], not [意図].", ["That's an artifact of the data migration, not a real change.", "That's a legacy of the merger, not a deliberate choice."]]
+ ],
+ "k": [
+  "legacy は「過去からの名残」。批判ではなく事実の記述として使える。",
+  "受動態（how it was set up）で、人に触れずに経緯を語れる。",
+  "legacy（名残）か design choice（意図）かで、対応が変わる。"
+ ]
+},
+"Let me explain how we got to that number.": {
+ "t": "その数字の算出方法を説明します。",
+ "tn": "数字を疑われたときの最初の一手です。手法を先に出すと、信頼が戻ります。",
+ "s": [
+  ["Let me explain", "Let + me + 原形 explain。"],
+  ["how we got to that number", "疑問詞 how が導く名詞節。間接疑問なので平叙文の語順です。"]
+ ],
+ "v": [
+  ["get to ~", "〜に至る。到達点を示します。how we got to that number で「どうやってその数字に行き着いたか」。"],
+  ["explain", "他動詞。explain about とは言いません。"],
+  ["number", "数値。"]
+ ],
+ "n": [
+  ["how we got to that number", "算出の経緯。最も具体的。"],
+  ["where that number comes from", "数字の出どころ。出典に焦点があります。"],
+  ["the methodology behind it", "背後の方法論。より体系的です。"],
+  ["the assumptions behind it", "背後の前提。何を置いたかに焦点があります。"]
+ ],
+ "nn": "数字への疑問は、出典（where it comes from）、算出方法（how we got to it）、前提（the assumptions）のどれかに起因します。どれを聞かれているかを見極めると、答えが的確になります。",
+ "e": [
+  ["Let me explain how we got to that number — it is the three-year average, adjusted for the two acquisitions.", "その数字の算出方法を説明します。3年平均に、2件の買収分を調整したものです。"],
+  ["Let me explain how we got to the 18% before we debate whether it is high.", "高いかどうかを議論する前に、18%の算出方法を説明します。"]
+ ],
+ "p": [
+  ["Let me explain how we got to [対象].", ["Let me explain how we got to that estimate.", "Let me explain how we arrived at the ranking."]],
+  ["Let me explain [何を]: [出典 / 方法 / 前提].", ["Let me explain the assumptions behind it: three of them drive 90% of the result.", "Let me show you where that comes from — it is the payroll file, not the HR system."]]
+ ],
+ "k": [
+  "間接疑問は平叙文の語順（how we got to）。",
+  "explain は他動詞。explain about とは言わない。",
+  "出典・算出方法・前提のどれを聞かれているかを見極める。"
+ ]
+},
+"It's less about cost and more about capacity.": {
+ "t": "コストというより供給能力の問題です。",
+ "tn": "論点をずらして本質を示す型です。相手の枠組みを壊さずに修正できます。",
+ "s": [
+  ["It's less about cost", "It is の短縮。less about A で「Aについての話ではあまりなく」。"],
+  ["and more about capacity", "and で並列。more about B で「むしろBについて」。"]
+ ],
+ "sn": "less ... and more ... の対比構文です。A を全否定せず「A の要素もあるが主はB」という含みが出るため、相手の論点を尊重しながら修正できます。",
+ "v": [
+  ["less about ~", "〜についての話ではあまりない。全否定ではありません。"],
+  ["more about ~", "むしろ〜についての話である。"],
+  ["capacity", "処理能力・容量。"]
+ ],
+ "n": [
+  ["It's less about A and more about B.", "Aを残しつつBを主とする。やわらかい修正。"],
+  ["It's not about A, it's about B.", "Aを否定する。より強い言い方です。"],
+  ["A matters, but B matters more.", "程度の差として示す。最も穏やかです。"],
+  ["Both, but B is the binding constraint.", "両方だが、Bが効いている。分析的です。"]
+ ],
+ "nn": "It's not about A, it's about B. は相手の論点を否定します。It's less about A and more about B. なら、相手の視点も残したまま重心を移せます。",
+ "e": [
+  ["It's less about cost and more about capacity — we could afford the headcount, but we cannot onboard that many people in one quarter.", "コストというより処理能力の問題です。人件費は賄えますが、1四半期にそれだけの人数を受け入れられません。"],
+  ["It's less about the tool and more about who owns the process.", "ツールというより、誰が業務を担うかの問題です。"]
+ ],
+ "p": [
+  ["It's less about [A] and more about [B].", ["It's less about speed and more about sequencing.", "It's less about the data and more about the definitions."]],
+  ["[A] matters, but [B] is [評価]. [根拠].", ["Cost matters, but capacity is the binding constraint. We are at 100% utilization.", "Both are real, but the second one is what stops us."]]
+ ],
+ "k": [
+  "less about A and more about B は、Aを残したまま重心を移せる。",
+  "not A, it's B はより強い否定。相手を守りに回らせることがある。",
+  "binding constraint は「実際に効いている制約」。"
+ ]
+},
+"Three things happened at once.": {
+ "t": "3つのことが同時に起きました。",
+ "tn": "複合要因を整理して説明する型です。原因を1つに決めつけない誠実さが伝わります。",
+ "s": [
+  ["Three things happened", "過去形。happen は自動詞です。"],
+  ["at once", "同時に。at the same time とほぼ同義で、at once の方が簡潔です。"]
+ ],
+ "v": [
+  ["happen", "起こる。自動詞なので受動態になりません（it was happened とは言いません）。"],
+  ["at once", "同時に。「すぐに」の意味もあるので、文脈で判断します。"],
+  ["three things", "数を明示。構造を示します。"]
+ ],
+ "n": [
+  ["Three things happened at once.", "複合要因を示す。決めつけません。"],
+  ["It was a combination of factors.", "複数要因の組み合わせ。より抽象的です。"],
+  ["No single cause explains it.", "単一原因では説明できない。断定的です。"],
+  ["The main driver was X.", "主因を1つに絞る。逆の立て方です。"]
+ ],
+ "nn": "複合要因として説明するのは誠実ですが、打ち手を決める段階では主因を1つ選ぶ必要が出ます。説明と意思決定で、使い分けが必要です。",
+ "e": [
+  ["Three things happened at once: two senior people left, the new system went live, and the busy season started.", "3つのことが同時に起きました。中核2名の退職、新システムの稼働、繁忙期の開始です。"],
+  ["Three things happened at once, and we have only been able to measure two of them.", "3つのことが同時に起き、測定できているのはそのうち2つだけです。"]
+ ],
+ "p": [
+  ["[N] things happened at once.", ["Two things happened at once.", "Four things changed in the same quarter."]],
+  ["[N] things happened at once: [列挙]. [どれが大きいか].", ["Three things happened at once. The system change was the largest.", "Two things coincided, and we cannot yet separate their effects."]]
+ ],
+ "k": [
+  "happen は自動詞。受動態にならない。",
+  "複合要因として説明するのは誠実。ただし打ち手には主因が要る。",
+  "at once は「同時に」と「すぐに」の両方の意味がある。"
+ ]
+},
+"The root cause sits two steps upstream.": {
+ "t": "根本原因は2工程上流にあります。",
+ "tn": "対症療法を止める型です。原因の位置を具体的に示すのが要点になります。",
+ "s": [
+  ["The root cause sits", "sit が自動詞で「位置する」。be located より口語的です。"],
+  ["two steps upstream", "位置を示す副詞句。upstream が「上流に」。"]
+ ],
+ "v": [
+  ["root cause", "根本原因。表面の症状をさかのぼった先にある原因です。root cause analysis（根本原因分析）。"],
+  ["sit", "ここでは「位置する・ある」。The issue sits with HR.（その件は人事の所管だ）も同じ用法です。"],
+  ["upstream", "上流に。工程の前段階を指します。対は downstream（下流）。"]
+ ],
+ "n": [
+  ["the root cause", "根本原因。さかのぼった先の原因。"],
+  ["the proximate cause", "直接原因。すぐ手前にある原因です。"],
+  ["the trigger", "引き金。発生のきっかけです。"],
+  ["a contributing factor", "寄与要因。原因の一部です。"]
+ ],
+ "nn": "root cause（根本原因）と trigger（引き金）は違います。同じ根本原因があっても、引き金がなければ問題は顕在化しません。両方を分けて考えると、対策の選択肢が増えます。",
+ "e": [
+  ["The root cause sits two steps upstream — the data is entered incorrectly at intake, and every downstream report inherits the error.", "根本原因は2工程上流にあります。受付の時点で誤って入力され、下流のすべての帳票が誤りを引き継ぎます。"],
+  ["The root cause sits with how targets are set, not with how the team executes.", "根本原因は実行の仕方ではなく、目標の設定方法にあります。"]
+ ],
+ "p": [
+  ["The root cause sits [場所].", ["The root cause sits in the intake process.", "The root cause sits with the incentive design."]],
+  ["The [trigger] was [きっかけ]; the [root cause] is [構造].", ["The trigger was the system change; the root cause is the undocumented process.", "The proximate cause was the delay; the root cause is that nobody owns the handover."]]
+ ],
+ "k": [
+  "sit は「位置する・所管である」の意味でも使う。",
+  "upstream / downstream は工程の前後を指す。",
+  "root cause（構造）と trigger（きっかけ）を分けると対策が広がる。"
+ ]
+},
+"We only noticed it because of the new report.": {
+ "t": "新しいレポートがあったからこそ気づけました。",
+ "tn": "問題がこれまで見えなかった理由を説明する型です。組織を責めずに済みます。",
+ "s": [
+  ["We only noticed it", "only が noticed を限定し、「〜でなければ気づかなかった」という含みを作ります。"],
+  ["because of the new report", "because of + 名詞。because + 文 とは形が違います。"]
+ ],
+ "sn": "because of と because の使い分けが要点です。because of の後ろは名詞句、because の後ろは主語 + 動詞の文です。",
+ "v": [
+  ["because of ~", "〜のために。後ろは名詞句です。"],
+  ["notice", "気づく。無意識に目に入ることを指し、realize（理解する）とは段階が違います。"],
+  ["only", "〜だけ。ここでは「それがあったからこそ」という限定です。"]
+ ],
+ "n": [
+  ["We only noticed it because of ...", "気づけた理由を示す。責めません。"],
+  ["It was not visible before.", "以前は見えなかった。事実の記述です。"],
+  ["We had no way of knowing.", "知りようがなかった。より強い弁護です。"],
+  ["This should have been caught earlier.", "もっと早く気づくべきだった。自己批判です。"]
+ ],
+ "nn": "We had no way of knowing. は強い弁護ですが、実際に知る手段があった場合に使うと信頼を損ないます。事実に即した言い方を選びます。",
+ "e": [
+  ["We only noticed it because of the new report — the old format aggregated the two categories together.", "新しいレポートがあったからこそ気づけました。旧形式では2つの区分が合算されていました。"],
+  ["We only noticed it because one manager flagged it. It was not visible in any system.", "ある管理職が指摘したからこそ気づけました。どのシステムにも表示されていませんでした。"]
+ ],
+ "p": [
+  ["We only noticed it because of [きっかけ].", ["We only noticed it because of the audit.", "We only noticed it because one client asked."]],
+  ["We only noticed it because [文]. [なぜ見えなかったか].", ["We only noticed it because the new report splits by tenure. The old one did not.", "It was not visible before — the two systems used different definitions."]]
+ ],
+ "k": [
+  "because of + 名詞句 / because + 文。形が違う。",
+  "notice（気づく）と realize（理解する）は段階が違う。",
+  "見えなかった理由を示すと、組織を責めずに説明できる。"
+ ]
+},
+"The reason it hasn't been fixed is that no one owns it.": {
+ "t": "解決されてこなかった理由は、担当が不在だからです。",
+ "tn": "構造的な原因を指摘する型です。人ではなく仕組みに帰属させられます。",
+ "s": [
+  ["The reason it hasn't been fixed", "主語。現在完了の受動態で「これまで直されてこなかった」。"],
+  ["is that no one owns it", "補語となる that節。no one が主語で単数扱いです。"]
+ ],
+ "sn": "現在完了の受動態（has been + 過去分詞）が、「これまでずっと直されていない」という継続を表します。過去形 was not fixed だと、ある時点の話になります。",
+ "v": [
+  ["no one", "誰も〜ない。単数扱いで、動詞も単数形になります（no one owns）。"],
+  ["own", "責任を持つ。"],
+  ["fix", "直す。"]
+ ],
+ "n": [
+  ["no one owns it", "担当が不在。構造の問題です。"],
+  ["it falls between two teams", "2チームの間に落ちている。所管の隙間です。"],
+  ["everyone owns it", "全員が担当。実質的に誰も担当していない状態です。"],
+  ["it's nobody's priority", "誰の優先事項でもない。優先順位の問題です。"]
+ ],
+ "nn": "everyone owns it は、一見望ましく見えて実際には no one owns it と同じ結果になります。組織の議論でよく出てくる落とし穴です。",
+ "e": [
+  ["The reason it hasn't been fixed is that no one owns it — it falls between operations and IT.", "解決されてこなかった理由は担当が不在だからです。運用部門とIT部門の間に落ちています。"],
+  ["The reason the handover keeps failing is that it is nobody's priority, not that people do not care.", "引き継ぎが失敗し続ける理由は、関心がないからではなく、誰の優先事項でもないからです。"]
+ ],
+ "p": [
+  ["The reason [問題] hasn't been fixed is [原因].", ["The reason the report is late every month is that the source data arrives on the sixth.", "The reason adoption stalled is that nobody was accountable after go-live."]],
+  ["The reason is [構造的な原因], not [人の問題].", ["The reason is the process, not the people.", "The reason is that the incentive points the other way."]]
+ ],
+ "k": [
+  "現在完了の受動態で「これまでずっと〜されていない」を表す。",
+  "no one は単数扱い。動詞も単数形。",
+  "everyone owns it は実質 no one owns it と同じ結果になる。"
+ ]
+},
+"That's a symptom of how the targets are set.": {
+ "t": "それは目標設定の仕方から生じた症状です。",
+ "tn": "現場の行動をインセンティブ構造で説明する型です。批判には聞こえません。",
+ "s": [
+  ["That's a symptom of ~", "That is の短縮。a symptom of A で「Aの症状」。"],
+  ["how the targets are set", "疑問詞 how が導く名詞節。受動態で「どう設定されているか」。"]
+ ],
+ "sn": "受動態が効いています。how the targets are set とすることで、誰が設定したかに触れずに済みます。構造の話として扱えます。",
+ "v": [
+  ["symptom of ~", "〜の症状。of が「何に由来する症状か」を示します。"],
+  ["target", "目標。set a target（目標を設定する）、hit a target（目標を達成する）。"],
+  ["how ~ are set", "どう設定されているか。仕組みを指します。"]
+ ],
+ "n": [
+  ["a symptom of ~", "〜から生じた現象。構造に原因を置きます。"],
+  ["a rational response to ~", "〜への合理的な反応。行動を擁護します。"],
+  ["a predictable outcome of ~", "〜の予測可能な結果。設計の問題だと示します。"],
+  ["bad behavior", "悪い行動。人を責める言い方です。"]
+ ],
+ "nn": "a rational response to the incentives は、現場の行動を「与えられた条件下では合理的だった」と説明する言い方です。構造を変えるべきだという主張につながります。",
+ "e": [
+  ["That's a symptom of how the targets are set — if we reward volume, people will optimize for volume.", "それは目標設定の仕方から生じた症状です。数量を評価すれば、人は数量を最適化します。"],
+  ["The gaming of the metric is a rational response to the incentive, not bad behavior.", "指標の操作は不適切な行動ではなく、与えられた評価設計への合理的な反応です。"]
+ ],
+ "p": [
+  ["That's a symptom of [構造].", ["That's a symptom of how the budget is allocated.", "That's a symptom of the approval design."]],
+  ["That's a [rational response / predictable outcome] of [構造], not [人の問題].", ["That's a rational response to the incentive, not a lack of discipline.", "That's a predictable outcome of the design, not an execution failure."]]
+ ],
+ "k": [
+  "受動態（how they are set）で、人に触れずに構造を語れる。",
+  "a rational response to ~ は、現場の行動を擁護しつつ構造を指摘できる。",
+  "症状として説明すると、批判に聞こえない。"
+ ]
+},
+"Two of the three factors are outside our control.": {
+ "t": "3要因のうち2つは我々の管理外です。",
+ "tn": "打ち手の対象を絞る型です。無力感ではなく集中を促す言い方になります。",
+ "s": [
+  ["Two of the three factors", "主語。of が全体と部分の関係を示します。動詞は of の後ろではなく Two に合わせて複数形 are です。"],
+  ["are outside our control", "補語。outside が「〜の範囲の外」。"]
+ ],
+ "sn": "「数詞 + of the + 名詞」の主語は、前の数詞に動詞を合わせます（Two of the three are ...）。分数の場合（Two-thirds of the staff）は of の後ろの名詞に合わせるため、扱いが異なります。",
+ "v": [
+  ["outside our control", "我々の管理外。within our control（管理内）と対です。beyond our control も同義です。"],
+  ["factor", "要素・要因。"],
+  ["two of the three", "3つのうち2つ。残りが1つであることが明確になります。"]
+ ],
+ "n": [
+  ["outside our control", "管理外。手が出せないこと。"],
+  ["within our control", "管理内。打ち手がある範囲です。"],
+  ["within our influence", "影響は及ぼせる。管理はできないが働きかけられます。"],
+  ["a given", "所与の条件。変えられない前提として扱います。"]
+ ],
+ "nn": "control（管理できる）と influence（影響を及ぼせる）の中間を意識すると、打ち手の幅が広がります。管理できないが影響は及ぼせる、という領域は実務では大きいものです。",
+ "e": [
+  ["Two of the three factors are outside our control — the exchange rate and the regulation. The third, our pricing, is not.", "3要因のうち2つは管理外です。為替と規制です。3つ目の自社の価格設定は管理できます。"],
+  ["Two of the four drivers are outside our control, so I'd focus the plan on the other two.", "4つの要因のうち2つは管理外なので、計画は残る2つに集中させるべきです。"]
+ ],
+ "p": [
+  ["[N] of the [n] factors are outside our control.", ["One of the four drivers is outside our control.", "Most of the variance is outside our control."]],
+  ["[管理外のもの] is a given. [管理内のもの] is where we can act.", ["The regulation is a given. The process design is where we can act.", "We cannot change demand. We can change how fast we respond to it."]]
+ ],
+ "k": [
+  "「数詞 + of the + 名詞」の主語は、数詞に動詞を合わせる。",
+  "control（管理）/ influence（影響）/ given（所与）で整理すると打ち手が見える。",
+  "管理外を示すのは、無力感ではなく集中のため。"
+ ]
+},
+"It goes back to a decision made in 2023.": {
+ "t": "元をたどると2023年の判断に行き着きます。",
+ "tn": "経緯を説明する型です。過去の判断を責めない口調で言うのが重要です。",
+ "s": [
+  ["It goes back to ~", "go back to A で「Aにさかのぼる」。"],
+  ["a decision made in 2023", "a decision を過去分詞 made が後ろから修飾しています（a decision that was made の関係代名詞 + be動詞が省略された形）。"]
+ ],
+ "sn": "過去分詞の後置修飾が要点です。a decision made in 2023 は a decision that was made in 2023 と同じ意味で、より簡潔です。受動の意味を持つため、誰が決めたかには触れません。",
+ "v": [
+  ["go back to ~", "さかのぼる。起源をたどること。It goes back to ... は経緯の説明に使う定型です。"],
+  ["a decision made ~", "下された判断。受動の後置修飾。"],
+  ["in 2023", "年号には in を使います。"]
+ ],
+ "n": [
+  ["It goes back to ...", "さかのぼる。経緯の説明。"],
+  ["It stems from ...", "〜に由来する。ややかたい言い方です。"],
+  ["It originates in ...", "〜に起源がある。最も形式的です。"],
+  ["This started when ...", "〜のときに始まった。時点を明示します。"]
+ ],
+ "e": [
+  ["It goes back to a decision made in 2023 to keep the two systems separate until the merger completed.", "元をたどると、合併完了まで2つのシステムを分けておくという2023年の判断に行き着きます。"],
+  ["It goes back to how the entity was structured at the time, which made sense then.", "元をたどると当時の法人構成に行き着きます。当時としては合理的な判断でした。"]
+ ],
+ "p": [
+  ["It goes back to [起源].", ["It goes back to the original contract.", "It goes back to how the team was first staffed."]],
+  ["It goes back to [起源], which [当時の合理性].", ["It goes back to a 2023 decision, which was reasonable given what was known then.", "It stems from the merger, not from anything the current team did."]]
+ ],
+ "k": [
+  "過去分詞の後置修飾（a decision made in 2023）。",
+  "受動の形にすると、誰が決めたかに触れずに済む。",
+  "当時の合理性に触れると、過去の判断を責めない説明になる。"
+ ]
+},
+"The short version is that the process was never updated.": {
+ "t": "簡単に言えば、業務手順が更新されないままだったということです。",
+ "tn": "長い経緯を1文に圧縮する型です。時間のない会議で使います。",
+ "s": [
+  ["The short version is", "S + be。the short version で「短く言えば」。"],
+  ["that the process was never updated", "補語となる that節。受動態 + never で「一度も更新されなかった」。"]
+ ],
+ "sn": "never の位置に注意します。be動詞の後、過去分詞の前に置きます（was never updated）。never was updated とは語順が変わり、強調の響きになります。",
+ "v": [
+  ["the short version", "短縮版。the long version と対です。"],
+  ["never", "一度も〜ない。not より強い否定です。"],
+  ["update", "更新する。"]
+ ],
+ "n": [
+  ["The short version is ...", "長い経緯を圧縮する。会議向き。"],
+  ["In short, ...", "手短に言えば。より一般的です。"],
+  ["The potted history is ...", "かいつまんだ経緯。英国的な口語表現です。"],
+  ["I'll spare you the detail, but ...", "詳細は省くが。配慮を示します。"]
+ ],
+ "e": [
+  ["The short version is that the process was never updated after the reorganization, and nobody noticed because the volumes were small.", "簡単に言えば、組織再編後に業務手順が更新されず、件数が少なかったため誰も気づかなかったということです。"],
+  ["The short version is that we inherited two systems and never merged them.", "簡単に言えば、2つのシステムを引き継いだまま統合しなかったということです。"]
+ ],
+ "p": [
+  ["The short version is that [経緯の要約].", ["The short version is that the data was never reconciled.", "The short version is that the owner left and nobody picked it up."]],
+  ["[短縮の宣言]: [要約]. [詳細の扱い].", ["In short: two systems, one definition, no reconciliation. The detail is in the appendix.", "I'll spare you the detail, but the upshot is that the baseline is wrong."]]
+ ],
+ "k": [
+  "never は be動詞の後、過去分詞の前（was never updated）。",
+  "the short version / the long version は対の表現。",
+  "詳細をどこで見られるかを添えると、圧縮しても不親切にならない。"
+ ]
+},
+"I'd separate the cause from the trigger.": {
+ "t": "原因と引き金は分けて考えるべきです。",
+ "tn": "因果の議論を精緻にする型です。犯人探しを止める効果もあります。",
+ "s": [
+  ["I'd separate A from B", "separate A from B で「AをBから分ける」。前置詞は from です。"],
+  ["the cause / the trigger", "どちらも定冠詞つきで、この件の特定の原因と引き金を指しています。"]
+ ],
+ "v": [
+  ["cause", "原因。結果を生み出す構造的な要因です。"],
+  ["trigger", "引き金。発生のきっかけ。原因が潜在していても、引き金がなければ顕在化しません。"],
+  ["separate A from B", "分ける。from が「〜から引き離す」。"]
+ ],
+ "n": [
+  ["cause", "構造的な原因。取り除けば再発しません。"],
+  ["trigger", "きっかけ。これがなければ今回は起きませんでした。"],
+  ["contributing factor", "寄与要因。原因の一部です。"],
+  ["coincidence", "偶然の一致。因果関係がありません。"]
+ ],
+ "nn": "cause と trigger を分けると、対策が2種類に分かれます。原因を取り除く対策と、引き金を防ぐ対策です。前者は根本的ですが時間がかかり、後者は即効性がありますが再発します。",
+ "e": [
+  ["I'd separate the cause from the trigger — the cause is that the process was undocumented; the trigger was the departure of the one person who knew it.", "原因と引き金は分けるべきです。原因は手順が文書化されていなかったこと、引き金は唯一それを知る人の退職です。"],
+  ["I'd separate the cause from the trigger before we assign responsibility.", "責任の所在を決める前に、原因と引き金を分けるべきです。"]
+ ],
+ "p": [
+  ["I'd separate [the cause] from [the trigger].", ["I'd separate the symptom from the cause.", "I'd separate correlation from causation here."]],
+  ["The cause is [構造]; the trigger was [きっかけ]. [対策の分かれ方].", ["The cause is the single point of failure; the trigger was the server outage.", "The cause is unclear ownership; the trigger was the reorganization."]]
+ ],
+ "k": [
+  "separate A from B。前置詞は from。",
+  "cause（構造）と trigger（きっかけ）で対策が変わる。",
+  "分けて考えると、犯人探しにならない。"
+ ]
+}
+}

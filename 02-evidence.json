@@ -1,0 +1,633 @@
+{
+"The data shows a 12% drop over the last two quarters.": {
+ "t": "データでは直近2四半期で12%の減少が出ています。",
+ "tn": "数字を述べるときの基本形です。「何が・どれだけ・いつ」の3点が揃っているので、聞き返されません。",
+ "s": [
+  ["The data shows ~", "S + V + O。data は集合的に扱って単数の shows を取るのが実務上の標準です（学術の文脈では複数扱いの show も使われます）。"],
+  ["a 12% drop", "不定冠詞 + 数値 + 名詞。drop を名詞として使い、「1回の下落」として数えています。"],
+  ["over the last two quarters", "over が期間全体にまたがることを示します。in the last two quarters だと「その期間内のどこかで」に近くなります。"]
+ ],
+ "sn": "期間を表す前置詞が要点です。over は「〜の間ずっと」、in は「〜の中で」、during は「〜の最中に」。推移を語るときは over が自然です。",
+ "v": [
+  ["drop", "名詞で「下落」、動詞で「下がる」。decline よりくだけていて口頭向き。a sharp drop / a slight drop と形容詞で程度を足せます。"],
+  ["over ~", "コアイメージは「上をまたいで越える」。時間に使うと期間全体をまたぐことになり、「〜にわたって」の意味になります。"],
+  ["the last two quarters", "the last は「直近の」。past two quarters もほぼ同義です。last quarter（単数・無冠詞）は「前四半期」1つを指すので別物です。"]
+ ],
+ "n": [
+  ["drop", "下落。口頭で最も使いやすく、幅広い場面に合います。"],
+  ["decline", "減少。やや硬く、レポートや推移の説明に向きます。"],
+  ["dip", "一時的な落ち込み。戻る前提の含みがあります。"],
+  ["fall", "下がる。drop とほぼ交換できますが、drop の方が急な印象になります。"]
+ ],
+ "e": [
+  ["The data shows a 12% drop in voluntary attrition over the last two quarters.", "データでは自発的離職が直近2四半期で12%減少しています。"],
+  ["The data shows a 3-point drop in engagement over the last twelve months.", "データではエンゲージメントが直近12か月で3ポイント低下しています。"]
+ ],
+ "p": [
+  ["The data shows [a 12% drop] over [the last two quarters].", ["The data shows a 20% increase over the last year.", "The data shows no change over the last six months."]],
+  ["[The data / The survey / The model] shows [発見].", ["The survey shows that managers are the main driver.", "The model shows a breakeven point in year three."]]
+ ],
+ "k": [
+  "数字は「何が・どれだけ・いつ」の3点で言う。期間を落とさない。",
+  "推移の期間は over（over the last two quarters）。",
+  "data は会議では単数扱いの shows が標準。"
+ ]
+},
+"If you look at slide 7, retention drops sharply after month three.": {
+ "t": "7ページをご覧ください。3か月目以降でリテンションが急落します。",
+ "tn": "相手の視線を先に誘導してから数字を言う型です。順序が逆だと、聞き手は資料を探している間に内容を聞き逃します。",
+ "s": [
+  ["If you look at slide 7,", "if節ですが仮定ではなく、ていねいな指示として働く定型です。現在形で、未来形にはしません。"],
+  ["retention drops sharply", "S + V + 副詞。現在形で「いつもそうなる」という一般的傾向を表します。"],
+  ["after month three", "after + 名詞。month three のように「名詞 + 数字」で順番を表す形は、資料や議事で多用されます（Q3, week two など）。"]
+ ],
+ "v": [
+  ["look at ~", "at は一点を指す前置詞。視線を一点に向けるので look at。see は「目に入る」、watch は「動くものを追う」で、資料を指すのは look at です。"],
+  ["sharply", "sharp（鋭い）の副詞形。グラフの線が鋭く折れるイメージで、急激な変化を表します。"],
+  ["retention", "定着・残存。人事では「社員の定着」、顧客では「継続率」。動詞は retain。反対は attrition（離職）、churn（解約）。"]
+ ],
+ "n": [
+  ["If you look at slide 7, ...", "ていねいな誘導。社外のプレゼンに向きます。"],
+  ["Turn to slide 7.", "直接的な指示。社内や講義調の場面で使われます。"],
+  ["On slide 7, you'll see ...", "次に見えるものを予告する形。"],
+  ["Slide 7 shows ...", "資料を主語にする最も簡潔な形。"]
+ ],
+ "nn": "どれも自然で、場の格式に応じて選びます。If you look at は相手の動作を待つ含みがあり、ページをめくる時間を作れます。",
+ "e": [
+  ["If you look at slide 7, retention drops sharply after the first promotion cycle.", "7ページをご覧ください。最初の昇進サイクル以降で定着率が急落します。"],
+  ["If you look at exhibit 3, the cost per hire doubles above band four.", "図表3をご覧ください。等級4より上では採用単価が倍になります。"]
+ ],
+ "p": [
+  ["If you look at [slide 7 / exhibit 3], [発見].", ["If you look at slide 12, the gap widens every year.", "If you look at the second chart, the two lines cross in Q3."]],
+  ["[If you look at / Turn to / On] [資料], [発見].", ["On slide 5, you'll see the three scenarios side by side.", "Turn to the appendix for the full breakdown."]]
+ ],
+ "k": [
+  "視線を誘導してから数字を言う。順序が逆だと聞き逃される。",
+  "資料を指すのは look at（at は一点を指す）。",
+  "month three / week two のような「名詞 + 数字」は資料で頻出。"
+ ]
+},
+"This is based on interviews with twelve customers.": {
+ "t": "これは12社の顧客インタビューに基づいています。",
+ "tn": "外資の会議では出典とサンプル数をほぼ必ず聞かれます。先に言えば主張の信頼度が上がり、質疑の時間を節約できます。",
+ "s": [
+  ["This is based on ~", "受動態。base A on B（AをBの上に置く）の受け身で、「これはBの上に立っている」。"],
+  ["interviews with twelve customers", "interview with A で「Aへの聞き取り」。前置詞は with（相手と向き合う）で、interview to とは言いません。"]
+ ],
+ "v": [
+  ["be based on ~", "base は「土台」。on が「その上に乗る」ことを示します。based in は所在地（based in Singapore）で意味が異なるため、混同に注意します。"],
+  ["interview with ~", "with は「相手と向かい合って」。調査対象を示すときは with を取ります。"],
+  ["twelve customers", "サンプル数は数字を綴り字で書いても算用数字でもかまいません。口頭では必ず数を言い切ります。"]
+ ],
+ "n": [
+  ["This is based on ...", "最も中立。出典を示す標準形。"],
+  ["This draws on ...", "複数の材料から引いてきた含み。やや硬い言い方です。"],
+  ["This comes from ...", "出どころを直接示す。くだけた言い方です。"],
+  ["The source is ...", "出典そのものを名指しする。注記や脚注に近い響きです。"]
+ ],
+ "e": [
+  ["This is based on interviews with twelve hiring managers across three business units.", "これは3事業部の採用責任者12名への聞き取りに基づいています。"],
+  ["This is based on the last two years of payroll data, not the survey.", "これは調査ではなく、直近2年の給与データに基づいています。"]
+ ],
+ "p": [
+  ["This is based on [出典・サンプル].", ["This is based on a sample of 240 employees.", "This is based on public filings, not internal data."]],
+  ["This is based on [出典]; the sample is [規模].", ["This is based on exit interviews; the sample is 38 leavers.", "This is based on the pilot; the sample is one region."]]
+ ],
+ "k": [
+  "be based on の on は「土台の上に乗る」。based in（所在地）と混同しない。",
+  "interview with ~。前置詞は with。",
+  "出典とサンプル数を先に言うと、質疑が減り信頼が上がる。"
+ ]
+},
+"Two numbers stand out here.": {
+ "t": "ここで目立つ数字が2つあります。",
+ "tn": "資料の数字を全部読み上げず、見るべき点を絞る言い方です。数を先に宣言すると聞き手が構えられます。",
+ "s": [
+  ["Two numbers", "主語。数詞が直接名詞に付き、冠詞は不要です。"],
+  ["stand out", "自動詞 + 副詞の句動詞。「他より前に出て目立つ」。目的語は取りません。"],
+  ["here", "副詞で「この資料・この場面で」。文末に置くと範囲を限定できます。"]
+ ],
+ "sn": "4語の短い文です。この後すぐ1つ目を述べる流れにします。間を空けると、聞き手は2つの数字を自分で探し始めてしまいます。",
+ "v": [
+  ["stand out", "stand（立つ）+ out（外へ）。列から一歩前に出ているイメージで「際立つ」。自動詞なので stand out A とは言えず、A stands out の語順になります。"],
+  ["number", "ここでは「数値」。figure もほぼ同義で、figure の方がやや硬い語感です。"],
+  ["here", "物理的な場所だけでなく、「いま見ているこの資料で」という範囲にも使えます。"]
+ ],
+ "n": [
+  ["Two numbers stand out here.", "数を宣言して絞る。最も使いやすい形。"],
+  ["Let me highlight two numbers.", "自分が強調するという主体的な言い方。"],
+  ["The key numbers are ...", "重要な数字を直接並べる。宣言の間がありません。"],
+  ["I want to draw your attention to ...", "ていねいで長め。社外のフォーマルな場に向きます。"]
+ ],
+ "e": [
+  ["Two numbers stand out here: the 40% first-year attrition and the 90-day time to productivity.", "目立つ数字は2つです。1年目の離職率40%と、戦力化までの90日です。"],
+  ["Three numbers stand out here, and all three point to onboarding.", "目立つ数字が3つあり、いずれも受け入れ体制を指しています。"]
+ ],
+ "p": [
+  ["[Two] numbers stand out here.", ["One number stands out here.", "Three numbers stand out in this table."]],
+  ["[Two] [numbers / findings / risks] stand out: [A] and [B].", ["Two findings stand out: the regional gap and the tenure effect.", "Two risks stand out: key-person dependency and data quality."]]
+ ],
+ "k": [
+  "stand out は自動詞句。目的語は取れない（A stands out の語順）。",
+  "数を先に宣言すると、聞き手が構造を追える。",
+  "宣言した直後に中身を言う。間を空けない。"
+ ]
+},
+"To put that in context, the industry average is around 5%.": {
+ "t": "比較のために言うと、業界平均は5%程度です。",
+ "tn": "単独の数字はそれだけでは意味を持ちません。ベンチマークと並べて初めて示唆になる、という型です。",
+ "s": [
+  ["To put that in context,", "目的を表す不定詞句の前置き。put A in context（Aを文脈の中に置く）が元の形です。"],
+  ["the industry average is around 5%", "S + be + C。around が概数であることを示します。"]
+ ],
+ "v": [
+  ["put ~ in context", "context は「前後のつながり」。数字を文脈の中に置き直す、つまり比較対象と並べることです。in が「枠の中に入れる」を示します。"],
+  ["around", "概数を示す副詞。about とほぼ同義で、roughly はやや粗い概算、approximately は硬めです。"],
+  ["industry average", "業界平均。benchmark（比較基準）、peer group（同等企業群）と並んで比較の文脈で頻出します。"]
+ ],
+ "n": [
+  ["To put that in context, ...", "比較対象を添える。最も使いやすい前置き。"],
+  ["For reference, ...", "参考までに。やや事務的な響きです。"],
+  ["By comparison, ...", "比べると。直接的な対比を示します。"],
+  ["To give you a sense of scale, ...", "規模感を伝える。大小を実感させたいときに向きます。"]
+ ],
+ "nn": "いずれも自然な表現です。To put that in context は「その数字をどう受け取るべきか」まで示唆するため、評価を伴う比較に向きます。",
+ "e": [
+  ["To put that in context, the industry average for voluntary attrition is around 12%.", "比較のために言うと、自発的離職の業界平均は12%程度です。"],
+  ["To put that in context, our cost per hire is twice the peer median.", "比較のために言うと、当社の採用単価は同業中央値の2倍です。"]
+ ],
+ "p": [
+  ["To put that in context, [比較基準].", ["To put that in context, we spent half that last year.", "To put that in context, the top quartile is above 85%."]],
+  ["[To put that in context / By comparison / For reference], [基準].", ["By comparison, the other two regions are flat.", "For reference, the budget assumed 8%."]]
+ ],
+ "k": [
+  "単独の数字は意味を持たない。必ず比較対象を添える。",
+  "put A in context の in は「枠の中に入れる」。",
+  "概数は around / about、粗い概算は roughly。"
+ ]
+},
+"The sample is small, so I'd treat this as directional.": {
+ "t": "サンプルが小さいので、方向性を示すものとして扱うべきだと思います。",
+ "tn": "限界を自分から言うのは弱さではなく誠実さです。後で指摘されて崩されるより、先に開示した方が主張は強くなります。",
+ "s": [
+  ["The sample is small,", "S + be + C。結果を導く so の前提になります。"],
+  ["so I'd treat this as directional", "so が結果を導く等位接続詞。treat A as B（AをBとして扱う）の構文です。"]
+ ],
+ "sn": "treat A as B は、事実そのものではなく「扱い方」を提案する構文です。だから断定を避けながら、解釈の枠を自分で設定できます。",
+ "v": [
+  ["treat A as B", "treat のコアイメージは「どう取り扱うか」。as が「〜として」の資格を与えます。regard A as B、see A as B も同じ型です。"],
+  ["directional", "direction（方向）の形容詞。「正確な水準は言えないが、向きは信頼できる」というデータ評価の定型語です。"],
+  ["sample", "標本。sample size（標本数）、representative sample（代表性のある標本）のように使います。"]
+ ],
+ "n": [
+  ["directional", "向きは信頼できるが水準は粗い。定性調査や少数サンプルに。"],
+  ["indicative", "ほぼ同義。やや硬く、報告書向きです。"],
+  ["preliminary", "暫定。確定前という時間軸の話で、精度の話ではありません。"],
+  ["anecdotal", "逸話的。個別事例にとどまり、一般化できない含みです。"]
+ ],
+ "nn": "directional と indicative はほぼ交換できます。preliminary は「まだ確定していない」、anecdotal は「個別の話にすぎない」で、指している限界の種類が違います。",
+ "e": [
+  ["The sample is small, so I'd treat this as directional rather than conclusive.", "サンプルが小さいので、決定的な結論ではなく方向性として扱うべきだと思います。"],
+  ["We only spoke to five managers, so I'd treat this as directional.", "管理職5名への聞き取りだけなので、方向性を示すものとして扱います。"]
+ ],
+ "p": [
+  ["The [sample / evidence] is [small / limited], so I'd treat this as [directional].", ["The evidence is thin, so I'd treat this as indicative.", "The sample is skewed toward sales, so I'd treat this as directional."]],
+  ["I'd treat [対象] as [扱い方].", ["I'd treat the Q1 figure as an outlier.", "I'd treat this as a working assumption, not a conclusion."]]
+ ],
+ "k": [
+  "treat A as B で「扱い方」を提案できる。断定を避けつつ枠を設定する。",
+  "directional = 向きは信頼できるが水準は粗い。データ評価の定型語。",
+  "限界は自分から先に開示する方が、主張が強くなる。"
+ ]
+},
+"Let me give you one concrete example.": {
+ "t": "具体例を1つ挙げます。",
+ "tn": "抽象論が続いて相手の反応が鈍いときの切り替えです。one と言い切ると、話が長くならずに済みます。",
+ "s": [
+  ["Let me give you ~", "Let + me + 原形 give。give A B（AにBを与える）の二重目的語構文で、you が間接目的語です。"],
+  ["one concrete example", "直接目的語。one が「1つだけ」と数を限定し、concrete が「抽象ではない」ことを示します。"]
+ ],
+ "v": [
+  ["concrete", "もとは「固まった」。抽象（abstract）の対義語として「具体的な」。a concrete example / concrete steps のように、手で触れられる感じを出します。"],
+  ["give you an example", "例を「渡す」という発想です。show you an example（見せる）、walk you through an example（順にたどる）と、動詞で説明の深さが変わります。"],
+  ["one", "ここでは数詞であると同時に「1つに限る」という宣言です。an example だと数の限定がありません。"]
+ ],
+ "n": [
+  ["Let me give you one concrete example.", "例を1つに限定する宣言。話が伸びません。"],
+  ["For example, ...", "最も軽い。文中に差し込めます。"],
+  ["Take [X] for instance.", "具体例を1つ取り上げる口語的な形。"],
+  ["A case in point is ...", "論点を裏づける典型例。やや硬い言い方です。"]
+ ],
+ "e": [
+  ["Let me give you one concrete example: the sales team lost four people in the same quarter they changed the bonus scheme.", "具体例を1つ挙げます。営業部門は賞与制度を変えた四半期に4名を失いました。"],
+  ["Let me give you one concrete example of what I mean by unclear ownership.", "所有者が不明確とはどういうことか、具体例を1つ挙げます。"]
+ ],
+ "p": [
+  ["Let me give you one concrete example of [論点].", ["Let me give you one concrete example of the data gap.", "Let me give you one concrete example of how this plays out."]],
+  ["Let me give you [one / two] [example / examples]: [中身].", ["Let me give you two examples: onboarding and promotion.", "Let me give you one example from the pilot."]]
+ ],
+ "k": [
+  "give A B の二重目的語構文（give you an example）。",
+  "concrete は abstract の対義語。「手で触れられる具体性」。",
+  "one と数を限定すると、説明が長くならない。"
+ ]
+},
+"These numbers are directional; we're still validating the source.": {
+ "t": "この数字は暫定的なもので、出典を検証中です。",
+ "tn": "確定前の数字を出すときの必須の断りです。これを言わずに後で修正すると、数字全体の信頼を失います。",
+ "s": [
+  ["These numbers are directional;", "S + be + C。セミコロンが、関連する2文を接続詞なしでつなぎます。"],
+  ["we're still validating the source", "現在進行形 + still で「いまも継続中で、まだ終わっていない」。still を外すと完了間際の印象になります。"]
+ ],
+ "sn": "セミコロンは「ピリオドより近く、カンマより遠い」区切りです。前半の評価と後半の理由が一体であることを示せます。口頭ではここでわずかに間を置きます。",
+ "v": [
+  ["validate", "valid（妥当な）を動詞化したもの。「妥当であることを確かめる」。verify（事実かどうか確認する）より、手続きの正しさを含む語感があります。"],
+  ["source", "出どころ。data source（データの出所）、primary source（一次資料）。"],
+  ["still", "「まだ続いている」。進行形と組み合わせると、終わっていないことが強調されます。"]
+ ],
+ "n": [
+  ["validate", "妥当性を確かめる。手法や定義まで含めて確認する含み。"],
+  ["verify", "事実かどうか照合する。突き合わせの作業に向きます。"],
+  ["check", "最も中立で軽い。日常的な確認に使います。"],
+  ["stress-test", "極端な条件を当てて壊れないか試す。前提の頑健性を見る場面に。"]
+ ],
+ "nn": "validate と verify は重なる部分が多く、実務では交換して使われることもあります。stress-test は「負荷をかけて確かめる」ので、やることの中身が異なります。",
+ "e": [
+  ["These numbers are directional; we're still validating the headcount definition with HR.", "この数字は暫定的なもので、人員の定義を人事と検証中です。"],
+  ["The savings figure is preliminary; we're still validating it against the actuals.", "削減額は暫定値で、実績値との突き合わせを進めています。"]
+ ],
+ "p": [
+  ["These numbers are [directional / preliminary]; we're still [validating the source].", ["These numbers are preliminary; we're still reconciling the two systems.", "This is directional; we're still waiting on the Q4 close."]],
+  ["[数字] is [暫定の種類]. [確定時期] is when it firms up.", ["The forecast is preliminary. Next Friday is when it firms up.", "This range is indicative. It firms up after the audit."]]
+ ],
+ "k": [
+  "暫定の数字は、出す前に必ず断る。後の修正より先の開示。",
+  "validate（妥当性）と verify（事実照合）は確かめる対象が違う。",
+  "セミコロンは、関係の近い2文を接続詞なしでつなぐ。"
+ ]
+},
+"Three data points support that.": {
+ "t": "それを裏づけるデータが3つあります。",
+ "tn": "根拠の数を先に言う型です。列挙の途中で遮られても、「3つあるうちのまだ1つ目」という構造が相手の頭に残ります。",
+ "s": [
+  ["Three data points", "主語。data point は「1つのデータ」を数えるための単位語で、可算名詞として複数形を取ります。"],
+  ["support that", "S + V + O。that は直前に述べた主張を指します。support は他動詞なので前置詞は不要です。"]
+ ],
+ "v": [
+  ["data point", "グラフ上の1つの点が原義。そこから「根拠として数えられる個別のデータ」へ広がりました。data は不可算なので、数えるときにこの語を使います。"],
+  ["support", "コアイメージは「下から支える」。主張を下支えするので、証拠が主語になります。support to とは言いません。"],
+  ["that", "直前の発言全体を受ける代名詞。長い主張を一語で受け直せるので、会議で多用されます。"]
+ ],
+ "n": [
+  ["support", "下から支える。証拠が主張を支える標準の動詞。"],
+  ["back up", "裏づける。口語的で、support とほぼ同じように使えます。"],
+  ["corroborate", "別の筋から裏づける。独立した証拠という含みが強い硬い語です。"],
+  ["point to ~", "〜を指し示す。結論を直接支えるというより、方向を示す言い方です。"]
+ ],
+ "nn": "support と back up はどちらも自然で、back up の方が口語寄りです。point to は「証拠が結論を指している」という間接的な言い方になります。",
+ "e": [
+  ["Three data points support that: exit interviews, the engagement survey, and the promotion data.", "それを裏づけるデータが3つあります。退職者面談、エンゲージメント調査、昇進データです。"],
+  ["Only one data point supports that, so I would not build the case on it.", "それを裏づけるデータは1つだけなので、それを根拠にするのは避けます。"]
+ ],
+ "p": [
+  ["[Three] data points support [主張].", ["Two data points support the opposite view.", "Four data points support the same conclusion."]],
+  ["[Three] [data points / findings / sources] support that: [A], [B], and [C].", ["Three sources support that: the audit, the survey, and the field visits.", "Two findings support that: the tenure curve and the manager scores."]]
+ ],
+ "k": [
+  "data は不可算。数えるときは data point を使う。",
+  "support は他動詞。support to とは言わない。",
+  "根拠の数を先に言うと、遮られても構造が残る。"
+ ]
+},
+"We ran the numbers three different ways.": {
+ "t": "3通りの方法で試算しました。",
+ "tn": "結論の頑健性を示す型です。数字を疑われる前に、どれだけ検証したかを先に出せます。",
+ "s": [
+  ["We ran the numbers", "過去形。run the numbers は「計算する・試算する」という定型句です。"],
+  ["three different ways", "前置詞のない副詞句。in three different ways とも言えますが、口語では in を落とす形が一般的です。"]
+ ],
+ "v": [
+  ["run the numbers", "run は「走らせる」。計算機に数字を走らせるイメージから「試算する」。run a model、run a scenario も同じ発想です。"],
+  ["different", "ここでは「別々の」。three ways だけだと方法の中身が同じでもよいことになり、three different ways とすると互いに異なる方法だと明示できます。"],
+  ["way", "方法。method より口語的で、やり方そのものを指します。"]
+ ],
+ "n": [
+  ["We ran the numbers ...", "試算した。口語的で会議向き。"],
+  ["We modeled it ...", "モデルを組んだ。構造を作った含みがあります。"],
+  ["We stress-tested it ...", "極端な条件をかけて検証した。前提の頑健性を見る場合。"],
+  ["We sanity-checked it ...", "ざっと筋が通るか確かめた。簡易な確認です。"]
+ ],
+ "e": [
+  ["We ran the numbers three different ways, and the payback period stays under two years in all three.", "3通りの方法で試算しましたが、いずれも投資回収は2年未満でした。"],
+  ["We ran the numbers both ways — with and without the retention bonus.", "定着ボーナスを入れた場合と入れない場合の両方で試算しました。"]
+ ],
+ "p": [
+  ["We ran the numbers [three] different ways.", ["We ran the numbers two different ways.", "We ran the model three different ways and got the same answer."]],
+  ["We [ran the numbers / modeled it / stress-tested it] [条件], and [結果].", ["We stress-tested it at half the volume, and it still breaks even.", "We modeled it with a 20% cost increase, and the ranking does not change."]]
+ ],
+ "k": [
+  "run the numbers = 試算する。run a model / run a scenario も同じ発想。",
+  "three different ways の in は口語では省くのが普通。",
+  "検証量を先に出すと、数字への疑問を減らせる。"
+ ]
+},
+"That's consistent across all three regions.": {
+ "t": "その傾向は3地域すべてで一致しています。",
+ "tn": "一貫性を示すと、「たまたまでは」という反論を先に潰せます。",
+ "s": [
+  ["That's consistent", "That is の短縮。consistent は形容詞で「一貫している」。"],
+  ["across all three regions", "across が「全体に横断して」を示します。all が「例外なく3つとも」を補強しています。"]
+ ],
+ "v": [
+  ["consistent", "con-（共に）+ sist（立つ）が語源で、コアイメージは「あちこちで同じように立っている」。be consistent with ~ なら「〜と矛盾しない」、be consistent across ~ なら「〜の全体で同じ」。前置詞で意味が変わります。"],
+  ["across", "コアイメージは「端から端へ横断する」。範囲全体に及ぶことを示すので、地域・部門・期間に広く使えます。"],
+  ["region", "地域。人事では region / market / entity が組織単位としてよく出てきます。"]
+ ],
+ "n": [
+  ["consistent across ~", "対象範囲の全体で同じ。ばらつきがないこと。"],
+  ["consistent with ~", "〜と矛盾しない。別の情報との整合性。"],
+  ["uniform across ~", "完全に均一。ばらつきがゼロという強い主張です。"],
+  ["holds across ~", "〜でも成り立つ。法則や傾向が維持されるという言い方です。"]
+ ],
+ "nn": "consistent across と holds across はどちらも自然です。uniform は「まったく同じ」を意味するため、多少のばらつきがある場合には使えません。",
+ "e": [
+  ["That's consistent across all three regions, so it is unlikely to be a local management issue.", "その傾向は3地域すべてで一致しているため、特定拠点の管理の問題とは考えにくいです。"],
+  ["The pattern is consistent across tenure bands but not across functions.", "この傾向は勤続年数では一貫していますが、職種では一貫していません。"]
+ ],
+ "p": [
+  ["That's consistent across [範囲].", ["That's consistent across all five business units.", "That's consistent across both years of data."]],
+  ["[傾向] is consistent across [A] but not across [B].", ["The gap is consistent across regions but not across levels.", "The result is consistent across scenarios but not across time."]]
+ ],
+ "k": [
+  "consistent across（範囲全体で同じ）と consistent with（他と矛盾しない）を区別する。",
+  "across のコアイメージは「端から端へ横断する」。",
+  "一貫性を示すと「偶然では」という反論を先に防げる。"
+ ]
+},
+"The gap is roughly 200 million yen a year.": {
+ "t": "差はおよそ年間2億円です。",
+ "tn": "金額は比率や基準と併せて示します。規模感が伝わらないと、相手は判断に移れません。",
+ "s": [
+  ["The gap is", "S + be。the が付くのは、何と何の差かが文脈で特定されているからです。"],
+  ["roughly 200 million yen", "roughly が概数であることを示します。million は数詞の後では複数形にしません（200 millions は誤り）。"],
+  ["a year", "この a は per（〜あたり）の意味です。per year と書き換えられます。"]
+ ],
+ "sn": "単位の扱いが要点です。200 million yen a year の語順で、通貨 → 期間の順に並べます。",
+ "v": [
+  ["gap", "すき間が原義。そこから「差・不足」へ。pay gap（賃金格差）、skills gap（能力の不足）のように複合語で多用されます。"],
+  ["roughly", "おおよそ。around や about とほぼ同義ですが、roughly は「端数を丸めた」という含みが少し強めです。"],
+  ["a year", "頻度・割合を表す a。twice a week（週2回）、50 dollars a head（1人あたり50ドル）と同じ用法です。"]
+ ],
+ "n": [
+  ["roughly", "端数を丸めた概数。実務で最も使いやすい。"],
+  ["about", "中立的な概数。最も一般的です。"],
+  ["approximately", "硬め。書き言葉や正式な報告に向きます。"],
+  ["in the order of ~", "桁数の話。精度がかなり粗いときに使います。"]
+ ],
+ "e": [
+  ["The gap is roughly 200 million yen a year, or about 3% of the payroll.", "差はおよそ年間2億円で、人件費のおよそ3%にあたります。"],
+  ["The gap is roughly 15 percentage points, and it has widened each year.", "差はおよそ15ポイントで、毎年広がっています。"]
+ ],
+ "p": [
+  ["The gap is roughly [金額] a [期間].", ["The gap is roughly 40 million yen a quarter.", "The difference is roughly 5,000 dollars a head."]],
+  ["[数値], or about [比率] of [母数].", ["120 million yen, or about 2% of revenue.", "Thirty people, or about a tenth of the division."]]
+ ],
+ "k": [
+  "数詞の後の million / thousand は複数形にしない。",
+  "a year の a は per の意味（twice a week と同じ用法）。",
+  "金額は必ず比率や母数と併せて言う。"
+ ]
+},
+"Let me show you where that number comes from.": {
+ "t": "その数字の出どころをお見せします。",
+ "tn": "数字を疑われたときの最初の一手です。手法を開示すると、議論が「信じるかどうか」から「どこが妥当か」へ移ります。",
+ "s": [
+  ["Let me show you ~", "Let + me + 原形 show。show A B の二重目的語で、you が間接目的語です。"],
+  ["where that number comes from", "疑問詞 where が導く名詞節で、show の直接目的語。間接疑問なので語順は平叙文のまま（comes の前に does は入りません）。"]
+ ],
+ "sn": "間接疑問の語順が要点です。Where does that number come from? が独立した疑問文、where that number comes from が文中に埋め込まれた形になります。",
+ "v": [
+  ["come from ~", "from は起点。数字がどこから出てきたかという出所を示します。"],
+  ["show", "見せる。tell（言葉で伝える）、explain（説明する）に対し、show は資料や計算を実際に提示する含みがあります。"],
+  ["where", "場所だけでなく出所・根拠にも使えます。I see where you're coming from.（言いたいことは分かります）も同じ発想です。"]
+ ],
+ "n": [
+  ["Let me show you where that number comes from.", "計算過程を提示する。最も具体的。"],
+  ["Let me walk you through the calculation.", "順を追って説明する。相手の理解を確認しながら進む含み。"],
+  ["Happy to share the methodology.", "手法を共有する用意がある。ていねいで、後日でもよい含みです。"],
+  ["That's in the appendix.", "付録にある、と場所を示すだけ。即答にはなりません。"]
+ ],
+ "e": [
+  ["Let me show you where that number comes from — it is the three-year average, not last year alone.", "その数字の出どころをお見せします。昨年単年ではなく3年平均です。"],
+  ["Let me show you where the 18% comes from before we debate whether it is high.", "高いかどうかを議論する前に、18%の出どころをお見せします。"]
+ ],
+ "p": [
+  ["Let me show you where [that number] comes from.", ["Let me show you where the forecast comes from.", "Let me show you where the assumption comes from."]],
+  ["Let me [show you / walk you through] [対象].", ["Let me walk you through the calculation step by step.", "Let me show you the two inputs behind it."]]
+ ],
+ "k": [
+  "間接疑問は平叙文の語順（where that number comes from）。does を入れない。",
+  "where は出所・根拠にも使える。",
+  "数字を疑われたら、まず手法を開示する。"
+ ]
+},
+"The trend has held for six straight quarters.": {
+ "t": "この傾向は6四半期連続で続いています。",
+ "tn": "期間の長さで「たまたま」という見方を排除する型です。だから so で示唆まで一息に繋ぐと効果が出ます。",
+ "s": [
+  ["The trend has held", "現在完了形。過去のある時点から現在まで続いていることを表します。過去形 held だと、すでに終わった話になります。"],
+  ["for six straight quarters", "for + 期間で継続の長さ。straight が「連続した」を加えます。"]
+ ],
+ "sn": "完了形と for の組み合わせが「継続」を作ります。since Q1（起点）と for six quarters（長さ）は、どちらも完了形と相性がよい表現です。",
+ "v": [
+  ["hold", "コアイメージは「持ちこたえる」。手で握って離さない感じから、傾向や仮説が「崩れずに続く」の意味へ。The assumption holds.（その前提は成り立つ）も同じ用法です。"],
+  ["straight", "もとは「まっすぐ」。時間に使うと「途切れずに連続した」。six straight quarters / three straight years のように使います。"],
+  ["for", "期間の長さを示す前置詞。起点を示す since と対で覚えます。"]
+ ],
+ "n": [
+  ["The trend has held.", "崩れずに続いている。自然で最も使いやすい。"],
+  ["The trend has continued.", "継続している。中立で、崩れる可能性への言及はありません。"],
+  ["The trend is intact.", "無傷のまま。やや硬く、崩れていないことを強調します。"],
+  ["The pattern repeats.", "繰り返している。周期性に焦点が移ります。"]
+ ],
+ "e": [
+  ["The trend has held for six straight quarters, so I would not call it noise.", "この傾向は6四半期連続で続いているので、ノイズとは言えません。"],
+  ["Attrition has held above 15% for four straight quarters.", "離職率は4四半期連続で15%を超えたままです。"]
+ ],
+ "p": [
+  ["The trend has held for [six straight quarters].", ["The trend has held for three straight years.", "The gap has held for five straight months."]],
+  ["[傾向] has held for [期間], so [示唆].", ["The pattern has held for two years, so it is structural.", "The ratio has held for ten quarters, so the budget assumption is safe."]]
+ ],
+ "k": [
+  "現在完了 + for で「いまも続いている」。過去形だと終わった話になる。",
+  "hold は「持ちこたえる」。前提や傾向が崩れないことに使う。",
+  "straight = 途切れずに連続した。"
+ ]
+},
+"We benchmarked this against four competitors.": {
+ "t": "競合4社と比較しました。",
+ "tn": "比較対象を具体的に示す型です。「業界平均」より反論されにくく、相手も検証しやすくなります。",
+ "s": [
+  ["We benchmarked this", "過去形。benchmark が動詞として使われ、this が目的語です。"],
+  ["against four competitors", "benchmark A against B で「AをBと比べて測る」。前置詞は against です。"]
+ ],
+ "v": [
+  ["benchmark", "もとは測量の基準点を刻んだ印。そこから「比較の基準」、さらに動詞で「基準と照らして測る」へ。名詞と動詞の両方で使えます。"],
+  ["against", "コアイメージは「向かい合う・突き当てる」。比べる対象に突き当てて測るので against を取ります。benchmark with とは言いません。"],
+  ["competitor", "競合。peer（同等企業）は規模や業種が近い企業群を指し、必ずしも競合とは限りません。"]
+ ],
+ "n": [
+  ["benchmark A against B", "基準と照らして測る。手続きを踏んだ比較。"],
+  ["compare A with B", "最も中立な「比べる」。"],
+  ["stack A up against B", "口語的な「比べる」。優劣の含みが強めです。"],
+  ["index A to B", "Bを100として指数化する。数値処理を伴います。"]
+ ],
+ "e": [
+  ["We benchmarked this against four competitors and two adjacent industries.", "競合4社と隣接2業界を比較対象にしました。"],
+  ["We benchmarked the pay bands against the peer group, not the national average.", "報酬レンジは全国平均ではなく、同等企業群と比較しました。"]
+ ],
+ "p": [
+  ["We benchmarked this against [比較対象].", ["We benchmarked this against the top three players.", "We benchmarked this against last year's actuals."]],
+  ["We benchmarked [対象] against [基準]; the result is [結果].", ["We benchmarked turnover against the sector median; we sit in the top quartile.", "We benchmarked cost per hire against three peers; we are 20% above."]]
+ ],
+ "k": [
+  "benchmark A against B。前置詞は against（突き当てて測る）。",
+  "competitor（競合）と peer（同等企業）は指す範囲が違う。",
+  "比較対象を具体名で示すと反論されにくい。"
+ ]
+},
+"Two-thirds of the customers we spoke to said the same thing.": {
+ "t": "話を聞いた顧客の3分の2が同じことを言いました。",
+ "tn": "定性調査を定量的に語る型です。「多くの顧客が」より、割合で言う方がはるかに効きます。",
+ "s": [
+  ["Two-thirds of the customers", "分数 + of + 名詞。分数の主語は of の後ろの名詞に動詞を合わせるため、customers（複数）に合わせて said になります。"],
+  ["we spoke to", "customers を修飾する関係詞節。目的格の関係代名詞 whom/that が省略されています。前置詞 to が節の末尾に残る形です。"],
+  ["said the same thing", "述語。the same thing で「同一の内容」。"]
+ ],
+ "sn": "関係詞節の中の前置詞 to が文末に残る形に慣れておくと、口頭で自然に言えます（the customers we spoke to / the people we talked with）。",
+ "v": [
+  ["two-thirds", "分数はハイフンでつなぎます（one-third, three-quarters）。分子が2以上のとき分母は複数形になります。"],
+  ["speak to ~", "to は一方向。speak with ~ は双方向の会話という語感ですが、実務ではほぼ交換して使われます。"],
+  ["the same thing", "the が必要です。same は必ず定冠詞を伴います。"]
+ ],
+ "n": [
+  ["Two-thirds of ...", "割合で示す。定性調査を定量的に語れます。"],
+  ["Most of ...", "大半。曖昧で、追加の質問を招きます。"],
+  ["Eight out of twelve ...", "実数で示す。サンプル数が小さいときはこちらが誠実です。"],
+  ["A majority of ...", "過半数。50%超としか言っていません。"]
+ ],
+ "nn": "Eight out of twelve と Two-thirds は同じ事実の言い換えです。サンプルが小さいときは実数で言った方が、規模を正しく伝えられます。",
+ "e": [
+  ["Two-thirds of the managers we spoke to said the same thing: the handover is where it breaks.", "聞き取りを行った管理職の3分の2が同じことを言いました。引き継ぎの段階で崩れる、という点です。"],
+  ["Nine out of twelve leavers cited career path, not pay.", "退職者12名のうち9名が、報酬ではなく昇進の道筋を理由に挙げました。"]
+ ],
+ "p": [
+  ["[Two-thirds] of [対象] said the same thing.", ["Half of the respondents said the same thing.", "Three-quarters of the team gave the same answer."]],
+  ["[割合 / 実数] of [対象] cited [理由].", ["Eight out of ten cited workload.", "A third of the sample cited lack of feedback."]]
+ ],
+ "k": [
+  "分数の主語は of の後ろの名詞に動詞を合わせる。",
+  "the same thing の the は省略できない。",
+  "サンプルが小さいときは割合より実数（eight out of twelve）が誠実。"
+ ]
+},
+"The number I'd focus on is the 40% drop-off.": {
+ "t": "注目すべき数字は40%の離脱率です。",
+ "tn": "資料に数字が多いとき、1つに絞って聞き手の負荷を下げる型です。",
+ "s": [
+  ["The number I'd focus on", "主語。The number (that) I would focus on の関係代名詞が省略されています。focus on の on が節末に残ります。"],
+  ["is the 40% drop-off", "補語。the が付くのは、資料上の特定の数値を指しているからです。"]
+ ],
+ "sn": "「The + 名詞 + 主語 + 動詞」の形は、関係代名詞が省略された目的格の節です。The point I'd make / The risk I'd flag など、同じ型で使い回せます。",
+ "v": [
+  ["focus on ~", "on は接触。焦点を一点に当てる感覚です。"],
+  ["drop-off", "drop off（落ちる）の句動詞が名詞化したもの。途中で抜けていく割合を指し、顧客なら離脱、採用なら辞退を表します。"],
+  ["I'd", "I would の短縮。「私なら」という控えめな提案になります。"]
+ ],
+ "n": [
+  ["The number I'd focus on is ...", "1つに絞る。相手に選ばせない言い方。"],
+  ["The key number is ...", "最も端的。断定が強めです。"],
+  ["If you remember one number, it's ...", "記憶に残す狙い。プレゼンの締めに向きます。"],
+  ["I'd ignore the rest for now.", "切り捨てを明言する。強いので使う場面を選びます。"]
+ ],
+ "e": [
+  ["The number I'd focus on is the 40% drop-off between offer and start date.", "注目すべき数字は、内定から入社までの40%の離脱率です。"],
+  ["The number I'd focus on is not the total cost but the cost per retained employee.", "注目すべきは総額ではなく、定着1名あたりのコストです。"]
+ ],
+ "p": [
+  ["The number I'd focus on is [数値].", ["The number I'd focus on is the 12-month retention rate.", "The number I'd focus on is the median, not the mean."]],
+  ["The [number / point / risk] I'd [focus on / flag] is [対象].", ["The risk I'd flag is the single-vendor dependency.", "The point I'd make is that the trend started before the reorg."]]
+ ],
+ "k": [
+  "「The + 名詞 + 主語 + 動詞」は関係代名詞の省略。前置詞は節末に残る。",
+  "drop-off は句動詞の名詞化。離脱・辞退の割合に使う。",
+  "数字が多いときは1つに絞ると伝わる。"
+ ]
+},
+"This is a conservative estimate.": {
+ "t": "これは保守的な見積もりです。",
+ "tn": "誇張していないと先に示す型です。同時に「上振れの余地がある」ことも伝わるため、提案の説得力が上がります。",
+ "s": [
+  ["This is", "S + be。this は直前に示した数値を指します。"],
+  ["a conservative estimate", "補語。a が付くのは、いくつもありうる見積もりのうちの1つだからです。"]
+ ],
+ "v": [
+  ["conservative", "もとは「保つ・守る」。見積もりに使うと「安全側に振った」。政治的な意味とは切り離して理解します。対義は aggressive（強気の）。"],
+  ["estimate", "名詞で「見積もり」、動詞で「見積もる」。名詞は最後を「エスティメット」と弱く、動詞は「エスティメイト」と発音し分けます。"],
+  ["assumption", "estimate の前提にある仮定。estimate は結果、assumption は入力という関係です。"]
+ ],
+ "n": [
+  ["a conservative estimate", "安全側に振った見積もり。下振れしにくい。"],
+  ["a base case", "標準シナリオ。上下の振れ幅の真ん中。"],
+  ["an aggressive estimate", "強気の見積もり。上振れ前提です。"],
+  ["a ballpark figure", "ざっくりした概算。精度は求めない言い方です。"]
+ ],
+ "e": [
+  ["This is a conservative estimate; it assumes no productivity gain in year one.", "これは保守的な見積もりで、初年度の生産性向上はゼロと置いています。"],
+  ["This is a conservative estimate of the savings, so the upside is likely larger.", "削減額としては保守的な見積もりなので、上振れの余地はさらにあります。"]
+ ],
+ "p": [
+  ["This is a conservative estimate of [対象].", ["This is a conservative estimate of the run rate.", "This is a conservative estimate of the headcount impact."]],
+  ["This is [a conservative estimate / a base case / a ballpark figure]; it assumes [前提].", ["This is a base case; it assumes current attrition continues.", "This is a ballpark figure; it assumes the same mix as last year."]]
+ ],
+ "k": [
+  "conservative = 安全側に振った。対義は aggressive。",
+  "estimate は名詞と動詞で発音が変わる。",
+  "保守的だと断ると、上振れの余地も同時に伝わる。"
+ ]
+},
+"We excluded the outliers to avoid skewing the average.": {
+ "t": "平均が歪まないよう、外れ値は除外しています。",
+ "tn": "データ処理の判断を自分から開示する型です。後から指摘されるより、先に言った方が主張は強くなります。",
+ "s": [
+  ["We excluded the outliers", "S + V + O。過去形で、分析時点の処理を述べています。"],
+  ["to avoid skewing the average", "目的を表す不定詞。avoid は目的語に動名詞を取るため、avoid to skew ではなく avoid skewing になります。"]
+ ],
+ "sn": "avoid、consider、suggest、recommend は動名詞を取る動詞群です。不定詞を続けると誤りになるので、まとめて覚えておきます。",
+ "v": [
+  ["outlier", "out（外）+ lie（横たわる）。分布の外側に離れて位置する値、つまり外れ値です。"],
+  ["skew", "もとは「斜めにする」。分布を一方へ引っ張って歪めることを指します。skew the average / a skewed sample のように使います。"],
+  ["avoid + 動名詞", "avoid は「避ける」。避ける対象は行為そのものなので、動名詞を取ります。"]
+ ],
+ "n": [
+  ["exclude", "除外する。分析対象から外す中立的な語。"],
+  ["strip out", "引き剥がして取り除く。口語的で、成分を抜く感じです。"],
+  ["adjust for ~", "調整する。除外せず、影響を補正します。"],
+  ["normalize", "基準をそろえる。単位や規模の違いを補正します。"]
+ ],
+ "nn": "exclude（外す）と adjust for（補正する）は処理が違います。外した方が説明は簡単ですが、件数が減るので、どちらを選んだかは明示する必要があります。",
+ "e": [
+  ["We excluded the two largest clients to avoid skewing the average deal size.", "平均取引規模が歪まないよう、上位2社は除外しています。"],
+  ["We excluded contractors to avoid skewing the tenure analysis.", "勤続年数の分析が歪まないよう、業務委託は除外しています。"]
+ ],
+ "p": [
+  ["We excluded [対象] to avoid [歪み].", ["We excluded the pilot period to avoid distorting the baseline.", "We excluded interns to avoid skewing the headcount."]],
+  ["We [excluded / adjusted for] [対象]; [理由].", ["We adjusted for inflation; the nominal figures overstate the growth.", "We excluded one-off bonuses; they double-count the retention spend."]]
+ ],
+ "k": [
+  "avoid は動名詞を取る（avoid skewing）。不定詞にしない。",
+  "outlier = 分布の外に離れた値。skew = 分布を一方へ歪める。",
+  "除外（exclude）と補正（adjust for）は処理が違う。どちらかを明示する。"
+ ]
+}
+}

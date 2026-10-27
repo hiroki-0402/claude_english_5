@@ -1,0 +1,630 @@
+{
+"One concern I have is the timeline.": {
+ "t": "1点懸念しているのは、スケジュールです。",
+ "tn": "最も頻出する懸念の表明です。one と限定すると、受け止めてもらいやすくなります。",
+ "s": [
+  ["One concern I have", "主語。One concern (that) I have の関係代名詞が省略されています。"],
+  ["is the timeline", "補語。the が付くのは、議論されている特定の日程を指すためです。"]
+ ],
+ "sn": "One ... I have という形は「ほかにもあるかもしれないが、まずこの1つ」という含みを作ります。My concern is ... と比べて、懸念を1点に限定できるのが利点です。",
+ "v": [
+  ["concern", "懸念。可算名詞で、a concern / two concerns と数えられます。worry より客観的で、ビジネスで広く使われます。"],
+  ["timeline", "日程・工程。schedule とほぼ同義で、timeline は「全体の時間軸」という含みがあります。"],
+  ["have a concern", "懸念を持つ。raise a concern（懸念を提起する）、address a concern（懸念に対応する）とセットで覚えます。"]
+ ],
+ "n": [
+  ["concern", "懸念。客観的で、ビジネスの標準語。"],
+  ["worry", "心配。やや主観的・感情的な響きです。"],
+  ["risk", "リスク。起こりうる損失として扱います。"],
+  ["reservation", "留保。賛否に迷いがある状態です。"]
+ ],
+ "nn": "concern と worry はどちらも使われますが、concern の方が客観的に響きます。クライアントの前では concern が無難です。",
+ "e": [
+  ["One concern I have is the timeline — the data does not arrive until the fifteenth, which leaves five working days.", "1点懸念しているのは日程です。データ到着が15日で、営業日が5日しか残りません。"],
+  ["One concern I have is that nobody owns the handover after go-live.", "1点懸念しているのは、本稼働後の引き継ぎに担当がいないことです。"]
+ ],
+ "p": [
+  ["One concern I have is [懸念].", ["One concern I have is the dependency on a single vendor.", "One concern I have is that the pilot team is not representative."]],
+  ["One [concern / question / risk] I have is [内容]. [根拠].", ["One risk I have is the summer shutdown. Three of the four sites close in August.", "One concern I have is capacity. The same team owns two other workstreams."]]
+ ],
+ "k": [
+  "concern は可算名詞。a concern / two concerns と数える。",
+  "One ... I have で「まずこの1つ」と限定できる。",
+  "concern は worry より客観的。クライアント向きの語。"
+ ]
+},
+"I want to flag a risk before we commit.": {
+ "t": "決定の前にリスクを1つ共有しておきたいです。",
+ "tn": "flag は外資の定番動詞です。反対ではなく情報提供として届きます。",
+ "s": [
+  ["I want to flag a risk", "want to + 原形。flag が動詞として使われています。"],
+  ["before we commit", "接続詞 before + 主語 + 動詞。"]
+ ],
+ "v": [
+  ["flag", "旗を立てる、から「注意を促す・共有する」。批判ではなく注意喚起です。flag a risk / flag an issue / flag it early。"],
+  ["risk", "リスク。a risk that + 文（〜というリスク）、the risk of + 名詞（〜のリスク）。"],
+  ["commit", "後戻りできない形で資源を投じる。"]
+ ],
+ "n": [
+  ["flag a risk", "リスクを共有する。中立で、情報提供の形。"],
+  ["raise a concern", "懸念を提起する。やや重めです。"],
+  ["warn about ~", "警告する。かなり強い言い方です。"],
+  ["note a risk", "リスクを記録する。最も事務的です。"]
+ ],
+ "nn": "flag は中立な注意喚起で、warn は「このままでは危ない」という強い警告です。会議では flag の方が受け入れられやすくなります。",
+ "e": [
+  ["I want to flag a risk before we commit: the vendor's lead architect is on a fixed-term contract that ends in June.", "決定の前にリスクを1つ共有します。ベンダーの主任設計者の契約が6月で終了します。"],
+  ["I want to flag a risk before we sign — the termination clause requires twelve months' notice.", "署名の前にリスクを1つ共有します。解約条項が12か月前の通知を求めています。"]
+ ],
+ "p": [
+  ["I want to flag [何] before we [行動].", ["I want to flag a dependency before we lock the plan.", "I want to flag one assumption before we present this."]],
+  ["I want to flag a risk: [リスク]. [発生したときの影響].", ["I want to flag a risk: the data may not be comparable. If so, the whole comparison falls away.", "I want to flag a risk: key-person dependency. If he leaves, we lose three months."]]
+ ],
+ "k": [
+  "flag は中立な注意喚起。批判ではない。",
+  "a risk that + 文 / the risk of + 名詞。",
+  "リスクは「起きたらどうなるか」まで言うと伝わる。"
+ ]
+},
+"This may not be what you want to hear, but the data is clear.": {
+ "t": "ご期待に沿わないかもしれませんが、データは明確です。",
+ "tn": "悪い知らせを伝える前置きです。the data is clear と続けることで、個人的な批判に見えません。",
+ "s": [
+  ["This may not be what you want to hear,", "may が可能性をやわらげています。what節が補語です。"],
+  ["but the data is clear", "but で逆接。主語をデータにすることで、主張の出どころを人から移しています。"]
+ ],
+ "sn": "前半で相手への配慮、後半で主語をデータに移す、という2段構えです。この組み合わせにより、厳しい内容でも個人の意見の押しつけになりません。",
+ "v": [
+  ["may not be", "〜でないかもしれない。可能性の may に否定が付いた形で、断定を避けます。"],
+  ["what you want to hear", "関係代名詞の what。「あなたが聞きたいこと」。"],
+  ["clear", "明確な。曖昧さがないこと。The data is clear. は「データの示すところは明白だ」。"]
+ ],
+ "n": [
+  ["This may not be what you want to hear, but ...", "配慮を示してから伝える。最も安全。"],
+  ["I'd rather tell you now than later.", "早く伝える。動機を説明します。"],
+  ["There's no easy way to say this.", "言いにくい。前置きとしてやや重めです。"],
+  ["The data doesn't support that.", "データが支えない。前置きなしで入ります。"]
+ ],
+ "e": [
+  ["This may not be what you want to hear, but the data is clear: the pilot did not reduce time to hire.", "ご期待に沿わないかもしれませんが、データは明確です。パイロットは採用期間を短縮しませんでした。"],
+  ["This may not be what you want to hear, but the numbers have not moved in three quarters.", "ご期待に沿わないかもしれませんが、数字は3四半期動いていません。"]
+ ],
+ "p": [
+  ["This may not be what you want to hear, but [事実].", ["This may not be what you want to hear, but we cannot hit the March date.", "This may not be what you want to hear, but the cost is higher than the original estimate."]],
+  ["[配慮の前置き], but [データを主語にした事実].", ["I know this is not the answer you were hoping for, but the benchmark says otherwise.", "There's no easy way to say this: the savings are not there."]]
+ ],
+ "k": [
+  "前半で配慮、後半で主語をデータに移す2段構え。",
+  "may not be で断定を避ける。",
+  "主語をデータにすると、個人の意見の押しつけにならない。"
+ ]
+},
+"I'd be cautious about assuming supply stays stable.": {
+ "t": "供給が安定し続けるという前提には慎重でありたいです。",
+ "tn": "断定を避けつつ強く警告できる型です。クライアントの案を直接否定せずに済みます。",
+ "s": [
+  ["I'd be cautious about ~", "I would be で控えめに述べます。be cautious about A で「Aについて慎重である」。"],
+  ["assuming supply stays stable", "about の目的語となる動名詞。assuming の後ろに that節が続き、that は省略されています。"]
+ ],
+ "sn": "前置詞 about の後ろには名詞か動名詞が来ます。assuming という動名詞がさらに節を取る、少し複雑な構造ですが、会議では定型句として使えます。",
+ "v": [
+  ["cautious", "慎重な。careful とほぼ同義ですが、cautious の方が「リスクを意識して」という含みが強い語です。"],
+  ["about + 動名詞", "about は前置詞なので、動詞が続くときは動名詞になります。"],
+  ["stay stable", "安定したままでいる。stay + 形容詞で状態の継続を表します。"]
+ ],
+ "n": [
+  ["I'd be cautious about ~", "慎重でありたい。やわらかい警告。"],
+  ["I wouldn't assume ~", "〜とは仮定しない。より直接的です。"],
+  ["That's a strong assumption.", "それは強い仮定だ。前提の重さを指摘します。"],
+  ["I'd test that before relying on it.", "頼る前に検証したい。行動を提案します。"]
+ ],
+ "nn": "I'd be cautious about は最もやわらかく、That's a strong assumption. は前提そのものに疑問を向けます。相手がクライアントの場合は前者が安全です。",
+ "e": [
+  ["I'd be cautious about assuming attrition stays at this level — it has moved by five points in each of the last two years.", "離職率がこの水準で続くという前提には慎重でありたいです。直近2年は毎年5ポイント動いています。"],
+  ["I'd be cautious about assuming the two regions behave the same way.", "2つの地域が同じように動くという前提には慎重でありたいです。"]
+ ],
+ "p": [
+  ["I'd be cautious about [前提].", ["I'd be cautious about relying on a single source.", "I'd be cautious about extrapolating from one quarter."]],
+  ["I'd be cautious about [前提] — [根拠].", ["I'd be cautious about that figure — it predates the reorganization.", "I'd be cautious about the adoption curve — the last two rollouts were slower."]]
+ ],
+ "k": [
+  "前置詞 about の後ろは名詞か動名詞。",
+  "cautious は「リスクを意識して慎重」。careful よりリスク寄り。",
+  "やわらかい警告でも、根拠を1つ添える。"
+ ]
+},
+"Help me understand how we'd handle that scenario.": {
+ "t": "そのシナリオにどう対応するのか、教えていただけますか。",
+ "tn": "米系企業で頻出します。ていねいに見えますが実質は詰問なので、口調をやわらかくするのが前提です。",
+ "s": [
+  ["Help me understand ~", "命令形。help + 人 + 原形（to なし）の形です。help me to understand も文法的には正しく、to を省く方が一般的です。"],
+  ["how we'd handle that scenario", "疑問詞 how が導く名詞節。間接疑問なので平叙文の語順です。"]
+ ],
+ "sn": "help + 人 + 原形という形が要点です。help は to不定詞と原形の両方を取れる数少ない動詞で、現代英語では原形が主流です。",
+ "v": [
+  ["help me understand", "直訳は「理解を助けてほしい」。実際には「説明してください」で、文字どおり教えを請う場面にも、相手の論理の穴を突く場面にも使われます。"],
+  ["handle", "扱う・対処する。How do we handle X?（Xにどう対応するか）。"],
+  ["scenario", "想定される筋書き。"]
+ ],
+ "n": [
+  ["Help me understand ...", "説明を求める。ていねいだが、詰問にもなりえます。"],
+  ["Could you walk me through ...?", "順を追って説明してほしい。より純粋に学ぶ姿勢です。"],
+  ["How does that work if ...?", "条件付きで問う。より直接的です。"],
+  ["I'm not clear on ...", "分かっていない点を示す。自分側に理由を置きます。"]
+ ],
+ "nn": "Help me understand は語調で意味が変わります。穏やかに言えば質問、詰めた調子で言えば追及になります。相手が上位者のときは特に、語調に注意が必要です。",
+ "e": [
+  ["Help me understand how we'd handle that scenario — if the data arrives in May, does the March decision still stand?", "そのシナリオにどう対応するのか教えてください。データが5月着なら、3月の決定はそのままでしょうか。"],
+  ["Help me understand how the model handles the transition costs.", "このモデルが移行費用をどう扱っているのか教えてください。"]
+ ],
+ "p": [
+  ["Help me understand how we'd handle [シナリオ].", ["Help me understand how we'd handle a 20% shortfall.", "Help me understand how we'd handle it if the vendor misses the date."]],
+  ["Help me understand [論点]. [具体的な疑問].", ["Help me understand the assumption behind the 15%. Is it historical or target?", "Help me understand the sequencing. Does phase two depend on phase one?"]]
+ ],
+ "k": [
+  "help + 人 + 原形（to は省くのが一般的）。",
+  "間接疑問は平叙文の語順（how we'd handle）。",
+  "語調で質問にも追及にもなる。相手によって調整する。"
+ ]
+},
+"We can do it, but something else has to give.": {
+ "t": "対応は可能ですが、代わりに何かを削る必要があります。",
+ "tn": "無理な要求への現実的な返しです。断らずにトレードオフを提示できます。",
+ "s": [
+  ["We can do it,", "can で可能性を示します。"],
+  ["but something else has to give", "but で逆接。give が自動詞で「折れる・譲る」の意味で使われています。"]
+ ],
+ "v": [
+  ["give", "ここでは自動詞で「屈する・折れる」。張った糸がどこかで切れる、というイメージです。Something has to give. は「どこかで無理が出る」という定型表現で、板挟みの状況を表します。"],
+  ["something else", "ほかの何か。else が「それ以外の」を加えます。"],
+  ["has to", "〜しなければならない。必然を表します。"]
+ ],
+ "n": [
+  ["Something has to give.", "どこかで無理が出る。板挟みの定型表現。"],
+  ["There's a trade-off here.", "トレードオフがある。より分析的です。"],
+  ["We can do two of the three.", "3つのうち2つはできる。具体的です。"],
+  ["What would you like us to drop?", "何を外すかを問う。相手に選ばせます。"]
+ ],
+ "nn": "What would you like us to drop? は、相手に優先順位を決めさせる最も実務的な返し方です。Something has to give. の後に続けると自然です。",
+ "e": [
+  ["We can do it, but something else has to give — either the scope narrows or the date moves.", "対応は可能ですが、代わりに何かを削る必要があります。範囲を狭めるか、期日を動かすかです。"],
+  ["We can hit March, but something else has to give. The quality review would come out.", "3月には間に合いますが、代わりに何かを削る必要があります。品質レビューが外れます。"]
+ ],
+ "p": [
+  ["We can do it, but [トレードオフ].", ["We can do it, but not with the current team.", "We can do it, but the Osaka workstream pauses."]],
+  ["We can do [A] or [B], not both. [相手への問い].", ["We can do speed or completeness, not both. Which matters more?", "We can do two of the three. Which would you drop?"]]
+ ],
+ "k": [
+  "Something has to give. は「どこかで無理が出る」の定型。",
+  "断らずにトレードオフを示すと、議論が前に進む。",
+  "最後に「何を外すか」を相手に選ばせる。"
+ ]
+},
+"My worry is that we solve the symptom, not the cause.": {
+ "t": "懸念しているのは、原因ではなく症状に対処してしまうことです。",
+ "tn": "施策そのものではなく問題設定を疑う言い方です。上流の議論に戻せます。",
+ "s": [
+  ["My worry is that ~", "S is that SV の構文。"],
+  ["we solve the symptom, not the cause", "that節の中身。カンマ + not の対比です。"]
+ ],
+ "v": [
+  ["worry", "ここでは名詞で「心配の種」。My worry is that ... は定型です。"],
+  ["symptom / cause", "症状と原因。医学由来の対で、問題設定の議論に使われます。"],
+  ["solve", "解決する。"]
+ ],
+ "n": [
+  ["My worry is that ...", "懸念を名指しする。やや主観的です。"],
+  ["My concern is that ...", "ほぼ同義。より客観的に響きます。"],
+  ["The risk is that ...", "リスクとして示す。主語が自分ではなくなります。"],
+  ["What I'd watch for is ...", "注視すべき点。懸念より弱く、監視の提案です。"]
+ ],
+ "e": [
+  ["My worry is that we solve the symptom, not the cause — adding reviewers clears the queue, but the queue comes from unclear criteria.", "懸念しているのは、原因ではなく症状に対処してしまうことです。査定者を増やせば滞留は解消しますが、滞留は基準の不明確さから生じています。"],
+  ["My worry is that we optimize a process we should be removing.", "懸念しているのは、なくすべきプロセスを最適化してしまうことです。"]
+ ],
+ "p": [
+  ["My worry is that we [リスク], not [本来すべきこと].", ["My worry is that we measure activity, not outcomes.", "My worry is that we fix the report, not the data."]],
+  ["My [worry / concern] is that [懸念]. [検証方法].", ["My concern is that the pilot team is not typical. We could check their tenure profile.", "My worry is that this is seasonal. Two years of data would tell us."]]
+ ],
+ "k": [
+  "symptom / cause の対で、問題設定そのものを疑える。",
+  "worry は主観的、concern は客観的に響く。",
+  "懸念を出したら、確かめ方まで添える。"
+ ]
+},
+"I'd rather raise this now than after we've spent the budget.": {
+ "t": "予算を使い切ってから言うより、今お伝えしたいです。",
+ "tn": "空気を読まずに言う理由を先に説明する型です。指摘が誠実さとして伝わります。",
+ "s": [
+  ["I'd rather raise this now", "would rather + 原形。主語が自分なので原形が続きます。"],
+  ["than after we've spent the budget", "than の後ろに前置詞句が来る形。than (raise it) after ... の括弧部分が省略されています。"]
+ ],
+ "sn": "would rather A than B の B の位置に、副詞句（after we've spent the budget）が入っています。動詞の繰り返しを省けるため、短く言い切れます。",
+ "v": [
+  ["raise", "論点を場に持ち上げる。"],
+  ["would rather A than B", "BよりAを選びたい。"],
+  ["spend the budget", "予算を使う。spend money on A（Aに金を使う）の on にも注意します（spend money for A とは言いません）。"]
+ ],
+ "n": [
+  ["I'd rather raise this now than later.", "早く言う理由を示す。誠実さが伝わります。"],
+  ["Better now than after the fact.", "事後より今。より短い形です。"],
+  ["I'd rather be wrong now than right later.", "後で正しいより今間違う方がよい。印象的な言い方です。"],
+  ["Sorry to bring this up late.", "遅れて持ち出すことへの謝罪。逆の状況です。"]
+ ],
+ "e": [
+  ["I'd rather raise this now than after we've spent the budget — the data agreement is not signed, and without it the analysis cannot start.", "予算を使い切ってから言うより今お伝えします。データ利用の合意が未締結で、それがないと分析を始められません。"],
+  ["I'd rather raise this now than in the steering group next month.", "来月のステアリングで言うより、今お伝えしたいです。"]
+ ],
+ "p": [
+  ["I'd rather raise this now than [手遅れの時点].", ["I'd rather raise this now than after we've signed.", "I'd rather raise this now than when the client asks."]],
+  ["I'd rather [今やる] than [後で起きること].", ["I'd rather be the one to say it than have the client find it.", "I'd rather lose ten minutes now than two weeks later."]]
+ ],
+ "k": [
+  "spend money on ~。前置詞は on。",
+  "than の後ろは動詞の繰り返しを省ける。",
+  "言いにくい指摘は、言う理由を先に説明する。"
+ ]
+},
+"I want to be careful here, because the timing is tight.": {
+ "t": "日程が厳しいので、この点は慎重に進めたいです。",
+ "tn": "反対ではなく慎重論として出す型です。理由を先に置くのが要点になります。",
+ "s": [
+  ["I want to be careful here,", "want to + 原形。here が「この点で」。"],
+  ["because the timing is tight", "because が理由を導きます。"]
+ ],
+ "v": [
+  ["careful", "注意深い。cautious（リスクを意識して慎重）よりやや中立です。"],
+  ["tight", "きつい。a tight deadline（厳しい期限）、a tight budget（切り詰めた予算）、a tight schedule。余裕がない状態を表します。"],
+  ["here", "この点で。範囲を限定します。"]
+ ],
+ "n": [
+  ["I want to be careful here.", "慎重に進めたい。反対ではありません。"],
+  ["I'd go slowly on this one.", "この件は慎重に。より口語的です。"],
+  ["Let's not rush this.", "急がないようにしよう。提案の形です。"],
+  ["I'd like more time on this.", "もっと時間がほしい。要求の形です。"]
+ ],
+ "e": [
+  ["I want to be careful here, because the timing is tight — if we get the scope wrong, there is no room to redo it.", "日程が厳しいので慎重に進めたいです。範囲を誤ると、やり直す余地がありません。"],
+  ["I want to be careful here, because this will be quoted externally.", "対外的に引用されるので、この点は慎重に進めたいです。"]
+ ],
+ "p": [
+  ["I want to be careful here, because [理由].", ["I want to be careful here, because the client has already seen the earlier version.", "I want to be careful here, because the definition changed last quarter."]],
+  ["I want to be careful about [対象], because [理由].", ["I want to be careful about the wording, because it goes into the contract.", "I want to be careful about the sequencing, because phase two depends on it."]]
+ ],
+ "k": [
+  "tight は「余裕がない」。deadline / budget / schedule と組み合わせる。",
+  "理由を先に置くと、慎重論が反対に聞こえない。",
+  "here で範囲を限定すると、全体への反対にならない。"
+ ]
+},
+"Can I share something that might be uncomfortable?": {
+ "t": "少し言いにくいことを共有してもよろしいですか。",
+ "tn": "厳しい指摘の前置きです。許可を取ると、相手が受け止めやすくなります。",
+ "s": [
+  ["Can I share something", "許可を求める疑問文。"],
+  ["that might be uncomfortable?", "something を修飾する関係詞節。主格の that なので省略できません。might が可能性をやわらげています。"]
+ ],
+ "v": [
+  ["uncomfortable", "居心地が悪い。ここでは「聞いて気持ちのよくない」。make someone uncomfortable（不快にさせる）。"],
+  ["share", "共有する。tell より対等な響きで、押しつけがましくありません。"],
+  ["might", "可能性をやわらげる助動詞。may より確度が低めです。"]
+ ],
+ "n": [
+  ["Can I share something that might be uncomfortable?", "許可を取って厳しい指摘へ入る。最も安全。"],
+  ["Can I be honest?", "率直に言ってよいか。より短い形です。"],
+  ["Is it OK if I push back?", "異を唱えてよいか。反論であると明示します。"],
+  ["May I offer an observation?", "気づいた点を述べてよいか。ていねいです。"]
+ ],
+ "nn": "Can I be honest? は、それまで率直でなかったという含みが出ることがあります。Can I share something that might be uncomfortable? は、内容の重さだけを予告できる点が優れています。",
+ "e": [
+  ["Can I share something that might be uncomfortable? The two teams have been working from different versions of the plan for three weeks.", "少し言いにくいことを共有してもよろしいですか。2つのチームが3週間、別々の版の計画で動いていました。"],
+  ["Can I share something that might be uncomfortable about how the last rollout was received?", "前回の導入がどう受け止められたかについて、少し言いにくいことを共有してもよろしいですか。"]
+ ],
+ "p": [
+  ["Can I share something that might be uncomfortable about [話題]?", ["Can I share something that might be uncomfortable about the feedback?", "Can I raise something that might be difficult?"]],
+  ["[許可を求める前置き] [厳しい内容].", ["May I offer an observation? The same issue appeared in last year's review.", "Is it OK if I push back on the estimate?"]]
+ ],
+ "k": [
+  "主格の関係代名詞 that は省略できない。",
+  "許可を取ると、厳しい内容でも受け止めてもらえる。",
+  "Can I be honest? は「それまで率直でなかった」含みが出ることがある。"
+ ]
+},
+"The plan works on paper, but not with current staffing.": {
+ "t": "計画は書面上は成立しますが、現在の人員では無理があります。",
+ "tn": "実行可能性の指摘です。計画自体は否定しないので、受け入れられやすくなります。",
+ "s": [
+  ["The plan works on paper,", "on paper が「書面上は」という限定を加えています。"],
+  ["but not with current staffing", "but not の省略形。it does not work with current staffing の繰り返しを避けています。"]
+ ],
+ "v": [
+  ["on paper", "書面上は。理屈の上では成立するが実際は別、という対比を作る定型句です。in practice（実際には）と対になります。"],
+  ["staffing", "人員配置。staff（職員）の動名詞が名詞化したもので、「何人をどう配置するか」を指します。"],
+  ["work", "機能する。"]
+ ],
+ "n": [
+  ["on paper / in practice", "書面上と実際。最も一般的な対。"],
+  ["in theory / in reality", "理論上と現実。やや硬い言い方です。"],
+  ["by design / as implemented", "設計上と実装上。技術寄りです。"],
+  ["as planned / as resourced", "計画上と体制上。人員の話に特化します。"]
+ ],
+ "e": [
+  ["The plan works on paper, but not with current staffing — it assumes three full-time analysts, and we have one.", "計画は書面上は成立しますが、現在の人員では無理があります。専任分析担当3名を前提としていますが、実際は1名です。"],
+  ["The model works in theory, but in practice the data is not available monthly.", "モデルは理論上は機能しますが、実際にはデータが毎月は得られません。"]
+ ],
+ "p": [
+  ["[計画] works on paper, but not with [制約].", ["The schedule works on paper, but not with the summer shutdown.", "The design works on paper, but not with the current approval flow."]],
+  ["[A] in theory, [B] in practice. [差の理由].", ["It works in theory. In practice, the handover takes four weeks, not four days.", "On paper, two months. As resourced, four."]]
+ ],
+ "k": [
+  "on paper / in practice は最も使いやすい対比の定型。",
+  "but not + 名詞句で、動詞の繰り返しを省ける。",
+  "計画自体を否定しないので、受け入れられやすい。"
+ ]
+},
+"I'd feel better if we had a fallback.": {
+ "t": "代替案があると安心できます。",
+ "tn": "やわらかくリスク対策を求める型です。反対には聞こえません。",
+ "s": [
+  ["I'd feel better", "I would feel で、仮定の結果を述べます。"],
+  ["if we had a fallback", "仮定法過去。現在の事実（代替案がない）と違う想定なので、had という過去形を使います。"]
+ ],
+ "sn": "仮定法過去の形です（if + 過去形 / would + 原形）。現実には代替案がないことが、この形から伝わります。",
+ "v": [
+  ["fallback", "fall back（後退する）が名詞化したもの。うまくいかなかったときに戻る先、つまり代替案です。a fallback plan、a fallback option。"],
+  ["feel better", "気が楽になる。I'd feel better if ... は、やわらかく要求を伝える定型です。"],
+  ["had", "仮定法過去の形。"]
+ ],
+ "n": [
+  ["a fallback", "うまくいかなかったときに戻る先。"],
+  ["a plan B", "代替案。口語的で最も一般的です。"],
+  ["a contingency", "不測の事態への備え。ややかたい言い方です。"],
+  ["a safety net", "安全網。失敗の影響を和らげる仕組みです。"]
+ ],
+ "e": [
+  ["I'd feel better if we had a fallback — even a manual process for the first month would do.", "代替案があると安心できます。初月だけでも手作業の運用があれば十分です。"],
+  ["I'd feel better if we had a second supplier qualified before we switch.", "切り替える前に第二の供給元を認定しておけると安心です。"]
+ ],
+ "p": [
+  ["I'd feel better if we had [備え].", ["I'd feel better if we had a review gate at week six.", "I'd feel better if we had sign-off from legal before we send it."]],
+  ["I'd feel better if [条件]. [最小限の案].", ["I'd feel better if we tested it in one region first. Even two weeks would help.", "I'd feel better with a plan B. It does not have to be elaborate."]]
+ ],
+ "k": [
+  "仮定法過去（if + 過去形 / would + 原形）で、現実との差を示す。",
+  "fallback は「戻る先」。plan B とほぼ同義。",
+  "最小限で足りる案を添えると、要求が通りやすい。"
+ ]
+},
+"This is the part that keeps me up at night.": {
+ "t": "ここが最も気がかりな部分です。",
+ "tn": "重みを伝える口語表現です。多用すると軽くなるので、1回だけにします。",
+ "s": [
+  ["This is the part", "S + be + C。"],
+  ["that keeps me up at night", "the part を修飾する関係詞節。主格の that なので省略できません。keep A up で「Aを起きたままにしておく」。"]
+ ],
+ "v": [
+  ["keep someone up at night", "夜も眠らせない、つまり「ずっと気にかかっている」。慣用表現で、文字どおり不眠を訴えているわけではありません。"],
+  ["keep A + 形容詞/副詞", "Aをその状態に保つ。keep it simple、keep me posted も同じ型です。"],
+  ["the part", "部分。ここでは「論点のうちの1つ」。"]
+ ],
+ "n": [
+  ["This keeps me up at night.", "最も気がかり。口語的で印象が強い。"],
+  ["This is my biggest concern.", "最大の懸念。より中立です。"],
+  ["If one thing goes wrong, it's this.", "問題が起きるならここ。予測の形です。"],
+  ["This is the one I'd watch.", "注視すべき点。最も控えめです。"]
+ ],
+ "nn": "keeps me up at night は印象が強いぶん、使いすぎると重みを失います。会議で使うのは最も重要な1点に限るのが有効です。",
+ "e": [
+  ["This is the part that keeps me up at night: if the data migration fails, there is no way back to the old system.", "ここが最も気がかりな部分です。データ移行が失敗した場合、旧システムに戻す手段がありません。"],
+  ["The dependency on one engineer is the part that keeps me up at night.", "エンジニア1名への依存が、最も気がかりな部分です。"]
+ ],
+ "p": [
+  ["This is the part that keeps me up at night: [リスク].", ["This is the part that keeps me up at night: the single point of failure in approvals.", "This is what keeps me up at night: we have no way to test it before go-live."]],
+  ["[最重要の懸念を示す形]: [中身].", ["If one thing goes wrong, it's the handover.", "My biggest concern is the capability gap, not the cost."]]
+ ],
+ "k": [
+  "keep someone up at night は慣用表現。文字どおりの不眠ではない。",
+  "keep A + 形容詞（keep it simple / keep me posted）。",
+  "印象が強いので、最重要の1点だけに使う。"
+ ]
+},
+"I'd want a second pair of eyes on that number.": {
+ "t": "その数字は誰かにもう一度確認してほしいです。",
+ "tn": "個人を責めずに検証を求める型です。品質管理の定番表現になります。",
+ "s": [
+  ["I'd want a second pair of eyes", "I would want で控えめな希望。a second pair of eyes が目的語です。"],
+  ["on that number", "on が対象を示します。"]
+ ],
+ "v": [
+  ["a second pair of eyes", "二人目の目。別の人によるチェックを指す慣用表現です。pair という単位で「両目」を数えます。"],
+  ["on", "対象を示す前置詞。eyes on A（Aを見る目）。"],
+  ["I'd want", "控えめな希望。"]
+ ],
+ "n": [
+  ["a second pair of eyes", "別の人によるチェック。個人を責めません。"],
+  ["a sense check", "筋が通るかの簡易確認。ごく軽い確認です。"],
+  ["a review", "正式なレビュー。手続きとして重めです."],
+  ["a four-eyes check", "二人による確認。金融や監査で使われる用語です。"]
+ ],
+ "nn": "a second pair of eyes は最もやわらかく、誰のミスかを問題にしません。a review は手続きとして重く、記録に残る含みがあります。",
+ "e": [
+  ["I'd want a second pair of eyes on that number before it goes into the board paper.", "取締役会資料に入れる前に、その数字は誰かにもう一度確認してほしいです。"],
+  ["I'd want a second pair of eyes on the calculation — not because I doubt it, but because it will be scrutinized.", "計算は誰かにもう一度見てほしいです。疑っているのではなく、精査されるからです。"]
+ ],
+ "p": [
+  ["I'd want a second pair of eyes on [対象].", ["I'd want a second pair of eyes on the model.", "I'd want a second pair of eyes on the client note before it goes out."]],
+  ["I'd want [確認の種類] on [対象] before [行動].", ["I'd want a sense check on the assumptions before we present.", "I'd want a review of the wording before we sign."]]
+ ],
+ "k": [
+  "a second pair of eyes は「別の人によるチェック」。個人を責めない。",
+  "「疑っているのではなく」と理由を添えると、さらに角が立たない。",
+  "sense check（軽い）と review（重い）を使い分ける。"
+ ]
+},
+"My concern isn't the plan, it's the sequence.": {
+ "t": "懸念は計画そのものではなく、順序です。",
+ "tn": "懸念の対象を限定する型です。全否定と受け取られません。",
+ "s": [
+  ["My concern isn't the plan,", "S + be + not + C。"],
+  ["it's the sequence", "it is の短縮。カンマでつないだ対比の形で、口語ではこの形が自然です（書き言葉ではセミコロンや but を使います）。"]
+ ],
+ "sn": "A ではなく B だ、を2文に分けた形です。否定と肯定を並べることで、懸念の対象が1点に絞られます。",
+ "v": [
+  ["sequence", "順序。何を先にやるかという設計。sequencing（順序立て）という動名詞形も使われます。"],
+  ["concern", "懸念。"],
+  ["it's", "it is の短縮。前文の主語を受けます。"]
+ ],
+ "n": [
+  ["My concern isn't X, it's Y.", "対象を限定する。全否定になりません。"],
+  ["I'm not against the plan.", "計画に反対しているわけではない。否定を先に置きます。"],
+  ["The plan is fine; the order isn't.", "同じ内容をより短く言う形です。"],
+  ["I'd keep the plan and change the order.", "具体的な提案。最も建設的です。"]
+ ],
+ "e": [
+  ["My concern isn't the plan, it's the sequence — training should come before the system change, not after.", "懸念は計画そのものではなく順序です。研修はシステム変更の後ではなく前に置くべきです。"],
+  ["My concern isn't the number, it's how it will be read outside the room.", "懸念は数字そのものではなく、この場の外でどう読まれるかです。"]
+ ],
+ "p": [
+  ["My concern isn't [X], it's [Y].", ["My concern isn't the cost, it's the timing.", "My concern isn't whether it works, it's whether it scales."]],
+  ["[X] is fine; [Y] isn't. [提案].", ["The scope is fine; the deadline isn't. Could we move it by two weeks?", "The approach is right; the owner isn't. This should sit with HR."]]
+ ],
+ "k": [
+  "否定と肯定を並べると、懸念の対象が1点に絞られる。",
+  "sequence は「何を先にやるか」の設計。",
+  "対象を限定すると、全否定と受け取られない。"
+ ]
+},
+"Realistically, that will take twice as long.": {
+ "t": "現実的には、その倍の時間がかかります。",
+ "tn": "楽観的な見積もりを修正する型です。代替の数字を必ず出します。",
+ "s": [
+  ["Realistically,", "文修飾の副詞。「現実的に見れば」。"],
+  ["that will take twice as long", "倍数表現。twice as + 原級 + as の as 以下が省略されています（as the estimate）。"]
+ ],
+ "sn": "倍数表現の形が要点です。twice as long as A（Aの2倍の長さ）、three times as long as A（3倍）。2倍だけは twice を使い、two times とはあまり言いません。",
+ "v": [
+  ["realistically", "現実的に言えば。optimistically（楽観的に）、conservatively（保守的に）と対で使えます。"],
+  ["twice as long", "2倍の長さ。as long as A の A が文脈から明らかなので省略されています。"],
+  ["take", "時間がかかる。It takes three days.（3日かかる）。"]
+ ],
+ "n": [
+  ["Realistically, ...", "現実的に見れば。見積もりの修正に向きます。"],
+  ["In my experience, ...", "経験上。根拠を自分の経験に置きます。"],
+  ["Based on the last rollout, ...", "前回の実績に基づけば。最も説得力があります。"],
+  ["I'd double that.", "それを倍にする。最も短く直接的です。"]
+ ],
+ "nn": "Based on the last rollout は実績に基づくため最も説得力があります。Realistically だけだと、根拠のない悲観論と受け取られることがあります。",
+ "e": [
+  ["Realistically, that will take twice as long — the last two integrations each took five months, not two.", "現実的には倍の時間がかかります。直近2件の統合はいずれも2か月ではなく5か月かかりました。"],
+  ["Realistically, that will take twice as long once you include the approval cycle.", "承認サイクルを含めれば、現実的には倍の時間がかかります。"]
+ ],
+ "p": [
+  ["Realistically, that will take [見積もり].", ["Realistically, that will take four months, not two.", "Realistically, that will take a full quarter."]],
+  ["Based on [実績], I'd plan for [数字].", ["Based on the last rollout, I'd plan for five months.", "In my experience, I'd double the integration estimate."]]
+ ],
+ "k": [
+  "倍数は twice as + 原級 + as。2倍は twice（two times とは言わない）。",
+  "見積もりを直すなら、必ず代替の数字を出す。",
+  "実績に基づく根拠が最も説得力がある。"
+ ]
+},
+"I'd rather flag it now than explain it later.": {
+ "t": "後で釈明するより、いま指摘しておきたいです。",
+ "tn": "指摘の動機を説明する型です。空気を読まない発言が、誠実さに変わります。",
+ "s": [
+  ["I'd rather flag it now", "would rather + 原形。"],
+  ["than explain it later", "than の後も原形が並びます。A と B を同じ形でそろえるのが基本です。"]
+ ],
+ "sn": "would rather A than B の A と B を、同じ形（原形 + it + 時の副詞）でそろえている点が要点です。対称にすることで、対比が耳に残ります。",
+ "v": [
+  ["flag", "注意を促す。"],
+  ["explain", "説明する。ここでは「釈明する」の含みで使われています。"],
+  ["now / later", "今と後で。対にして時間軸の対比を作ります。"]
+ ],
+ "n": [
+  ["I'd rather flag it now than explain it later.", "指摘の動機を示す。誠実に響きます。"],
+  ["Better to raise it than to discover it.", "気づかれるより提起する方がよい。"],
+  ["I'd rather be the one to say it.", "自分が言う方がよい。覚悟を示します。"],
+  ["This is easier to fix now than after go-live.", "今の方が直しやすい。実務的な理由です。"]
+ ],
+ "e": [
+  ["I'd rather flag it now than explain it later — the definition in the appendix does not match the one on slide 4.", "後で釈明するより今指摘します。付録の定義が4ページの定義と一致していません。"],
+  ["I'd rather flag it now than have the client find it in the steering group.", "ステアリングでクライアントに見つけられるより、今指摘しておきたいです。"]
+ ],
+ "p": [
+  ["I'd rather flag it now than [後で起きること].", ["I'd rather flag it now than apologize for it in March.", "I'd rather flag it now than rework it after sign-off."]],
+  ["[今やる理由]. [指摘の中身].", ["This is easier to fix now than after go-live: the two totals do not tie.", "Better to raise it than to discover it: the sample excludes part-timers."]]
+ ],
+ "k": [
+  "would rather A than B は A と B を同じ形でそろえる。",
+  "動機を先に説明すると、指摘が誠実さとして伝わる。",
+  "「今の方が直しやすい」は最も納得されやすい理由。"
+ ]
+},
+"Is there a risk we're underestimating this?": {
+ "t": "これを過小評価しているリスクはないでしょうか。",
+ "tn": "疑問形で共同検討にする型です。相手を批判せずに済みます。",
+ "s": [
+  ["Is there a risk", "There is 構文の疑問文。"],
+  ["(that) we're underestimating this?", "a risk を説明する同格の that節。that は省略されています。現在進行形で「いままさにそうしている」。"]
+ ],
+ "sn": "a risk that + 文 は同格の that です。risk の中身を説明しており、関係代名詞ではありません（that の後ろが完全な文になっています）。",
+ "v": [
+  ["underestimate", "低く見積もる。対は overestimate。"],
+  ["a risk that + 文", "〜というリスク。同格の that です。the risk of + 名詞 の形もあります。"],
+  ["we", "主語を we にすることで、共同の検討になります。"]
+ ],
+ "n": [
+  ["Is there a risk we're ...?", "共同の検討として問う。批判になりません。"],
+  ["Are we underestimating this?", "より直接的な問い。"],
+  ["What would it take for this to be bigger than we think?", "どうなれば想定より大きくなるかを問う。分析的です。"],
+  ["I think we're underestimating this.", "断定。最も強い言い方です。"]
+ ],
+ "e": [
+  ["Is there a risk we're underestimating this? The last integration ran three months over.", "これを過小評価しているリスクはないでしょうか。前回の統合は3か月超過しました。"],
+  ["Is there a risk we're underestimating the change management side?", "変革管理の側面を過小評価しているリスクはないでしょうか。"]
+ ],
+ "p": [
+  ["Is there a risk we're [誤りの種類] this?", ["Is there a risk we're overcomplicating this?", "Is there a risk we're solving for the wrong constraint?"]],
+  ["Is there a risk that [懸念]? [根拠].", ["Is there a risk that the pilot group is not typical? They volunteered.", "Is there a risk that the saving is already in the budget? Then it is not incremental."]]
+ ],
+ "k": [
+  "a risk that + 文 は同格の that。中身を説明する。",
+  "主語を we にすると、批判ではなく共同検討になる。",
+  "underestimate / overestimate は対の語。"
+ ]
+},
+"I don't want to overstate it, but it's material.": {
+ "t": "誇張はしたくありませんが、無視できない規模です。",
+ "tn": "冷静さを保ちつつ重要性を主張する型です。数字を添えると効きます。",
+ "s": [
+  ["I don't want to overstate it,", "否定の現在形。overstate が「大げさに言う」。"],
+  ["but it's material", "but で逆接。material が「重要な・無視できない」。"]
+ ],
+ "v": [
+  ["overstate", "over-（過度に）+ state（述べる）。大げさに言うこと。対は understate（控えめに言う）。"],
+  ["material", "もとは「物質的な」。会計・監査の文脈で「判断に影響する程度に重要な」という意味を持ち、ビジネス全般に広がりました。material impact（重要な影響）、not material（重要性がない）。"],
+  ["it's", "it is の短縮。"]
+ ],
+ "n": [
+  ["material", "判断に影響する程度に重要。会計由来で客観的。"],
+  ["significant", "無視できない大きさ。最も一般的です。"],
+  ["meaningful", "意味のある。やや主観的です。"],
+  ["trivial", "取るに足らない。反対の評価です。"]
+ ],
+ "nn": "material は会計・監査の用語として「判断に影響するかどうか」を基準にした言い方です。significant は日常語として広く使えますが、統計の文脈では「統計的に有意な」と誤解される余地があります。",
+ "e": [
+  ["I don't want to overstate it, but it's material — about 8% of the annual payroll.", "誇張はしたくありませんが、無視できない規模です。年間人件費のおよそ8%にあたります。"],
+  ["I don't want to overstate it, but this is the second time the same gap has appeared.", "誇張はしたくありませんが、同じ欠落が出るのはこれで2度目です。"]
+ ],
+ "p": [
+  ["I don't want to overstate it, but [重要性].", ["I don't want to overstate it, but it affects every entity.", "I don't want to overstate it, but the client has already noticed."]],
+  ["I don't want to [overstate / understate] it. [数字で裏づけ].", ["I don't want to overstate it. It is 40 million yen a year, or 3% of the budget.", "I don't want to understate it either: the risk is real but manageable."]]
+ ],
+ "k": [
+  "material は会計由来で「判断に影響する程度に重要」。",
+  "overstate / understate は対の語。",
+  "誇張を否定したら、必ず数字で規模を示す。"
+ ]
+}
+}

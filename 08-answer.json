@@ -1,0 +1,626 @@
+{
+"Short answer: no. Longer answer: it depends on volume.": {
+ "t": "端的にはノーです。詳しく言えば数量次第です。",
+ "tn": "結論を出しつつ条件も残せる型です。曖昧な回答を嫌う外資の会議に合います。",
+ "s": [
+  ["Short answer: no.", "名詞 + コロンの提示形。主語も動詞もありませんが、見出しのように機能する口語の定型です。"],
+  ["Longer answer: it depends on volume.", "同じ形の繰り返し。longer は long の比較級で、「もう少し長く言えば」。"]
+ ],
+ "sn": "2つの答えを並べる構造です。片方だけだと、短いと冷たく、長いと要点が見えません。両方を並べることで、歯切れと正確さが両立します。",
+ "v": [
+  ["short answer / long answer", "短い答えと詳しい答え。The short answer is ... と文にしてもよく、コロンで切る形は口頭でより軽く響きます。"],
+  ["depend on ~", "on が「その上に乗っている」ことを示します。何によって結果が変わるかを示す定番の形です。"],
+  ["volume", "ここでは「数量・取引量」。音量ではありません。business volume、deal volume のように使います。"]
+ ],
+ "n": [
+  ["Short answer: no.", "歯切れよく答える。会議向き。"],
+  ["No, with one caveat.", "否定に留保を添える。より正式です。"],
+  ["It depends.", "条件次第。単独だと答えを避けた印象になります。"],
+  ["Not as things stand.", "現状では無理。状況が変われば別だと示します。"]
+ ],
+ "e": [
+  ["Short answer: no. Longer answer: it depends on whether we can redeploy rather than exit.", "端的にはノーです。詳しく言えば、退職ではなく配置転換で進められるかどうか次第です。"],
+  ["Short answer: yes. Longer answer: yes for the Japan entity, not yet for the group.", "端的にはイエスです。詳しく言えば、日本法人についてはイエス、グループ全体についてはまだです。"]
+ ],
+ "p": [
+  ["Short answer: [回答]. Longer answer: [条件].", ["Short answer: yes. Longer answer: only if we start before April.", "Short answer: not yet. Longer answer: the data arrives next month."]],
+  ["The short answer is [回答]. The long answer is that [詳細].", ["The short answer is no. The long answer is that the cost sits in the transition, not the licence.", "The short answer is yes. The long answer is that it depends on who owns it afterwards."]]
+ ],
+ "k": [
+  "短い答えと詳しい答えを両方言うと、歯切れと正確さが両立する。",
+  "depend on の on は「その上に乗っている」。",
+  "It depends. だけで終えると、答えを避けた印象になる。"
+ ]
+},
+"Two things on that.": {
+ "t": "その点について2つあります。",
+ "tn": "話し始める前に数を宣言すると、構造的に聞こえて時間ももらいやすくなります。",
+ "s": [
+  ["Two things", "名詞句のみ。There are two things on that. の省略形で、口語ではこの形が自然です。"],
+  ["on that", "on が「どの点について」を示します。"]
+ ],
+ "sn": "主語と動詞のない短い発話ですが、会議では完全に自然です。省略が多いほど口語的になるため、社外のかしこまった場では There are two things I'd add. と文にする手もあります。",
+ "v": [
+  ["thing", "最も汎用的な名詞。論点・事項・考えなど、広く指せます。two things / a couple of things。"],
+  ["on that", "論点を示す on。about that もほぼ同義で、on の方がやや議論寄りの響きです。"],
+  ["two", "数を先に言うことが要点。宣言した数だけ話すと、構造的に聞こえます。"]
+ ],
+ "n": [
+  ["Two things on that.", "最も短い宣言。口語的で素早い。"],
+  ["I'd make two points.", "2点述べる。ややかたい言い方です。"],
+  ["There are two things I'd add.", "2つ付け加える。最も完全な形です。"],
+  ["Let me give you two reasons.", "理由を2つ挙げる。中身の種類まで宣言します。"]
+ ],
+ "e": [
+  ["Two things on that. First, the sample excludes contractors. Second, the period is nine months, not twelve.", "その点について2つあります。1つ目、サンプルに業務委託が含まれていません。2つ目、期間は12か月ではなく9か月です。"],
+  ["Two things on the timeline — the audit, and the summer shutdown.", "日程について2点あります。監査と、夏季の稼働停止です。"]
+ ],
+ "p": [
+  ["[Two] things on that.", ["Three things on that.", "One thing on that."]],
+  ["[数] things on [論点]: [列挙].", ["Two things on cost: the licence and the transition.", "Three things on risk: data, people, and timing."]]
+ ],
+ "k": [
+  "数を先に宣言すると、構造的に聞こえて時間をもらいやすい。",
+  "宣言した数だけ話す。足りないと準備不足に聞こえる。",
+  "社外のかしこまった場では There are two things I'd add. と文にする。"
+ ]
+},
+"I don't have that number in front of me. I'll follow up by end of day.": {
+ "t": "その数字は手元にありません。本日中に追ってご連絡します。",
+ "tn": "知らないことを認めても、期限を添えれば信頼は落ちません。曖昧に濁す方がはるかに危険です。",
+ "s": [
+  ["I don't have that number in front of me.", "現在形の否定。in front of me が「目の前に」で、いま手元にないことを示します。"],
+  ["I'll follow up by end of day.", "I will の短縮。その場での意思決定を表します。by が期限を示します。"]
+ ],
+ "sn": "2文の構成が要点です。1文目で現状、2文目で約束。片方だけだと、言い訳か空約束になります。",
+ "v": [
+  ["in front of me", "直訳は「私の前に」。資料やデータが手元にないことを表す定型表現で、知識がないという意味にはなりません。"],
+  ["follow up", "追って連絡する・後を追う。follow up on A（Aについて追う）、follow up with A（Aに連絡する）と前置詞で対象が変わります。"],
+  ["by end of day", "その日の終わりまでに。EOD と略されることもあります。by が期限を示します。"]
+ ],
+ "n": [
+  ["I don't have that in front of me.", "手元にない。知識不足とは別です。"],
+  ["I don't know off the top of my head.", "即座には思い出せない。口語的です。"],
+  ["Let me come back to you on that.", "後で回答する。最も一般的です。"],
+  ["I'd be guessing.", "推測になってしまう。答えない理由を明示します。"]
+ ],
+ "nn": "I'd be guessing. は「推測はしたくない」という姿勢を示せる便利な一言です。どれも、期限とセットで使うことで誠実さが伝わります。",
+ "e": [
+  ["I don't have that number in front of me. I'll follow up by end of day with the exact figure and the source.", "その数字は手元にありません。本日中に正確な数値と出典をお送りします。"],
+  ["I don't have the breakdown in front of me — let me come back to you tomorrow morning.", "内訳は手元にありません。明日の午前中にご連絡します。"]
+ ],
+ "p": [
+  ["I don't have [対象] in front of me. I'll follow up by [期限].", ["I don't have the contract in front of me. I'll follow up by Thursday.", "I don't have the latest version in front of me. I'll follow up this afternoon."]],
+  ["I'd be guessing. [代替案].", ["I'd be guessing. Let me check and send it within the hour.", "I'd be guessing. What I can tell you now is the direction."]]
+ ],
+ "k": [
+  "in front of me は「手元にない」。知識不足という意味ではない。",
+  "follow up は必ず期限とセットで言う。",
+  "曖昧に濁すより、知らないと認めて期限を示す方が信頼される。"
+ ]
+},
+"Let me answer that in two parts.": {
+ "t": "2つに分けてお答えします。",
+ "tn": "複合的な質問を受けたときの整理の型です。答え漏れを防げます。",
+ "s": [
+  ["Let me answer that", "Let + me + 原形 answer。answer は他動詞なので前置詞は不要です。"],
+  ["in two parts", "in が「〜の形で」を示します。手段や様態を表す in です。"]
+ ],
+ "v": [
+  ["answer", "他動詞。answer a question が正しい形で、answer to a question とは言いません（answer to A は「Aに対して責任を負う」という別の意味です）。"],
+  ["in ~ parts", "in が様態を示します。in two parts、in three steps、in brief。"],
+  ["part", "部分。分割の単位として使います。"]
+ ],
+ "n": [
+  ["Let me answer that in two parts.", "分けて答える宣言。答え漏れを防ぎます。"],
+  ["There are two questions there.", "質問が2つあると指摘する。相手の整理を促します。"],
+  ["Let me take those one at a time.", "ひとつずつ扱う。口語的です。"],
+  ["Which part would you like first?", "どちらから答えるか尋ねる。相手に選ばせます。"]
+ ],
+ "e": [
+  ["Let me answer that in two parts: first whether it is feasible, then whether it is worth doing.", "2つに分けてお答えします。まず実行可能かどうか、次にやる価値があるかどうかです。"],
+  ["Let me answer that in two parts — the Japan view and the group view.", "2つに分けてお答えします。日本の視点とグループ全体の視点です。"]
+ ],
+ "p": [
+  ["Let me answer that in [n] parts.", ["Let me answer that in three parts.", "Let me answer that in two parts: the what and the when."]],
+  ["There are [n] questions there. Let me take them one at a time.", ["There are two questions there. Let me take them one at a time.", "There are really three questions in that. Let me separate them."]]
+ ],
+ "k": [
+  "answer は他動詞。answer to は「責任を負う」の別の意味。",
+  "in two parts の in は様態を示す。",
+  "複合質問は分割を宣言してから答えると、漏れが出ない。"
+ ]
+},
+"That's outside my area, but I can connect you with the right person.": {
+ "t": "私の担当領域外ですが、適任者につなぎます。",
+ "tn": "答えられない質問を「次の行動」に変換する型です。無言や推測よりはるかに良い対応になります。",
+ "s": [
+  ["That's outside my area,", "outside が前置詞で「〜の外側」。my area で「自分の担当領域」。"],
+  ["but I can connect you with the right person", "connect A with B で「AをBにつなぐ」。前置詞は with または to が使えます。"]
+ ],
+ "v": [
+  ["outside my area", "担当範囲の外。out of my area も使えますが、outside の方が境界を示す感じが明確です。not my area とも言えます。"],
+  ["connect A with B", "with が「相手と結びつける」。connect A to B も使えます。put A in touch with B も同じ意味の定型です。"],
+  ["the right person", "適任者。the が付くのは「その件に対する正しい一人」と特定されるためです。"]
+ ],
+ "n": [
+  ["That's outside my area.", "担当外。中立で、能力不足の含みはありません。"],
+  ["I'm not the best person to answer that.", "自分より適任がいる。ていねいです。"],
+  ["Let me bring in someone closer to it.", "詳しい人を入れる。行動を示します。"],
+  ["I'd be speculating.", "推測になる。答えない理由を示します。"]
+ ],
+ "e": [
+  ["That's outside my area, but I can connect you with our tax lead — she looked at the entity question last quarter.", "私の担当領域外ですが、税務の責任者につなぎます。前四半期に法人形態の論点を検討しています。"],
+  ["That's outside my area. Let me bring in someone closer to it and come back to you by Friday.", "私の担当領域外です。詳しい者を入れて、金曜までにご連絡します。"]
+ ],
+ "p": [
+  ["That's outside [my area], but I can [代替行動].", ["That's outside my area, but I can find out who owns it.", "That's outside the scope of this phase, but I can flag it to the steering group."]],
+  ["I'm not the best person to answer that. [次の行動].", ["I'm not the best person to answer that. Let me put you in touch with the data team.", "I'm not the best person for that. I'll ask and come back by tomorrow."]]
+ ],
+ "k": [
+  "answer できないときは「次の行動」に変換する。",
+  "connect A with / to B。put A in touch with B も同義。",
+  "outside my area は能力不足ではなく担当範囲の話。"
+ ]
+},
+"The honest answer is we don't know yet.": {
+ "t": "正直に言えば、まだ分かっていません。",
+ "tn": "分からないと言い切れる人は信用されます。ただし必ず「いつ分かるか」を続けます。",
+ "s": [
+  ["The honest answer is", "S + be。the honest answer で「取り繕わない答え」。"],
+  ["(that) we don't know yet", "that節。that は省略されています。yet が「まだ」。"]
+ ],
+ "v": [
+  ["honest", "正直な。the honest answer は「飾らない答え」で、それまで嘘をついていたという含みはありません。"],
+  ["yet", "否定文で「まだ」。今後分かる可能性を残します。これがないと「分からない」で終わってしまいます。"],
+  ["we don't know", "主語を we にすることで、個人の不勉強ではなくチームとしての未解明だと示せます。"]
+ ],
+ "n": [
+  ["The honest answer is we don't know yet.", "未解明を認める。yet で今後を残します。"],
+  ["We don't have a view on that yet.", "まだ見解がない。よりていねいです。"],
+  ["That's still open.", "未決着。短く中立です。"],
+  ["We're still working on it.", "作業中。進行中であることを示します。"]
+ ],
+ "e": [
+  ["The honest answer is we don't know yet. The cohort data arrives on the fifteenth, and we'll have a view that week.", "正直に言えば、まだ分かっていません。コホートデータが15日に届くので、その週には見解を出せます。"],
+  ["The honest answer is we don't know yet, and I'd rather say that than give you a number we can't stand behind.", "正直に言えばまだ分かっていません。根拠を示せない数字を出すより、そう申し上げます。"]
+ ],
+ "p": [
+  ["The honest answer is [未解明の内容]. [いつ分かるか].", ["The honest answer is we don't know yet. We'll know after the pilot closes.", "The honest answer is it's too early to say. Give us two weeks."]],
+  ["We don't know yet. What we do know is [分かっていること].", ["We don't know the cause yet. What we do know is that it started in Q2.", "We don't know the full cost yet. What we do know is the order of magnitude."]]
+ ],
+ "k": [
+  "yet を入れると「今後分かる」という含みが残る。",
+  "分からないと言ったら、必ず「いつ分かるか」を続ける。",
+  "分かっていることを併せて言うと、価値のある回答になる。"
+ ]
+},
+"Does that answer your question, or would you like more detail?": {
+ "t": "ご質問の答えになっていますか。もっと詳しく必要でしょうか。",
+ "tn": "回答を締める型です。言いっぱなしを防ぎ、会話のターンをていねいに渡せます。",
+ "s": [
+  ["Does that answer your question,", "疑問文。answer が他動詞で your question を目的語に取っています。"],
+  ["or would you like more detail?", "選択疑問。would you like で、ていねいな申し出になります。"]
+ ],
+ "sn": "2つの選択肢を示す形が要点です。Does that answer your question? だけだと Yes/No で終わりますが、or 以下を足すことで、足りない場合に相手が言い出しやすくなります。",
+ "v": [
+  ["answer your question", "質問に答える。answer は他動詞です。"],
+  ["would you like ~", "do you want ~ のていねいな形。申し出や勧めに使います。"],
+  ["detail", "詳細。more detail（不可算）、the details（具体的な項目、可算）で使い分けます。"]
+ ],
+ "n": [
+  ["Does that answer your question?", "答えになっているかを問う。最も一般的。"],
+  ["Did I cover what you were asking?", "聞かれたことを扱えたか。ややくだけています。"],
+  ["Was that helpful?", "役に立ったか。相手の受け取り方を問います。"],
+  ["Happy to go deeper if useful.", "必要なら掘り下げる。申し出の形です。"]
+ ],
+ "e": [
+  ["Does that answer your question, or would you like more detail on how we built the estimate?", "ご質問の答えになっていますか。見積もりの作り方について、もっと詳しく必要でしょうか。"],
+  ["Does that answer it, or would you like the numbers behind it?", "答えになっていますか。それとも背後の数字をご覧になりますか。"]
+ ],
+ "p": [
+  ["Does that answer your question, or would you like more detail on [話題]?", ["Does that answer your question, or would you like more detail on the method?", "Does that answer your question, or shall I take you through the data?"]],
+  ["[締めの確認]? [申し出].", ["Was that what you were after? Happy to go deeper if useful.", "Did I cover it? I can send the backup after the call."]]
+ ],
+ "k": [
+  "or 以下を足すと、足りない場合に相手が言い出しやすい。",
+  "would you like は do you want のていねいな形。",
+  "回答を締めると、言いっぱなしを防げる。"
+ ]
+},
+"I'd rather give you an accurate number later than a wrong one now.": {
+ "t": "今その場で誤った数字を出すより、後で正確な数字をお出ししたいです。",
+ "tn": "即答を求められて数字がないときの防御です。逃げではなく品質へのこだわりとして聞こえます。",
+ "s": [
+  ["I'd rather give you an accurate number later", "would rather + 原形。主語が自分なので原形が続きます。"],
+  ["than a wrong one now", "than 以下は省略形。give you a wrong one now の繰り返しを避けています。one は number を受ける代名詞です。"]
+ ],
+ "sn": "would rather A than B の形です。A と B は同じ形で並べます（ここは原形の give とその目的語）。one が number を受けることで、繰り返しを避けつつ対比が保たれています。",
+ "v": [
+  ["would rather A than B", "BよりAを選びたい。prefer A to B と同義ですが、would rather の方が口語的で、その場の選択に向きます。"],
+  ["accurate", "正確な。precise（精密な）とは別で、accurate は「真の値に近い」、precise は「ばらつきが小さい」。"],
+  ["one", "前に出た可算名詞を受ける代名詞。a wrong one で「誤った数字」。"]
+ ],
+ "n": [
+  ["I'd rather ... than ...", "AよりBを選ぶ。その場の選択に向きます。"],
+  ["I'd prefer to ... rather than ...", "ほぼ同義。ややかたい言い方です。"],
+  ["I'd be guessing if I answered now.", "いま答えれば推測になる。理由を示します。"],
+  ["Let me get you the right number.", "正しい数字を届ける。行動を約束します。"]
+ ],
+ "e": [
+  ["I'd rather give you an accurate number on Thursday than a wrong one now — the two systems disagree by about 8%.", "今その場で誤った数字を出すより、木曜に正確な数字をお出ししたいです。2つのシステムで約8%の差があります。"],
+  ["I'd rather send you the verified figure tomorrow than quote a range I can't defend.", "根拠を示せない幅を口にするより、明日に検証済みの数字をお送りしたいです。"]
+ ],
+ "p": [
+  ["I'd rather [正しくやる] later than [誤ってやる] now.", ["I'd rather send a clean version tomorrow than a draft tonight.", "I'd rather check and confirm than guess and correct."]],
+  ["I'd rather [A] than [B]. [期限].", ["I'd rather verify than estimate. I'll have it by noon.", "I'd rather give you one number I trust than three I don't. Thursday works?"]]
+ ],
+ "k": [
+  "would rather A than B。A と B は同じ形で並べる。",
+  "one は前に出た可算名詞を受ける代名詞。",
+  "即答できないときは、品質の理由と期限をセットで示す。"
+ ]
+},
+"Yes — with one important qualification.": {
+ "t": "はい。ただし1点重要な条件があります。",
+ "tn": "肯定を先に出して条件を後置する型です。歯切れの良さを保ったまま、留保を残せます。",
+ "s": [
+  ["Yes —", "まず結論。ダッシュで次につなぎます。"],
+  ["with one important qualification", "付帯の with句。one が数を限定し、important が重みを示します。"]
+ ],
+ "v": [
+  ["qualification", "ここでは「資格」ではなく「限定・留保条件」。動詞 qualify（限定する）の名詞形です。文脈で意味が変わる語なので注意します。"],
+  ["with", "付帯の with。「〜を伴って」。"],
+  ["important", "重要な。留保が形式的なものではないと示します。"]
+ ],
+ "n": [
+  ["qualification", "発言の範囲を狭める限定。論理的な条件づけです。"],
+  ["caveat", "但し書き。注意を促す留保です。"],
+  ["condition", "満たされるべき条件。拘束力があります。"],
+  ["exception", "例外。適用されない範囲を示します。"]
+ ],
+ "nn": "qualification と caveat は近い語です。qualification は「主張の範囲を限定する」、caveat は「注意を促す」という方向の違いがあり、実務では交換して使われることもあります。",
+ "e": [
+  ["Yes — with one important qualification: that holds for the permanent staff, not for contractors.", "はい。ただし1点重要な限定があります。これは正社員に当てはまる話で、業務委託には当てはまりません。"],
+  ["Yes — with one important qualification: the saving appears in year two, not year one.", "はい。ただし1点重要な限定があります。削減効果が出るのは2年目で、初年度ではありません。"]
+ ],
+ "p": [
+  ["Yes — with one important qualification: [限定].", ["Yes — with one important qualification: it assumes no change to the regulation.", "Yes — with one qualification: that applies to the Japan entity only."]],
+  ["[Yes / No] — with [n] [qualifications / caveats]: [列挙].", ["Yes — with two caveats: the sample and the period.", "No — with one exception: the pilot sites."]]
+ ],
+ "k": [
+  "qualification は「資格」ではなく「限定・留保」。文脈で意味が変わる。",
+  "肯定を先に出し、条件は後置する。逆だと逃げに聞こえる。",
+  "付帯の with で条件を足す。数を先に言う。"
+ ]
+},
+"I can answer half of that now.": {
+ "t": "その半分は今お答えできます。",
+ "tn": "全部に答えられないとき、答えられる範囲を明示する型です。黙るより価値があります。",
+ "s": [
+  ["I can answer half of that", "half of A で「Aの半分」。of の後ろは特定のものを指します。"],
+  ["now", "副詞。「いまこの場では」という時間の限定です。"]
+ ],
+ "sn": "now が効いています。「いまは半分、残りは後で」という含みが生まれ、残りを放置する印象になりません。",
+ "v": [
+  ["half of ~", "of の後ろが特定のものなら half of that / half of the team、一般的なものなら half the team のように of を省けます。"],
+  ["answer", "他動詞。"],
+  ["now", "いま。later と対にして使うと、時間軸が明確になります。"]
+ ],
+ "n": [
+  ["I can answer half of that now.", "答えられる範囲を示す。実務的。"],
+  ["I can give you a partial answer.", "部分的な回答。ややかたい言い方です。"],
+  ["Let me take the first part now.", "まず前半を扱う。順序を示します。"],
+  ["On the first question, ...", "1つ目の質問について。黙って答え始める形です。"]
+ ],
+ "e": [
+  ["I can answer half of that now — the cost side. The revenue side needs the updated forecast.", "その半分、費用側は今お答えできます。収益側は更新後の見通しが必要です。"],
+  ["I can answer half of that now and the rest after I check with legal.", "半分は今お答えできます。残りは法務に確認してからお伝えします。"]
+ ],
+ "p": [
+  ["I can answer [範囲] of that now.", ["I can answer the first part of that now.", "I can answer most of that now."]],
+  ["I can answer [A] now. [B] needs [条件].", ["I can answer the what now. The when needs the resourcing plan.", "I can give you the direction now. The number needs the close."]]
+ ],
+ "k": [
+  "half of + 特定のもの、half + 一般的なもの（of の省略）。",
+  "now を入れると「残りは後で」という含みが出る。",
+  "答えられる範囲を示すと、黙るより価値がある。"
+ ]
+},
+"Let me give you the number, then the caveat.": {
+ "t": "先に数字を、その後に留保をお伝えします。",
+ "tn": "留保を先に言うと逃げに聞こえます。数字を先、条件を後ろに置くのが要点です。",
+ "s": [
+  ["Let me give you the number,", "Let + me + 原形 give。二重目的語構文です。"],
+  ["then the caveat", "then の後は give you の繰り返しを省略し、目的語だけを並べています。"]
+ ],
+ "sn": "省略が効いている文です。Let me give you the number, then (let me give you) the caveat. の括弧部分が落ちています。短く言えるぶん、順序の宣言が際立ちます。",
+ "v": [
+  ["caveat", "但し書き・注意すべき留保。"],
+  ["then", "その後で。順序を示す副詞です。"],
+  ["the number", "the が付くのは、相手が聞きたい特定の数字を指すためです。"]
+ ],
+ "n": [
+  ["the number, then the caveat", "数字が先、留保が後。歯切れがよい順序。"],
+  ["the caveat, then the number", "留保が先。慎重だが、逃げに聞こえることがあります。"],
+  ["the headline, then the detail", "要旨が先、詳細が後。同じ考え方です。"],
+  ["the answer, then the method", "結論が先、方法が後。会議向きの順序です。"]
+ ],
+ "e": [
+  ["Let me give you the number, then the caveat. It's 18%. The caveat is that it excludes the two sites we acquired in June.", "先に数字を、その後に留保をお伝えします。18%です。留保として、6月に取得した2拠点は含まれていません。"],
+  ["Let me give you the recommendation, then the risks.", "先に提言を、その後にリスクをお伝えします。"]
+ ],
+ "p": [
+  ["Let me give you [the number], then [the caveat].", ["Let me give you the answer, then the assumptions.", "Let me give you the headline, then the detail."]],
+  ["[結論を先に]. [留保を後に].", ["It's 18%. The caveat is the June acquisitions.", "We'd recommend option B. The risk is the integration timeline."]]
+ ],
+ "k": [
+  "数字（結論）が先、留保が後。逆だと逃げに聞こえる。",
+  "then の後は動詞の繰り返しを省略できる。",
+  "留保は必ず言う。言わずに後で崩れる方が損失が大きい。"
+ ]
+},
+"The best estimate I can give you today is 15%.": {
+ "t": "本日時点の最善の見積もりは15%です。",
+ "tn": "確度を落とさずに即答する型です。範囲を添えると、さらに誠実さが伝わります。",
+ "s": [
+  ["The best estimate I can give you today", "主語。The best estimate (that) I can give you today の関係代名詞が省略されています。"],
+  ["is 15%", "補語。"]
+ ],
+ "sn": "today が時間を限定しているのが要点です。「今日の時点での最善」と言うことで、後日更新されても矛盾しません。",
+ "v": [
+  ["estimate", "見積もり。名詞は「エスティメット」、動詞は「エスティメイト」と発音が変わります。"],
+  ["best", "good の最上級。the best X I can give you で「いま出せる最善のX」。"],
+  ["today", "本日時点。as of today とすると、さらに明確になります。"]
+ ],
+ "n": [
+  ["The best estimate I can give you today is X.", "現時点の最善。後の更新と矛盾しません。"],
+  ["It's around X.", "おおよそX。最も簡潔です。"],
+  ["It's somewhere between X and Y.", "XからYの間。幅で示します。"],
+  ["Call it X for planning purposes.", "計画上はXとする。実務的な割り切りです。"]
+ ],
+ "nn": "数字に幅があるときは、点ではなく範囲で示す somewhere between X and Y が最も正確です。計画に使う数字が必要なら Call it X for planning purposes. が実務的です。",
+ "e": [
+  ["The best estimate I can give you today is 15%, with a range of 12 to 18 depending on the redeployment rate.", "本日時点の最善の見積もりは15%です。配置転換率によって12から18の幅があります。"],
+  ["The best estimate I can give you today is three months. I'll firm it up after the vendor call.", "本日時点の最善の見積もりは3か月です。ベンダーとの打ち合わせ後に確定します。"]
+ ],
+ "p": [
+  ["The best estimate I can give you today is [数値].", ["The best estimate I can give you today is 40 million yen.", "The best number I can give you today is a range, not a point."]],
+  ["[数値], with a range of [下限] to [上限], depending on [要因].", ["15%, with a range of 12 to 18, depending on adoption.", "Six months, with a range of four to nine, depending on approvals."]]
+ ],
+ "k": [
+  "today で時点を限定すると、後の更新と矛盾しない。",
+  "estimate は名詞と動詞で発音が変わる。",
+  "幅があるときは、点ではなく範囲で示す。"
+ ]
+},
+"I'd need to check before I answer that properly.": {
+ "t": "きちんとお答えするには確認が必要です。",
+ "tn": "推測で答えない姿勢を示す型です。必ず期限をセットで言います。",
+ "s": [
+  ["I'd need to check", "I would need to で、控えめに必要性を述べます。I need to より押しつけがましくありません。"],
+  ["before I answer that properly", "before が接続詞。properly が「きちんと」。"]
+ ],
+ "v": [
+  ["properly", "きちんと・適切に。ここでは「いい加減にではなく」という対比を含みます。"],
+  ["check", "確かめる。軽い語なので、時間がかからない印象を与えられます。"],
+  ["I'd need to", "必要性を控えめに述べる形。I would need to の短縮です。"]
+ ],
+ "n": [
+  ["I'd need to check before I answer properly.", "確認が必要。推測しない姿勢を示します。"],
+  ["Let me come back to you on that.", "後で回答する。最も一般的です。"],
+  ["I don't want to guess.", "推測したくない。理由を明示します。"],
+  ["Can I confirm and revert by [time]?", "確認して返答してよいか。期限つきの申し出です。"]
+ ],
+ "e": [
+  ["I'd need to check before I answer that properly — I'll come back to you by three o'clock.", "きちんとお答えするには確認が必要です。15時までにご連絡します。"],
+  ["I'd need to check the contract wording before I answer that properly. Give me until tomorrow.", "きちんとお答えするには契約文言の確認が必要です。明日までお時間をください。"]
+ ],
+ "p": [
+  ["I'd need to check before I answer that properly. I'll come back by [期限].", ["I'd need to check before I answer properly. I'll come back by Friday.", "I'd need to confirm with finance first. I'll revert this afternoon."]],
+  ["I don't want to guess. [確認すること] and [期限].", ["I don't want to guess. Let me verify the base year and come back today.", "I don't want to guess. I'll check with the data team and reply within the hour."]]
+ ],
+ "k": [
+  "I'd need to は控えめな必要性の表現。",
+  "properly は「いい加減にではなく」という対比を含む。",
+  "確認が必要と言ったら、必ず期限を添える。"
+ ]
+},
+"That depends on how we define success.": {
+ "t": "それは成功をどう定義するか次第です。",
+ "tn": "答えを保留しつつ論点を返す型です。曖昧な質問への正攻法になります。",
+ "s": [
+  ["That depends on ~", "depend on A で「A次第である」。on は接触の前置詞です。"],
+  ["how we define success", "疑問詞 how が導く名詞節が on の目的語。間接疑問なので語順は平叙文のままです。"]
+ ],
+ "sn": "間接疑問の語順に注意します。How do we define success? が独立した疑問文、how we define success が埋め込まれた形です。",
+ "v": [
+  ["depend on ~", "on が「その上に乗っている」ことを示します。depend from とは言いません。"],
+  ["define", "定義する。definition（定義）、by definition（定義上）。"],
+  ["success", "成功。不可算で使うのが基本ですが、a success（成功した事例）と可算にもなります。"]
+ ],
+ "n": [
+  ["That depends on how we define X.", "定義次第。論点を返します。"],
+  ["It depends on what we're optimizing for.", "何を最適化しているか次第。より分析的です。"],
+  ["That's a different question depending on the time horizon.", "時間軸によって別の問いになる。軸を示します。"],
+  ["It depends.", "条件次第。単独では答えを避けた印象です。"]
+ ],
+ "nn": "It depends. だけで終えるのは避けます。何に依存するのかを必ず続けると、保留が分析になります。",
+ "e": [
+  ["That depends on how we define success. If it's cost, option A wins. If it's speed, option B does.", "それは成功をどう定義するか次第です。費用なら案A、速度なら案Bが優れます。"],
+  ["That depends on how we define headcount — with or without contractors, the answer changes by 12%.", "それは人員をどう定義するか次第です。業務委託を含むかどうかで、答えが12%変わります。"]
+ ],
+ "p": [
+  ["That depends on how we define [語].", ["That depends on how we define 'ready'.", "That depends on how we define the baseline."]],
+  ["That depends on [要因]. If [A], then [X]. If [B], then [Y].", ["That depends on the time horizon. Over one year, no. Over three, yes.", "That depends on who pays. If it's the business unit, the answer changes."]]
+ ],
+ "k": [
+  "間接疑問は平叙文の語順（how we define success）。",
+  "depend on の on は固定。",
+  "It depends. で終えず、何に依存するかを必ず続ける。"
+ ]
+},
+"Good question — I asked the same thing last week.": {
+ "t": "良い質問です。私も先週同じことを聞きました。",
+ "tn": "共感から入って答えにつなげる型です。場が和み、考える時間も稼げます。",
+ "s": [
+  ["Good question —", "That's a good question. の省略形。口語では冠詞も主語も落とします。"],
+  ["I asked the same thing last week", "過去形。the same thing の the は省略できません。"]
+ ],
+ "v": [
+  ["good question", "良い質問。評価であると同時に、考える時間を作る緩衝句としても働きます。多用すると形式的に響くので、頻度には注意します。"],
+  ["the same thing", "同じこと。same には必ず the が付きます。"],
+  ["last week", "先週。無冠詞で使います。"]
+ ],
+ "n": [
+  ["Good question.", "質問を評価する。最も一般的。"],
+  ["I wondered the same thing.", "同じ疑問を持った。共感を示します。"],
+  ["That came up last week too.", "先週も出た。議論の履歴を共有します。"],
+  ["That's the question, isn't it?", "まさにそれが論点だ。同意を強めます。"]
+ ],
+ "nn": "Good question. は便利ですが、連発すると時間稼ぎに聞こえます。具体的な共感（I wondered the same thing）を添えると、形式的に響きません。",
+ "e": [
+  ["Good question — I asked the same thing last week. The answer is that the two surveys use different populations.", "良い質問です。私も先週同じことを聞きました。答えは、2つの調査が異なる母集団を使っているからです。"],
+  ["Good question. That came up in the steering group too, and we parked it until the audit closes.", "良い質問です。ステアリンググループでも出た論点で、監査完了まで保留としています。"]
+ ],
+ "p": [
+  ["Good question — I asked the same thing [いつ].", ["Good question — I asked the same thing when I first saw the data.", "Good question — that came up last month too."]],
+  ["[共感] — [答えへの橋渡し].", ["I wondered the same thing. Here's what I found.", "That's the question, isn't it? Let me give you where we landed."]]
+ ],
+ "k": [
+  "the same thing の the は省略できない。",
+  "Good question. の連発は時間稼ぎに聞こえる。具体的な共感を添える。",
+  "共感から入ると場が和み、考える時間も稼げる。"
+ ]
+},
+"Let me answer that with an example.": {
+ "t": "例を挙げてお答えします。",
+ "tn": "抽象的な質問を具体で返す型です。英語としても組み立てやすくなります。",
+ "s": [
+  ["Let me answer that", "Let + me + 原形 answer。"],
+  ["with an example", "手段の with。「例を使って」。"]
+ ],
+ "v": [
+  ["with", "手段の with。道具や材料を示します。by + 動名詞（by giving an example）は方法を示し、どちらも使えます。"],
+  ["example", "例。an example of A（Aの例）、for example（たとえば）。"],
+  ["answer", "他動詞。"]
+ ],
+ "n": [
+  ["Let me answer that with an example.", "例で答える。具体性が出ます。"],
+  ["Let me give you a concrete case.", "具体例を挙げる。ほぼ同義です。"],
+  ["Take the Osaka team, for instance.", "具体例から入る。宣言せずに始めます。"],
+  ["The simplest way to answer that is ...", "最も簡単な答え方は。形式を宣言します。"]
+ ],
+ "e": [
+  ["Let me answer that with an example. Last year the Nagoya office ran the same process with two fewer reviewers and the cycle time dropped.", "例を挙げてお答えします。昨年、名古屋オフィスは査定者2名減で同じ運用を行い、所要日数が短縮しました。"],
+  ["Let me answer that with an example from the pilot rather than in the abstract.", "抽象論ではなく、パイロットの事例でお答えします。"]
+ ],
+ "p": [
+  ["Let me answer that with [an example].", ["Let me answer that with a number.", "Let me answer that with a comparison."]],
+  ["Let me answer that with an example: [具体例].", ["Let me answer that with an example: take a team of twenty with one manager.", "Let me answer that with an example from last quarter."]]
+ ],
+ "k": [
+  "手段の with（with an example）。",
+  "抽象的な質問は具体で返すと、英語としても組み立てやすい。",
+  "例を挙げると宣言したら、必ず1つの事例に絞る。"
+ ]
+},
+"I'll give you the short version now and the detail later.": {
+ "t": "いまは要点を、詳細は後ほどお伝えします。",
+ "tn": "時間が押している会議で使います。長い説明を安全に切り上げられます。",
+ "s": [
+  ["I'll give you the short version now", "I will の短縮。give A B の二重目的語構文です。"],
+  ["and the detail later", "and の後は give you の繰り返しを省略し、目的語と副詞だけを並べています。"]
+ ],
+ "sn": "now と later の対比が構造を作っています。この2語があることで、省略した部分も自然に補われて聞こえます。",
+ "v": [
+  ["the short version", "短縮版。the long version（詳しい版）と対です。口語で広く使われます。"],
+  ["detail", "詳細。the detail（不可算、詳しい中身）と the details（可算、個々の項目）で使い分けます。"],
+  ["later", "後で。具体的な時点を示すときは after the call、by Friday などに置き換えます。"]
+ ],
+ "n": [
+  ["the short version now, the detail later", "要点と詳細を時間で分ける。会議向き。"],
+  ["I'll be brief.", "手短にする。宣言だけです。"],
+  ["In the interest of time, ...", "時間の都合上。やや形式的です。"],
+  ["I'll put the detail in writing.", "詳細は文書で。後の形式まで示します。"]
+ ],
+ "e": [
+  ["I'll give you the short version now and the detail in the write-up tomorrow.", "いまは要点を、詳細は明日の報告書でお伝えします。"],
+  ["I'll give you the short version now — we are two weeks behind — and walk through the recovery plan after the break.", "いまは要点を申し上げます。2週間の遅れです。挽回策は休憩後に順を追って説明します。"]
+ ],
+ "p": [
+  ["I'll give you the short version now and the detail [いつ / どこで].", ["I'll give you the short version now and the detail in the appendix.", "I'll give you the headline now and the backup after the meeting."]],
+  ["In the interest of time, [短縮版]. [詳細の届け方].", ["In the interest of time, the answer is yes. I'll send the reasoning in writing.", "In the interest of time, here are the three numbers. The method is in the pack."]]
+ ],
+ "k": [
+  "now と later の対比が、省略を自然にする。",
+  "detail（不可算）と details（可算）を使い分ける。",
+  "詳細をいつどこで届けるかまで示すと、切り上げても不安を与えない。"
+ ]
+},
+"To be honest, that's a gap in our analysis.": {
+ "t": "正直に申し上げると、そこは分析の抜けです。",
+ "tn": "隠すより認める型です。対応策を即座に添えれば、評価は下がりません。",
+ "s": [
+  ["To be honest,", "独立不定詞の前置き。「正直なところ」。"],
+  ["that's a gap in our analysis", "a gap in A で「Aの中の欠落」。前置詞は in です。"]
+ ],
+ "v": [
+  ["gap", "すき間・欠落。a gap in the analysis（分析の抜け）、a gap in the data（データの欠落）。前置詞は in で、中に空いた穴という感覚です。"],
+  ["to be honest", "正直に言えば。frankly とほぼ同義です。それまで不誠実だったという含みはありません。"],
+  ["analysis", "分析。複数形は analyses（不規則変化）。"]
+ ],
+ "n": [
+  ["a gap in our analysis", "分析の抜け。中立で、自分の責任として認めます。"],
+  ["we didn't cover that", "扱わなかった。範囲外だったという含みです。"],
+  ["that's out of scope", "範囲外。意図的に外したことを示します。"],
+  ["we ran out of time on that", "時間が足りなかった。理由を示します。"]
+ ],
+ "nn": "out of scope は「意図して外した」、a gap は「埋めるべきだったが埋まっていない」です。どちらかによって、次にすべきことが変わります。",
+ "e": [
+  ["To be honest, that's a gap in our analysis. We can close it within a week if the data team can pull the cohort file.", "正直に申し上げると、そこは分析の抜けです。データチームがコホートファイルを出せれば、1週間で埋められます。"],
+  ["To be honest, that's a gap. We tested the cost side but not the capability side.", "正直に申し上げると、そこは抜けです。費用側は検証しましたが、能力側は未検証です。"]
+ ],
+ "p": [
+  ["To be honest, that's a gap in [対象].", ["To be honest, that's a gap in the data.", "To be honest, that's a gap in our coverage."]],
+  ["That's a gap. [埋める方法] and [期限].", ["That's a gap. We can close it with the payroll extract by Thursday.", "That's a gap. I'd propose adding it to phase two rather than delaying now."]]
+ ],
+ "k": [
+  "gap in ~。前置詞は in（中に空いた穴）。",
+  "抜け（gap）と範囲外（out of scope）は意味が違う。",
+  "抜けを認めたら、埋め方と期限を即座に添える。"
+ ]
+},
+"I'd answer differently for the short term and the long term.": {
+ "t": "短期と長期では答えが変わります。",
+ "tn": "時間軸で答えを分ける型です。矛盾なく複数の立場を示せます。",
+ "s": [
+  ["I'd answer differently", "I would の短縮。differently が副詞で answer を修飾しています。"],
+  ["for the short term and the long term", "for が「どの前提に対して」を示します。the short term / the long term は定冠詞つきで使います。"]
+ ],
+ "v": [
+  ["the short term / the long term", "短期・長期。名詞句では定冠詞つきの2語、形容詞として使うときはハイフンで short-term / long-term とします（a short-term fix）。"],
+  ["differently", "副詞。answer different とは言いません。"],
+  ["for", "ここでは「〜については」。対象や前提を示します。"]
+ ],
+ "n": [
+  ["the short term / the long term", "短期・長期。最も一般的な時間軸の分け方。"],
+  ["now / steady state", "いまと定常状態。移行期と安定期を分けます。"],
+  ["this year / structurally", "今年と構造的に。年度の話と構造の話を分けます。"],
+  ["tactically / strategically", "戦術的に・戦略的に。目的の階層で分けます。"]
+ ],
+ "e": [
+  ["I'd answer differently for the short term and the long term: short term, hire contractors; long term, fix the capability gap.", "短期と長期では答えが変わります。短期は業務委託の活用、長期は能力不足の解消です。"],
+  ["I'd answer differently for this year and for steady state — the transition cost dominates year one.", "今年と定常状態では答えが変わります。初年度は移行費用が支配的です。"]
+ ],
+ "p": [
+  ["I'd answer differently for [短期] and [長期].", ["I'd answer differently for this quarter and for next year.", "I'd answer differently for the pilot and for a full rollout."]],
+  ["[短期]: [答えA]. [長期]: [答えB].", ["Short term: outsource. Long term: build it in-house.", "Tactically: patch it. Strategically: replace the system."]]
+ ],
+ "k": [
+  "the short term（名詞句）と short-term（形容詞、ハイフン）を区別する。",
+  "動詞を修飾するので differently（副詞）。",
+  "時間軸で分けると、矛盾なく複数の立場を示せる。"
+ ]
+}
+}

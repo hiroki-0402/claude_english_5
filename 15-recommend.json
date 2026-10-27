@@ -1,0 +1,641 @@
+{
+"I'd recommend we start with a three-month pilot.": {
+ "t": "3か月のパイロットから始めることを推奨します。",
+ "tn": "推奨は動詞から始めます。名詞の羅列より、行動が明確になります。",
+ "s": [
+  ["I'd recommend", "I would の短縮。断定をやわらげ、提言として置きます。"],
+  ["(that) we start with a three-month pilot", "recommend の目的語となる that節。that は省略されています。"],
+  ["we start", "原形の start。提案・要求・命令を表す動詞の後の that節では、主語が三人称単数でも動詞が原形になります（仮定法現在）。"]
+ ],
+ "sn": "仮定法現在が要点です。recommend、suggest、propose、insist、request の後の that節では、動詞が原形になります（I recommend that he start ... であって he starts ... ではありません）。英国英語では should を入れる形も一般的です。",
+ "v": [
+  ["recommend", "推奨する。recommend + 動名詞（recommend starting）、recommend that + 原形、どちらも使えます。recommend to do という形は取りません。"],
+  ["start with ~", "〜から始める。with が「何を出発点にするか」を示します。"],
+  ["a three-month pilot", "数詞 + 単位をハイフンでつないだ形容詞。単位は単数形です。"]
+ ],
+ "n": [
+  ["I'd recommend ...", "推奨する。最も標準的。"],
+  ["My recommendation is ...", "名詞で置く。ややかたく、報告書向きです。"],
+  ["I'd suggest ...", "提案する。recommend よりやわらかい言い方です。"],
+  ["We should ...", "〜すべき。最も直接的です。"]
+ ],
+ "nn": "recommend と suggest はどちらも自然で、recommend の方が「検討した結果として勧める」という含みが強い語です。クライアント向けの提言では recommend が一般的です。",
+ "e": [
+  ["I'd recommend we start with a three-month pilot in one business unit before committing to a group-wide rollout.", "全社展開を決める前に、1事業部で3か月のパイロットから始めることを推奨します。"],
+  ["I'd recommend we fix the data definitions before we build the dashboard.", "ダッシュボードを作る前に、データの定義を整えることを推奨します。"]
+ ],
+ "p": [
+  ["I'd recommend we [行動].", ["I'd recommend we delay the launch by one quarter.", "I'd recommend we appoint a single owner before we start."]],
+  ["I'd recommend [行動], because [理由].", ["I'd recommend starting small, because the data quality is unknown.", "I'd recommend option B, because it is reversible."]]
+ ],
+ "k": [
+  "recommend / suggest / propose の後の that節は動詞が原形（仮定法現在）。",
+  "recommend to do とは言わない。recommend doing / recommend that ~ 原形。",
+  "推奨は動詞から始めると、行動が明確になる。"
+ ]
+},
+"My recommendation is to hold the investment until Q2.": {
+ "t": "私の推奨は、第2四半期まで投資を保留することです。",
+ "tn": "「やらない」も推奨になります。条件を添えると、先送りには見えません。",
+ "s": [
+  ["My recommendation is", "S + be。recommendation は recommend の名詞形です。"],
+  ["to hold the investment", "補語となる不定詞。「保留すること」。"],
+  ["until Q2", "until が継続の終点を示します。"]
+ ],
+ "sn": "until と by の違いが要点です。until Q2 は「第2四半期までずっと保留し続ける」、by Q2 は「第2四半期までに（どこかの時点で）」。保留の話なので until が正しい選択です。",
+ "v": [
+  ["hold", "保留する。hold an investment / hold a decision / put it on hold。"],
+  ["until", "〜までずっと。継続の終点を示します。期限の by とは意味が違います。"],
+  ["investment", "投資。不可算でも可算でも使われます（make an investment、investment in A）。"]
+ ],
+ "n": [
+  ["hold ~ until ...", "条件が満たされるまで保留する。"],
+  ["defer ~ to ...", "〜へ先送りする。ややかたい言い方です。"],
+  ["pause ~", "いったん止める。再開が前提です。"],
+  ["cancel ~", "中止する。再開の前提がありません。"]
+ ],
+ "e": [
+  ["My recommendation is to hold the investment until Q2, when we will have two quarters of pilot data.", "私の推奨は、パイロットのデータが2四半期分揃う第2四半期まで投資を保留することです。"],
+  ["My recommendation is to hold the hiring plan until the restructuring is confirmed.", "私の推奨は、組織再編が確定するまで採用計画を保留することです。"]
+ ],
+ "p": [
+  ["My recommendation is to [行動] until [条件].", ["My recommendation is to pause the rollout until the audit closes.", "My recommendation is to hold the decision until we see the Q1 actuals."]],
+  ["My recommendation is [行動]. [解除条件].", ["My recommendation is to hold. We revisit when attrition drops below 12%.", "My recommendation is to defer. The trigger would be the merger closing."]]
+ ],
+ "k": [
+  "until（〜までずっと）と by（〜までに）を区別する。",
+  "「やらない」も推奨になる。ただし解除条件を必ず添える。",
+  "hold / pause / defer / cancel は再開の前提が違う。"
+ ]
+},
+"There are two options; I'd go with the second.": {
+ "t": "選択肢は2つあり、私は2つ目を推します。",
+ "tn": "選択肢を並べたら、必ず自分の推奨を言います。並べただけでは、仕事をしていない扱いになります。",
+ "s": [
+  ["There are two options;", "There is/are 構文。options が複数なので are です。"],
+  ["I'd go with the second", "I would の短縮。go with A で「Aを選ぶ」。the second の後ろは option が省略されています。"]
+ ],
+ "v": [
+  ["go with ~", "選んだ案に乗って進む。決定を表す口語表現です。"],
+  ["the second", "2つ目。the second option の option が省略されています。序数には the が付きます。"],
+  ["option", "選択肢。"]
+ ],
+ "n": [
+  ["I'd go with the second.", "選ぶ。口語的で、はっきりしています。"],
+  ["I'd recommend the second.", "推奨する。ややかたい言い方です。"],
+  ["I lean toward the second.", "2つ目に傾いている。まだ決め切っていません。"],
+  ["Either would work.", "どちらでもよい。推奨を避けた形です。"]
+ ],
+ "nn": "Either would work. は中立ですが、意思決定を求められている場面では「判断を避けた」と受け取られます。推奨を求められたら、理由とともに一方を選びます。",
+ "e": [
+  ["There are two options; I'd go with the second, because it does not require a system change.", "選択肢は2つあり、私は2つ目を推します。システム変更が不要だからです。"],
+  ["There are three options; I'd go with the second, and I'd rule out the third entirely.", "選択肢は3つあり、私は2つ目を推します。3つ目は候補から外します。"]
+ ],
+ "p": [
+  ["There are [n] options; I'd go with [選択].", ["There are two options; I'd go with the first.", "There are three paths; I'd go with the middle one."]],
+  ["There are [n] options. I'd go with [選択], because [理由].", ["There are two options. I'd go with B, because it is reversible.", "There are three. I'd go with the phased version, because of the data gaps."]]
+ ],
+ "k": [
+  "go with ~ は「その案に乗って進む」。決定の口語表現。",
+  "序数には the が付く（the second）。",
+  "選択肢を並べたら、必ず自分の推奨を言う。"
+ ]
+},
+"The lowest-risk path is to fix onboarding first.": {
+ "t": "最もリスクが低いのは、まずオンボーディングを直すことです。",
+ "tn": "推奨の理由を評価軸（リスク・速度・コスト）で明示する型です。議論が噛み合います。",
+ "s": [
+  ["The lowest-risk path", "主語。lowest-risk がハイフンでつながれた複合形容詞です。"],
+  ["is to fix onboarding first", "補語となる不定詞。"]
+ ],
+ "sn": "複合形容詞のハイフンが要点です。名詞の前に置いて1つの形容詞として働かせるときにハイフンを使います（a low-risk path）。補語の位置では不要です（the path is low risk）。",
+ "v": [
+  ["lowest-risk", "最もリスクが低い。low-risk / high-risk / lowest-cost も同じ作り方です。"],
+  ["path", "道筋・進め方。route、approach もほぼ同義です。"],
+  ["onboarding", "新しく入った人を組織に乗せる過程。"]
+ ],
+ "n": [
+  ["the lowest-risk path", "リスクを評価軸に置く。"],
+  ["the fastest path", "速度を評価軸に置く。"],
+  ["the cheapest path", "費用を評価軸に置く。"],
+  ["the most reversible path", "取り返しやすさを評価軸に置く。不確実性が高い場面に。"]
+ ],
+ "nn": "評価軸を明示すると、議論が「どの案か」から「どの軸を重視するか」に移ります。合意できないときは、軸の違いが原因であることが多くあります。",
+ "e": [
+  ["The lowest-risk path is to fix onboarding first — it costs little and does not depend on the system change.", "最もリスクが低いのは、まず受け入れ体制を直すことです。費用が小さく、システム変更にも依存しません。"],
+  ["The fastest path is to buy; the lowest-risk path is to build. Which matters more here?", "最も速いのは購入、最もリスクが低いのは自社開発です。ここではどちらが重要でしょうか。"]
+ ],
+ "p": [
+  ["The lowest-risk path is to [行動] first.", ["The lowest-risk path is to pilot in one region first.", "The cheapest path is to extend the current contract."]],
+  ["The [評価軸] path is [案A]; the [別の軸] path is [案B].", ["The fastest path is A; the cheapest is B.", "The most reversible option is the pilot; the highest-return option is the full rollout."]]
+ ],
+ "k": [
+  "複合形容詞は名詞の前でハイフンを使う（a low-risk path）。",
+  "評価軸（リスク・速度・コスト・可逆性）を明示すると議論が噛み合う。",
+  "合意できないときは、軸の違いを疑う。"
+ ]
+},
+"If we only do one thing, it should be this.": {
+ "t": "1つしかやらないとすれば、これをやるべきです。",
+ "tn": "優先順位を強制的につける言い方です。リソースに制約のある議論で効きます。",
+ "s": [
+  ["If we only do one thing,", "条件節。only が one thing を限定しています。"],
+  ["it should be this", "帰結節。should が「〜であるべき」。this が具体的な施策を指します。"]
+ ],
+ "sn": "only の位置に注意します。If we only do one thing は「1つだけやるとすれば」。If only we do one thing とすると意味が変わってしまいます（only の修飾先が変わります）。",
+ "v": [
+  ["only", "〜だけ。修飾する語の直前に置くのが原則ですが、口語では動詞の前に置くことも一般的です。"],
+  ["should", "〜すべき。提言の強さです。"],
+  ["this", "直前または直後に示す具体的な施策を指します。"]
+ ],
+ "n": [
+  ["If we only do one thing, ...", "優先順位を強制する。制約下で効きます。"],
+  ["The single highest-impact action is ...", "最も効果の大きい行動。より分析的です。"],
+  ["If you remember one thing ...", "記憶に残す狙い。プレゼンの締めに向きます。"],
+  ["Everything else is secondary.", "それ以外は二次的。最も強い言い方です。"]
+ ],
+ "e": [
+  ["If we only do one thing this year, it should be this: give every new hire a named buddy in week one.", "今年1つしかやらないとすれば、これです。新入社員全員に初週から担当のバディを付けることです。"],
+  ["If we only do one thing, it should be fixing the handover. Everything else can wait a quarter.", "1つしかやらないとすれば、引き継ぎの改善です。それ以外は1四半期待てます。"]
+ ],
+ "p": [
+  ["If we only do one thing, it should be [施策].", ["If we only do one thing, it should be the manager training.", "If we only fix one thing, it should be the approval flow."]],
+  ["If we only do one thing, it should be [施策]. [理由].", ["If we only do one thing, it should be this — it is cheap and it unblocks everything else.", "The single highest-impact action is the data cleanup. Nothing else works without it."]]
+ ],
+ "k": [
+  "only は修飾する語の直前が原則。位置で意味が変わる。",
+  "優先順位を1つに絞ると、制約下の議論が決着する。",
+  "選んだ理由を必ず添える。"
+ ]
+},
+"I'd sequence it this way: quick wins first, structural changes after.": {
+ "t": "順序としては、まず短期の成果、その後に構造改革です。",
+ "tn": "何をやるかより順序が争点になることが多いものです。sequence は覚えておくと強い語です。",
+ "s": [
+  ["I'd sequence it this way:", "sequence が動詞。「順序立てる」。this way が「このように」。"],
+  ["quick wins first, structural changes after", "名詞句を2つ並べた形。first と after が順序を示します。"]
+ ],
+ "sn": "コロンの後は名詞句の並列だけで、動詞がありません。口頭では簡潔で分かりやすく、順序だけが際立ちます。",
+ "v": [
+  ["sequence", "名詞で「順序」、動詞で「順序立てる」。sequencing（順序立て）という動名詞形も使われます。"],
+  ["quick win", "短期で出せる成果。早期に実感できる効果のこと。ビジネスの定番語です。"],
+  ["structural change", "構造改革。仕組みそのものを変えること。時間がかかります。"]
+ ],
+ "n": [
+  ["quick wins first", "短期の成果を先に。勢いを作れます。"],
+  ["foundations first", "基盤から。後の手戻りが減ります。"],
+  ["in parallel", "並行して。時間は縮みますが負荷が上がります。"],
+  ["phased", "段階的に。各段階で判断できます。"]
+ ],
+ "nn": "quick wins first は勢いを作れますが、基盤を後回しにすると手戻りが出ます。どちらが正しいかは状況次第で、順序の議論ではこの対立が中心になります。",
+ "e": [
+  ["I'd sequence it this way: quick wins first to build credibility, structural changes after the budget cycle.", "順序としては、まず信頼を作るための短期成果、構造改革は予算サイクルの後です。"],
+  ["I'd sequence it this way: data definitions first, then the dashboard, then the targets.", "順序としては、まずデータ定義、次にダッシュボード、最後に目標設定です。"]
+ ],
+ "p": [
+  ["I'd sequence it this way: [先], then [後].", ["I'd sequence it this way: pilot first, decision second, rollout third.", "I'd sequence it this way: fix the process, then automate it."]],
+  ["[A] first, [B] after. [理由].", ["Foundations first, features after — otherwise we rebuild twice.", "Quick wins first, structural change after the reorganization settles."]]
+ ],
+ "k": [
+  "sequence は名詞でも動詞でも使える。sequencing は「順序立て」。",
+  "quick win は「短期で出せる成果」。ビジネスの定番語。",
+  "何をやるかより、順序が争点になることが多い。"
+ ]
+},
+"Before we scale, I'd test it in one market.": {
+ "t": "展開の前に、1市場で試すべきだと思います。",
+ "tn": "慎重案を出すときは、範囲と期間をセットで言います。反対のための反対に見えません。",
+ "s": [
+  ["Before we scale,", "接続詞 before + 主語 + 動詞。scale が自動詞で「規模を拡大する」。"],
+  ["I'd test it in one market", "I would の短縮。in が範囲を示します。"]
+ ],
+ "v": [
+  ["scale", "規模を拡大する。自動詞でも他動詞でも使えます（it scales / we scale it）。scale up（拡大する）、scale back（縮小する）。"],
+  ["test", "検証する。"],
+  ["in one market", "1市場で。in が範囲を示します。"]
+ ],
+ "n": [
+  ["Before we scale, ...", "拡大の前に。最も一般的な慎重案。"],
+  ["Before we commit, ...", "投じる前に。資源の話になります。"],
+  ["Before we announce, ...", "公表の前に。後戻りできなくなる時点を示します。"],
+  ["As a first step, ...", "第一歩として。前向きな言い方です。"]
+ ],
+ "nn": "慎重案は As a first step, ... と前向きに言い換えられます。反対ではなく段取りの提案として受け取られやすくなります。",
+ "e": [
+  ["Before we scale, I'd test it in one market for eight weeks — that costs about two million yen and tells us whether adoption holds.", "展開の前に1市場で8週間試すべきだと思います。費用は約200万円で、導入が定着するかが分かります。"],
+  ["Before we scale, I'd run it in the Osaka office, which has the same profile as the target sites.", "展開の前に、対象拠点と同じ特性を持つ大阪オフィスで実施すべきだと思います。"]
+ ],
+ "p": [
+  ["Before we [scale], I'd [test it] in [範囲].", ["Before we roll out, I'd test it with one team.", "Before we commit, I'd pilot it for a quarter."]],
+  ["Before we [行動], I'd [検証] in [範囲] for [期間]. [費用].", ["Before we scale, I'd test in two markets for six weeks. Cost is under a million yen.", "As a first step, I'd run it in one region for a month."]]
+ ],
+ "k": [
+  "scale は自動詞でも他動詞でも使える。scale up / scale back。",
+  "慎重案は範囲・期間・費用をセットで言う。",
+  "As a first step と言い換えると、前向きに響く。"
+ ]
+},
+"That gets us 80% of the value at half the cost.": {
+ "t": "それで価値の8割を、半分のコストで得られます。",
+ "tn": "推奨案の費用対効果を一文で示す型です。意思決定者が最も反応する言い方になります。",
+ "s": [
+  ["That gets us 80% of the value", "get A B の二重目的語構文。「AにBをもたらす」。"],
+  ["at half the cost", "at が「どの水準で」を示します。half the cost で「費用の半分で」。"]
+ ],
+ "sn": "half the cost の語順が要点です。half + the + 名詞 の形で、of は入りません（half of the cost も使えますが、口語では of を落とす形が一般的です）。",
+ "v": [
+  ["get us ~", "我々に〜をもたらす。get は「手に入れる」から「結果として得る」へ広がります。"],
+  ["at half the cost", "at が価格や水準を示します。at a lower cost、at scale も同じ用法です。"],
+  ["value", "価値。ここでは得られる効果の総量を指します。"]
+ ],
+ "n": [
+  ["80% of the value at half the cost", "費用対効果を比率で示す。最も反応がよい形。"],
+  ["twice the return for the same spend", "同じ支出で2倍の効果。別の表し方です。"],
+  ["the same outcome, two months sooner", "同じ成果を2か月早く。時間を軸にします。"],
+  ["a fraction of the cost", "ごく一部の費用で。比率が曖昧な言い方です。"]
+ ],
+ "nn": "a fraction of the cost は具体的な数字を示さないため、説得力が落ちます。可能なら 80% / half のように比率を明示します。",
+ "e": [
+  ["That gets us 80% of the value at half the cost — we drop the custom reporting and use the standard module.", "それで価値の8割を半分のコストで得られます。独自帳票をやめ、標準機能を使います。"],
+  ["The simplified version gets us most of the benefit at a third of the implementation time.", "簡素版なら、導入期間を3分の1にして効果の大半が得られます。"]
+ ],
+ "p": [
+  ["That gets us [x%] of the value at [比率] the cost.", ["That gets us 90% of the benefit at a third of the cost.", "That gets us the same result at half the effort."]],
+  ["[案] gets us [効果] at [コスト]. [何を諦めるか].", ["The lean version gets us most of the value at half the cost. We give up the custom dashboards.", "Phase one gets us the savings at a quarter of the risk."]]
+ ],
+ "k": [
+  "half the cost / a third of the time。half は of を落とすのが一般的。",
+  "比率を明示すると、意思決定者の反応がよくなる。",
+  "何を諦めるかも併せて言うと、誠実な提案になる。"
+ ]
+},
+"My recommendation is to do nothing for now.": {
+ "t": "現時点での推奨は、動かないことです。",
+ "tn": "「やらない」も立派な推奨です。理由を添えれば、怠慢には見えません。",
+ "s": [
+  ["My recommendation is", "S + be。"],
+  ["to do nothing", "補語となる不定詞。do nothing で「何もしない」。"],
+  ["for now", "さしあたり。一時的であることを示します。"]
+ ],
+ "sn": "for now が要点です。これがないと「永久に何もしない」という提言になります。一時的であることを明示し、再検討の時期を続けて述べます。",
+ "v": [
+  ["do nothing", "何もしない。inaction という名詞もありますが、会議では do nothing の方が具体的に響きます。"],
+  ["for now", "さしあたり。一時性を示します。"],
+  ["recommendation", "推奨。"]
+ ],
+ "n": [
+  ["do nothing for now", "いまは動かない。再検討が前提です。"],
+  ["wait and see", "様子を見る。やや受け身の響きです。"],
+  ["hold the line", "現状を維持する。守る姿勢を示します。"],
+  ["stay the course", "方針を変えずに続ける。すでに動いている場合です。"]
+ ],
+ "nn": "do nothing と wait and see は近い言い方ですが、wait and see は「様子見」という受け身の印象が出ます。判断として提言するなら do nothing for now の方が能動的に響きます。",
+ "e": [
+  ["My recommendation is to do nothing for now — the merger closes in July, and any structure we design today would be rebuilt.", "現時点での推奨は動かないことです。7月に合併が完了するため、いま設計した組織は作り直しになります。"],
+  ["My recommendation is to do nothing for now and revisit when attrition data for Q2 is available.", "現時点での推奨は動かないことで、第2四半期の離職データが揃った時点で再検討します。"]
+ ],
+ "p": [
+  ["My recommendation is to do nothing for now, because [理由].", ["My recommendation is to do nothing for now, because the regulation is under review.", "My recommendation is to hold for now, because the data is incomplete."]],
+  ["[やらない推奨]. [再検討の時期や条件].", ["Do nothing this quarter. Revisit after the audit.", "I'd hold the line until the new CFO is in place."]]
+ ],
+ "k": [
+  "for now を入れないと、永久にやらない提言になる。",
+  "「やらない」推奨には、理由と再検討の条件を必ず添える。",
+  "do nothing は wait and see より能動的に響く。"
+ ]
+},
+"I'd start small and scale what works.": {
+ "t": "小さく始めて、機能したものを広げるべきです。",
+ "tn": "リスクを抑えた提案の定番です。反対されにくい言い方になります。",
+ "s": [
+  ["I'd start small", "I would の短縮。small が副詞的に使われ、「小規模に」の意味になります。"],
+  ["and scale what works", "and の後も原形が並びます。what works が scale の目的語となる名詞節です。"]
+ ],
+ "sn": "start small は形容詞 small が副詞的に働く慣用表現です（start smally とは言いません）。think big、play safe も同じ作りの慣用句です。",
+ "v": [
+  ["start small", "小さく始める。慣用表現で、形容詞がそのまま副詞的に働きます。"],
+  ["scale", "規模を拡大する。"],
+  ["what works", "うまくいくもの。関係代名詞の what です。"]
+ ],
+ "n": [
+  ["start small and scale", "小さく始めて広げる。リスクを抑えます。"],
+  ["fail fast", "早く失敗して学ぶ。失敗を前提にします。"],
+  ["prove it, then scale", "証明してから広げる。より厳密です。"],
+  ["big bang", "一斉導入。段階を踏まない方式です。"]
+ ],
+ "nn": "start small は常に正しいわけではありません。システムの切り替えなど、段階導入すると二重運用の負担が大きくなる場合は、一斉導入の方が合理的なこともあります。",
+ "e": [
+  ["I'd start small and scale what works — one team, eight weeks, then decide.", "小さく始めて機能したものを広げるべきです。1チーム、8週間、その後に判断します。"],
+  ["I'd start small and scale what works, rather than design the full system up front.", "最初に全体を設計するより、小さく始めて機能したものを広げるべきです。"]
+ ],
+ "p": [
+  ["I'd start small and scale [what works].", ["I'd start small and scale the parts that stick.", "I'd start with one team and expand from there."]],
+  ["Start [小さく]. [判断の時点]. [拡大の条件].", ["Start with one region. Review at week eight. Scale if adoption is above 60%.", "Start with the manual version. Automate once the process is stable."]]
+ ],
+ "k": [
+  "start small は形容詞が副詞的に働く慣用表現。",
+  "拡大の条件（何が満たされたら広げるか）まで言うと実務的。",
+  "段階導入が常に正しいわけではない。二重運用の負担も考える。"
+ ]
+},
+"The cheapest test we could run is a two-week pilot.": {
+ "t": "最も低コストな検証は2週間のパイロットです。",
+ "tn": "「まず検証」を具体化する型です。コストと期間を必ず添えます。",
+ "s": [
+  ["The cheapest test we could run", "主語。The cheapest test (that) we could run の関係代名詞が省略されています。"],
+  ["is a two-week pilot", "補語。two-week がハイフンでつながれた形容詞です。"]
+ ],
+ "v": [
+  ["cheapest", "cheap の最上級。費用が最も低いこと。"],
+  ["could run", "実行できるであろう。would より控えめで、可能性を示します。"],
+  ["a two-week pilot", "2週間のパイロット。数詞 + 単位をハイフンでつないだ形容詞で、単位は単数形です。"]
+ ],
+ "n": [
+  ["the cheapest test", "最も低コストな検証。費用を軸にします。"],
+  ["the fastest test", "最も早い検証。時間を軸にします。"],
+  ["the smallest useful test", "意味のある最小の検証。最も実務的です。"],
+  ["a thought experiment", "思考実験。費用ゼロですが証拠にはなりません。"]
+ ],
+ "nn": "the smallest useful test という言い方は、「小さすぎて何も分からない検証」を避けられる点で有効です。安さだけを追うと、結論が出ない検証になります。",
+ "e": [
+  ["The cheapest test we could run is a two-week pilot with one team — about half a million yen, and it tells us whether the process survives contact with reality.", "最も低コストな検証は1チームでの2週間のパイロットです。費用は約50万円で、この運用が現場で成立するかが分かります。"],
+  ["The smallest useful test is three interviews with managers who have already left.", "意味のある最小の検証は、すでに退職した管理職3名への聞き取りです。"]
+ ],
+ "p": [
+  ["The cheapest test we could run is [検証].", ["The cheapest test we could run is a one-week shadowing exercise.", "The fastest test we could run is a data pull from last year."]],
+  ["The [最上級] test is [検証]. [費用] and [期間]. It tells us [何が分かるか].", ["The cheapest test is a two-week pilot. Half a million yen, two weeks. It tells us whether adoption holds.", "The smallest useful test is five interviews. A week, no budget. It tells us whether the hypothesis survives."]]
+ ],
+ "k": [
+  "数詞 + 単位はハイフンで形容詞化し、単位は単数形（two-week）。",
+  "検証はコスト・期間・何が分かるかをセットで示す。",
+  "安さだけを追うと、結論の出ない検証になる。"
+ ]
+},
+"I'd tie the decision to a trigger, not a date.": {
+ "t": "決定は日付ではなく、条件に紐づけるべきです。",
+ "tn": "意思決定の設計に踏み込む提案です。上級者らしい視点になります。",
+ "s": [
+  ["I'd tie the decision to a trigger", "tie A to B で「AをBに結びつける」。前置詞は to です。"],
+  [", not a date", "カンマ + not の対比。"]
+ ],
+ "v": [
+  ["tie A to B", "結びつける。to が結びつく先を示します。link A to B、peg A to B も同じ型です。"],
+  ["trigger", "引き金。ある条件が満たされたときに自動的に起きる仕組み。a trigger point、trigger a review。"],
+  ["date", "日付。ここでは「あらかじめ決めた期日」を指します。"]
+ ],
+ "n": [
+  ["tie it to a trigger", "条件に紐づける。状況に応じて動けます。"],
+  ["tie it to a date", "日付に紐づける。予定は立てやすくなります。"],
+  ["a stage gate", "段階ごとの関門。進むかどうかを判断する仕組みです。"],
+  ["a review point", "見直しの時点。判断は含みません。"]
+ ],
+ "nn": "日付に紐づける方が予定は立てやすく、条件に紐づける方が状況に適応できます。どちらが優れているかは状況次第で、不確実性が高いほど trigger が有効です。",
+ "e": [
+  ["I'd tie the decision to a trigger, not a date — if attrition stays above 15% for two consecutive quarters, we act.", "決定は日付ではなく条件に紐づけるべきです。離職率が2四半期連続で15%を超えたら動く、という形です。"],
+  ["I'd tie the next investment to a trigger: adoption above 60% in the pilot.", "次の投資は条件に紐づけるべきです。パイロットでの導入率60%超、という形です。"]
+ ],
+ "p": [
+  ["I'd tie [何] to [a trigger], not [a date].", ["I'd tie the hiring to demand, not to the calendar.", "I'd tie the review to the data, not to the quarter end."]],
+  ["I'd tie [決定] to [条件]: [具体的な基準].", ["I'd tie it to a trigger: two consecutive quarters above target.", "I'd set a stage gate at week eight: if adoption is under 40%, we stop."]]
+ ],
+ "k": [
+  "tie A to B。前置詞は to。",
+  "trigger は「条件が満たされたら動く仕組み」。",
+  "不確実性が高いほど、日付より条件に紐づける方が有効。"
+ ]
+},
+"Option B costs more but removes the biggest risk.": {
+ "t": "案Bはコストが高い分、最大のリスクを取り除けます。",
+ "tn": "トレードオフを明示した推奨です。判断材料として機能します。",
+ "s": [
+  ["Option B costs more", "cost が他動詞としても自動詞としても使えます。ここでは自動詞的に「費用がかかる」。"],
+  ["but removes the biggest risk", "but で逆接。主語は Option B のままで、動詞だけが並列しています。"]
+ ],
+ "sn": "主語を共有した動詞の並列です（Option B costs ... and removes ...）。主語を繰り返さないことで、1つの案の2つの側面だと伝わります。",
+ "v": [
+  ["cost", "費用がかかる。It costs more.（費用が余計にかかる）。目的語を取ると It costs us two million yen. となります。"],
+  ["remove a risk", "リスクを取り除く。mitigate a risk（軽減する）とは程度が違います。"],
+  ["the biggest risk", "最大のリスク。最上級には the が付きます。"]
+ ],
+ "n": [
+  ["remove a risk", "リスクをなくす。最も強い対処。"],
+  ["mitigate a risk", "リスクを軽減する。小さくするが残ります。"],
+  ["transfer a risk", "リスクを移転する。保険や契約で他者に移します。"],
+  ["accept a risk", "リスクを受け入れる。対処しないと決めることです。"]
+ ],
+ "nn": "リスク対応は remove / mitigate / transfer / accept の4種類に整理されます。どれを選んだかを明示すると、提案の性質がはっきりします。",
+ "e": [
+  ["Option B costs more but removes the biggest risk — we would no longer depend on a single supplier.", "案Bはコストが高い分、最大のリスクを取り除けます。単一供給元への依存がなくなります。"],
+  ["Option A is cheaper but only mitigates the risk; Option B removes it.", "案Aは安価ですがリスクを軽減するだけです。案Bは取り除きます。"]
+ ],
+ "p": [
+  ["[選択肢] costs more but removes [リスク].", ["Option B costs more but removes the key-person dependency.", "The in-house route takes longer but removes the vendor risk."]],
+  ["[選択肢A] [長所] but [短所]; [選択肢B] [長所] but [短所].", ["A is faster but leaves the data issue; B is slower but fixes it.", "Buying is cheaper up front but costlier over five years."]]
+ ],
+ "k": [
+  "主語を共有して動詞を並列できる（costs ... but removes ...）。",
+  "リスク対応は remove / mitigate / transfer / accept の4種類。",
+  "トレードオフを明示すると、判断材料になる。"
+ ]
+},
+"If budget is the constraint, I'd do it in two phases.": {
+ "t": "予算が制約であれば、2段階に分けます。",
+ "tn": "相手の制約を前提にした代案です。実務的で、採用されやすくなります。",
+ "s": [
+  ["If budget is the constraint,", "条件節。the constraint の the が「唯一の制約」であることを示します。"],
+  ["I'd do it in two phases", "I would の短縮。in が様態を示します。"]
+ ],
+ "sn": "the constraint と定冠詞を使っている点に意味があります。a constraint なら「制約の1つ」、the constraint なら「最も効いている制約」。相手の制約を特定していることが伝わります。",
+ "v": [
+  ["constraint", "制約。動けなくしている要因のこと。the binding constraint（最も効いている制約）という言い方もあります。"],
+  ["in two phases", "2段階に分けて。in が様態を示します。"],
+  ["phase", "段階。phase one / phase two、phased rollout（段階的な展開）。"]
+ ],
+ "n": [
+  ["in two phases", "2段階に分ける。予算や負荷を分散できます。"],
+  ["in parallel", "並行して。時間は縮みますが負荷が上がります。"],
+  ["sequentially", "順番に。確実ですが時間がかかります。"],
+  ["as a pilot then rollout", "試行してから展開。判断の機会が入ります。"]
+ ],
+ "e": [
+  ["If budget is the constraint, I'd do it in two phases — phase one this fiscal year, phase two after the new budget cycle.", "予算が制約であれば2段階に分けます。第1段階を今年度、第2段階を新しい予算サイクル以降です。"],
+  ["If time is the constraint, I'd run the two workstreams in parallel and accept the extra coordination cost.", "時間が制約であれば2つの作業を並行させ、調整コストの増加は受け入れます。"]
+ ],
+ "p": [
+  ["If [制約] is the constraint, I'd [代案].", ["If headcount is the constraint, I'd outsource the first phase.", "If time is the constraint, I'd narrow the scope."]],
+  ["If [制約A], [代案A]. If [制約B], [代案B].", ["If budget binds, phase it. If time binds, narrow it.", "If the constraint is data, start with interviews. If it is access, start with the pilot site."]]
+ ],
+ "k": [
+  "the constraint（最も効いている制約）と a constraint（制約の1つ）を区別する。",
+  "相手の制約を前提にした代案は、採用されやすい。",
+  "in two phases / in parallel / sequentially で進め方を言い分ける。"
+ ]
+},
+"I'd hold off until we see the Q1 numbers.": {
+ "t": "第1四半期の数字を見るまで見送るべきです。",
+ "tn": "見送りの推奨には、必ず解除条件を付けます。先送りには見えません。",
+ "s": [
+  ["I'd hold off", "I would の短縮。hold off は自動詞の句動詞で「見送る」。"],
+  ["until we see the Q1 numbers", "until が継続の終点を示します。時の副詞節なので、未来のことでも現在形 see を使います。"]
+ ],
+ "sn": "時の副詞節の中は、未来のことでも現在形です（until we see であって until we will see ではありません）。when、before、after、as soon as も同じです。",
+ "v": [
+  ["hold off", "見送る・待つ。hold off on A（Aを見送る）の形もあります。"],
+  ["until", "〜までずっと。"],
+  ["the Q1 numbers", "第1四半期の数字。the が付くのは、特定の数字を指しているためです。"]
+ ],
+ "n": [
+  ["hold off until ...", "条件が満たされるまで見送る。"],
+  ["wait for ...", "〜を待つ。より受け身です。"],
+  ["pause until ...", "いったん止める。再開が前提です。"],
+  ["decide now and revisit later", "いま決めて後で見直す。見送らない選択肢です。"]
+ ],
+ "nn": "見送りが常に安全とは限りません。decide now and revisit later の方が、機会を逃さずに済む場合もあります。見送りの費用も併せて検討します。",
+ "e": [
+  ["I'd hold off until we see the Q1 numbers — if the trend reverses, the whole business case changes.", "第1四半期の数字を見るまで見送るべきです。傾向が反転すれば、事業の前提ごと変わります。"],
+  ["I'd hold off on the announcement until legal has signed off.", "法務の承認が出るまで、公表は見送るべきです。"]
+ ],
+ "p": [
+  ["I'd hold off until [条件].", ["I'd hold off until the audit closes.", "I'd hold off until we have the signed contract."]],
+  ["I'd hold off until [条件]. [待つことの費用].", ["I'd hold off until March. The cost of waiting is one hiring cycle.", "I'd hold off until the data arrives — that is two weeks, and nothing else is blocked."]]
+ ],
+ "k": [
+  "時の副詞節の中は未来でも現在形（until we see）。",
+  "見送りには必ず解除条件を付ける。",
+  "待つことの費用も併せて示すと、判断材料が揃う。"
+ ]
+},
+"The simplest version of this would still work.": {
+ "t": "これを最も簡素にしても、十分に機能します。",
+ "tn": "過剰な仕様を削る提案です。コストと期間の両方が縮みます。",
+ "s": [
+  ["The simplest version of this", "主語。最上級には the が付きます。of が「何の簡素版か」を示します。"],
+  ["would still work", "would が仮定の含みを与え、still が「それでもなお」を加えています。"]
+ ],
+ "sn": "still の位置が要点です。助動詞の後、本動詞の前に置きます（would still work）。これにより「簡素にしても、なお機能する」という譲歩の意味が出ます。",
+ "v": [
+  ["version", "版。a simplified version、a lean version、a stripped-back version。"],
+  ["still", "それでもなお。譲歩を表します。"],
+  ["work", "機能する。"]
+ ],
+ "n": [
+  ["the simplest version", "最も簡素な版。機能は保ちます。"],
+  ["a stripped-back version", "そぎ落とした版。より口語的です。"],
+  ["a minimum viable version", "成立する最小限の版。開発由来の言い方です。"],
+  ["a gold-plated version", "過剰装飾の版。批判的な響きがあります。"]
+ ],
+ "nn": "gold-plated は「必要以上に凝った」という批判の語です。相手の設計を評する場面では避け、the simplest version would still work と肯定形で言う方が安全です。",
+ "e": [
+  ["The simplest version of this would still work — a spreadsheet and a monthly review, instead of a new system.", "これを最も簡素にしても十分に機能します。新システムではなく、表計算と月次レビューで足ります。"],
+  ["The simplest version would still work and would be live three months sooner.", "最も簡素な版でも機能し、しかも3か月早く稼働します。"]
+ ],
+ "p": [
+  ["The simplest version of [対象] would still work.", ["The simplest version of the process would still work.", "A stripped-back version would still get us most of the benefit."]],
+  ["The simplest version would still work. [何を削るか]. [得られるもの].", ["The simplest version would still work: drop the custom reports. That saves two months.", "A minimum version would still work and costs a fifth of the full build."]]
+ ],
+ "k": [
+  "still は助動詞の後、本動詞の前（would still work）。",
+  "簡素版の提案では、何を削るかと何が得られるかを示す。",
+  "gold-plated は批判的な語。相手の設計には使わない。"
+ ]
+},
+"I'd pair that with a clear stopping rule.": {
+ "t": "それには明確な中止基準を併せるべきです。",
+ "tn": "施策に出口を設計する型です。撤退できない案件を防げます。",
+ "s": [
+  ["I'd pair that with ~", "pair A with B で「AをBと組み合わせる」。前置詞は with です。"],
+  ["a clear stopping rule", "with の目的語。clear が「明確な」。"]
+ ],
+ "v": [
+  ["pair A with B", "組み合わせる。with が「〜と一緒に」を示します。combine A with B も同じ型です。"],
+  ["stopping rule", "中止基準。あらかじめ決めておく撤退の条件です。exit criteria とも言います。"],
+  ["clear", "明確な。曖昧さがないこと。"]
+ ],
+ "n": [
+  ["a stopping rule", "中止基準。あらかじめ決める撤退条件。"],
+  ["exit criteria", "撤退基準。ほぼ同義で、ややかたい言い方です。"],
+  ["a kill switch", "停止の仕組み。口語的で強い言い方です。"],
+  ["a review gate", "見直しの関門。中止とは限りません。"]
+ ],
+ "nn": "stopping rule と review gate は違います。前者は「この条件なら止める」と事前に決めるもの、後者は「ここで判断する」という時点を決めるものです。両方あると撤退しやすくなります。",
+ "e": [
+  ["I'd pair that with a clear stopping rule — if adoption is below 40% at week eight, we stop and reallocate the budget.", "それには明確な中止基準を併せるべきです。8週目で導入率が40%未満なら中止し、予算を振り替えます。"],
+  ["I'd pair the pilot with exit criteria agreed in advance, so the decision does not become political later.", "パイロットには事前合意の撤退基準を併せるべきです。後で政治的な判断にならないようにです。"]
+ ],
+ "p": [
+  ["I'd pair [施策] with [安全装置].", ["I'd pair the pilot with a hard review date.", "I'd pair the investment with a quarterly checkpoint."]],
+  ["I'd pair that with a stopping rule: [条件] and we stop.", ["I'd pair that with a stopping rule: two missed milestones and we stop.", "I'd set exit criteria now: below 40% adoption at week eight, we close it down."]]
+ ],
+ "k": [
+  "pair A with B。前置詞は with。",
+  "stopping rule（止める条件）と review gate（判断する時点）は別。",
+  "出口を事前に設計すると、撤退が政治的にならない。"
+ ]
+},
+"Do the reversible things first.": {
+ "t": "取り返しのつく施策から先に行うべきです。",
+ "tn": "不確実性の高い状況での原則です。判断基準として説得力があります。",
+ "s": [
+  ["Do the reversible things first.", "命令形。主語がなく、原則の提示として機能します。"]
+ ],
+ "sn": "命令形を原則の提示に使う形です。会議で自分の意見として言うなら I'd do the reversible things first. とすると、押しつけになりません。",
+ "v": [
+  ["reversible", "元に戻せる。re-（戻って）+ verse（向きを変える）。対は irreversible（取り返しがつかない）。"],
+  ["things", "ここでは施策や判断を漠然と指します。"],
+  ["first", "まず最初に。優先順位を示します。"]
+ ],
+ "n": [
+  ["reversible", "元に戻せる。やり直しが効きます。"],
+  ["irreversible", "元に戻せない。慎重な判断が必要です。"],
+  ["low-regret", "後悔が小さい。どの将来でも無駄になりにくい施策です。"],
+  ["no-regret", "まったく後悔がない。どの前提でもやるべき施策です。"]
+ ],
+ "nn": "no-regret move という言い方は、「どのシナリオでもやる価値がある施策」を指します。不確実性が高い局面では、reversible かつ no-regret なものから着手するのが定石です。",
+ "e": [
+  ["Do the reversible things first — we can pilot the new process without touching the system, and the system change cannot be undone.", "取り返しのつく施策から先に行うべきです。新しい運用はシステムに触れずに試せますが、システム変更は元に戻せません。"],
+  ["I'd do the reversible things first and leave the irreversible ones until after the merger closes.", "取り返しのつくものから先に行い、取り返しのつかないものは合併完了後まで残すべきです。"]
+ ],
+ "p": [
+  ["Do the [reversible] things first.", ["Do the cheap things first.", "Do the no-regret moves first."]],
+  ["[原則]. [具体例]. [理由].", ["I'd do the reversible things first: pilot the process, delay the system change.", "Start with the no-regret moves — the data cleanup is needed under every scenario."]]
+ ],
+ "k": [
+  "reversible / irreversible は不確実性下の判断基準。",
+  "no-regret move は「どの前提でもやるべき施策」。",
+  "会議では I'd を付けると、押しつけにならない。"
+ ]
+},
+"My recommendation hasn't changed, but the urgency has.": {
+ "t": "推奨自体は変わりませんが、緊急度は上がりました。",
+ "tn": "継続案件での再提案に使います。同じ話の繰り返しには聞こえません。",
+ "s": [
+  ["My recommendation hasn't changed,", "現在完了形の否定。「これまで変わっていない」という継続を表します。"],
+  ["but the urgency has", "has の後に changed が省略されています。繰り返しを避ける代動詞の用法です。"]
+ ],
+ "sn": "has の後の省略が要点です。前の文の動詞（changed）を繰り返さずに has だけを残します。英語では頻繁に使われる省略で、短く対比を作れます。",
+ "v": [
+  ["urgency", "緊急度。urgent（緊急の）の名詞形。a sense of urgency（切迫感）。"],
+  ["has (changed)", "代動詞。前の動詞を受けて繰り返しを省きます。I can't, but she can. も同じ形です。"],
+  ["recommendation", "推奨。"]
+ ],
+ "n": [
+  ["My recommendation hasn't changed, but X has.", "推奨は同じだが状況が変わった。"],
+  ["I'm making the same recommendation for a different reason.", "同じ推奨を別の理由で。より明確です。"],
+  ["This is the third time I've raised this.", "3度目の提起。やや圧をかけます。"],
+  ["Nothing has changed, which is itself the issue.", "何も変わっていないことが問題。鋭い指摘です。"]
+ ],
+ "e": [
+  ["My recommendation hasn't changed, but the urgency has — two of the three senior leads have now given notice.", "推奨自体は変わりませんが、緊急度は上がりました。3名の中核リーダーのうち2名が退職を申し出ています。"],
+  ["My recommendation hasn't changed, but the cost of waiting has doubled since we last discussed it.", "推奨自体は変わりませんが、前回の議論以降、待つことの費用が倍になりました。"]
+ ],
+ "p": [
+  ["My recommendation hasn't changed, but [変わったもの] has.", ["My recommendation hasn't changed, but the cost has.", "My view hasn't changed, but the evidence has strengthened."]],
+  ["[変わらないもの] hasn't changed. [変わったもの] has. [だから何か].", ["The diagnosis hasn't changed. The window has. We have one quarter, not three.", "The plan is the same. The risk is not. I'd move it up the agenda."]]
+ ],
+ "k": [
+  "代動詞 has で、前の動詞の繰り返しを省ける。",
+  "現在完了形で「これまで変わっていない」という継続を表す。",
+  "何が変わったかを示すと、繰り返しの提案にならない。"
+ ]
+}
+}

@@ -1,0 +1,594 @@
+{
+"Can I jump in here?": {
+ "t": "少し入ってもよいですか。",
+ "tn": "最も自然で頻出の割り込みです。許可を取る形なので失礼になりません。理由を続けると通りやすくなります。",
+ "s": [
+  ["Can I jump in", "許可を求める疑問文。jump in は自動詞の句動詞で、目的語を取りません。"],
+  ["here?", "副詞。「この時点で」。話の流れの中の位置を指します。"]
+ ],
+ "v": [
+  ["jump in", "飛び込む。流れている会話に飛び込む、という比喩です。英語会議では日常語で、失礼な響きはありません。jump in on A（Aについて割り込む）の形もあります。"],
+  ["here", "ここで。物理的な場所ではなく、話の流れの中の位置を指します。"],
+  ["Can I ~?", "許可を求める形。May I ~? より口語的です。"]
+ ],
+ "n": [
+  ["Can I jump in here?", "最も一般的。社内でも社外でも使えます。"],
+  ["May I come in here?", "よりていねい。かしこまった場に向きます。"],
+  ["Can I add something?", "付け加えたい。内容まで示します。"],
+  ["Sorry to cut in.", "遮ってすみません。謝罪から入ります。"]
+ ],
+ "nn": "jump in は英語会議の標準語で、失礼ではありません。クライアント同席のかしこまった場では May I come in here? の方が落ち着いて響きます。",
+ "e": [
+  ["Can I jump in here? That number changed after the audit closed.", "少し入ってもよいですか。その数字は監査完了後に変わっています。"],
+  ["Can I jump in on the timeline? April is the start of the client's fiscal year.", "日程の点で入ってもよいですか。4月はクライアントの年度初めです。"]
+ ],
+ "p": [
+  ["Can I jump in here? [割り込む理由]", ["Can I jump in here? I have the latest figure.", "Can I jump in here? There is a dependency we haven't mentioned."]],
+  ["Can I jump in on [話題]?", ["Can I jump in on the cost side?", "Can I jump in on that last point?"]]
+ ],
+ "k": [
+  "jump in は自動詞句。目的語を取らない。",
+  "英語会議の標準語で、失礼ではない。",
+  "許可を取ったら、すぐ理由や中身を続ける。"
+ ]
+},
+"Sorry to interrupt — one quick point.": {
+ "t": "遮ってすみません、1点だけ短く。",
+ "tn": "quick と言った以上は本当に短くします。長引くと、次から通してもらえなくなります。",
+ "s": [
+  ["Sorry to interrupt", "I'm sorry to interrupt の省略。to不定詞が謝罪の理由を示します。"],
+  ["— one quick point", "ダッシュで中身へ。名詞句だけで、動詞は省略されています。"]
+ ],
+ "sn": "Sorry to do と Sorry for doing の違いに注意します。これから遮るなら Sorry to interrupt、すでに遮ったなら Sorry for interrupting です。",
+ "v": [
+  ["interrupt", "inter-（間に）+ rupt（破る）。話の流れの間に割って入ること。"],
+  ["quick", "短い。one quick point で「短い1点」。言った以上は守ります。"],
+  ["point", "論点。a point を「1つの論点」として数えます。"]
+ ],
+ "n": [
+  ["Sorry to interrupt — one quick point.", "謝ってから短く入る。最も一般的。"],
+  ["Sorry, quick one.", "さらに短い形。社内向きです。"],
+  ["Forgive the interruption, but ...", "ていねいな謝罪。かしこまった場に向きます。"],
+  ["Before you move on — ", "進む前に。謝らずに入る形です。"]
+ ],
+ "e": [
+  ["Sorry to interrupt — one quick point: that figure is pre-tax.", "遮ってすみません、1点だけ。その数字は税引前です。"],
+  ["Sorry to interrupt — one quick point on the date. The board meets on the eighth, not the eighteenth.", "遮ってすみません、日付について1点だけ。取締役会は18日ではなく8日です。"]
+ ],
+ "p": [
+  ["Sorry to interrupt — one quick point on [話題].", ["Sorry to interrupt — one quick point on the scope.", "Sorry to interrupt — one quick correction."]],
+  ["Sorry to interrupt — [短い中身].", ["Sorry to interrupt — that's the old version.", "Sorry to interrupt — we have a hard stop at four."]]
+ ],
+ "k": [
+  "Sorry to do（これから）/ Sorry for doing（すでにした）を区別する。",
+  "quick と言ったら本当に短くする。",
+  "割り込みは短いほど次も通してもらえる。"
+ ]
+},
+"Before we move on, can I add something?": {
+ "t": "次に進む前に、付け加えてもよいですか。",
+ "tn": "議題が変わる直前は割り込みの狙い目です。話者交代の隙間を使います。",
+ "s": [
+  ["Before we move on,", "接続詞 before + 主語 + 動詞。"],
+  ["can I add something?", "許可を求める疑問文。something が内容を漠然と示します。"]
+ ],
+ "v": [
+  ["move on", "先へ進む。move on to A（Aに移る）、move on from A（Aから離れる）。議題の切り替えを表す定型です。"],
+  ["add", "加える。add something / add a point / add to that。"],
+  ["before", "接続詞。"]
+ ],
+ "n": [
+  ["Before we move on, ...", "進む前に。話者交代の隙間を使えます。"],
+  ["Before we leave this topic, ...", "この話題を離れる前に。範囲を明示します。"],
+  ["While we're still on this, ...", "この話題のうちに。同じ狙いです。"],
+  ["Can we stay on this for one more minute?", "もう1分だけこの話題に。時間を示します。"]
+ ],
+ "e": [
+  ["Before we move on, can I add something? The same constraint applies to phase two.", "次に進む前に付け加えてもよいですか。同じ制約が第2段階にも当てはまります。"],
+  ["Before we move on, can I add one number to that? Attrition in that team is 22%, not 15%.", "次に進む前に1つ数字を補ってもよいですか。そのチームの離職率は15%ではなく22%です。"]
+ ],
+ "p": [
+  ["Before we move on, can I add [something]?", ["Before we move on, can I add one data point?", "Before we move on, can I flag a risk?"]],
+  ["Before we [leave this / move on], [割り込みの内容].", ["Before we leave this topic, we haven't covered the handover.", "While we're still on this, there is a dependency on IT."]]
+ ],
+ "k": [
+  "議題の切り替え時は、割り込みが自然に通る隙間。",
+  "move on to（移る先）/ move on from（離れる元）。",
+  "付け加える内容を一言で示すと、許可が通りやすい。"
+ ]
+},
+"I'd like to come in on that point.": {
+ "t": "その点について発言させてください。",
+ "tn": "フォーマルな会議やクライアント同席の場に向きます。落ち着いて聞こえます。",
+ "s": [
+  ["I'd like to come in", "I would like to + 原形。want to よりていねいです。"],
+  ["on that point", "on が論点を示します。"]
+ ],
+ "v": [
+  ["come in", "入る。会議では「発言に加わる」。come in on A（Aについて発言する）の形で使います。jump in より落ち着いた響きです。"],
+  ["would like to", "want to のていねいな形。"],
+  ["that point", "直前に出た論点。"]
+ ],
+ "n": [
+  ["I'd like to come in on that.", "落ち着いた割り込み。かしこまった場に向きます。"],
+  ["Can I jump in?", "口語的。社内向きです。"],
+  ["If I may, ...", "最もていねい。上位者やクライアントに向きます。"],
+  ["I'd like to add to that.", "付け加えたい。内容まで示します。"]
+ ],
+ "e": [
+  ["I'd like to come in on that point. We looked at the same question for the Osaka entity last year.", "その点について発言させてください。昨年、大阪法人で同じ論点を検討しています。"],
+  ["I'd like to come in on the resourcing question, if I may.", "よろしければ、体制の論点について発言させてください。"]
+ ],
+ "p": [
+  ["I'd like to come in on [論点].", ["I'd like to come in on the cost assumption.", "I'd like to come in on what was just said about timing."]],
+  ["I'd like to come in on [論点] — [中身].", ["I'd like to come in on that — we have data from a comparable rollout.", "I'd like to come in here — there is a sequencing issue worth noting."]]
+ ],
+ "k": [
+  "come in on ~ は落ち着いた割り込み。jump in より正式。",
+  "would like to は want to のていねいな形。",
+  "論点を on で指定すると、何について話すかが明確になる。"
+ ]
+},
+"Just one thing before we close this topic.": {
+ "t": "この話題を閉じる前に1点だけ。",
+ "tn": "終わりかけの議題に戻す型です。one thing と限定するのが礼儀になります。",
+ "s": [
+  ["Just one thing", "名詞句のみ。I have just one thing の省略です。"],
+  ["before we close this topic", "接続詞 before + 主語 + 動詞。"]
+ ],
+ "v": [
+  ["close a topic", "話題を閉じる。close an item / close the discussion も同じ用法です。"],
+  ["just", "「ほんの」。one を強め、短く済むと示します。"],
+  ["one thing", "1点だけ。宣言した以上、本当に1点にします。"]
+ ],
+ "n": [
+  ["Just one thing before we close this.", "終わりかけに戻す。限定が礼儀です。"],
+  ["One more thing on this.", "もう1点。既に話した後で足します。"],
+  ["Last point from me on this.", "この件での最後の点。これで終わると示します。"],
+  ["Can we not close this yet?", "まだ閉じないでほしい。より直接的です。"]
+ ],
+ "e": [
+  ["Just one thing before we close this topic — we haven't agreed who owns the handover.", "この話題を閉じる前に1点だけ。引き継ぎの担当がまだ決まっていません。"],
+  ["Just one thing before we close this. The number assumes a January start.", "閉じる前に1点だけ。この数字は1月開始を前提としています。"]
+ ],
+ "p": [
+  ["Just one thing before we close [話題].", ["Just one thing before we close the budget discussion.", "Just one thing before we move to the next item."]],
+  ["[Just one thing / Last point from me] — [中身].", ["Last point from me — the dependency on IT is still open.", "Just one thing — can we confirm the date before we move on?"]]
+ ],
+ "k": [
+  "one thing と限定するのが礼儀。宣言した数を守る。",
+  "close a topic / close an item は議題を閉じる定型。",
+  "終わりかけは、短く限定すれば戻せる。"
+ ]
+},
+"Actually, that connects to something I wanted to raise.": {
+ "t": "ちょうどそれ、私が挙げたかった点につながります。",
+ "tn": "相手の発言に接続させる割り込みです。唐突さが消え、議論の流れも壊しません。",
+ "s": [
+  ["Actually,", "文修飾の副詞。「実は・ちょうど」。"],
+  ["that connects to something", "connect to A で「Aにつながる」。"],
+  ["I wanted to raise", "something を修飾する関係詞節。目的格の関係代名詞が省略されています。"]
+ ],
+ "v": [
+  ["connect to ~", "to が接続先を示します。connect with ~ も使えますが、論点同士のつながりには to が自然です。"],
+  ["raise", "論点を場に持ち上げる。raise a point / raise a question。"],
+  ["actually", "実は。ここでは否定の含みではなく、「ちょうど」という偶然の一致を示します。"]
+ ],
+ "n": [
+  ["That connects to ...", "つながると示す。流れを壊しません。"],
+  ["That's related to ...", "関連している。より中立です。"],
+  ["That's a good bridge to ...", "橋渡しになる。話題の転換を正当化します。"],
+  ["Picking up on that, ...", "それを受けて。発言を引き継ぎます。"]
+ ],
+ "e": [
+  ["Actually, that connects to something I wanted to raise — the same team owns both workstreams.", "ちょうどそれ、私が挙げたかった点につながります。同じチームが両方の作業を担っています。"],
+  ["Actually, that's a good bridge to the resourcing question.", "ちょうどそれが、体制の論点への橋渡しになります。"]
+ ],
+ "p": [
+  ["Actually, that connects to [挙げたい点].", ["Actually, that connects to the data issue I wanted to raise.", "Actually, that connects to something we saw in the pilot."]],
+  ["[接続の一言], [自分の論点].", ["Picking up on that, there is a dependency worth naming.", "That's related to a risk I wanted to flag."]]
+ ],
+ "k": [
+  "相手の発言に接続させると、割り込みの唐突さが消える。",
+  "connect to ~。論点同士のつながりには to。",
+  "actually は「ちょうど・実は」。否定の含みとは限らない。"
+ ]
+},
+"Can I offer a different data point here?": {
+ "t": "別のデータを1つ出してもよいですか。",
+ "tn": "反論を「情報提供」として割り込ませる型です。攻撃色を消せます。",
+ "s": [
+  ["Can I offer ~?", "許可を求める疑問文。offer は「差し出す」。"],
+  ["a different data point", "目的語。a different で「別の」。"],
+  ["here?", "この時点で。"]
+ ],
+ "v": [
+  ["offer", "差し出す。押しつけずに提示できます。"],
+  ["data point", "個別のデータ。data は不可算なので、数えるときにこの語を使います。"],
+  ["different", "別の。opposite（正反対の）ではないので、対立色が出ません。"]
+ ],
+ "n": [
+  ["Can I offer a different data point?", "別のデータを出す。情報提供の形です。"],
+  ["Can I add a data point?", "データを足す。対立色がさらに薄くなります。"],
+  ["Our data shows something different.", "我々のデータは違う。より直接的です。"],
+  ["I have a number that doesn't fit that.", "合わない数字がある。矛盾を名指しします。"]
+ ],
+ "nn": "a different data point は「別のデータ」で、相手を否定しません。実質的に反論であっても、情報提供の形を取れるのがこの言い方の価値です。",
+ "e": [
+  ["Can I offer a different data point here? In the Nagoya office, the same change had no effect on attrition.", "別のデータを1つ出してもよいですか。名古屋オフィスでは、同じ変更が離職率に影響しませんでした。"],
+  ["Can I offer a different data point? Our exit interviews point to career path, not pay.", "別のデータを出してもよいですか。退職者面談は報酬ではなく昇進の道筋を示しています。"]
+ ],
+ "p": [
+  ["Can I offer [a different data point] here?", ["Can I offer a counter-example here?", "Can I add a data point from the pilot?"]],
+  ["Can I offer a different data point? [データ].", ["Can I offer a different data point? Two of the five sites went the other way.", "Can I add one number? The same cohort shows the opposite last year."]]
+ ],
+ "k": [
+  "反論を情報提供の形にすると、攻撃色が消える。",
+  "data は不可算。数えるときは data point。",
+  "different は opposite ではないので、対立色が出ない。"
+ ]
+},
+"I've been quiet, but I have a view on this.": {
+ "t": "ずっと聞いていましたが、この点には意見があります。",
+ "tn": "長く発言できていない会議で流れを取り戻す一言です。使いすぎないのが前提です。",
+ "s": [
+  ["I've been quiet,", "現在完了進行形。「これまでずっと静かにしてきた」という継続を表します。"],
+  ["but I have a view on this", "but で逆接。have a view on A で「Aについて見解がある」。"]
+ ],
+ "sn": "完了進行形が効いています。I was quiet（過去形）だと過去の一場面の話ですが、I've been quiet なら「この会議の間ずっと」という継続になり、いま発言する理由が立ちます。",
+ "v": [
+  ["have a view on ~", "on が論点を示します。have a view about ~ も使えますが、on の方が議論寄りです。"],
+  ["quiet", "静か。発言していないことを表します。silent よりやわらかい語感です。"],
+  ["have been", "完了進行形の形。継続を表します。"]
+ ],
+ "n": [
+  ["I've been quiet, but ...", "発言していなかった理由を示してから入る。"],
+  ["I haven't said much, but ...", "ほぼ同義。よりくだけています。"],
+  ["Can I give a different perspective?", "別の視点を示す。発言していない事実には触れません。"],
+  ["Let me add the view from delivery.", "特定の立場からの見解を足す。役割を明示します。"]
+ ],
+ "nn": "発言していなかったことに触れるのは、一度きりにします。繰り返すと、発言しない理由を説明し続けているように聞こえます。",
+ "e": [
+  ["I've been quiet, but I have a view on this — we tried a version of this in 2023 and it stalled at the handover.", "ずっと聞いていましたが、この点には意見があります。2023年に類似の取り組みを行い、引き継ぎの段階で止まりました。"],
+  ["I've been quiet on this one, but I'd land differently from the room.", "この件では発言していませんでしたが、私はこの場の結論とは違う立場です。"]
+ ],
+ "p": [
+  ["I've been quiet, but I have a view on [論点].", ["I've been quiet, but I have a view on the sequencing.", "I haven't said much, but I'd add one thing on resourcing."]],
+  ["[発言していない理由], [自分の見解].", ["I've been listening rather than talking, and I'd push back on one assumption.", "I wanted to hear everyone first. My read is different."]]
+ ],
+ "k": [
+  "完了進行形で「この会議の間ずっと」という継続を表す。",
+  "have a view on ~。前置詞は on。",
+  "発言していなかったことに触れるのは一度きりにする。"
+ ]
+},
+"May I add one point here?": {
+ "t": "1点だけ補足してもよろしいですか。",
+ "tn": "クライアント同席の場に向く、ていねいな割り込みです。",
+ "s": [
+  ["May I add ~?", "May + 主語 + 原形。Can I より格式の高い許可の求め方です。"],
+  ["one point here?", "one が数を限定し、here が時点を示します。"]
+ ],
+ "v": [
+  ["may", "許可を表す助動詞。Can I より正式で、社外のかしこまった場に合います。"],
+  ["add", "加える。"],
+  ["one point", "1点だけ。宣言した数を守ります。"]
+ ],
+ "n": [
+  ["May I add one point?", "最も正式な割り込み。クライアント向き。"],
+  ["Can I add one point?", "やや口語的。社内向きです。"],
+  ["If I may add one point, ...", "さらにていねい。許可を半ば前提とします。"],
+  ["Might I add ...?", "英国的で非常に格式が高い言い方です。"]
+ ],
+ "nn": "May I ...? と Can I ...? は実務上どちらも通用します。May は格式が高く、Can は口語的、という違いで、Can が失礼というわけではありません。",
+ "e": [
+  ["May I add one point here about the implementation timeline?", "導入日程について1点だけ補足してもよろしいですか。"],
+  ["May I add one point? The figure on slide 6 is pre-audit.", "1点だけ補足してもよろしいですか。6ページの数字は監査前のものです。"]
+ ],
+ "p": [
+  ["May I add one point here about [話題]?", ["May I add one point here about the data source?", "May I add one point about the regulatory angle?"]],
+  ["[ていねいな許可] [中身].", ["If I may add one point, the dependency on IT is still unresolved.", "May I offer one observation from the pilot?"]]
+ ],
+ "k": [
+  "May I は Can I より格式が高い。Can が失礼というわけではない。",
+  "one point と限定し、宣言した数を守る。",
+  "クライアント同席の場では May I が安全。"
+ ]
+},
+"Quick thought on that.": {
+ "t": "その点について一言だけ。",
+ "tn": "社内のカジュアルな会議向けです。短さが前提なので、長く話しません。",
+ "s": [
+  ["Quick thought", "名詞句のみ。I have a quick thought の省略で、冠詞も落としています。"],
+  ["on that", "on が論点を示します。"]
+ ],
+ "sn": "冠詞も主語も省いた、かなり口語的な形です。社外のかしこまった場では I have a quick thought on that. と文にします。",
+ "v": [
+  ["thought", "考え・思いつき。a thought は「ちょっとした考え」で、a view（見解）より軽い語です。"],
+  ["quick", "短い。"],
+  ["on that", "その点について。"]
+ ],
+ "n": [
+  ["Quick thought on that.", "最も短い割り込み。社内向き。"],
+  ["Just a thought.", "ちょっとした考え。控えめです。"],
+  ["One observation.", "ひとつ気づいた点。やや分析的です。"],
+  ["Can I offer a quick thought?", "許可を求める形。ややていねいです。"]
+ ],
+ "e": [
+  ["Quick thought on that — if the constraint is reviewer time, more analysts won't help.", "その点について一言だけ。制約が査定者の時間なら、分析担当を増やしても効きません。"],
+  ["Quick thought: could we test it in one region before committing?", "一言だけ。決める前に1地域で試せないでしょうか。"]
+ ],
+ "p": [
+  ["Quick thought on [話題].", ["Quick thought on the timeline.", "Quick thought on who should own this."]],
+  ["[短い割り込み]: [中身].", ["Just a thought: the same team is already stretched.", "One observation: both options need the same approval."]]
+ ],
+ "k": [
+  "主語も冠詞も省いた口語形。社外では文にする。",
+  "a thought は a view より軽い。「思いつき」程度。",
+  "quick と言った以上、本当に短く終える。"
+ ]
+},
+"Can I pick up on what you just said?": {
+ "t": "いまのご発言を受けて話してもよいですか。",
+ "tn": "相手の発言に接続する割り込みです。流れを壊さずに入れます。",
+ "s": [
+  ["Can I pick up on ~?", "pick up on A で「Aを取り上げて続ける」。"],
+  ["what you just said", "疑問詞 what が導く名詞節。just が「たったいま」。"]
+ ],
+ "v": [
+  ["pick up on ~", "拾い上げる、から「言われたことを取り上げて話を続ける」。pick up a point / pick up where we left off（中断したところから再開する）も同じ発想です。"],
+  ["just", "たったいま。直前であることを示します。"],
+  ["what you said", "関係代名詞の what。"]
+ ],
+ "n": [
+  ["Can I pick up on that?", "取り上げて続ける。流れを壊しません。"],
+  ["Can I build on that?", "積み上げる。賛成寄りの含みです。"],
+  ["Can I come back to what you said?", "戻る。少し前の発言にも使えます。"],
+  ["On your point about X, ...", "その点については。許可を求めずに入ります。"]
+ ],
+ "nn": "pick up on は中立で、賛成にも反論にも使えます。build on は「土台にして積み上げる」なので、賛成寄りの含みが出ます。",
+ "e": [
+  ["Can I pick up on what you just said about the handover? That is where the last rollout failed.", "引き継ぎについてのいまのご発言を受けてもよいですか。前回の展開が失敗したのはまさにそこでした。"],
+  ["Can I pick up on your point about capacity? We have numbers on that.", "体制についてのご指摘を受けてもよいですか。その点の数字があります。"]
+ ],
+ "p": [
+  ["Can I pick up on [発言]?", ["Can I pick up on your second point?", "Can I pick up on what Sarah said about the data?"]],
+  ["Can I pick up on [発言]? [中身].", ["Can I pick up on that? We saw the same thing in the pilot.", "Can I pick up on the timing? There is a dependency we should name."]]
+ ],
+ "k": [
+  "pick up on は中立。賛成にも反論にも使える。",
+  "build on は「土台にして積み上げる」で賛成寄り。",
+  "相手の発言に接続すると、流れを壊さずに入れる。"
+ ]
+},
+"Sorry, can I stop you there for a second?": {
+ "t": "すみません、そこで一度止めてもよいですか。",
+ "tn": "誤解が広がる前に止める型です。理由を必ず添えると失礼になりません。",
+ "s": [
+  ["Sorry, can I stop you there", "許可を求める疑問文。stop A で「Aを止める」。there が「その時点で」。"],
+  ["for a second?", "ちょっとの間。"]
+ ],
+ "sn": "for a second が重要です。これがないと「話を止めろ」という強い要求になります。一時的だと示すことで、相手が受け入れやすくなります。",
+ "v": [
+  ["stop you there", "そこで止める。there が「いま話している地点」を指します。"],
+  ["for a second", "ちょっとの間。一時性を示します。"],
+  ["Sorry", "謝罪の前置き。遮ることへの配慮です。"]
+ ],
+ "n": [
+  ["Can I stop you there?", "止める。強めなので理由が必要です。"],
+  ["Can I pause you for a second?", "一時停止。よりやわらかい言い方です。"],
+  ["Before you go on — ", "続ける前に。謝らずに入ります。"],
+  ["Hold on, I think there's a mix-up.", "待ってほしい、取り違えがある。理由を即座に示します。"]
+ ],
+ "e": [
+  ["Sorry, can I stop you there for a second? I think we're looking at two different versions of the file.", "すみません、そこで一度止めてもよいですか。別のバージョンのファイルを見ている気がします。"],
+  ["Sorry, can I stop you there? The 15% figure was superseded last week.", "すみません、そこで一度止めてもよいですか。15%という数字は先週更新されています。"]
+ ],
+ "p": [
+  ["Sorry, can I stop you there for a second? [理由]", ["Sorry, can I stop you there? I want to make sure we're on the same page.", "Sorry, can I pause you there? That assumption changed yesterday."]],
+  ["[止める一言] — [理由].", ["Hold on — I think we're using different base years.", "Before you go on — is that the pre- or post-audit number?"]]
+ ],
+ "k": [
+  "for a second を入れると、一時的だと伝わる。",
+  "止める以上、理由を必ず即座に添える。",
+  "誤解が広がる前に止める方が、後で戻すより早い。"
+ ]
+},
+"If I may, there's a data point worth adding.": {
+ "t": "よろしければ、補足すべきデータがあります。",
+ "tn": "最も丁寧な割り込みです。上位者やクライアントに対して安全に使えます。",
+ "s": [
+  ["If I may,", "If I may (speak) の省略。「よろしければ」という許可の前置きです。"],
+  ["there's a data point", "There is の短縮。新しい情報を場に出す構文です。"],
+  ["worth adding", "data point を修飾。be worth + 動名詞で「〜する価値がある」。"]
+ ],
+ "sn": "worth の後ろは動名詞です（worth adding であって worth to add ではありません）。worth it、worth a look のように名詞が続く形もあります。",
+ "v": [
+  ["If I may", "許可を求める最もていねいな前置き。許可を半ば前提としつつ、謙譲の姿勢を示します。"],
+  ["worth ~ing", "〜する価値がある。It's worth checking.（確認する価値がある）。"],
+  ["data point", "個別のデータ。"]
+ ],
+ "n": [
+  ["If I may, ...", "最もていねいな割り込み。クライアント向き。"],
+  ["May I add ...?", "ていねい。許可を明示的に求めます。"],
+  ["Can I jump in?", "口語的。社内向きです。"],
+  ["Permit me to add ...", "非常に格式が高く、現代の会議ではほとんど使われません。"]
+ ],
+ "e": [
+  ["If I may, there's a data point worth adding: three of the five peers moved to this model last year.", "よろしければ補足すべきデータがあります。同業5社のうち3社が昨年この方式へ移行しています。"],
+  ["If I may, there's one assumption worth testing before we proceed.", "よろしければ、進める前に検証すべき前提が1つあります。"]
+ ],
+ "p": [
+  ["If I may, there's [何] worth adding.", ["If I may, there's a risk worth flagging.", "If I may, there's one number worth correcting."]],
+  ["If I may, [中身].", ["If I may, the Japan entity is treated differently under the policy.", "If I may, we have a comparable case from last year."]]
+ ],
+ "k": [
+  "worth の後ろは動名詞（worth adding）。",
+  "If I may は最もていねいな割り込みの前置き。",
+  "There is 構文で、新しい情報を場に出せる。"
+ ]
+},
+"Just to jump in on the numbers.": {
+ "t": "数字の点だけ入らせてください。",
+ "tn": "話題を限定して入る型です。短い訂正に向きます。",
+ "s": [
+  ["Just to jump in", "目的を表す不定詞句ですが、ここでは宣言として機能します。文としては不完全ですが、口語では自然です。"],
+  ["on the numbers", "on が話題を限定します。"]
+ ],
+ "sn": "主語も動詞もない断片的な形です。これは口語でよくある「言いさし」の形で、言い終えずにそのまま中身に入ります。社外のかしこまった場では文にします。",
+ "v": [
+  ["jump in on ~", "on が話題を限定します。jump in だけだと範囲が不明なので、on を付けると短く済むと示せます。"],
+  ["just", "ほんの。短さを強調します。"],
+  ["the numbers", "数字。会議では「数字の話」全般を指します。"]
+ ],
+ "n": [
+  ["Just to jump in on the numbers.", "話題を限定した割り込み。短い訂正向き。"],
+  ["Just on the numbers — ", "さらに短い形。"],
+  ["A quick correction on the figure.", "訂正だと明示します。"],
+  ["Can I jump in on the numbers?", "許可を求める形。ややていねいです。"]
+ ],
+ "e": [
+  ["Just to jump in on the numbers — the 18% is for the full year, not the quarter.", "数字の点だけ。18%は四半期ではなく通年の数値です。"],
+  ["Just on the numbers: both figures are correct, they use different denominators.", "数字の点だけ。どちらの数値も正しく、分母が違うだけです。"]
+ ],
+ "p": [
+  ["Just to jump in on [話題].", ["Just to jump in on the timeline.", "Just to jump in on the definition."]],
+  ["Just on [話題] — [訂正や補足].", ["Just on the dates — the board meets on the eighth.", "Just on scope — phase two is not included in that number."]]
+ ],
+ "k": [
+  "話題を on で限定すると、短く済むと伝わる。",
+  "主語を省いた言いさしの形は口語的。社外では文にする。",
+  "短い訂正に最も向く形。"
+ ]
+},
+"I'd like to flag something before we decide.": {
+ "t": "決める前に共有したいことがあります。",
+ "tn": "決定の直前は割り込みが正当化されやすい場面です。重要事項はここで出します。",
+ "s": [
+  ["I'd like to flag something", "I would like to + 原形。flag が動詞として使われています。"],
+  ["before we decide", "接続詞 before + 主語 + 動詞。"]
+ ],
+ "v": [
+  ["flag", "旗を立てる、から「注意を促す・共有する」。ビジネスで非常によく使われる動詞です。flag a risk / flag an issue / flag it to the team。批判ではなく注意喚起の意味です。"],
+  ["something", "漠然とした対象。具体化は後に続けます。"],
+  ["decide", "決める。"]
+ ],
+ "n": [
+  ["flag something", "注意を促す。中立で、批判ではありません。"],
+  ["raise a concern", "懸念を提起する。やや重めです。"],
+  ["note something", "記録に残す。より事務的です。"],
+  ["escalate", "上位に上げる。手続きとして重い語です。"]
+ ],
+ "nn": "flag は中立な注意喚起で、escalate は「上位者の判断を仰ぐ」という手続き上の行為です。重さがかなり違うので、混同しないようにします。",
+ "e": [
+  ["I'd like to flag something before we decide — the two options have different approval paths.", "決める前に共有したいことがあります。2つの案は承認ルートが異なります。"],
+  ["I'd like to flag one risk before we commit: the vendor's key engineer leaves in June.", "確定する前に1つリスクを共有します。ベンダーの中核エンジニアが6月に退職します。"]
+ ],
+ "p": [
+  ["I'd like to flag [何] before we decide.", ["I'd like to flag a dependency before we decide.", "I'd like to flag one assumption before we commit."]],
+  ["Before we [決定], I'd like to flag [内容].", ["Before we sign, I'd like to flag the termination clause.", "Before we announce, I'd like to flag that HR has not been consulted."]]
+ ],
+ "k": [
+  "flag は中立な注意喚起。批判ではない。",
+  "escalate は上位者の判断を仰ぐ手続き。重さが違う。",
+  "決定の直前は、割り込みが最も正当化されやすい。"
+ ]
+},
+"Can we pause on this point for a moment?": {
+ "t": "この点で少し立ち止まってもよいですか。",
+ "tn": "議論が速すぎるときに減速させる型です。理解が追いつかない場面でも有効です。",
+ "s": [
+  ["Can we pause", "we を主語にした提案。「我々で」とすることで、自分だけが遅れているという印象を避けられます。"],
+  ["on this point for a moment?", "on が対象、for a moment が時間の長さを示します。"]
+ ],
+ "sn": "主語が we である点が重要です。Can I pause? だと自分の都合になりますが、Can we pause? なら場全体への提案になります。",
+ "v": [
+  ["pause on ~", "on が「どこで立ち止まるか」を示します。pause a moment、pause here も同じ発想です。"],
+  ["for a moment", "少しの間。"],
+  ["point", "論点。"]
+ ],
+ "n": [
+  ["Can we pause on this?", "立ち止まる提案。場全体に向けます。"],
+  ["Can we slow down on this?", "減速する。速度の問題だと示します。"],
+  ["Can we stay on this a bit longer?", "もう少しこの話題に留まる。時間の要求です。"],
+  ["I want to make sure we've covered this.", "扱い切れたか確認したい。目的を示します。"]
+ ],
+ "e": [
+  ["Can we pause on this point for a moment? I think there are two decisions bundled together here.", "この点で少し立ち止まってもよいですか。ここには2つの意思決定が混ざっている気がします。"],
+  ["Can we pause on this for a moment? I'd like to understand the dependency before we move on.", "この点で少し立ち止まってもよいですか。次に進む前に依存関係を理解したいので。"]
+ ],
+ "p": [
+  ["Can we pause on [論点] for a moment?", ["Can we pause on the assumption for a moment?", "Can we stay on this for one more minute?"]],
+  ["Can we pause on this? [理由].", ["Can we pause on this? I don't think we've agreed the definition.", "Can we slow down here? There are three things bundled in that sentence."]]
+ ],
+ "k": [
+  "主語を we にすると、場全体への提案になる。",
+  "pause on ~。立ち止まる対象を on で示す。",
+  "理由を添えると、減速の提案が通りやすい。"
+ ]
+},
+"Sorry, I think we're talking past each other.": {
+ "t": "すみません、議論が噛み合っていない気がします。",
+ "tn": "空転を止める型です。定義のずれを指摘すると建設的に響きます。",
+ "s": [
+  ["Sorry, I think", "前置きの謝罪 + I think で、断定をやわらげています。"],
+  ["we're talking past each other", "現在進行形。talk past A で「Aとすれ違って話す」。"]
+ ],
+ "v": [
+  ["talk past each other", "past は「〜を通り越して」。互いに相手の脇を通り過ぎて話している、つまり噛み合っていない状態です。一方が悪いという含みがありません。"],
+  ["each other", "お互いに。双方向であることを示します。"],
+  ["I think", "断定をやわらげる前置き。"]
+ ],
+ "n": [
+  ["We're talking past each other.", "噛み合っていない。双方向で、一方を責めません。"],
+  ["I think we're using the word differently.", "語の使い方が違う。原因を名指しします。"],
+  ["Are we answering the same question?", "同じ問いに答えているか。確認の形です。"],
+  ["Let me restate where I think we are.", "現状を言い直す。整理を提案します。"]
+ ],
+ "e": [
+  ["Sorry, I think we're talking past each other — you're describing the target state, and I'm describing the transition.", "すみません、議論が噛み合っていない気がします。そちらは目指す姿、私は移行期の話をしています。"],
+  ["Sorry, I think we're talking past each other on 'cost'. I mean total cost of ownership; you may mean licence fee.", "すみません、「コスト」で噛み合っていない気がします。私は総保有コスト、そちらはライセンス費用かもしれません。"]
+ ],
+ "p": [
+  ["Sorry, I think we're talking past each other on [論点].", ["Sorry, I think we're talking past each other on scope.", "Sorry, I think we're talking past each other on what 'done' means."]],
+  ["I think we're talking past each other — [ずれの中身].", ["I think we're talking past each other — you mean this year, I mean steady state.", "I think we're talking past each other — I've been answering a different question."]]
+ ],
+ "k": [
+  "talk past each other は双方向。一方を責めない表現。",
+  "ずれの中身を具体的に示すと、建設的になる。",
+  "I think を付けて断定をやわらげる。"
+ ]
+},
+"One more thing while we're on this.": {
+ "t": "この話題のうちに、もう1点だけ。",
+ "tn": "話題が変わる前に滑り込ませる型です。one more と限定するのが礼儀になります。",
+ "s": [
+  ["One more thing", "名詞句のみ。I have one more thing の省略です。"],
+  ["while we're on this", "while が接続詞。be on A で「Aの話題に取り組んでいる」。"]
+ ],
+ "v": [
+  ["be on ~", "ここでは「その話題を扱っている」。We're on item three.（議題3を扱っています）も同じ用法です。"],
+  ["one more", "もう1つ。既に話した後で足すことを示します。"],
+  ["while", "〜している間。"]
+ ],
+ "n": [
+  ["One more thing while we're on this.", "話題のうちに足す。限定が礼儀です。"],
+  ["While we're on this, ...", "この話題のうちに。前置きだけの形です。"],
+  ["Last thing from me on this.", "この件での最後。これで終わると示します。"],
+  ["Related to that, ...", "それに関連して。つながりを示します。"]
+ ],
+ "e": [
+  ["One more thing while we're on this — the same approval is needed for the Osaka site.", "この話題のうちにもう1点だけ。大阪拠点にも同じ承認が必要です。"],
+  ["One more thing while we're on this, and then I'll hand back.", "この話題のうちにもう1点だけ。その後はお返しします。"]
+ ],
+ "p": [
+  ["One more thing while we're on [話題].", ["One more thing while we're on budget.", "One more thing while we're on this topic."]],
+  ["One more thing while we're on this — [中身]. [発言を返す].", ["One more thing while we're on this — the deadline moved. That's all from me.", "Last thing from me on this: we need legal's view before we sign."]]
+ ],
+ "k": [
+  "be on ~ は「その話題を扱っている」の意味でも使う。",
+  "one more と限定し、宣言した数を守る。",
+  "話し終えたら発言を返す一言を添えると、独占に見えない。"
+ ]
+}
+}

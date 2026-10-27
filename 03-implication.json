@@ -1,0 +1,640 @@
+{
+"The key implication here is that we're losing users, not attracting fewer.": {
+ "t": "ここで重要な示唆は、新規獲得が減ったのではなく既存ユーザーが離れている、ということです。",
+ "tn": "数字を述べた直後に置く「So what」の型です。これがないと、英語会議では分析ではなく報告で止まったと見なされます。",
+ "s": [
+  ["The key implication here", "主語。key が「数ある示唆のうち中心のもの」を示し、here が「この資料・この局面で」と範囲を限定します。"],
+  ["is that ...", "S is that SV の構文。示唆の中身を that節で述べます。"],
+  ["we're losing users, not attracting fewer", "現在進行形 + カンマ + not。attracting の後ろに users が省略されており、fewer が「より少ない数の（ユーザー）」を受けています。"]
+ ],
+ "sn": "A, not B の対比が核です。両方を同じ進行形（losing / attracting）で並べると、違いが論点だけに絞られて聞き取りやすくなります。",
+ "v": [
+  ["implication", "im-（中へ）+ ply（折り込む）。表に書かれていないが中に折り込まれている意味、つまり「言外の帰結」です。だから「だから何か」を語る語になります。"],
+  ["key", "形容詞で「中心となる」。the key issue / the key question のように、重要度の序列を一語で示せます。"],
+  ["fewer", "可算名詞に使う比較級。不可算には less を使います（fewer users / less revenue）。"]
+ ],
+ "n": [
+  ["implication", "事実から導かれる言外の帰結。意思決定に効く「だから何か」。"],
+  ["effect", "直接の結果。因果の下流に起きた事象そのもの。"],
+  ["consequence", "帰結。effect より重く、負の結果に使われることが多い語です。"],
+  ["takeaway", "聞き手が持ち帰るべき点。implication より主観的な要約です。"]
+ ],
+ "nn": "effect と consequence は実際には重なる部分が大きく、どちらも自然に使えます。implication だけは「表に出ていない含み」という点で明確に別です。",
+ "e": [
+  ["The key implication here is that we're losing experienced staff, not failing to hire.", "ここで重要な示唆は、採用に失敗しているのではなく経験者が流出しているということです。"],
+  ["The key implication is that the problem sits with managers, not with the pay structure.", "重要な示唆は、問題が報酬構造ではなく管理職側にあるということです。"]
+ ],
+ "p": [
+  ["The key implication here is that [示唆].", ["The key implication here is that the budget assumption no longer holds.", "The key implication here is that we have a capacity problem, not a demand problem."]],
+  ["The key implication is [A], not [B].", ["The key implication is a timing issue, not a design issue.", "The key implication is that we need fewer, better reviewers."]]
+ ],
+ "k": [
+  "implication は「中に折り込まれた意味」＝だから何か。数字の直後に置く。",
+  "fewer は可算、less は不可算。",
+  "A, not B は同じ形で並べると論点が絞られる。"
+ ]
+},
+"So what this means for us is that the current plan underestimates cost.": {
+ "t": "つまり我々にとっては、現行計画がコストを過小評価しているということです。",
+ "tn": "誰にとっての示唆かを for 〜 で明示すると、議論が「事実の確認」から「意思決定」へ進みます。",
+ "s": [
+  ["So what this means for us", "疑問詞 what が導く名詞節が主語。What this means（これが意味するもの）に for us が付いています。"],
+  ["is that ...", "主語の中身を that節で述べます。"],
+  ["the current plan underestimates cost", "S + V + O。現在形で、いまの計画が持っている性質を述べています。"]
+ ],
+ "sn": "What ... is that ... は、主語を長くして結論を文末に置く構文です。英語では文末が最も強く響くため、言いたい中身を最後に置けます。",
+ "v": [
+  ["mean for ~", "for が「誰にとって」を示します。mean to someone は「〜にとって大切だ」という別の意味になるので、影響範囲を言うときは for を使います。"],
+  ["underestimate", "under-（下に）+ estimate（見積もる）。低く見積もること。対は overestimate。"],
+  ["so", "文頭の so は「それで・つまり」。前の発言を受けて示唆へ移る合図になります。"]
+ ],
+ "n": [
+  ["So what this means for us is ...", "誰にとっての話かを明示する。意思決定へつなげやすい。"],
+  ["The implication for us is ...", "ほぼ同義で、やや硬い言い方です。"],
+  ["In practice, that means ...", "実務上どうなるか。行動に近い言い方です。"],
+  ["So what?", "それで何か、と問い返す形。自分の分析に向けて使うと切れ味が出ます。"]
+ ],
+ "e": [
+  ["So what this means for the client is that the savings target slips by one year.", "つまりクライアントにとっては、削減目標が1年後ろにずれるということです。"],
+  ["So what this means for us is that we need two more senior consultants, not four juniors.", "つまり我々にとっては、若手4名ではなくシニア2名が必要だということです。"]
+ ],
+ "p": [
+  ["So what this means for [us / the client] is that [示唆].", ["So what this means for HR is that the job architecture has to come first.", "So what this means for finance is that the run rate is understated."]],
+  ["What [this / that] means is that [示唆].", ["What that means is that the pilot cannot be scaled as designed.", "What this means is that we are solving for the wrong constraint."]]
+ ],
+ "k": [
+  "影響範囲は mean for ~（mean to ~ は意味が違う）。",
+  "What ... is that ... で、結論を文末の強い位置に置ける。",
+  "誰にとっての示唆かを言うと、議論が意思決定へ進む。"
+ ]
+},
+"If that holds, we'd need to rethink the launch timing.": {
+ "t": "それが続くなら、ローンチ時期を見直す必要があります。",
+ "tn": "条件付きで結論を出す型です。断定を避けながら、意思決定の話まで踏み込めます。",
+ "s": [
+  ["If that holds,", "条件節。現在形 holds で、起こりうる現実の条件を表します（直説法の条件文）。"],
+  ["we'd need to rethink ~", "we would の短縮。帰結節に would を使うことで、「その場合には」という仮の話だと示せます。"]
+ ],
+ "sn": "if節が現在形、帰結節が would という組み合わせは、仮定法過去（if + 過去形）とは別です。ここでは「実際に起こりうる条件」を扱っているため、holds は現在形のままにします。",
+ "v": [
+  ["hold", "コアイメージは「持ちこたえる」。前提や傾向が崩れずに続くこと。If that holds（それが成り立ち続けるなら）は会議の定型です。"],
+  ["rethink", "re-（再び）+ think。一度決めたことを考え直すこと。reconsider とほぼ同義で、rethink の方が口語的です。"],
+  ["timing", "時期の判断。the launch timing で「いつ出すか」。"]
+ ],
+ "n": [
+  ["If that holds, ...", "条件が続くなら。実際に起こりうる前提。"],
+  ["If that's right, ...", "その見立てが正しければ。正誤の話に焦点が移ります。"],
+  ["Assuming that holds, ...", "それを前提とすると。条件であることをより明示します。"],
+  ["Were that to hold, ...", "仮にそうなるとすれば。かたく、実現可能性が低い含みが出ます。"]
+ ],
+ "e": [
+  ["If that holds, we'd need to rethink the hiring plan for the second half.", "それが続くなら、下期の採用計画を見直す必要があります。"],
+  ["If attrition holds at this level, we'd need to rethink the delivery model.", "離職がこの水準で続くなら、デリバリー体制を見直す必要があります。"]
+ ],
+ "p": [
+  ["If that holds, we'd need to [対応].", ["If that holds, we'd need to revisit the budget.", "If that holds, we'd need to bring the decision forward."]],
+  ["If [条件], we'd need to [対応]. If not, [別の対応].", ["If the pilot works, we'd need to scale in Q3. If not, we stop.", "If the data confirms it, we'd need to act this quarter. If not, we wait."]]
+ ],
+ "k": [
+  "起こりうる条件は if + 現在形。仮定法（if + 過去形）と区別する。",
+  "hold は「前提や傾向が崩れずに続く」。",
+  "条件付きにすると、断定せずに意思決定へ踏み込める。"
+ ]
+},
+"That points to a structural issue rather than a one-off.": {
+ "t": "それは一時的な事象ではなく、構造的な問題を示しています。",
+ "tn": "rather than で対立する見方を先に潰しておくと、議論が後戻りしにくくなります。",
+ "s": [
+  ["That points to ~", "S + V + 前置詞句。point to A で「Aを指し示す」。証拠が主語になります。"],
+  ["a structural issue", "to の目的語。不定冠詞 a は「そういう種類の問題の1つ」。"],
+  ["rather than a one-off", "rather than が「〜ではなくむしろ」。前後は同じ品詞・同じ形をそろえます（ここは名詞句と名詞句）。"]
+ ],
+ "v": [
+  ["point to ~", "to は方向。証拠が結論の方角を指している、という間接的な示し方です。prove（証明する）より弱く、慎重な言い方になります。point at は物理的に指差す動作に使われます。"],
+  ["structural", "構造上の。仕組みそのものに原因があることを示します。対は cyclical（循環的）、temporary（一時的）。"],
+  ["one-off", "一度きりの出来事。名詞としても形容詞としても使えます（a one-off cost）。"]
+ ],
+ "n": [
+  ["point to ~", "証拠が結論の方向を指す。断定を避けた示し方。"],
+  ["suggest ~", "示唆する。point to とほぼ同じ強さです。"],
+  ["prove ~", "証明する。最も強く、反証不能という含みが出ます。"],
+  ["is consistent with ~", "〜と矛盾しない。最も弱く、他の説明も残します。"]
+ ],
+ "nn": "point to と suggest はどちらも自然で、交換して使えます。prove は強すぎるため、データ分析の文脈ではほとんど使われません。",
+ "e": [
+  ["That points to a structural issue rather than a one-off, since it appears in every region.", "全地域で現れているため、一時的な事象ではなく構造的な問題を示しています。"],
+  ["The pattern points to a capability gap rather than a motivation problem.", "この傾向は、意欲の問題ではなく能力の不足を示しています。"]
+ ],
+ "p": [
+  ["That points to [解釈] rather than [対立仮説].", ["That points to a process issue rather than a people issue.", "That points to demand softening rather than share loss."]],
+  ["[証拠] points to [結論].", ["The exit data points to the first 90 days.", "Three findings point to the same root cause."]]
+ ],
+ "k": [
+  "point to は「証拠が方向を指す」。prove より慎重で、分析に向く。",
+  "rather than の前後は同じ形をそろえる。",
+  "対立仮説を先に潰すと、議論が後戻りしにくい。"
+ ]
+},
+"The takeaway is simple: fix onboarding before adding features.": {
+ "t": "要点はシンプルです。機能追加よりも先に受け入れ体制を直すこと。",
+ "tn": "コロンの後は短くします。長く続けると、takeaway が takeaway でなくなります。",
+ "s": [
+  ["The takeaway is simple:", "S + be + C。コロンで、その中身を直後に示します。"],
+  ["fix onboarding before adding features", "動詞の原形で始まる命令形。コロンの後に行動を置くと、要点がそのまま指示になります。"],
+  ["before adding features", "before は前置詞で、後ろに動名詞を取ります。before to add とは言いません。"]
+ ],
+ "sn": "コロンの前で「短い」と宣言し、後ろで実際に短く言う構造です。宣言した長さを裏切らないことが、この型の効き目を決めます。",
+ "v": [
+  ["takeaway", "take away（持ち帰る）が名詞化したもの。会議から持ち帰るべき一点を指します。"],
+  ["onboarding", "新しく入った人を組織に乗せる（on board）プロセス。入社手続きから戦力化までを含みます。"],
+  ["before + 動名詞", "before は前置詞としても接続詞としても使えます。後ろが名詞のかたまりなら動名詞、文なら主語 + 動詞（before we add features）です。"]
+ ],
+ "n": [
+  ["The takeaway is simple: ...", "持ち帰るべき一点。プレゼンの締めに最も合います。"],
+  ["The bottom line is ...", "差し引き後に残る一点。判断に直結します。"],
+  ["In short, ...", "手短に言えば。要約の宣言です。"],
+  ["If you remember one thing, ...", "記憶に残す狙いを明示する形です。"]
+ ],
+ "e": [
+  ["The takeaway is simple: fix the handover before you add headcount.", "要点はシンプルです。増員より先に引き継ぎを直すこと。"],
+  ["The takeaway is simple: train the managers, then change the system.", "要点はシンプルです。まず管理職を育て、それから制度を変えること。"]
+ ],
+ "p": [
+  ["The takeaway is simple: [行動].", ["The takeaway is simple: decide this week.", "The takeaway is simple: stop hiring until the process is fixed."]],
+  ["The takeaway is [simple / uncomfortable / the same as last quarter]: [中身].", ["The takeaway is uncomfortable: we overpaid for the wrong capability.", "The takeaway is the same as last quarter: nobody owns the handover."]]
+ ],
+ "k": [
+  "コロンの後は短く。宣言した長さを裏切らない。",
+  "before の後ろが名詞のかたまりなら動名詞（before adding）。",
+  "takeaway = 会議から持ち帰るべき一点。"
+ ]
+},
+"This changes the answer to the second question.": {
+ "t": "これは2つ目の論点の答えを変えます。",
+ "tn": "議論の前提が崩れたと伝える型です。強い主張なので、直後に根拠を1つ添えます。",
+ "s": [
+  ["This changes", "S + V。現在形で、いまこの瞬間に効力を持つことを表します。"],
+  ["the answer to the second question", "answer to A で「Aに対する答え」。前置詞は to で、answer of とは言いません。"]
+ ],
+ "v": [
+  ["answer to ~", "to は「〜へ向けた」。問いに向かって返すものなので to を取ります。the key to the problem、the solution to the issue も同じ型です。"],
+  ["change", "他動詞で「変える」。change in A（Aの中身の変化）と change to A（Aへの変更）は意味が違うので、名詞で使うときは前置詞に注意します。"],
+  ["the second question", "the が付くのは、議論の中で何番目かが特定されているからです。"]
+ ],
+ "n": [
+  ["This changes the answer to ...", "答えが変わる。前提の崩れを明言します。"],
+  ["This doesn't change the answer.", "答えは変わらない。落ち着いて聞こえます。"],
+  ["This reframes the question.", "問いの立て方そのものを変える。より上位の指摘です。"],
+  ["This is new information.", "新しい情報だと指摘するだけ。結論への影響は述べません。"]
+ ],
+ "e": [
+  ["This changes the answer to the second question: with the revised attrition rate, the plan no longer breaks even.", "これは2つ目の論点の答えを変えます。離職率を見直すと、この計画は損益分岐に届きません。"],
+  ["This changes the answer for the Japan entity, but not for the group.", "これは日本法人についての答えは変えますが、グループ全体の答えは変えません。"]
+ ],
+ "p": [
+  ["This changes [何] for [誰 / どの論点].", ["This changes the sequencing for the rollout.", "This changes the business case for option B."]],
+  ["This changes the answer to [論点]: [根拠].", ["This changes the answer to the build-versus-buy question: the license includes support.", "This changes the answer to the timing question: the data arrives in May, not March."]]
+ ],
+ "k": [
+  "answer to ~。前置詞は to（answer of とは言わない）。",
+  "名詞の change は change in（中身の変化）と change to（〜への変更）で意味が変わる。",
+  "強い主張なので、直後に根拠を1つ添える。"
+ ]
+},
+"The risk, if we do nothing, is that competitors close the gap by year end.": {
+ "t": "何もしない場合のリスクは、年内に競合が差を詰めることです。",
+ "tn": "現状維持もひとつの選択であり、コストがある、と示す型です。意思決定を促したいときに効きます。",
+ "s": [
+  ["The risk, if we do nothing, is that ...", "主語 The risk と動詞 is の間に、カンマで挟んだ条件節が入っています。挿入句なので、前後のカンマは省略できません。"],
+  ["competitors close the gap", "that節の中身。現在形で、十分に起こりうる事態として述べています。"],
+  ["by year end", "by が期限を示します。until は「その時までずっと」なので、締め切りには by を使います。"]
+ ],
+ "sn": "主語と動詞の間に挿入句を入れる形は、書き言葉的で整って聞こえます。口頭ではカンマの位置でわずかに間を置くと、構造が伝わります。",
+ "v": [
+  ["close the gap", "gap（すき間）を close（閉じる）。差を詰めることです。対は widen the gap（差を広げる）。"],
+  ["by", "期限の前置詞。by Friday は「金曜までに」、until Friday は「金曜までずっと」。締め切りは必ず by です。"],
+  ["year end", "年度末・年末。fiscal year end（会計年度末）と区別が必要な場面では、省略せずに言います。"]
+ ],
+ "n": [
+  ["The risk, if we do nothing, is ...", "現状維持のコストを示す。意思決定を促します。"],
+  ["The cost of waiting is ...", "待つことの費用。より金額寄りの言い方です。"],
+  ["The downside is ...", "下振れ。upside と対で使います。"],
+  ["What we lose by not acting is ...", "動かないことで失うもの。最も直接的です。"]
+ ],
+ "e": [
+  ["The risk, if we do nothing, is that our best engineers leave before the reorganization lands.", "何もしない場合のリスクは、組織再編が定着する前に中核のエンジニアが離れることです。"],
+  ["The risk, if we wait another quarter, is that the salary benchmark moves again.", "もう1四半期待つ場合のリスクは、報酬のベンチマークが再び動くことです。"]
+ ],
+ "p": [
+  ["The risk, if we do nothing, is that [帰結].", ["The risk, if we do nothing, is that the client takes it to tender.", "The risk, if we do nothing, is that the gap doubles."]],
+  ["The [risk / cost] of [waiting / not acting] is [帰結].", ["The cost of waiting is one full hiring cycle.", "The risk of not acting is losing the two senior leads."]]
+ ],
+ "k": [
+  "締め切りは by、継続は until。混同しない。",
+  "主語と動詞の間の挿入句は、前後のカンマが必須。",
+  "現状維持のコストを示すと、意思決定が前に進む。"
+ ]
+},
+"Practically, that means two changes to the roadmap.": {
+ "t": "実務的には、ロードマップの2点の変更を意味します。",
+ "tn": "抽象的な示唆を、相手が明日動ける粒度まで落とす言い方です。",
+ "s": [
+  ["Practically,", "文修飾の副詞。「実際のところ・実務上は」。文頭に置いてカンマで区切ります。"],
+  ["that means two changes", "S + V + O。that は直前の示唆を受けます。"],
+  ["to the roadmap", "change to A で「Aへの変更」。前置詞は to です。"]
+ ],
+ "v": [
+  ["practically", "2つの意味があります。文頭で文全体を修飾すると「実務上は」、動詞や形容詞の前では「ほとんど」（practically impossible）。位置で意味が変わります。"],
+  ["change to ~", "to は到達点。既存のものを別の状態へ変える変更です。a change in the plan は「計画の中身の変化」、a change to the plan は「計画への変更」で、後者の方が手を加えた含みが出ます。"],
+  ["roadmap", "工程表。時間軸に沿った計画を指し、製品開発や制度導入で広く使われます。"]
+ ],
+ "n": [
+  ["Practically, that means ...", "実務上の意味。行動に近づけます。"],
+  ["In practice, that means ...", "ほぼ同義。やや口語的です。"],
+  ["Concretely, that means ...", "具体的には。抽象度を下げる宣言です。"],
+  ["What that looks like is ...", "それがどう見えるか。さらに具体的な描写に向かいます。"]
+ ],
+ "nn": "Practically と In practice はどちらも自然で、交換して使えます。Practically を「ほとんど」の意味で使うときは、文頭ではなく修飾する語の直前に置きます。",
+ "e": [
+  ["Practically, that means two changes to the hiring plan: fewer juniors and one more team lead.", "実務的には、採用計画の2点の変更を意味します。若手を減らし、リーダーを1名増やすことです。"],
+  ["Practically, that means we move the go-live to July and keep the old process until then.", "実務的には、本稼働を7月に移し、それまで現行の運用を続けるということです。"]
+ ],
+ "p": [
+  ["Practically, that means [n] changes to [対象].", ["Practically, that means three changes to the review cycle.", "Practically, that means one change to the approval flow."]],
+  ["[Practically / In practice / Concretely], that means [具体].", ["In practice, that means two fewer approval steps.", "Concretely, that means the survey moves from annual to quarterly."]]
+ ],
+ "k": [
+  "practically は位置で意味が変わる（文頭＝実務上、語の前＝ほとんど）。",
+  "change to ~（〜への変更）と change in ~（〜の中身の変化）を区別する。",
+  "示唆は「相手が明日動ける粒度」まで落とす。"
+ ]
+},
+"So what does that mean for the decision today?": {
+ "t": "それは本日の意思決定にとって何を意味するでしょうか。",
+ "tn": "自分で問いを立てて自分で答える型です。報告を意思決定へ引き上げられます。問いを投げたら、必ず自分で答えます。",
+ "s": [
+  ["So what does that mean", "疑問詞 what + 助動詞 does + 主語 that + 原形 mean。独立した疑問文なので語順が倒置されます。"],
+  ["for the decision today", "for が「誰・何にとって」を示します。today が decision を後ろから修飾しています。"]
+ ],
+ "sn": "間接疑問（what that means）との語順の違いを押さえます。独立した疑問文は does を入れて倒置、文中に埋め込むときは平叙文の語順のままです。",
+ "v": [
+  ["mean for ~", "for が影響の及ぶ先を示します。この型は「So what?」を自分に向けて具体化したものです。"],
+  ["decision", "意思決定。make a decision（決める）、defer a decision（先送りする）、the decision rights（決定権）。"],
+  ["today", "ここでは「本日の会議で」。the decision today とすると、将来の決定と区別できます。"]
+ ],
+ "n": [
+  ["So what does that mean for ...?", "自分で問いを立てる。報告を意思決定へ引き上げます。"],
+  ["So what?", "それで何か。鋭いが、相手に向けると攻撃的に響きます。"],
+  ["Where does that leave us?", "我々はどういう状況に置かれるか。現状認識を問う形です。"],
+  ["What do we do with that?", "それをどう扱うか。行動を問います。"]
+ ],
+ "nn": "So what? は自分の分析に向けて使えば有効ですが、他人の発言に向けると挑発的に響きます。相手に問うときは Where does that leave us? の方が安全です。",
+ "e": [
+  ["So what does that mean for the decision today? It means we can approve phase one but not phase two.", "それは本日の意思決定にとって何を意味するか。第1段階は承認できるが、第2段階はできないということです。"],
+  ["So what does that mean for the budget? Two things.", "それは予算にとって何を意味するか。2点あります。"]
+ ],
+ "p": [
+  ["So what does that mean for [対象]?", ["So what does that mean for the timeline?", "So what does that mean for the client's board paper?"]],
+  ["So what does that mean for [対象]? [答え].", ["So what does that mean for hiring? We pause the two open roles.", "So what does that mean for us? We need a decision before Friday."]]
+ ],
+ "k": [
+  "独立した疑問文は does を入れて倒置。間接疑問は平叙文の語順。",
+  "問いを投げたら、必ず自分で答える。",
+  "So what? は自分の分析に向けて使う。他人に向けると挑発的。"
+ ]
+},
+"That shifts the burden of proof to the other side.": {
+ "t": "それにより立証責任は相手側に移ります。",
+ "tn": "議論の構造そのものを動かす一言です。事実を積み上げた後に置くと効きますが、根拠なく使うと強引に響きます。",
+ "s": [
+  ["That shifts ~", "S + V + O。shift は他動詞で「移す」。自動詞で「移る」の用法もあります。"],
+  ["the burden of proof", "目的語。of が「どういう種類の負担か」を説明しています。"],
+  ["to the other side", "to が移動の到達点を示します。"]
+ ],
+ "v": [
+  ["burden of proof", "もとは法廷用語で「立証責任」。主張する側が証明する義務を負う、という原則です。ビジネスでも「反論する側が根拠を示すべき状態になった」という意味で使われます。"],
+  ["shift", "コアイメージは「重心が別の場所へ移る」。move より「位置関係が変わる」ことに焦点があります。"],
+  ["the other side", "相手側。議論の相手を指す中立的な言い方で、敵対の含みはありません。"]
+ ],
+ "n": [
+  ["shift the burden of proof", "立証責任を移す。議論の構造を動かす強い表現。"],
+  ["put the onus on ~", "責任を〜に負わせる。onus は burden とほぼ同義の硬い語です。"],
+  ["change the default", "既定の扱いを変える。何もしなければどうなるか、を変える言い方です。"],
+  ["raise the bar for ~", "〜に求める水準を上げる。責任の所在ではなく基準の話です。"]
+ ],
+ "e": [
+  ["That shifts the burden of proof to the team that wants to keep the current process.", "それにより、現行プロセスの維持を望む側が根拠を示す立場になります。"],
+  ["With three independent sources, the burden of proof shifts to anyone arguing this is a one-off.", "独立した3つの出典が揃った以上、一時的な事象だと主張する側が立証する立場になります。"]
+ ],
+ "p": [
+  ["That shifts [the burden of proof] to [相手].", ["That shifts the burden of proof to the vendor.", "That shifts the decision rights to the steering committee."]],
+  ["[根拠], so the burden of proof is now on [誰] to [何].", ["The pilot worked in both regions, so the burden of proof is now on us to explain why not scale.", "Three audits found the same gap, so the burden of proof is on the team to show it is fixed."]]
+ ],
+ "k": [
+  "burden of proof は法廷由来。「反論する側が根拠を示す番になった」の意。",
+  "shift は「重心が別の場所へ移る」。move より位置関係の変化に焦点。",
+  "事実を積み上げた後に置く。先に使うと強引に響く。"
+ ]
+},
+"The consequence is a three-month delay, not a cost increase.": {
+ "t": "帰結はコスト増ではなく、3か月の遅延です。",
+ "tn": "誤解されがちな帰結を先に訂正する型です。not で対比するのが要点で、相手が勝手に想像した帰結を打ち消せます。",
+ "s": [
+  ["The consequence is", "S + be。the が付くのは、何の帰結かが文脈で特定されているからです。"],
+  ["a three-month delay", "補語。three-month がハイフンでつながれ、形容詞として delay を修飾しています。形容詞化した数詞の後は単数形（month であって months ではない）。"],
+  [", not a cost increase", "カンマ + not の対比。相手が想定していた帰結を後ろに置きます。"]
+ ],
+ "sn": "ハイフンの扱いが要点です。a three-month delay（形容詞用法・単数）と three months of delay（名詞用法・複数）を区別します。",
+ "v": [
+  ["consequence", "con-（共に）+ sequi（続く）。あることに続いて起きる結果です。implication（言外の含み）より直接的で、重い帰結に使われます。"],
+  ["delay", "名詞で「遅延」、動詞で「遅らせる」。a delay in the launch（ローンチの遅れ）のように in を伴います。"],
+  ["three-month", "数詞 + 単位をハイフンでつないで形容詞にする形。a two-week sprint、a five-year plan も同じです。"]
+ ],
+ "n": [
+  ["consequence", "続いて起きる結果。重めで、負の結果に使われることが多い語。"],
+  ["effect", "影響・効果。中立で、正負どちらにも使えます。"],
+  ["impact", "衝撃を伴う影響。ビジネスで多用されますが、やや大げさに響くこともあります。"],
+  ["implication", "言外の含み。結果そのものではなく、そこから導かれる意味です。"]
+ ],
+ "nn": "effect と consequence はどちらも自然に使え、文脈で交換できることも多い語です。implication だけは「表に出ていない含み」という点で明確に別の概念です。",
+ "e": [
+  ["The consequence is a three-month delay, not a cost increase — the budget is already committed.", "帰結はコスト増ではなく3か月の遅延です。予算はすでに確定しています。"],
+  ["The consequence is a capability gap, not a headcount gap.", "帰結は人数の不足ではなく、能力の不足です。"]
+ ],
+ "p": [
+  ["The consequence is [A], not [B].", ["The consequence is reputational, not financial.", "The consequence is a slower ramp, not a lower ceiling."]],
+  ["The [consequence / effect / impact] of [原因] is [結果].", ["The effect of the freeze is a two-quarter backlog.", "The impact of the change is felt mainly by first-line managers."]]
+ ],
+ "k": [
+  "数詞 + 単位をハイフンでつなぐと形容詞になり、単位は単数形（three-month delay）。",
+  "consequence は重い帰結、implication は言外の含み。",
+  "A, not B で、相手が想像した帰結を先に打ち消せる。"
+ ]
+},
+"Read together, those two findings point in one direction.": {
+ "t": "2つの発見を合わせて読むと、示す方向は1つです。",
+ "tn": "個別の事実を統合して主張に変える型です。分析らしさが最もよく出ますが、実際に統合できていないと中身が伴いません。",
+ "s": [
+  ["Read together,", "過去分詞から始まる分詞構文。意味上の主語は those two findings で、findings が「読まれる」側なので過去分詞になります。"],
+  ["those two findings point in one direction", "主節。point in A で「Aの方向を指す」。"]
+ ],
+ "sn": "分詞構文の形が要点です。発見は「読む」のではなく「読まれる」側なので、Reading together ではなく Read together になります。",
+ "v": [
+  ["point in ~", "in は「その方向の中へ」。point in one direction は「指す向きが1つに揃う」。point to A（Aを指す）とは前置詞が違うので、対象を指すのか方向を指すのかで使い分けます。"],
+  ["finding", "調査や分析で分かったこと。動詞 find の名詞形で、可算名詞として複数形を取ります。"],
+  ["read together", "個別にではなく、合わせて解釈すること。taken together もほぼ同義で、こちらの方が広く使われます。"]
+ ],
+ "n": [
+  ["Read together, ...", "合わせて読むと。文書や発見の統合に向きます。"],
+  ["Taken together, ...", "まとめると。最も一般的で、対象を選びません。"],
+  ["Put differently, ...", "言い換えると。統合ではなく再表現です。"],
+  ["On their own, ... but together, ...", "単独ではこうだが合わせるとこう、という対比の形です。"]
+ ],
+ "e": [
+  ["Read together, those two findings point in one direction: the problem starts at the manager level.", "2つの発見を合わせると、示す方向は1つです。問題は管理職の層から始まっています。"],
+  ["Taken together, the survey and the exit data point in one direction.", "調査結果と退職データを合わせると、示す方向は1つです。"]
+ ],
+ "p": [
+  ["Read together, [発見] point in one direction.", ["Read together, the three audits point in one direction.", "Taken together, these numbers point in one direction."]],
+  ["On their own, [個別の評価]. Together, [統合した結論].", ["On their own, neither number is alarming. Together, they are.", "On their own, these are anecdotes. Together, they are a pattern."]]
+ ],
+ "k": [
+  "Read together は過去分詞の分詞構文。findings は読まれる側なので過去分詞。",
+  "point in one direction（方向）と point to A（対象）で前置詞が違う。",
+  "Taken together も同義でより一般的。"
+ ]
+},
+"What worries me is the second-order effect.": {
+ "t": "気になるのは二次的な影響です。",
+ "tn": "直接の影響についての議論が一巡した後、一段深い論点を出す型です。順番を間違えると、話が飛んだ印象になります。",
+ "s": [
+  ["What worries me", "疑問詞 what が導く名詞節が主語。「私を心配させるもの」。worry は他動詞で「心配させる」が本来の意味です。"],
+  ["is the second-order effect", "補語。the が付くのは、文脈上どの二次的影響かが特定されているからです。"]
+ ],
+ "sn": "What ... is ... の強調構文です。言いたい中身を文末に置けるので、聞き手の注意が最後に集まります。",
+ "v": [
+  ["worry", "他動詞で「〜を心配させる」。It worries me.（それが私を心配させる）が基本形で、I'm worried about it. は受け身的な言い方です。What worries me is ... は前者を使った構文です。"],
+  ["second-order", "一次（直接）に対する二次。最初の変化が引き起こす、さらに次の変化を指します。first-order effect（直接効果）と対で使います。"],
+  ["effect", "影響。affect が動詞、effect が名詞という使い分けが基本です（effect には「もたらす」という動詞用法もありますが、会議ではまず出てきません）。"]
+ ],
+ "n": [
+  ["What worries me is ...", "懸念を名指しする。落ち着いた言い方です。"],
+  ["My concern is ...", "ほぼ同義。やや硬い響きです。"],
+  ["I'm not comfortable with ...", "違和感を表明する。理由を言わずに済ませられます。"],
+  ["The thing I'd watch is ...", "注視すべき点。懸念より弱く、監視の提案です。"]
+ ],
+ "e": [
+  ["What worries me is the second-order effect: if we cut the training budget, the new managers fail in year two.", "気になるのは二次的な影響です。研修予算を削ると、新任管理職が2年目につまずきます。"],
+  ["What worries me is not the cost but the signal it sends to the team.", "気になるのは費用ではなく、チームに送るメッセージの方です。"]
+ ],
+ "p": [
+  ["What worries me is [懸念].", ["What worries me is the dependency on one vendor.", "What worries me is how quickly this became a policy."]],
+  ["What worries me is not [A] but [B].", ["What worries me is not the number but the trend.", "What worries me is not this quarter but the next one."]]
+ ],
+ "k": [
+  "worry は他動詞「心配させる」。What worries me is ... はその用法。",
+  "What ... is ... の強調構文で、中身を文末の強い位置に置ける。",
+  "一次効果の議論が済んでから二次効果を出す。順番を守る。"
+ ]
+},
+"That means we can drop option C entirely.": {
+ "t": "つまり案Cは完全に外して構いません。",
+ "tn": "示唆を「選択肢を減らす」形で出す型です。会議が確実に前へ進みます。",
+ "s": [
+  ["That means ~", "S + V + O。means の後ろの that は省略されています。"],
+  ["we can drop option C", "can は「〜してよい・〜できる」。許可と可能の両方を含み、ここでは「外しても問題ない」という判断です。"],
+  ["entirely", "副詞で「完全に」。動詞句の後ろに置いて、残りを検討する余地がないことを示します。"]
+ ],
+ "v": [
+  ["drop", "コアイメージは「手を離して落とす」。検討対象から外すこと。drop a topic（話題を打ち切る）、drop a client（取引を終える）も同じ発想です。"],
+  ["entirely", "completely とほぼ同義。entirely の方がやや硬く、書き言葉寄りの語感です。"],
+  ["option", "選択肢。rule out an option（候補から除く）、narrow the options（選択肢を絞る）とセットで覚えます。"]
+ ],
+ "n": [
+  ["drop option C", "外す。口語的で、決定として軽やかに響きます。"],
+  ["rule out option C", "候補から除外する。検討した上で除いた含みが強い言い方です。"],
+  ["park option C", "いったん脇に置く。後で戻る前提です。"],
+  ["deprioritize option C", "優先度を下げる。外さずに順位だけ変えます。"]
+ ],
+ "nn": "drop と rule out はどちらも自然です。rule out の方が「検討した結果として除いた」という手続きの含みが強くなります。park は後で戻る前提なので、意味が異なります。",
+ "e": [
+  ["That means we can drop option C entirely and spend the time on the remaining two.", "つまり案Cは完全に外し、残る2案に時間を使えるということです。"],
+  ["That means we can rule out the in-house build and focus on the two vendors.", "つまり自社開発は候補から外し、2社の検討に集中できるということです。"]
+ ],
+ "p": [
+  ["That means we can [drop / rule out] [選択肢].", ["That means we can rule out the fourth scenario.", "That means we can drop the regional variant."]],
+  ["That means we can [行動], which [効果].", ["That means we can skip the second workshop, which saves two weeks.", "That means we can decide today, which keeps the launch date."]]
+ ],
+ "k": [
+  "drop（外す）と park（いったん脇に置く）は戻る前提の有無が違う。",
+  "can は「してよい」という許可の意味も含む。",
+  "示唆を「選択肢を減らす」形にすると、会議が前へ進む。"
+ ]
+},
+"Either way, the conclusion holds.": {
+ "t": "どちらにしても結論は変わりません。",
+ "tn": "枝葉の議論を打ち切る型です。結論の頑健性を示せますが、本当に両方の場合で成り立つことを確かめてから使います。",
+ "s": [
+  ["Either way,", "副詞句の前置き。「2つのうちどちらの道を取っても」。カンマで区切ります。"],
+  ["the conclusion holds", "S + V。hold は自動詞で「持ちこたえる・成り立つ」。目的語は取りません。"]
+ ],
+ "v": [
+  ["either way", "either は「2つのうちどちらか」。3つ以上あるときは any way や whichever way を使います。"],
+  ["hold", "「持ちこたえる」。結論や前提が崩れずに成り立つこと。The assumption holds. / The argument holds. と同じ用法です。"],
+  ["conclusion", "結論。draw a conclusion（結論を導く）、jump to a conclusion（早合点する）。"]
+ ],
+ "n": [
+  ["Either way, the conclusion holds.", "どちらでも成り立つ。頑健性を示します。"],
+  ["It doesn't change the answer.", "答えは変わらない。より直接的です。"],
+  ["That's a second-order question.", "それは二次的な論点だ。優先順位の話に移します。"],
+  ["Let's park that.", "いったん脇に置こう。打ち切りを提案します。"]
+ ],
+ "nn": "どれも議論を前へ進める言い方です。Either way は「両方の場合を実際に検討した」ことを前提にするため、確かめずに使うと後で崩れます。",
+ "e": [
+  ["Either way, the conclusion holds: we need a decision before the budget cycle closes.", "どちらにしても結論は変わりません。予算サイクルが締まる前に決定が必要です。"],
+  ["Whether we use the median or the mean, the conclusion holds.", "中央値を使っても平均値を使っても、結論は変わりません。"]
+ ],
+ "p": [
+  ["Either way, [結論] holds.", ["Either way, the recommendation holds.", "Either way, the business case holds."]],
+  ["Whether [A] or [B], the conclusion holds.", ["Whether attrition is 12% or 15%, the conclusion holds.", "Whether we start in April or July, the conclusion holds."]]
+ ],
+ "k": [
+  "either は2つのうちどちらか。3つ以上なら whichever。",
+  "hold は自動詞で「成り立つ」。目的語を取らない。",
+  "両方の場合を実際に確かめてから使う。"
+ ]
+},
+"This explains the gap we saw last quarter.": {
+ "t": "これが前四半期に見られた差の説明になります。",
+ "tn": "過去の未解決事項と結びつける型です。分析の価値が伝わりやすく、聞き手の記憶にも残ります。",
+ "s": [
+  ["This explains", "S + V。explain は他動詞で、前置詞は不要です（explain about とは言いません）。"],
+  ["the gap we saw last quarter", "目的語。the gap (that) we saw の関係代名詞が省略されています。"],
+  ["last quarter", "無冠詞の時の表現。in the last quarter とすると「直近の四半期の中で」という範囲の話になります。"]
+ ],
+ "v": [
+  ["explain", "ex-（外へ）+ plain（平らにする）。折り重なって見えなかったものを広げて平らにする、つまり分かるようにすることです。目的語を直接取ります。"],
+  ["gap", "すき間・差。the gap between A and B の形で、何と何の差かを明示できます。"],
+  ["last quarter", "前四半期。last は「直前の」で、the last quarter（直近の四半期）とは冠詞の有無でニュアンスが変わります。"]
+ ],
+ "n": [
+  ["This explains ...", "説明がつく。因果まで踏み込みます。"],
+  ["This is consistent with ...", "〜と整合する。因果は主張しません。"],
+  ["This accounts for ...", "〜の分を説明する。数量的な寄与を示すのに向きます。"],
+  ["That would explain ...", "それなら説明がつく。まだ仮説の段階です。"]
+ ],
+ "nn": "This explains は因果を主張する強い言い方です。確証がない段階では That would explain ... と仮定法にすると、慎重な姿勢が伝わります。",
+ "e": [
+  ["This explains the gap we saw last quarter: two large teams moved to the new grading scheme mid-period.", "これが前四半期の差の説明になります。期の途中で2つの大規模チームが新等級に移行しました。"],
+  ["This accounts for about half of the variance; the rest is seasonality.", "これで差異のおよそ半分が説明できます。残りは季節性です。"]
+ ],
+ "p": [
+  ["This explains [過去の観測].", ["This explains the spike in July.", "This explains why the two systems disagree."]],
+  ["This [explains / accounts for] [どれだけ] of [対象].", ["This accounts for most of the increase.", "This explains all but two of the cases."]]
+ ],
+ "k": [
+  "explain は他動詞。explain about とは言わない。",
+  "This explains は因果の主張。確証がなければ That would explain に。",
+  "過去の未解決事項と結びつけると、分析の価値が伝わる。"
+ ]
+},
+"If we're right, the fix is cheaper than expected.": {
+ "t": "この見立てが正しければ、対策は想定より安く済みます。",
+ "tn": "良い示唆は条件付きで出します。過度な期待を与えずに議論を前へ進められます。",
+ "s": [
+  ["If we're right,", "条件節。現在形で、実際にありうる条件を示します。"],
+  ["the fix is cheaper than expected", "主節。than expected は than it was expected to be の省略形で、比較の相手を一語で示す定型です。"]
+ ],
+ "sn": "than expected / than planned / than forecast は、いずれも後ろの要素が省略された定型句です。文法的に分解するより、かたまりで覚える方が実用的です。",
+ "v": [
+  ["fix", "名詞で「対策・修正」、動詞で「直す」。a quick fix（応急処置）には「根本解決ではない」という含みが伴うことがあります。"],
+  ["cheaper", "cheap の比較級。費用が低いこと。価格の安さを指す語なので、品質が低いという含みが出る文脈もあります。費用について中立に言うなら less expensive や lower-cost も使えます。"],
+  ["than expected", "予想より。expected は過去分詞で、受け身の意味（予想されていた）を持ちます。"]
+ ],
+ "n": [
+  ["If we're right, ...", "見立てが正しければ。自分たちの判断に条件を付けます。"],
+  ["If that's the case, ...", "そうだとすれば。事実関係に条件を付けます。"],
+  ["Assuming that's true, ...", "それが正しいと仮定すると。条件であることをより明示します。"],
+  ["If it turns out that ..., ...", "結果的にそうなれば。検証後の話に焦点が移ります。"]
+ ],
+ "e": [
+  ["If we're right, the fix is cheaper than expected — it is a process change, not a system change.", "この見立てが正しければ、対策は想定より安く済みます。システム変更ではなく運用の変更だからです。"],
+  ["If we're right, we can close the gap within two quarters rather than four.", "この見立てが正しければ、4四半期ではなく2四半期で差を埋められます。"]
+ ],
+ "p": [
+  ["If we're right, [良い帰結].", ["If we're right, the payback period halves.", "If we're right, we do not need the second vendor."]],
+  ["If we're right, [帰結]. If we're wrong, [リスク].", ["If we're right, we save a quarter. If we're wrong, we lose two weeks.", "If we're right, the pilot scales. If we're wrong, we have learned it cheaply."]]
+ ],
+ "k": [
+  "than expected / than planned は省略を含む定型句。かたまりで覚える。",
+  "良い示唆は条件付きで出すと、期待を上げすぎない。",
+  "If we're right と If we're wrong を対で出すと、判断材料が揃う。"
+ ]
+},
+"The implication for headcount is significant.": {
+ "t": "人員計画への影響は小さくありません。",
+ "tn": "どの領域への示唆かを名指しする型です。担当者が自分事として聞けるようになります。",
+ "s": [
+  ["The implication for headcount", "主語。implication for A で「Aに対する含意」。"],
+  ["is significant", "補語。significant は「無視できない大きさの」。"]
+ ],
+ "sn": "前置詞の選び方が要点です。implication for は「誰・何に及ぶか」、implication of は「何から生じる含意か」。方向が逆なので取り違えると意味が通じません。",
+ "v": [
+  ["implication for ~", "for は「〜に向けて」。影響が及ぶ先を示します。The implication for cost（コストへの含意）。"],
+  ["implication of ~", "of は「〜に属する」。含意の出どころを示します。The implication of the delay（遅延がもたらす含意）。"],
+  ["significant", "「重要な・無視できない」。統計の文脈では「統計的に有意な」という専門的な意味になるため、数字の話をしているときは誤解を招かないよう material や substantial を使うこともあります。"]
+ ],
+ "n": [
+  ["significant", "無視できない大きさ。最も一般的。"],
+  ["material", "判断に影響する程度の。会計・監査で使われる語感です。"],
+  ["limited", "限定的。影響が小さいことを示します。"],
+  ["negligible", "無視してよい。ほぼゼロという強い言い方です。"]
+ ],
+ "e": [
+  ["The implication for headcount is significant: we would need twelve more people in the first year alone.", "人員計画への影響は小さくありません。初年度だけで12名の増員が必要になります。"],
+  ["The implication for the compensation budget is limited; most of the cost sits in benefits.", "報酬予算への影響は限定的です。費用の大半は福利厚生にあります。"]
+ ],
+ "p": [
+  ["The implication for [領域] is [significant / limited].", ["The implication for retention is significant.", "The implication for cost is limited.", "The implication for the roadmap is significant."]],
+  ["The implication of [原因] for [領域] is [評価].", ["The implication of the freeze for delivery is significant.", "The implication of the change for junior staff is limited."]]
+ ],
+ "k": [
+  "implication for（影響の及ぶ先）と implication of（含意の出どころ）は向きが逆。",
+  "significant は統計用語と紛れることがある。数字の話では material も選べる。",
+  "領域を名指しすると、担当者が自分事として聞ける。"
+ ]
+},
+"Nothing here changes the recommendation.": {
+ "t": "ここまでの内容で推奨は変わりません。",
+ "tn": "新しい情報が出ても結論が動かないと示す型です。落ち着いて聞こえますが、本当に検討した上で言う必要があります。",
+ "s": [
+  ["Nothing here", "否定を含む主語。nothing は単数扱いなので、動詞は changes になります。"],
+  ["changes the recommendation", "S + V + O。現在形で、いまの状態を述べています。"]
+ ],
+ "sn": "否定語を主語に置く形は、英語では自然で力があります。日本語の「〜は何も変わらない」より、主語に否定を込めた方が一文が締まります。",
+ "v": [
+  ["nothing", "単数扱い。Nothing has changed. / Nothing works. のように、動詞は三人称単数になります。"],
+  ["here", "「この場で・ここまでの話で」。範囲を限定し、将来の情報までは否定していないことを示せます。"],
+  ["recommendation", "推奨・提言。make a recommendation（提言する）、stand by the recommendation（提言を維持する）。"]
+ ],
+ "n": [
+  ["Nothing here changes the recommendation.", "結論は動かない。落ち着いた言い方。"],
+  ["I'd stand by the recommendation.", "提言を維持する。自分の立場を明示します。"],
+  ["That's a fair point, but it doesn't change the answer.", "指摘を受け止めてから退ける形です。"],
+  ["It changes the detail, not the direction.", "部分的には認めつつ、結論は守る言い方です。"]
+ ],
+ "e": [
+  ["Nothing here changes the recommendation; it changes the sequencing by about a month.", "ここまでの内容で推奨は変わりません。変わるのは順序が1か月ほどずれる点だけです。"],
+  ["Nothing in the new data changes the recommendation, but it does narrow the range.", "新しいデータで推奨は変わりませんが、見込みの幅は狭まります。"]
+ ],
+ "p": [
+  ["Nothing here changes [結論].", ["Nothing here changes the business case.", "Nothing in this changes our view on timing."]],
+  ["It changes [部分], not [全体].", ["It changes the estimate, not the decision.", "It changes the detail, not the direction."]]
+ ],
+ "k": [
+  "nothing は単数扱い。動詞は changes。",
+  "here で範囲を限定すると、将来の情報までは否定しないと示せる。",
+  "部分的に認めて結論は守る「It changes the detail, not the direction.」も併せて使える。"
+ ]
+}
+}

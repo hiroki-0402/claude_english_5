@@ -1,0 +1,632 @@
+{
+"I see the logic, but I'd challenge one part of it.": {
+ "t": "論理は理解できますが、一部については異論があります。",
+ "tn": "全体を認めてから一点に絞る型です。反論の範囲を限定すると、相手が防御的になりません。",
+ "s": [
+  ["I see the logic,", "see は「理解する」。I see the logic で「筋は通っていると分かる」。"],
+  ["but I'd challenge one part of it", "but で逆接。I would の短縮で断定をやわらげ、one part of it が反論の範囲を限定します。"]
+ ],
+ "sn": "one part of it という限定が要点です。これがないと「論理に異論がある」となり、全体の否定に聞こえます。",
+ "v": [
+  ["challenge", "日本語の「挑戦」より「異を唱える・検証を求める」が中心です。英語圏の職場では健全な行為とされ、敵対の合図ではありません。"],
+  ["logic", "論法・筋道。I see the logic. は「言い分の筋は通る」。賛成とは別です。"],
+  ["one part of it", "of が全体と部分の関係を示します。it は the logic を受けます。"]
+ ],
+ "n": [
+  ["I see the logic, but ...", "筋は認めつつ異論を出す。最も安全。"],
+  ["I follow, but ...", "話は追えている。理解の表明としてほぼ同義です。"],
+  ["I take the point, but ...", "指摘は受け止める。ややていねいです。"],
+  ["I don't follow.", "筋が追えない。理解できていないという表明で、意味が違います。"]
+ ],
+ "e": [
+  ["I see the logic, but I'd challenge one part of it: the assumption that attrition stays flat after the change.", "論理は理解できますが、1点だけ異論があります。変更後も離職率が横ばいで推移するという前提です。"],
+  ["I see the logic, but I'd challenge the comparison — those two business units have different cost bases.", "論理は理解できますが、比較には異論があります。2つの事業部は費用構造が異なります。"]
+ ],
+ "p": [
+  ["I see the logic, but I'd challenge [範囲].", ["I see the logic, but I'd challenge the second step.", "I see the logic, but I'd challenge the baseline."]],
+  ["I see [the logic / the point], but [限定した異論].", ["I take the point, but only for the Japan entity.", "I follow the argument, but it rests on one number I'd check."]]
+ ],
+ "k": [
+  "challenge は「異を唱える・検証を求める」。敵対ではない。",
+  "one part of it と範囲を限定しないと、全体の否定に聞こえる。",
+  "I see the logic は「筋は通る」。賛成とは別。"
+ ]
+},
+"Have we considered the downside case?": {
+ "t": "ダウンサイドのケースは検討しましたか。",
+ "tn": "疑問形にすると、反論が「共同で検討しようという提案」になります。相手の面子を潰さずに論点を足せます。",
+ "s": [
+  ["Have we considered ~?", "現在完了形の疑問文。「これまでに検討したか」。主語を we にしている点が重要です。"],
+  ["the downside case", "目的語。consider は他動詞なので前置詞は不要です（consider about とは言いません）。"]
+ ],
+ "sn": "主語が we であることがこの型の核です。Have you considered ...? とすると相手の漏れを指摘する形になり、Have we ...? なら全員の検討漏れという立て方になります。",
+ "v": [
+  ["consider", "con-（共に）+ sidus（星）が語源とされ、もとは星を観て吟味すること。「よく検討する」。他動詞で、目的語を直接取ります。動名詞を取る動詞でもあります（consider changing）。"],
+  ["downside case", "下振れシナリオ。upside case と対で使います。"],
+  ["have we ~", "完了形の疑問。これまでの検討の有無を問います。"]
+ ],
+ "n": [
+  ["Have we considered ...?", "共同の検討漏れとして問う。最も角が立ちません。"],
+  ["Have you considered ...?", "相手の検討漏れとして問う。指摘の色が出ます。"],
+  ["What about ...?", "〜はどうか。短く、軽い提起です。"],
+  ["One thing we haven't covered is ...", "まだ扱っていない点がある。断定して足します。"]
+ ],
+ "e": [
+  ["Have we considered the downside case? If adoption is half of plan, the payback moves out by two years.", "ダウンサイドのケースは検討しましたか。導入が計画の半分なら、投資回収は2年後ろ倒しになります。"],
+  ["Have we considered what happens if the two systems never reconcile?", "2つのシステムが最後まで整合しない場合について検討しましたか。"]
+ ],
+ "p": [
+  ["Have we considered [選択肢 / リスク]?", ["Have we considered keeping both vendors for a year?", "Have we considered the impact on the support team?"]],
+  ["Have we considered [論点]? [具体].", ["Have we considered the tax treatment? It changes the entity choice.", "Have we considered doing nothing? That is also a decision."]]
+ ],
+ "k": [
+  "主語を we にすると、指摘ではなく共同検討の提案になる。",
+  "consider は他動詞。consider about とは言わない。",
+  "疑問形は、反論の角を落とす最も簡単な方法。"
+ ]
+},
+"That works if demand holds. What if it doesn't?": {
+ "t": "需要が維持されれば機能します。維持されなかった場合はどうでしょう。",
+ "tn": "相手の案の適用範囲を狭めるやり方です。否定せずに弱点を露出させられます。",
+ "s": [
+  ["That works if demand holds.", "条件節つきの肯定文。相手の案が成立する条件を言語化しています。"],
+  ["What if it doesn't?", "What if + 文で「〜だったらどうなるか」。doesn't の後ろに hold が省略されています。"]
+ ],
+ "sn": "2文の組み立てが要点です。1文目で成立条件を示し、2文目でその条件が外れた場合を問う。否定語をひとつも使わずに弱点を指摘できます。",
+ "v": [
+  ["work", "「機能する・うまくいく」。That works. は会議で頻出します。"],
+  ["hold", "「持ちこたえる」。前提や水準が崩れずに続くこと。"],
+  ["What if ~?", "仮定を問う定型。後ろは現在形でも過去形でも使えます。現在形なら現実的な想定、過去形なら可能性の低い想定になります。"]
+ ],
+ "n": [
+  ["What if it doesn't?", "条件が外れた場合を問う。短く鋭い。"],
+  ["What's the plan B?", "代替案を問う。より実務的です。"],
+  ["How sensitive is that to demand?", "感応度を問う。分析的な聞き方です。"],
+  ["Does that still hold at half the volume?", "具体的な数値で問う。最も検証に近い形です。"]
+ ],
+ "nn": "どれも有効です。数字を挙げて問う Does that still hold at half the volume? が最も建設的で、相手も答えやすくなります。",
+ "e": [
+  ["That works if demand holds. What if it doesn't? At 80% of plan, we are still committed to the fixed cost.", "需要が維持されれば機能します。維持されなかった場合はどうでしょう。計画の8割でも固定費の負担は残ります。"],
+  ["That works if we can hire by April. What if we can't?", "4月までに採用できれば機能します。できなかった場合はどうでしょう。"]
+ ],
+ "p": [
+  ["That works if [条件]. What if it doesn't?", ["That works if the client signs in March. What if they don't?", "That works if the data is clean. What if it isn't?"]],
+  ["That works if [条件]. [具体的な検証の問い].", ["That works if adoption hits 70%. Does it still work at 40%?", "That works if we keep both leads. What happens if one leaves?"]]
+ ],
+ "k": [
+  "成立条件を言語化してから、その条件が外れた場合を問う。",
+  "否定語を使わずに弱点を指摘できる型。",
+  "数字を添えて問うと、相手も答えやすくなる。"
+ ]
+},
+"I'd look at that from a different angle.": {
+ "t": "私は別の角度から見たいと思います。",
+ "tn": "対立ではなく視点の追加として提示する型です。クライアント相手でも角が立ちにくくなります。",
+ "s": [
+  ["I'd look at that", "I would の短縮。look at A で「Aを検討する」。"],
+  ["from a different angle", "from が視点の起点を示します。a different angle で「別の角度」。"]
+ ],
+ "v": [
+  ["angle", "もとは幾何学の「角度」。そこから「ものの見方・切り口」へ。from another angle、a fresh angle のように使います。"],
+  ["from", "起点を示す前置詞。視点の出発点を表すので from a different angle、from where I sit も同じ発想です。"],
+  ["look at ~", "検討する。examine より軽い口語表現です。"]
+ ],
+ "n": [
+  ["from a different angle", "別の角度から。視点の追加として提示できます。"],
+  ["from a different perspective", "ほぼ同義。ややかたい言い方です。"],
+  ["through a different lens", "別のレンズを通して。比喩が強めです。"],
+  ["the other way round", "逆から見ると。因果や順序を反転させます。"]
+ ],
+ "e": [
+  ["I'd look at that from a different angle — instead of asking who should own it, let's ask what breaks if nobody does.", "私は別の角度から見たいと思います。誰が担うべきかではなく、誰も担わなければ何が壊れるかを問いましょう。"],
+  ["I'd look at the attrition number from a different angle: not who left, but who stayed and why.", "離職率を別の角度から見たいです。誰が辞めたかではなく、誰がなぜ残ったかです。"]
+ ],
+ "p": [
+  ["I'd look at [対象] from a different angle.", ["I'd look at the cost question from a different angle.", "I'd look at this from the client's angle."]],
+  ["I'd look at [対象] from a different angle: [別の切り口].", ["I'd look at it from a different angle: start from the constraint, not the goal.", "I'd look at it the other way round: what would have to change for us to say no?"]]
+ ],
+ "k": [
+  "angle は「切り口・見方」。from が視点の起点を示す。",
+  "対立ではなく視点の追加として出せる。",
+  "別の角度を言うなら、その中身まで示す。"
+ ]
+},
+"The data we have points the other way.": {
+ "t": "手元のデータは逆を示しています。",
+ "tn": "人ではなくデータに語らせる型です。反論の主語を you から the data に移すのが要点です。",
+ "s": [
+  ["The data we have", "主語。The data (that) we have の関係代名詞が省略されています。"],
+  ["points the other way", "point は自動詞で「指す」。the other way は副詞句として働き、前置詞は不要です。"]
+ ],
+ "sn": "主語の選び方がこの型の価値です。You're wrong. ではなく The data points the other way. とすることで、対立が人と人ではなく、主張とデータの間に移ります。",
+ "v": [
+  ["point the other way", "反対方向を指す。point in the other direction とほぼ同義で、the other way の方が口語的です。"],
+  ["the data we have", "「手元にあるデータ」。all the data ではないと示すことで、断定を避けられます。"],
+  ["the other way", "もう一方の方向。both ways（双方向）、either way（どちらにしても）と関連します。"]
+ ],
+ "n": [
+  ["The data points the other way.", "データが逆を示す。人を主語にしません。"],
+  ["I disagree with that reading.", "その解釈に同意しない。人の解釈を名指しします。"],
+  ["That's not what we found.", "我々の結果とは違う。事実の相違として示します。"],
+  ["Our numbers don't line up with that.", "数字が合わない。突き合わせの問題として扱います。"]
+ ],
+ "nn": "どれも使えますが、主語が誰かで受け取られ方が変わります。データや数字を主語にすると、相手は個人攻撃と受け取らずに済みます。",
+ "e": [
+  ["The data we have points the other way — attrition is highest in the best-paid band, not the lowest.", "手元のデータは逆を示しています。離職が最も高いのは最低等級ではなく最高等級です。"],
+  ["The data we have points the other way, though I'd want to check the definition of 'active user' before we conclude.", "手元のデータは逆を示しています。ただし結論の前に「アクティブユーザー」の定義は確認したいです。"]
+ ],
+ "p": [
+  ["The data we have points [the other way].", ["The data we have points in the opposite direction.", "The data we have points to the second explanation."]],
+  ["[データ] points [方向]. [限定].", ["The exit interviews point the other way, at least for the Tokyo office.", "Our numbers point the other way, though the sample is small."]]
+ ],
+ "k": [
+  "主語をデータにすると、反論が人と人の対立にならない。",
+  "point the other way は副詞句。前置詞は不要。",
+  "the data we have と限定すると、断定を避けられる。"
+ ]
+},
+"Can I offer a counterpoint?": {
+ "t": "反対の見方を1つ挙げてもよいですか。",
+ "tn": "許可を求める形にすることで、割り込みと反論を同時に成立させられます。",
+ "s": [
+  ["Can I offer ~?", "許可を求める疑問文。offer は「差し出す」。"],
+  ["a counterpoint", "目的語。不定冠詞 a は「ひとつの反対意見」を示します。"]
+ ],
+ "v": [
+  ["counterpoint", "counter-（対する）+ point（論点）。もとは音楽用語の「対位法」で、独立した旋律を重ねる技法。そこから「対になる別の論点」へ。否定ではなく並置という含みがあります。"],
+  ["offer", "差し出す。give より控えめで、受け取るかどうかを相手に委ねる響きがあります。"],
+  ["Can I ~?", "許可を求める形。May I ~? より口語的で、社内では標準です。"]
+ ],
+ "n": [
+  ["Can I offer a counterpoint?", "対になる論点を出す。並置の含みで、否定ではありません。"],
+  ["Can I play devil's advocate?", "あえて反対の立場を取る。本心ではないと示せます。"],
+  ["Can I push back on that?", "異を唱える。より直接的です。"],
+  ["Can I add a different view?", "別の見方を足す。最もやわらかい言い方です。"]
+ ],
+ "nn": "play devil's advocate は「本心ではないが、検証のために反対する」という宣言です。本当に反対なら使わない方が誠実です。",
+ "e": [
+  ["Can I offer a counterpoint? The same policy worked in Germany, but their span of control is half of ours.", "反対の見方を1つ挙げてもよいですか。同じ施策はドイツで機能しましたが、あちらの管理スパンは当社の半分です。"],
+  ["Can I offer a counterpoint on the timing? Starting in April means the first review lands in peak season.", "時期について反対の見方を挙げてもよいですか。4月開始だと最初の見直しが繁忙期に重なります。"]
+ ],
+ "p": [
+  ["Can I offer a counterpoint? [反対の論点]", ["Can I offer a counterpoint? The benchmark excludes companies that already exited.", "Can I offer a counterpoint? We tried a version of this two years ago."]],
+  ["Can I [offer a counterpoint / add a different view] on [論点]?", ["Can I add a different view on the scope?", "Can I offer a counterpoint on the cost estimate?"]]
+ ],
+ "k": [
+  "counterpoint は音楽の対位法が原義。否定ではなく並置。",
+  "許可を求める形にすると、割り込みと反論が同時に成立する。",
+  "devil's advocate は「本心ではない」と宣言する言い方。"
+ ]
+},
+"I may be missing something — how does that handle the fixed cost?": {
+ "t": "私が見落としているかもしれませんが、固定費はどう扱われますか。",
+ "tn": "自分を下げてから穴を突く型です。相手が上位者やクライアントのときに安全です。",
+ "s": [
+  ["I may be missing something", "may + be + 現在分詞で「〜しているかもしれない」。可能性を表す進行形です。"],
+  ["— how does that handle the fixed cost?", "ダッシュで本題の疑問文へ。handle が「どう処理するか」を問います。"]
+ ],
+ "sn": "前置きと本題の落差がこの型の効き目です。前置きで自分の理解不足の可能性を認め、本題では具体的な穴を名指しします。前置きがあることで、指摘が攻撃になりません。",
+ "v": [
+  ["miss something", "見落とす。I may be missing something. は英語会議で頻出する前置きです。"],
+  ["handle", "コアイメージは「手で扱う」。問題や項目をどう処理するかを問うときに使います。How does the model handle X?（モデルはXをどう扱うか）。"],
+  ["fixed cost", "固定費。変動費は variable cost。この区別は、規模が変わったときの損益を考える際の基本です。"]
+ ],
+ "n": [
+  ["I may be missing something, but ...", "自分の見落としの可能性を先に置く。最も安全。"],
+  ["Help me understand ...", "理解を助けてほしい。ややくだけた言い方です。"],
+  ["Forgive the basic question, but ...", "初歩的な質問を断ってから聞く。ていねいです。"],
+  ["Can you walk me through how ...?", "順を追って説明してほしい。学ぶ姿勢を示します。"]
+ ],
+ "e": [
+  ["I may be missing something — how does that handle the fixed cost if volumes fall by a third?", "私が見落としているかもしれませんが、数量が3分の1減った場合、固定費はどう扱われますか。"],
+  ["I may be missing something — where does the transition cost sit in this view?", "私が見落としているかもしれませんが、移行費用はこの図のどこに入っていますか。"]
+ ],
+ "p": [
+  ["I may be missing something — how does that handle [論点]?", ["I may be missing something — how does that handle the regulated entities?", "I may be missing something — how does that handle the first-year ramp?"]],
+  ["I may be missing something, but [指摘].", ["I may be missing something, but these two totals do not tie.", "I may be missing something, but the base year looks different in the two charts."]]
+ ],
+ "k": [
+  "I may be missing something は、穴を突く前の安全な前置き。",
+  "handle は「どう処理するか」を問う動詞。",
+  "前置きはやわらかく、本題は具体的に。"
+ ]
+},
+"Before we commit, I'd want to stress-test that number.": {
+ "t": "決める前に、その数字は検証しておきたいです。",
+ "tn": "決定を遅らせる提案は嫌われやすいので、必ず「何を」「どの条件で」まで言います。",
+ "s": [
+  ["Before we commit,", "接続詞 before + 主語 + 動詞。"],
+  ["I'd want to stress-test that number", "I would want で控えめな希望。want to + 原形です。"]
+ ],
+ "v": [
+  ["stress-test", "もとは金融規制の用語で、極端な条件を当てて耐えられるかを見る検査。ビジネス全般で「厳しい前提で成り立つか試す」の意味で使われます。ハイフンでつないで動詞にします。"],
+  ["commit", "後戻りできない形で資源を投じること。"],
+  ["I'd want to ~", "I want to より控えめ。押しつけずに希望を述べられます。"]
+ ],
+ "n": [
+  ["stress-test", "厳しい条件で試す。頑健性を見ます。"],
+  ["sanity-check", "筋が通るか軽く確かめる。簡易です。"],
+  ["validate", "妥当性を確かめる。手法や定義まで見ます。"],
+  ["triangulate", "別の経路から裏を取る。複数の出典で確かめます。"]
+ ],
+ "nn": "4つとも実務で使われ、確かめ方の厳しさと手段が違います。時間がないときは sanity-check、重要な判断の前なら stress-test が適します。",
+ "e": [
+  ["Before we commit, I'd want to stress-test that number at 60% adoption — that is the level the last rollout actually reached.", "決める前に、その数字を導入率60%で検証しておきたいです。前回の展開で実際に達した水準です。"],
+  ["Before we commit, I'd want to sanity-check the headcount against payroll, not the HR system.", "決める前に、人員数を人事システムではなく給与データと突き合わせて確認したいです。"]
+ ],
+ "p": [
+  ["Before we commit, I'd want to stress-test [対象].", ["Before we commit, I'd want to stress-test the savings assumption.", "Before we sign, I'd want to stress-test the delivery timeline."]],
+  ["Before we [行動], I'd want to [検証] [条件]. It would take [時間].", ["Before we decide, I'd want to check it against last year. It would take a day.", "Before we present, I'd want to validate the definition with finance. It would take an hour."]]
+ ],
+ "k": [
+  "stress-test は「厳しい前提で成り立つか試す」。ハイフンで動詞化。",
+  "検証の中身と所要時間まで言うと、先送りの提案が通りやすい。",
+  "I'd want to は控えめな希望。押しつけにならない。"
+ ]
+},
+"I'm not sure the data supports that conclusion.": {
+ "t": "そのデータがその結論を支えているか、確信が持てません。",
+ "tn": "人ではなくデータを主語にする、最も安全な反論の型です。",
+ "s": [
+  ["I'm not sure", "確信がないことを示す。後ろに that節が続きますが、that は省略されています。"],
+  ["the data supports that conclusion", "that節の中身。support は他動詞で前置詞を取りません。"]
+ ],
+ "sn": "I'm not sure が緩衝材になっています。The data does not support that conclusion. と言い切ると断定になり、反論が強く響きます。",
+ "v": [
+  ["support", "下から支える。証拠が主張を支える関係を表します。"],
+  ["conclusion", "結論。draw a conclusion（結論を導く）、jump to a conclusion（早合点する）。"],
+  ["be not sure", "確信がない。I'm not convinced（納得していない）より、判断を保留している響きです。"]
+ ],
+ "n": [
+  ["I'm not sure the data supports that.", "確信がない。最もやわらかい反論。"],
+  ["The data doesn't support that.", "支えていない。断定で、強い反論です。"],
+  ["The data is consistent with that, but it doesn't prove it.", "整合はするが証明はしない。最も正確な言い方です。"],
+  ["That's one reading of the data.", "ひとつの解釈にすぎない。別解の存在を示唆します。"]
+ ],
+ "nn": "The data is consistent with that, but it doesn't prove it. は、相関と因果を分けて述べる正確な言い方です。分析の議論では最も誤解が少なくなります。",
+ "e": [
+  ["I'm not sure the data supports that conclusion — the two groups differ in tenure as well as in pay.", "そのデータがその結論を支えているか確信が持てません。2つの集団は報酬だけでなく勤続年数も異なります。"],
+  ["I'm not sure the survey supports that. It asked about intent, not behavior.", "その調査がそれを支えているか確信が持てません。質問は行動ではなく意向についてでした。"]
+ ],
+ "p": [
+  ["I'm not sure [証拠] supports [結論].", ["I'm not sure the pilot supports a full rollout.", "I'm not sure the benchmark supports that target."]],
+  ["[証拠] is consistent with [結論], but it doesn't prove it. [必要な検証].", ["The timing is consistent with that, but it doesn't prove it. We'd need a control group.", "The numbers fit, but they don't prove causation. We'd need the pre-period."]]
+ ],
+ "k": [
+  "主語をデータにすると、反論が人への否定にならない。",
+  "I'm not sure が緩衝材になる。断定を避けられる。",
+  "「整合する」と「証明する」を分けて言うと、最も正確。"
+ ]
+},
+"Let me offer a different read of the same numbers.": {
+ "t": "同じ数字について別の解釈を提示させてください。",
+ "tn": "事実は認めて解釈だけを争う型です。相手の面子を潰さずに議論の中身を動かせます。",
+ "s": [
+  ["Let me offer ~", "Let + me + 原形 offer。"],
+  ["a different read", "目的語。read が名詞で「解釈」。"],
+  ["of the same numbers", "of が「何についての解釈か」を示します。the same が「同じ数字に対して」と明示しています。"]
+ ],
+ "sn": "the same numbers がこの型の核です。数字そのものは争わないと宣言することで、議論が解釈の一点に絞られます。",
+ "v": [
+  ["read", "名詞で「解釈・読み」。my read is that ... と同じ用法です。可算名詞として a different read の形を取ります。"],
+  ["offer", "差し出す。押しつけずに提示できます。"],
+  ["the same numbers", "同じ数字。事実の共有を先に確認する働きがあります。"]
+ ],
+ "n": [
+  ["a different read", "別の解釈。数字は争いません。"],
+  ["a different interpretation", "ほぼ同義。ややかたい言い方です。"],
+  ["another way to look at it", "別の見方。最も口語的です。"],
+  ["the same data, a different story", "同じデータ、別の筋書き。印象的な言い方です。"]
+ ],
+ "e": [
+  ["Let me offer a different read of the same numbers: the drop is concentrated in one cohort, so the average hides it.", "同じ数字について別の解釈を提示させてください。低下は1つのコホートに集中しているため、平均では見えません。"],
+  ["Let me offer a different read of the survey: the low scores come from the newest hires, which is a different problem.", "調査について別の解釈を提示させてください。低いスコアは新規入社者からのもので、これは別の問題です。"]
+ ],
+ "p": [
+  ["Let me offer a different read of [対象].", ["Let me offer a different read of the attrition curve.", "Let me offer a different read of what the client said."]],
+  ["Same [data], different [read]: [解釈].", ["Same numbers, different read: this is a mix effect, not a rate effect.", "Same finding, different conclusion: it argues for fixing the process, not the people."]]
+ ],
+ "k": [
+  "read は名詞で「解釈」。a different read の形で使う。",
+  "the same numbers と言って事実を共有してから、解釈だけを争う。",
+  "offer は押しつけない提示。相手の面子を保てる。"
+ ]
+},
+"That was true last year, but the market has moved.": {
+ "t": "昨年は正しかったですが、市場は変わっています。",
+ "tn": "相手を否定せず、前提の陳腐化を指摘する型です。角が立ちません。",
+ "s": [
+  ["That was true last year,", "過去形。過去のある時点では正しかったと認めています。"],
+  ["but the market has moved", "現在完了形。過去に起きた変化がいまも効いていることを表します。"]
+ ],
+ "sn": "時制の対比がこの文の仕組みです。前半が過去形（当時は正しかった）、後半が現在完了形（その後に変化が起き、いまも続いている）。この組み合わせで「あなたは間違っていない、状況が変わった」と伝えられます。",
+ "v": [
+  ["move", "ここでは自動詞で「動く・変化する」。the market has moved は「市場の状況が変わった」。The goalposts have moved.（前提が変わった）も同じ用法です。"],
+  ["true", "正しい。be true of A（Aについて当てはまる）、hold true（引き続き成り立つ）。"],
+  ["has moved", "現在完了。変化の結果がいまも残っていることを示します。"]
+ ],
+ "n": [
+  ["That was true last year, but ...", "過去の正しさを認めてから更新する。角が立ちません。"],
+  ["That no longer holds.", "もう成り立たない。断定で、やや強い言い方です。"],
+  ["The picture has changed since then.", "状況が変わった。中立です。"],
+  ["I'd update that view.", "見解を更新したい。やわらかい言い方です。"]
+ ],
+ "e": [
+  ["That was true last year, but the market has moved — three of the five competitors have since repriced.", "昨年は正しかったですが、市場は変わっています。競合5社のうち3社がその後に価格を見直しました。"],
+  ["That was true before the reorganization, but the reporting lines have moved since.", "組織再編の前はそうでしたが、その後レポートラインが変わっています。"]
+ ],
+ "p": [
+  ["That was true [いつ], but [何が変わったか].", ["That was true in 2024, but the regulation has changed.", "That was true at the pilot stage, but the scale is different now."]],
+  ["That [was / used to be] true. What's changed is [変化].", ["That used to be true. What's changed is the cost of capital.", "That was true. What's changed is that two of the three suppliers exited."]]
+ ],
+ "k": [
+  "過去形（当時は正しい）+ 現在完了（その後の変化が続く）の組み合わせ。",
+  "相手を否定せず、前提の陳腐化だけを指摘できる。",
+  "何が変わったかを具体的に示す。"
+ ]
+},
+"I'd worry that we're generalising from one case.": {
+ "t": "1つの事例から一般化していないか懸念します。",
+ "tn": "論理の飛躍を穏やかに指摘する型です。I'd worry が緩衝材になります。",
+ "s": [
+  ["I'd worry that ~", "I would worry で「懸念することになると思う」。直接 I worry と言うより一段やわらかくなります。"],
+  ["we're generalising from one case", "現在進行形。「いままさにそうしつつある」。主語を we にして共同の問題として扱っています。"]
+ ],
+ "v": [
+  ["generalise", "一般化する。from が「何から」を示します（generalise from a sample）。英国式の綴りで、米国式は generalize です。どちらも正しい綴りです。"],
+  ["case", "事例。a single case（単一事例）、a case study（事例研究）。"],
+  ["I'd worry", "懸念を表す控えめな形。I'm worried（すでに心配している）より距離があります。"]
+ ],
+ "n": [
+  ["I'd worry that ...", "懸念を控えめに出す。論理の指摘に向きます。"],
+  ["My concern is that ...", "懸念がある。より直接的です。"],
+  ["That might not generalise.", "一般化できないかもしれない。事柄を主語にします。"],
+  ["Is that representative?", "代表性があるかを問う。最も短い指摘です。"]
+ ],
+ "e": [
+  ["I'd worry that we're generalising from one case — the Osaka pilot had a dedicated project manager, which the others won't.", "1つの事例から一般化していないか懸念します。大阪のパイロットには専任のプロジェクトマネジャーがいましたが、他拠点にはいません。"],
+  ["I'd worry that we're reading too much into a single quarter.", "1四半期の結果を読み込みすぎていないか懸念します。"]
+ ],
+ "p": [
+  ["I'd worry that we're [論理上のリスク].", ["I'd worry that we're confusing correlation with causation.", "I'd worry that we're solving for the loudest complaint."]],
+  ["I'd worry that [懸念]. [具体的な根拠].", ["I'd worry that the sample is self-selected — people who stayed were the ones who answered.", "I'd worry that the comparison is not like-for-like — the periods differ."]]
+ ],
+ "k": [
+  "I'd worry that ... は懸念を控えめに出す緩衝表現。",
+  "generalise from ~。前置詞は from。",
+  "主語を we にすると、共同の問題として扱える。"
+ ]
+},
+"What's the evidence for that?": {
+ "t": "その根拠は何でしょうか。",
+ "tn": "短く強い問いです。詰問に聞こえないよう、口調を落として言います。",
+ "s": [
+  ["What's the evidence", "What is の短縮。the evidence が主語です。"],
+  ["for that", "for が「何を支持する根拠か」を示します。"]
+ ],
+ "v": [
+  ["evidence", "不可算名詞です。an evidence / evidences とは言いません。数えるときは a piece of evidence、two pieces of evidence とします。"],
+  ["for", "ここでは「〜を支持する」。evidence for A（Aを支持する証拠）、evidence of A（Aが存在する証拠）。意味が少し違います。"],
+  ["that", "直前の主張を受けます。"]
+ ],
+ "n": [
+  ["What's the evidence for that?", "根拠を問う。短く強い。"],
+  ["What's that based on?", "何に基づくかを問う。ややていねいです。"],
+  ["How do we know that?", "どう分かるのかを問う。共同の問いになります。"],
+  ["Where does that come from?", "出どころを問う。最もやわらかい言い方です。"]
+ ],
+ "nn": "4つとも同じことを問いますが、受け取られ方が違います。How do we know that? は主語が we なので、最も角が立ちません。",
+ "e": [
+  ["What's the evidence for that? I'd like to see it before we put it in the client note.", "その根拠は何でしょうか。クライアント向けの文書に入れる前に確認したいです。"],
+  ["What's the evidence for the 20% figure? Is it modeled or observed?", "20%という数字の根拠は何でしょうか。試算値でしょうか、実測値でしょうか。"]
+ ],
+ "p": [
+  ["What's the evidence for [主張]?", ["What's the evidence for the productivity gain?", "What's the evidence for that being the root cause?"]],
+  ["[根拠を問う形]? [限定や配慮].", ["How do we know that? I'm not challenging it, I just want the source.", "Where does that come from? It would help to cite it in the appendix."]]
+ ],
+ "k": [
+  "evidence は不可算。a piece of evidence と数える。",
+  "evidence for（支持する根拠）と evidence of（存在の証拠）は違う。",
+  "主語を we にする（How do we know?）と角が立たない。"
+ ]
+},
+"I hear you, but I'd land somewhere different.": {
+ "t": "おっしゃることは分かりますが、私は違う結論になります。",
+ "tn": "受け止めてから反対する型です。感情的な衝突を避けられます。",
+ "s": [
+  ["I hear you,", "直訳は「あなたの言うことが聞こえる」。実際には「理解した・受け止めた」という定型表現です。"],
+  ["but I'd land somewhere different", "but で逆接。land somewhere で「どこかに着地する」。somewhere different が「別の場所に」。"]
+ ],
+ "v": [
+  ["I hear you", "聞こえる、から「言いたいことは分かる」へ。同意ではなく受領の表明です。I hear you, but ... の形で、反対の前置きとして定着しています。"],
+  ["land", "着地する。検討の末に結論へ至ること。Where I land is that ... と同じ発想です。"],
+  ["somewhere different", "somewhere を形容詞が後ろから修飾する形です（something new、anywhere else も同じ語順）。"]
+ ],
+ "n": [
+  ["I hear you, but ...", "受け止めてから反対する。口語的。"],
+  ["I take your point, but ...", "指摘を受け止める。ややていねいです。"],
+  ["I understand the concern, but ...", "懸念を理解する。相手の感情に触れます。"],
+  ["Fair, but ...", "もっともだが。最も短い形です。"]
+ ],
+ "nn": "I hear you は同意ではありません。相手によっては「聞いたが納得していない」と受け取られることもあるため、必ず後ろに自分の結論を続けます。",
+ "e": [
+  ["I hear you, but I'd land somewhere different: I'd keep the current structure and change the incentives instead.", "おっしゃることは分かりますが、私は違う結論になります。現行の構造を維持し、代わりに評価の仕組みを変えます。"],
+  ["I hear you on the cost. I'd still land on option B, because the risk profile is different.", "費用の点は分かります。それでも私は案Bに落ち着きます。リスクの性質が違うからです。"]
+ ],
+ "p": [
+  ["I hear you, but I'd land somewhere different: [自分の結論].", ["I hear you, but I'd land somewhere different: phase it rather than pause it.", "I hear you, but I'd land somewhere different: fix the data first."]],
+  ["I hear you on [論点]. [自分の立場].", ["I hear you on the timeline. I'd still start in April.", "I hear you on the risk. I'd take it, with a review gate."]]
+ ],
+ "k": [
+  "I hear you は受領の表明であって同意ではない。必ず自分の結論を続ける。",
+  "somewhere different のように、somewhere は形容詞が後ろから修飾する。",
+  "受け止めてから反対すると、感情的な衝突を避けられる。"
+ ]
+},
+"There's a third option we haven't discussed.": {
+ "t": "まだ議論していない第3の選択肢があります。",
+ "tn": "二者択一の議論を壊す型です。反対ではなく貢献として受け取られます。",
+ "s": [
+  ["There's a third option", "There is の短縮。存在を示す構文で、新しい情報を場に出すのに適しています。"],
+  ["we haven't discussed", "option を修飾する関係詞節。目的格の関係代名詞が省略されています。現在完了形で「これまで議論していない」。"]
+ ],
+ "sn": "There is 構文は、聞き手がまだ知らないものを導入するための形です。The third option is ... と定冠詞で始めると、既に知られている前提になってしまいます。",
+ "v": [
+  ["option", "選択肢。a third option は「3つ目の」で、2つしかないと思われていた前提を崩します。"],
+  ["discuss", "他動詞。discuss about とは言いません。"],
+  ["haven't discussed", "現在完了の否定。「これまで一度も」という含みがあります。"]
+ ],
+ "n": [
+  ["There's a third option.", "選択肢を増やす。貢献として受け取られます。"],
+  ["It doesn't have to be either-or.", "二者択一である必要はない。枠組みを問い直します。"],
+  ["Can we combine the two?", "2つを組み合わせられないか。統合の提案です。"],
+  ["What about a middle path?", "中間案はどうか。妥協案の提示です。"]
+ ],
+ "e": [
+  ["There's a third option we haven't discussed: keep the current vendor for one year and run the build in parallel.", "まだ議論していない第3の選択肢があります。現行ベンダーを1年継続しつつ、並行して自社開発を進めることです。"],
+  ["There's a third option we haven't discussed — do nothing this year and revisit after the merger closes.", "まだ議論していない第3の選択肢があります。今年は動かず、合併完了後に再検討することです。"]
+ ],
+ "p": [
+  ["There's a third option we haven't discussed: [選択肢].", ["There's a third option we haven't discussed: outsource only the first-line support.", "There's a third option we haven't considered: pilot in two regions, not one."]],
+  ["It doesn't have to be [A] or [B]. [第3案].", ["It doesn't have to be build or buy. We could buy and extend.", "It doesn't have to be now or never. We could stage it."]]
+ ],
+ "k": [
+  "There is 構文は、聞き手が知らないものを場に出す形。",
+  "discuss は他動詞。discuss about とは言わない。",
+  "選択肢を増やす提案は、反対ではなく貢献として受け取られる。"
+ ]
+},
+"I'd be careful about drawing that conclusion yet.": {
+ "t": "その結論を出すのはまだ慎重であるべきだと思います。",
+ "tn": "結論を急ぐ場を止める型です。理由を1つ添えると通りやすくなります。",
+ "s": [
+  ["I'd be careful about ~", "be careful about A で「Aについて慎重である」。about の後ろは名詞か動名詞です。"],
+  ["drawing that conclusion", "動名詞。draw a conclusion で「結論を導く」。"],
+  ["yet", "「まだ」。この段階では、という時間の限定を加えます。"]
+ ],
+ "sn": "yet が重要です。これがないと「結論を出すべきではない」という恒久的な反対に聞こえます。yet を入れることで「いまはまだ」という一時的な留保になります。",
+ "v": [
+  ["draw a conclusion", "draw は「引き出す」。材料から結論を引き出すイメージです。jump to a conclusion（飛びつく）は早合点を指します。"],
+  ["be careful about ~", "about の後ろは名詞か動名詞。be careful to do（〜するよう気をつける）とは形が違います。"],
+  ["yet", "否定文・疑問文では「まだ」。肯定文に使うと「それでも」の意味になることもあります。"]
+ ],
+ "n": [
+  ["I'd be careful about ... yet.", "いまはまだ慎重に。一時的な留保です。"],
+  ["It's too early to say.", "まだ言うには早い。より断定的です。"],
+  ["Let's wait for the Q2 data.", "待とうという具体的な提案です。"],
+  ["I wouldn't bank on that.", "それを当てにしない方がよい。口語的で強めです。"]
+ ],
+ "e": [
+  ["I'd be careful about drawing that conclusion yet — we only have six weeks of data, and the first two were setup.", "その結論を出すのはまだ慎重であるべきです。データは6週間分しかなく、最初の2週間は立ち上げ期間でした。"],
+  ["I'd be careful about committing the budget yet. The scope is still moving.", "予算を確定させるのはまだ慎重であるべきです。範囲がまだ動いています。"]
+ ],
+ "p": [
+  ["I'd be careful about [行動] yet.", ["I'd be careful about announcing that yet.", "I'd be careful about scaling it yet."]],
+  ["I'd be careful about [行動] yet — [理由]. [いつなら言えるか].", ["I'd be careful about that yet — the audit closes next week. We'd know by Friday.", "I'd be careful about committing yet — we are waiting on two of five responses."]]
+ ],
+ "k": [
+  "yet を入れると「いまはまだ」という一時的な留保になる。",
+  "be careful about + 動名詞（be careful to do とは形が違う）。",
+  "理由と「いつなら言えるか」をセットで出すと通りやすい。"
+ ]
+},
+"That solves the symptom, but not the cause.": {
+ "t": "それは症状には効きますが、原因には効きません。",
+ "tn": "施策の限界を一文で示す型です。代案とセットで出すと建設的になります。",
+ "s": [
+  ["That solves the symptom,", "S + V + O。"],
+  ["but not the cause", "but not の省略形。That does not solve the cause の繰り返しを避けています。"]
+ ],
+ "v": [
+  ["symptom", "症状。表に現れた現象。医学由来で、root cause（根本原因）と対で使われます。"],
+  ["cause", "原因。the root cause（根本原因）、the underlying cause（背後にある原因）。"],
+  ["solve", "解決する。solve a problem が基本形です。solve for X は数学由来で「Xを求める」から「Xを目的に設計する」の意味でも使われます。"]
+ ],
+ "n": [
+  ["symptom / cause", "症状と原因。最も一般的な対。"],
+  ["root cause", "根本原因。原因の連鎖をさかのぼった先。"],
+  ["workaround", "回避策。原因は残したまま運用で逃げる方法です。"],
+  ["band-aid", "応急処置。一時しのぎだという批判の含みがあります。"]
+ ],
+ "nn": "workaround は中立で、意図的に選ぶこともあります。band-aid は批判的な響きがあるので、相手の案を評する場面では避けた方が安全です。",
+ "e": [
+  ["That solves the symptom, but not the cause — adding reviewers clears the backlog, but the backlog comes from unclear criteria.", "それは症状には効きますが原因には効きません。査定者を増やせば滞留は解消しますが、滞留の原因は基準の不明確さです。"],
+  ["A retention bonus solves the symptom. The cause is that nobody sees a path to the next level.", "定着ボーナスは症状に効きます。原因は、次の等級への道筋が見えないことです。"]
+ ],
+ "p": [
+  ["That solves [the symptom], but not [the cause].", ["That solves the backlog, but not the intake.", "That solves this quarter, but not the structural gap."]],
+  ["That solves [A], but not [B]. To address [B], we'd need [代案].", ["That solves the delay, but not the quality issue. To address that, we'd need to change the review criteria.", "That solves the cost, but not the capability. For capability, we'd need to hire differently."]]
+ ],
+ "k": [
+  "but not + 名詞 で、前半の動詞を引き継いで省略できる。",
+  "symptom / cause / root cause を言葉で区別する。",
+  "限界を指摘したら、代案をセットで出す。"
+ ]
+},
+"Can I test that with a counter-example?": {
+ "t": "反例で検証してもよいでしょうか。",
+ "tn": "許可を取ってから反証を出す型です。攻撃の色が消えます。",
+ "s": [
+  ["Can I test that", "許可を求める疑問文。that は相手の主張を受けます。"],
+  ["with a counter-example", "手段の with。「反例を使って」。"]
+ ],
+ "v": [
+  ["counter-example", "counter-（対する）+ example。主張が成り立たない事例のこと。1件示せば一般化を崩せるため、論理的に強い道具です。"],
+  ["test", "検証する。相手の主張を試す、という中立な言い方です。"],
+  ["with", "手段の with。道具や材料を示します。"]
+ ],
+ "n": [
+  ["Can I test that with a counter-example?", "反例で検証する。論理的で角が立ちません。"],
+  ["Does that hold for X?", "特定のケースで成り立つかを問う。より短い形です。"],
+  ["What about the case of X?", "Xの場合はどうか。最も口語的です。"],
+  ["I can think of one exception.", "例外を1つ思いつく。断定して足します。"]
+ ],
+ "e": [
+  ["Can I test that with a counter-example? The Nagoya team has the same pay bands and half the attrition.", "反例で検証してもよいでしょうか。名古屋のチームは同じ報酬レンジで、離職率は半分です。"],
+  ["Can I test that with a counter-example? We ran a similar pilot in 2023 and adoption stalled at 30%.", "反例で検証してもよいでしょうか。2023年に同様のパイロットを実施し、導入率は30%で止まりました。"]
+ ],
+ "p": [
+  ["Can I test that with a counter-example? [反例]", ["Can I test that with a counter-example? The same approach failed in the UK entity.", "Can I test that with one case? Our largest client already does the opposite."]],
+  ["Does that hold for [ケース]?", ["Does that hold for the regulated entities?", "Does that hold for teams under ten people?"]]
+ ],
+ "k": [
+  "反例は1件で一般化を崩せる、論理的に強い道具。",
+  "許可を取ってから出すと、攻撃の色が消える。",
+  "手段の with（with a counter-example）。"
+ ]
+},
+"I'd rather we didn't decide that today.": {
+ "t": "その件は本日決めない方がよいと考えます。",
+ "tn": "決定の先送りを提案する型です。必ず、何の情報が欠けているのかを具体的に示します。",
+ "s": [
+  ["I'd rather ~", "would rather で「むしろ〜したい」。"],
+  ["we didn't decide that today", "would rather の後ろに主語が来るときは、動詞を過去形にします（仮定法）。意味は現在・未来のことです。"]
+ ],
+ "sn": "would rather の2つの形を区別します。主語が同じなら原形（I'd rather wait.）、主語が違うなら過去形の節（I'd rather we waited.）。ここは we という別の主語なので過去形です。",
+ "v": [
+  ["would rather", "「むしろ〜したい」。would prefer とほぼ同義ですが、would rather の方が口語的です。"],
+  ["decide", "決める。decide on A（Aに決める）、decide to do（〜することに決める）。"],
+  ["today", "本日。先送りの範囲を今日に限定することで、恒久的な反対ではないと示せます。"]
+ ],
+ "n": [
+  ["I'd rather we didn't decide today.", "今日は決めない方がよい。やわらかい提案です。"],
+  ["Can we hold the decision until Friday?", "金曜まで保留できるか。期限を示します。"],
+  ["I'm not ready to sign off on that.", "承認できる状態ではない。自分の立場を明示します。"],
+  ["Let's take this to the next meeting.", "次回に回そう。進行の提案です。"]
+ ],
+ "nn": "どれも使えますが、期限を示す Can we hold the decision until Friday? が最も通りやすい形です。先送りだけを提案すると、判断の回避と受け取られることがあります。",
+ "e": [
+  ["I'd rather we didn't decide that today — we are missing the Q4 actuals, which arrive on Thursday.", "その件は本日決めない方がよいと考えます。第4四半期の実績が未着で、木曜に届きます。"],
+  ["I'd rather we didn't commit the headcount today. Two of the five role descriptions are still open.", "人員の確定は本日見送る方がよいと考えます。5件の職務記述のうち2件が未確定です。"]
+ ],
+ "p": [
+  ["I'd rather we didn't [行動] today.", ["I'd rather we didn't announce it today.", "I'd rather we didn't lock the scope today."]],
+  ["I'd rather we didn't [行動] yet — we're missing [情報], which arrives [いつ].", ["I'd rather we didn't decide yet — we're missing the audit result, which lands Monday.", "I'd rather we didn't sign yet — we're missing legal's view, which comes this week."]]
+ ],
+ "k": [
+  "would rather + 原形（主語が同じ）/ would rather + 主語 + 過去形（主語が違う）。",
+  "today や yet で範囲を限定すると、恒久的な反対に聞こえない。",
+  "欠けている情報と到着時期を示すと、先送りが通りやすい。"
+ ]
+}
+}
